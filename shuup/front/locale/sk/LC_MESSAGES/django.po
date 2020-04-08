@@ -19,17 +19,17 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 msgid "Abandoned Cart Value"
-msgstr ""
+msgstr "Hodnota opusteného nákupného košíka"
 
 #, python-brace-format
 msgid "Based on {b} carts over the last {d} days"
 msgstr ""
 
 msgid "Carts"
-msgstr ""
+msgstr "Nákupné košíky"
 
 msgid "Show carts"
-msgstr ""
+msgstr "Zobraziť nákupné košíky"
 
 msgid "Cart Inactivity Delay (hours)"
 msgstr ""
@@ -37,7 +37,7 @@ msgstr ""
 msgid ""
 "Set the number of hours the cart must be inactive before it's displayed in "
 "Orders > Carts"
-msgstr ""
+msgstr "Zadajte počet hodín, koľko musí byť nákupný košík neaktívny, aby bol zobrazený v Objednávky > Košíky"
 
 msgid "Created on"
 msgstr "Vytvorené"
@@ -46,16 +46,16 @@ msgid "Last updated on"
 msgstr "Upravené"
 
 msgid "Abandoned"
-msgstr ""
+msgstr "Opustený"
 
 msgid "yes"
-msgstr ""
+msgstr "áné"
 
 msgid "no"
-msgstr ""
+msgstr "nie"
 
 msgid "Shop"
-msgstr ""
+msgstr "Obchod"
 
 msgid "Product count"
 msgstr "Počet produktov"
@@ -79,301 +79,303 @@ msgid "Whether to require the shipping method in checkout phases."
 msgstr ""
 
 msgid "Require payment method"
-msgstr ""
+msgstr "Vyžaduje spôsob platby"
 
 msgid "Whether to require the payment method in checkout phases."
 msgstr ""
 
 msgid "Registration Settings"
-msgstr ""
+msgstr "Nastavenia registrácie"
 
 msgid "Allow company registration"
-msgstr ""
+msgstr "Povoliť registráciu firmy"
 
 msgid "If you select this, companies can register into your store."
-msgstr ""
+msgstr "Ak toto vyberiete, do vášho obchodu sa budú môcť zaregistrovať firmy."
 
 msgid "Company registration requires approval"
-msgstr ""
+msgstr "Zaregistrovanie firmy si vyžaduje schválenie."
 
 msgid ""
 "Registered companies must be manually approved by admin if this is checked. "
 "This option has no effect if company registration is not allowed on your "
 "site."
-msgstr ""
+msgstr "Ak je toto zvolené, registrované firmy musia byť manuálne schválené administrátorom."
 
 msgid "Company tax number validation"
-msgstr ""
+msgstr "OVerenie firemného čísla IČO."
 
 msgid "Company tax number format is validated for European countries."
-msgstr ""
+msgstr "Formát čísla IČO firmy je pre európske krajiny schválený."
 
 msgid "Override shop's default configuration"
-msgstr ""
+msgstr "Preskočiť predvolené nastavenia obchodu."
 
 msgid ""
 "If checked, this configuration will be used instead of the shop's default "
 "configuration."
-msgstr ""
+msgstr "Ak toto zvolíte, toto nastavenie bude použité namiesto predvoleného nastavenia obchodu."
 
 msgid "Available languages in storefront"
-msgstr ""
+msgstr "Dostupné jazyky obchodu."
 
 msgid ""
 "Select all the languages that should be available in storefront. Blank means "
 "that all languages should be available."
-msgstr ""
+msgstr "Vyberte jazyky, ktoré chcete, aby boli v obchode dostupné. Nevyplnené znamená, že budú dostupné všetky jazyky."
 
 #, python-format
 msgid "Basket loading failed: Incompatible basket (%s)"
-msgstr ""
+msgstr "Načítanie košíka zlyhalo: Nekompatibilný košík."
 
 msgid "Try to remove some products from the basket and order them separately."
-msgstr ""
+msgstr "Skúste z košíka odobrať niektoré produkty a objednať ich samostatne."
 
 #, python-format
 msgid "Products in basket cannot be shipped together. %s"
-msgstr ""
+msgstr "Produkty v košíku nie je možné doručiť spolu."
 
 #, python-format
 msgid "Products in basket have no common payment method. %s"
-msgstr ""
+msgstr "Produkty v košíku nemajú spoločný spôsob platby."
 
 msgid "Tax number is required with the company name."
-msgstr ""
+msgstr "Spolu s názvom firmy je požadované aj číslo IČO."
 
 msgid "Company name is required with the tax number."
-msgstr ""
+msgstr "Názov firmy je požadovaný spolu s číslom IČO."
 
 msgid "Use a saved address"
-msgstr ""
+msgstr "Použiť uloženú adresu"
 
 msgid "Addresses"
-msgstr ""
+msgstr "Adresy"
 
 msgid "Checkout as Guest"
-msgstr ""
+msgstr "Prihlásiť ako hosťa"
 
 msgid "Register"
-msgstr ""
+msgstr "Registrovať"
 
 msgid "Register with us for future convenience"
-msgstr ""
+msgstr "Zaregistrujte sa u nás pre budúce výhody."
 
 msgid "Checkout Method Choice"
-msgstr ""
+msgstr "Výber spôsobu platby."
 
 msgid "I accept the terms and conditions"
-msgstr ""
+msgstr "Súlasím s podmienkami."
 
 msgid "I want to receive marketing material"
-msgstr ""
+msgstr "Nechcem dostávať reklamný obsah"
 
 msgid "Comment"
-msgstr ""
+msgstr "Komentovať"
 
 msgid ""
 "There has been a change in product availability. Please review your cart and "
 "reconfirm your order."
-msgstr ""
+msgstr "Nastala zmena dostupnosti produktu. Prosím, skontrolujte si košík a opätovne potvrďte svoju objednávku."
 
 msgid "Confirmation"
-msgstr ""
+msgstr "Potvrdenie"
 
 msgid "Empty Basket"
-msgstr ""
+msgstr "Vyprázdniť košík"
 
 msgid "shipping method"
-msgstr ""
+msgstr "spôsob dopravy"
 
 msgid "payment method"
-msgstr ""
+msgstr "spôsob platby"
 
 msgid "Shipping & Payment"
-msgstr ""
+msgstr "Doručenie a platba"
 
 msgid "Sort products by name"
-msgstr ""
+msgstr "Triediť produkty podľa názvu"
 
 msgid "Ordering for sort by name"
-msgstr ""
+msgstr "Zoradenie podľa názvu"
 
 msgid "Sort"
-msgstr ""
+msgstr "Triediť"
 
 msgid "Name - A-Z"
-msgstr ""
+msgstr "Názov - A-Z"
 
 msgid "Name - Z-A"
-msgstr ""
+msgstr "Názov - Z-A"
 
 msgid "Check this to allow products to be sortable by product name."
-msgstr ""
+msgstr "Začiarknite, ak má byť možné triediť produkty podľa názvu."
 
 msgid ""
 "Use a numeric value to set the order in which the the filter will appear on "
 "the product listing page."
-msgstr ""
+msgstr "Zadajte číselnú hodnotu na určenie poradia, v ktorom sa bude filter zobrazovať v zozname produktov."
 
 msgid "Sort products by price"
-msgstr ""
+msgstr "Triediť produkty podľa ceny"
 
 msgid "Ordering for sort by price"
-msgstr ""
+msgstr "Zoradenie podľa ceny"
 
 msgid "Price - Low to High"
-msgstr ""
+msgstr "Cena - od najnižšej po najvyššiu"
 
 msgid "Price - High to Low"
-msgstr ""
+msgstr "Cena - od najvyššej po najnižšiu"
 
 msgid ""
 "Check this to allow products to be sortable by price (from low to high and "
 "high to low)."
-msgstr ""
+msgstr "Začiarknite, ak chcete, aby bolo možné produkty triediť podľa ceny (od najnižšej po najvyššiu a od najvyššej po najnižšiu)."
 
 msgid "Sort products by date created"
-msgstr ""
+msgstr "Triediť produkty podľa dátumu vytvorenia"
 
 msgid "Ordering for sort by date created"
-msgstr ""
+msgstr "Zoradenie podľa dátumu vytvorenia"
 
 msgid "Date created"
-msgstr ""
+msgstr "Dátum vytvorenia"
 
 msgid ""
 "Check this to allow products to be sortable from newest to oldest products."
-msgstr ""
+msgstr "Začiarknite, ak chcete aby bolo možné produkty triediť od najnovších po najstaršie."
 
 msgid ""
 "Use a numeric value to set the order in which the filter will appear on the "
 "product listing page."
-msgstr ""
+msgstr "Určite číslenú hodnotu na určenie poradia, v ktorom sa bude filter zobrazovať v zozname produktov."
 
 msgid "Sort products by date created - oldest first"
-msgstr ""
+msgstr "Triediť produkty podľa dátumu vytvorenia - od najstarších"
 
 msgid "Ordering for sort by date created - oldest first"
-msgstr ""
+msgstr "Zoradenie podľa dátumu vytvorenia - od najstarších"
 
 msgid "Date created - oldest first"
-msgstr ""
+msgstr "Dátum vytvorenia - od najstarších"
 
 msgid ""
 "Check this to allow products to be sortable from oldest to newest products."
-msgstr ""
+msgstr "Začiarknite, ak chcete, aby bolo možné produkty triediť od najstarších po najnovšie."
 
 msgid "Filter products by manufacturer"
-msgstr ""
+msgstr "Filtrovať produkty podľa výrobcu"
 
 msgid "Ordering for filter by manufacturer"
-msgstr ""
+msgstr "Zoradenie podľa výrobcu."
 
 msgid "Manufacturers"
-msgstr ""
+msgstr "Výrobca"
 
 msgid ""
 "Check this to allow products to be filterable by manufacturer for this "
 "category."
-msgstr ""
+msgstr "Začiarknite, ak chcete, aby bolo pre túto kategóriu možné triediť produkty podľa výrobcu."
 
 msgid ""
 "Use a numeric value to set the order in which the manufacturer filters will "
 "appear on the product listing page."
-msgstr ""
+msgstr "Určite číslenú hodnotu na určenie poradia, v ktorom sa bude filter výrobcu zobrazovať v zozname produktov."
 
 msgid "Filter products by category"
-msgstr ""
+msgstr "Filtrovať produkty podľa kategórie"
 
 msgid "Ordering for filter by category"
-msgstr ""
+msgstr "Zoradenie podľa kategórie"
 
 msgid "Categories"
-msgstr ""
+msgstr "Kategórie"
 
 msgid ""
 "Check this to allow products to be filterable by any visible product "
 "category. "
-msgstr ""
+msgstr "Začiarknite, ak chcete, aby bolo možné filtrovať produkty podľa každej zobrazenej kategórie."
 
 msgid ""
 "Use a numeric value to set the order in which the category list filters will "
 "appear on the product listing page."
-msgstr ""
+msgstr "Určite číselnú hodnotu na určenie poradia, v ktorom sa bude filter kategórií zobrazovať v zozname produktov."
 
 msgid "Limit page size"
-msgstr ""
+msgstr "Limit stránky"
 
 msgid "Ordering for limit page size"
-msgstr ""
+msgstr "Zoradenie podľa limitu stránky"
 
 msgid "Products per page"
-msgstr ""
+msgstr "Produktov na stranu"
 
 msgid ""
 "Check this to allow the customer to be able to select the number of products "
 "to display."
-msgstr ""
+msgstr "Začiarknite, ak chcete, aby zákazník mohol určiť počet produktov na zobrazenie."
 
 msgid ""
 "Use a numeric value to set the order in which the page size filter will "
 "appear on the product listing page."
-msgstr ""
+msgstr "Určite číselnú hodnotu na určenie poradia, v ktorom sa bude filter veľkosti stránky zobrazovať v zozname produktov."
 
 msgid "Filter products by variation"
-msgstr ""
+msgstr "Filtrovať produkty podľa variantu"
 
 msgid "Ordering for filter by variation"
-msgstr ""
+msgstr "Zoradenie podľa variantu"
 
 msgid ""
 "Check this to allow products to be filterable by their different variations. "
 "For example, size or color."
-msgstr ""
+msgstr "Začiarknite, ak chcete, aby bolo možné filtrovať produkty podľa rôznych variantov. Napr. podľa veľkosť alebo farba."
 
 msgid ""
 "Use a numeric value to set the order in which the variation filters will "
 "appear on the product listing page."
-msgstr ""
+msgstr "Určite číselnú hodnotu na určenie poradia, v ktorom sa bude filter variantu zobrazovať v zozname produktov."
 
 msgid "Filter products by price"
-msgstr ""
+msgstr "Filtrovať produkty podľa ceny"
 
 msgid "Ordering for filter by price"
-msgstr ""
+msgstr "Zoradnie podľa ceny"
 
 msgid "Price"
-msgstr ""
+msgstr "Cena"
 
 msgid ""
 "Check this to allow products to be filtered by price. Prices will be listed "
 "in groups from the price range minimum to price range maximum in increments "
 "of the configured price range step."
-msgstr ""
+msgstr "Začiarknite, ak chcete, aby bolo možné filtrovať produkty podľa ceny. "
+"Ceny budú uvedené v skupinách od minimálneho cenového rozpätia po maximálne cenové rozpätie "
+"v násobkoch hodnoty nakonfigurovaného cenového rozpätia.“
 
 msgid ""
 "Use a numeric value to set the order in which the price range filters will "
 "appear on the product listing page."
-msgstr ""
+msgstr "Použite číslenú hodnotu na určenie poradia, v ktorom sa bude filter cenového rozpätia zobrazovať v zozname produktov"
 
 msgid "Price range minimum"
-msgstr ""
+msgstr "Minimálne cenové rozpätie"
 
 msgid ""
 "Set the minimum price for the filter. The first range will be from zero to "
 "this value."
-msgstr ""
+msgstr "Určite minimálnu cenu filtra. Prvé rozpätie bude od nuly po túto hodnotu."
 
 msgid "Price range maximum"
-msgstr ""
+msgstr "Maximálne cenové rozpätie"
 
 msgid ""
 "Set the maximum price for the filter. The last range will include this value "
 "and above."
-msgstr ""
+msgstr "Určite maximálnu cenu filtra. Posledné rozpätie bude v tejto hodnote a vyššie."
 
 msgid "Price range step"
-msgstr ""
+msgstr "Násobok cenového "
 
 msgid ""
 "Set the price step for each range. Each range will increment by this value."
@@ -392,147 +394,147 @@ msgid "%(max_limit)s & Above"
 msgstr ""
 
 msgid "Filter products by supplier"
-msgstr ""
+msgstr "Filtrovať produkty podľa dodávateľa"
 
 msgid "Ordering for filter by supplier"
-msgstr ""
+msgstr "Zoradenie podľa dodávateľa"
 
 msgid "Suppliers"
-msgstr ""
+msgstr "Dodávatelia"
 
 msgid "Check this to allow products to be filterable by supplier."
-msgstr ""
+msgstr "Začiarknite, aby bolo možné filtrovať produkty podľa dodávateľa."
 
 msgid ""
 "Use a numeric value to set the order in which the supplier filters will "
 "appear."
-msgstr ""
+msgstr "Použite číslenú hodnotu na určenie poradia, v ktorom sa bude filter dodávateľa zobrazovať v zozname produktov."
 
 msgid "Allow multiselect suppliers"
-msgstr ""
+msgstr "Povoliť viacerých dodávateľov"
 
 msgid "Filter by multiple suppliers at a time."
-msgstr ""
+msgstr "Filtrovať podľa viacerých dodávateľov naraz."
 
 msgid "Logged out since this account is inactive."
-msgstr ""
+msgstr "Odhlásený, nakoľko účet je neaktívny."
 
 msgid "key"
-msgstr ""
+msgstr "kľúč"
 
 msgid "shop"
-msgstr ""
+msgstr "obchod"
 
 msgid "customer"
-msgstr ""
+msgstr "zákazník"
 
 msgid "orderer"
-msgstr ""
+msgstr "objednávateľ"
 
 msgid "creator"
-msgstr ""
+msgstr "výrobca"
 
 msgid "created on"
-msgstr ""
+msgstr "vyrobené"
 
 msgid "updated on"
-msgstr ""
+msgstr "aktualizované"
 
 msgid "persistent"
-msgstr ""
+msgstr "stály"
 
 msgid "deleted"
-msgstr ""
+msgstr "zmazaný"
 
 msgid "finished"
-msgstr ""
+msgstr "dokončený"
 
 msgid "title"
-msgstr ""
+msgstr "titul"
 
 msgid "data"
-msgstr ""
+msgstr "dáta"
 
 msgid "taxless total price"
-msgstr ""
+msgstr "suma celkom bez dane"
 
 msgid "taxful total price"
-msgstr ""
+msgstr "suma celkom s daňou"
 
 msgid "currency"
-msgstr ""
+msgstr "mena"
 
 msgid "prices include tax"
-msgstr ""
+msgstr "ceny zahŕňajú daň"
 
 msgid "product_count"
-msgstr ""
+msgstr "poradie_produktu"
 
 msgid "products"
-msgstr ""
+msgstr "produkty"
 
 msgid "stored basket"
-msgstr ""
+msgstr "uložený košík"
 
 msgid "stored baskets"
-msgstr ""
+msgstr "uložené košíky"
 
 msgid "Order Received"
-msgstr ""
+msgstr "doručená objednávka"
 
 msgid "Order"
-msgstr ""
+msgstr "Objednávka"
 
 msgid "Customer Email"
-msgstr ""
+msgstr "Email zákazníka"
 
 msgid "Customer Phone"
-msgstr ""
+msgstr "Telefónne číslo zákazníka"
 
 msgid "Shop Email"
-msgstr ""
+msgstr "Email predajcu"
 
 msgid "Shop Phone"
-msgstr ""
+msgstr "Telefónne číslo predajcu"
 
 msgid "Language"
-msgstr ""
+msgstr "Jazyk"
 
 msgid "Order Status Changed"
-msgstr ""
+msgstr "Stav objednávky zmenený"
 
 msgid "Old Status"
-msgstr ""
+msgstr "Starý stav"
 
 msgid "New Status"
-msgstr ""
+msgstr "Nový stav"
 
 msgid "Shipment Created"
-msgstr ""
+msgstr "Vytvorená zásielka"
 
 msgid "Shipment"
-msgstr ""
+msgstr "Doručenie"
 
 msgid "Order Shipping Status"
-msgstr ""
+msgstr "Stav doručovania objednávky"
 
 msgid "Shipment Status"
-msgstr ""
+msgstr "Stav zásielky"
 
 msgid "Shipment Deleted"
-msgstr ""
+msgstr "Zásielka vymazaná"
 
 msgid "Payment Created"
-msgstr ""
+msgstr "Vytvorená platba"
 
 msgid "Order Payment Status"
-msgstr ""
+msgstr "Stav platby objednávky"
 
 msgid "Payment"
-msgstr ""
+msgstr "Platba"
 
 msgid "Refund Created"
-msgstr ""
+msgstr "Vytvorené vrátenie peňazí"
 
 msgid ""
 "<p>Dear {{ order.customer }},</p>\n"
@@ -562,18 +564,18 @@ msgid ""
 msgstr ""
 
 msgid "Send Shipment Created Email"
-msgstr ""
+msgstr "Poslať email o vytvorení zásielky"
 
 msgid "Send an email to customer when a shipment is created."
-msgstr ""
+msgstr "Po vytvorení zásielky poslať email zákazníkovi. "
 
 msgid ""
 "This script will send an email to customer when a shipment of his order has "
 "been created."
-msgstr ""
+msgstr "Tento skript pošle zákazníkovi e-mail, keď bude vytvorená zásielka s jeho objednávkou.“
 
 msgid "{{ order.shop }} - Shipment created for order {{ order.identifier }}"
-msgstr ""
+msgstr "{{ order.shop }} - Vytvorená zásielka pre objednávku {{ order.identifier }}"
 
 msgid "Send Shipment Deleted Email"
 msgstr ""
