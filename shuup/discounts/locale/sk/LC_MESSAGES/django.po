@@ -1,0 +1,487 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-08 09:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: discounts/admin/mass_actions.py:23
+msgid "Archive Product Discounts"
+msgstr ""
+
+#: discounts/admin/mass_actions.py:33
+msgid "Unarchive Discounts"
+msgstr ""
+
+#: discounts/admin/mass_actions.py:43
+msgid "Delete Discounts"
+msgstr ""
+
+#: discounts/admin/modules/_coupon_codes.py:19
+#: discounts/admin/modules/_coupon_codes.py:39 discounts/modules.py:87
+msgid "Product Discounts Coupon Codes"
+msgstr ""
+
+#: discounts/admin/modules/_discounts.py:19 discounts/plugins.py:39
+msgid "Discounts"
+msgstr ""
+
+#: discounts/admin/modules/_discounts.py:45
+#: discounts/admin/views/_coupon_codes.py:62
+#: discounts/admin/views/_exceptions.py:66
+#: discounts/admin/views/_happy_hours.py:96 discounts/modules.py:23
+msgid "Product Discounts"
+msgstr ""
+
+#: discounts/admin/modules/_discounts.py:52
+#: discounts/admin/views/_archive.py:30
+msgid "Archived Product Discounts"
+msgstr ""
+
+#: discounts/admin/modules/_exceptions.py:19
+msgid "Discounts Availability Exceptions"
+msgstr ""
+
+#: discounts/admin/modules/_exceptions.py:39
+msgid "Product Discounts Availability Exceptions"
+msgstr ""
+
+#: discounts/admin/modules/_happy_hours.py:19
+msgid "Discounts Happy Hours"
+msgstr ""
+
+#: discounts/admin/modules/_happy_hours.py:39
+msgid "Product Discounts Happy Hours"
+msgstr ""
+
+#: discounts/admin/views/_active_list.py:28
+msgid "Discount Name"
+msgstr ""
+
+#: discounts/admin/views/_active_list.py:29
+#: discounts/admin/views/_exceptions.py:34
+#: discounts/admin/views/_happy_hours.py:37
+msgid "Filter by name..."
+msgstr ""
+
+#: discounts/admin/views/_active_list.py:32
+msgid "Product"
+msgstr ""
+
+#: discounts/admin/views/_active_list.py:33
+msgid "Filter by product..."
+msgstr ""
+
+#: discounts/admin/views/_active_list.py:36
+msgid "Category"
+msgstr ""
+
+#: discounts/admin/views/_active_list.py:38
+msgid "Filter by category..."
+msgstr ""
+
+#: discounts/admin/views/_active_list.py:41
+msgid "Contact Group"
+msgstr ""
+
+#: discounts/admin/views/_active_list.py:43
+msgid "Filter by contact group..."
+msgstr ""
+
+#: discounts/admin/views/_active_list.py:46
+msgid "Contact"
+msgstr ""
+
+#: discounts/admin/views/_active_list.py:47
+msgid "Filter by contact..."
+msgstr ""
+
+#: discounts/admin/views/_active_list.py:50
+msgid "Coupon code"
+msgstr ""
+
+#: discounts/admin/views/_active_list.py:51
+msgid "Filter by coupon code..."
+msgstr ""
+
+#: discounts/admin/views/_active_list.py:53
+msgid "Effect"
+msgstr ""
+
+#: discounts/admin/views/_active_list.py:55
+#: discounts/admin/views/_exceptions.py:40
+msgid "End Date and Time"
+msgstr ""
+
+#: discounts/admin/views/_coupon_codes.py:32
+msgid "Code"
+msgstr ""
+
+#: discounts/admin/views/_coupon_codes.py:35
+msgid "Usages"
+msgstr ""
+
+#: discounts/admin/views/_coupon_codes.py:36
+msgid "Usages Limit per contact"
+msgstr ""
+
+#: discounts/admin/views/_coupon_codes.py:37
+msgid "Usage Limit"
+msgstr ""
+
+#: discounts/admin/views/_coupon_codes.py:38
+msgid "Active"
+msgstr ""
+
+#: discounts/admin/views/_coupon_codes.py:39
+msgid "Created by"
+msgstr ""
+
+#: discounts/admin/views/_coupon_codes.py:40
+msgid "Date created"
+msgstr ""
+
+#: discounts/admin/views/_coupon_codes.py:63
+msgid "Select discounts linked to this coupon code."
+msgstr ""
+
+#: discounts/admin/views/_coupon_codes.py:116
+#: discounts/admin/views/_delete.py:29 discounts/admin/views/_exceptions.py:120
+#: discounts/admin/views/_happy_hours.py:178
+#, python-format
+msgid "%s has been deleted."
+msgstr ""
+
+#: discounts/admin/views/_edit.py:35
+msgid "Discount percentage"
+msgstr ""
+
+#: discounts/admin/views/_edit.py:36
+msgid "The discount percentage for this discount."
+msgstr ""
+
+#: discounts/admin/views/_exceptions.py:33
+msgid "Exception Name"
+msgstr ""
+
+#: discounts/admin/views/_exceptions.py:37
+msgid "Start Date and Time"
+msgstr ""
+
+#: discounts/admin/views/_exceptions.py:67
+msgid "Select discounts to be ignored on given time frame."
+msgstr ""
+
+#: discounts/admin/views/_happy_hours.py:36
+msgid "Happy Hour Name"
+msgstr ""
+
+#: discounts/admin/views/_happy_hours.py:97
+msgid "Select discounts for this happy hour."
+msgstr ""
+
+#: discounts/admin/views/_happy_hours.py:119
+msgid ""
+"12pm is considered noon and 12am as midnight. Start hour is included to the "
+"discount."
+msgstr ""
+
+#: discounts/admin/views/_happy_hours.py:120
+msgid ""
+"12pm is considered noon and 12am as midnight. End hours is included to the "
+"discount."
+msgstr ""
+
+#: discounts/admin/views/_happy_hours.py:121
+msgid "Weekdays the happy hour is active."
+msgstr ""
+
+#: discounts/models/_availability_exceptions.py:17
+#: discounts/models/_coupon_codes.py:35 discounts/models/_discounts.py:104
+#: discounts/models/_happy_hours.py:18
+msgid "shops"
+msgstr ""
+
+#: discounts/models/_availability_exceptions.py:19
+#: discounts/models/_discounts.py:92 discounts/models/_happy_hours.py:20
+msgid "name"
+msgstr ""
+
+#: discounts/models/_availability_exceptions.py:20
+msgid ""
+"The name for this exception. Used internally with exception lists for "
+"filtering."
+msgstr ""
+
+#: discounts/models/_availability_exceptions.py:21
+msgid "start"
+msgstr ""
+
+#: discounts/models/_availability_exceptions.py:22
+msgid "end"
+msgstr ""
+
+#: discounts/models/_availability_exceptions.py:28
+msgid "availability exception"
+msgstr ""
+
+#: discounts/models/_availability_exceptions.py:29
+#: discounts/models/_discounts.py:127
+msgid "availability exceptions"
+msgstr ""
+
+#: discounts/models/_coupon_codes.py:20 discounts/models/_coupon_codes.py:52
+#: discounts/models/_discounts.py:101
+msgid "created on"
+msgstr ""
+
+#: discounts/models/_coupon_codes.py:37
+msgid "usage limit per customer"
+msgstr ""
+
+#: discounts/models/_coupon_codes.py:38
+msgid "Limit the amount of usages per a single customer."
+msgstr ""
+
+#: discounts/models/_coupon_codes.py:40
+msgid "usage limit"
+msgstr ""
+
+#: discounts/models/_coupon_codes.py:41
+msgid ""
+"Set the absolute limit of usages for this coupon. If the limit is zero (0) "
+"coupon cannot be used."
+msgstr ""
+
+#: discounts/models/_coupon_codes.py:43 discounts/models/_discounts.py:110
+msgid "active"
+msgstr ""
+
+#: discounts/models/_coupon_codes.py:47 discounts/models/_discounts.py:97
+msgid "created by"
+msgstr ""
+
+#: discounts/models/_coupon_codes.py:50 discounts/models/_discounts.py:100
+msgid "modified by"
+msgstr ""
+
+#: discounts/models/_coupon_codes.py:53 discounts/models/_discounts.py:102
+msgid "modified on"
+msgstr ""
+
+#: discounts/models/_discounts.py:93
+msgid ""
+"The name for this discount. Used internally with discount lists for "
+"filtering."
+msgstr ""
+
+#: discounts/models/_discounts.py:107
+msgid "supplier"
+msgstr ""
+
+#: discounts/models/_discounts.py:107
+msgid "Select supplier for this discount."
+msgstr ""
+
+#: discounts/models/_discounts.py:111
+msgid ""
+"Check this if the discount is currently active. Please also set a start and "
+"end date."
+msgstr ""
+
+#: discounts/models/_discounts.py:113
+msgid "start date and time"
+msgstr ""
+
+#: discounts/models/_discounts.py:115
+msgid ""
+"The date and time the discount starts. This is only applicable if the "
+"discount is marked as active."
+msgstr ""
+
+#: discounts/models/_discounts.py:118
+msgid "end date and time"
+msgstr ""
+
+#: discounts/models/_discounts.py:120
+msgid ""
+"The date and time the discount ends. This is only applicable if the discount "
+"is marked as active."
+msgstr ""
+
+#: discounts/models/_discounts.py:123 discounts/models/_happy_hours.py:28
+msgid "happy hours"
+msgstr ""
+
+#: discounts/models/_discounts.py:124
+msgid "Select happy hours for this discount."
+msgstr ""
+
+#: discounts/models/_discounts.py:128
+msgid "Select availability for this discount."
+msgstr ""
+
+#: discounts/models/_discounts.py:132
+msgid "product"
+msgstr ""
+
+#: discounts/models/_discounts.py:133
+msgid "Select product for this discount."
+msgstr ""
+
+#: discounts/models/_discounts.py:135
+msgid "exclude selected category"
+msgstr ""
+
+#: discounts/models/_discounts.py:136
+msgid "Exclude products in selected category from this discount."
+msgstr ""
+
+#: discounts/models/_discounts.py:139
+msgid "category"
+msgstr ""
+
+#: discounts/models/_discounts.py:140
+msgid "Select category for this discount."
+msgstr ""
+
+#: discounts/models/_discounts.py:143
+msgid "contact"
+msgstr ""
+
+#: discounts/models/_discounts.py:144
+msgid "Select contact for this discount."
+msgstr ""
+
+#: discounts/models/_discounts.py:146
+msgid "exclude selected contact group"
+msgstr ""
+
+#: discounts/models/_discounts.py:147
+msgid "Exclude contacts in selected contact group from this discount."
+msgstr ""
+
+#: discounts/models/_discounts.py:150
+msgid "contact group"
+msgstr ""
+
+#: discounts/models/_discounts.py:151
+msgid "Select contact group for this discount."
+msgstr ""
+
+#: discounts/models/_discounts.py:154
+msgid "coupon code"
+msgstr ""
+
+#: discounts/models/_discounts.py:155
+msgid "Select coupon code for this discount."
+msgstr ""
+
+#: discounts/models/_discounts.py:158
+msgid "discounted price"
+msgstr ""
+
+#: discounts/models/_discounts.py:159
+msgid "Discounted product price for this discount."
+msgstr ""
+
+#: discounts/models/_discounts.py:161
+msgid "discount amount"
+msgstr ""
+
+#: discounts/models/_discounts.py:162
+msgid "Discount amount value for this discount."
+msgstr ""
+
+#: discounts/models/_discounts.py:165
+msgid "discount percentage"
+msgstr ""
+
+#: discounts/models/_discounts.py:166
+msgid "Discount percentage for this discount."
+msgstr ""
+
+#: discounts/models/_discounts.py:174
+msgid "product discount"
+msgstr ""
+
+#: discounts/models/_discounts.py:175
+msgid "product discounts"
+msgstr ""
+
+#: discounts/models/_happy_hours.py:21
+msgid "The name for this . Used internally with exception lists for filtering."
+msgstr ""
+
+#: discounts/models/_happy_hours.py:27 discounts/models/_happy_hours.py:33
+msgid "happy hour"
+msgstr ""
+
+#: discounts/models/_happy_hours.py:35
+msgid "parent"
+msgstr ""
+
+#: discounts/models/_happy_hours.py:36
+msgid "from hour"
+msgstr ""
+
+#: discounts/models/_happy_hours.py:37
+msgid "to hour"
+msgstr ""
+
+#: discounts/models/_happy_hours.py:38
+msgid "weekday"
+msgstr ""
+
+#: discounts/models/_happy_hours.py:44
+msgid "time range"
+msgstr ""
+
+#: discounts/models/_happy_hours.py:45
+msgid "time ranges"
+msgstr ""
+
+#: discounts/models/_happy_hours.py:50
+msgid "To hour has to be after from hour"
+msgstr ""
+
+#: discounts/plugins.py:41
+msgid ""
+"Select all discounts to render products from. Only active discounts that "
+"have product or category linked are available."
+msgstr ""
+
+#: discounts/plugins.py:60
+msgid "Discounted Products"
+msgstr ""
+
+#: discounts/plugins.py:64
+msgid "Title"
+msgstr ""
+
+#: discounts/plugins.py:65
+msgid "Count"
+msgstr ""
+
+#: discounts/plugins.py:67
+msgid "Only show in-stock and orderable items"
+msgstr ""
+
+#: discounts/plugins.py:69
+msgid ""
+"Warning: The final number of products can be lower than 'Count' as it will "
+"filter out unorderable products from a set of 'Count' products."
+msgstr ""

@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-08 09:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: importer/admin_module/__init__.py:18 importer/admin_module/__init__.py:43
+#: importer/templates/shuup/importer/admin/import.jinja:6
+msgid "Data Import"
+msgstr ""
+
+#: importer/admin_module/forms.py:18
+msgid "Import mode"
+msgstr ""
+
+#: importer/admin_module/forms.py:22
+msgid "Importing language"
+msgstr ""
+
+#: importer/admin_module/forms.py:23
+msgid "The language of the data you would like to import."
+msgstr ""
+
+#: importer/admin_module/forms.py:25
+msgid "Importer"
+msgstr ""
+
+#: importer/admin_module/forms.py:26
+msgid "Select a importer type matching the data you would like to import"
+msgstr ""
+
+#: importer/admin_module/forms.py:27
+msgid "File"
+msgstr ""
+
+#: importer/admin_module/import_views.py:46
+#, python-format
+msgid "%s is not a file"
+msgstr ""
+
+#: importer/admin_module/import_views.py:48
+msgid "File missing."
+msgstr ""
+
+#: importer/admin_module/import_views.py:92
+msgid "Failed to import the file."
+msgstr ""
+
+#: importer/admin_module/import_views.py:172
+msgid "Invalid parameters"
+msgstr ""
+
+#: importer/admin_module/import_views.py:176
+msgid "Invalid importer"
+msgstr ""
+
+#: importer/admin_module/import_views.py:180
+msgid "Invalid file name"
+msgstr ""
+
+#: importer/admin_module/import_views.py:188
+msgid "File not found"
+msgstr ""
+
+#: importer/apps.py:17
+msgid "Import"
+msgstr ""
+
+#: importer/importing/importing.py:216
+msgid "Row ignored (no existing item and creating new is not allowed)."
+msgstr ""
+
+#: importer/importing/importing.py:226
+#, python-format
+msgid ""
+"Row ignored (object already exists (%(object_name)s with id: %(object_id)s)."
+msgstr ""
+
+#: importer/importing/importing.py:328
+#, python-format
+msgid "Error setting value for field %(field_name)s. (%(exception)s)"
+msgstr ""
+
+#: importer/importing/importing.py:349 importer/importing/importing.py:361
+#, python-format
+msgid "Couldn't set value %(original_value)s for field %(field_name)s."
+msgstr ""
+
+#: importer/importing/session.py:49
+#, python-format
+msgid "Row import failed (%s)."
+msgstr ""
+
+#: importer/templates/shuup/importer/admin/import_process.jinja:5
+msgid "Import Data - process"
+msgstr ""
+
+#: importer/templates/shuup/importer/admin/import_process.jinja:24
+msgid ""
+"The following fields in the file are being used a s possible connection keys:"
+msgstr ""
+
+#: importer/templates/shuup/importer/admin/import_process.jinja:26
+msgid "Not a single connection key was found, File cannot be imported."
+msgstr ""
+
+#: importer/templates/shuup/importer/admin/import_process_complete.jinja:6
+msgid "Import Data - Complete"
+msgstr ""
+
+#: importer/transforms.py:80
+#, python-format
+msgid "Cannot import more than %s rows from one file."
+msgstr ""
+
+#: importer/utils/importer.py:23
+msgid "Allow create and update"
+msgstr ""
+
+#: importer/utils/importer.py:24
+msgid "Only create (no updates)"
+msgstr ""
+
+#: importer/utils/importer.py:25
+msgid "Only update existing (no new ones are created)"
+msgstr ""

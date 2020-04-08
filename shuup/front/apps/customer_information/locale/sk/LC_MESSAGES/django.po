@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-08 09:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: front/apps/customer_information/__init__.py:17
+msgid "Shuup Frontend - Customer Information Editing"
+msgstr ""
+
+#: front/apps/customer_information/dashboard_items.py:17
+msgid "Customer Information"
+msgstr ""
+
+#: front/apps/customer_information/dashboard_items.py:30
+msgid "Company Information"
+msgstr ""
+
+#: front/apps/customer_information/dashboard_items.py:31
+msgid "Edit Company Information."
+msgstr ""
+
+#: front/apps/customer_information/dashboard_items.py:44
+#: front/apps/customer_information/dashboard_items.py:45
+msgid "Address Book"
+msgstr ""
+
+#: front/apps/customer_information/forms.py:31
+msgid "Language"
+msgstr ""
+
+#: front/apps/customer_information/forms.py:79
+msgid "Will become default user email when linked"
+msgstr ""
+
+#: front/apps/customer_information/forms.py:90
+msgid "Given Tax Number already exists. Please contact support."
+msgstr ""
+
+#: front/apps/customer_information/forms.py:99
+msgid "Address Title"
+msgstr ""
+
+#: front/apps/customer_information/forms.py:100
+msgid "Address Type"
+msgstr ""
+
+#: front/apps/customer_information/forms.py:101
+msgid "Address Status"
+msgstr ""
+
+#: front/apps/customer_information/forms.py:188
+msgid "Company information saved successfully."
+msgstr ""
+
+#: front/apps/customer_information/forms.py:193
+msgid ""
+"Company information saved successfully. Please follow the instructions sent "
+"to your email address."
+msgstr ""
+
+#: front/apps/customer_information/notify_events.py:18
+msgid "Customer Email"
+msgstr ""
+
+#: front/apps/customer_information/templates/shuup/customer_information/addressbook/index.jinja:25
+#: front/apps/customer_information/templates/shuup/customer_information/customer_dashboard_item.jinja:22
+msgid "Default Billing Address"
+msgstr ""
+
+#: front/apps/customer_information/templates/shuup/customer_information/addressbook/index.jinja:35
+#: front/apps/customer_information/templates/shuup/customer_information/customer_dashboard_item.jinja:30
+msgid "Default Shipping Address"
+msgstr ""
+
+#: front/apps/customer_information/templates/shuup/customer_information/customer_dashboard_item.jinja:8
+msgid "Basic Information"
+msgstr ""
+
+#: front/apps/customer_information/templates/shuup/customer_information/customer_dashboard_item.jinja:18
+msgid "Yes"
+msgstr ""
+
+#: front/apps/customer_information/views.py:31
+msgid "Password successfully changed."
+msgstr ""
+
+#: front/apps/customer_information/views.py:53
+msgid "Account information saved successfully."
+msgstr ""
+
+#: front/apps/customer_information/views.py:116
+msgid "Address information saved successfully."
+msgstr ""
+
+#: front/apps/customer_information/views.py:124
+msgid "Cannot remove address"
+msgstr ""

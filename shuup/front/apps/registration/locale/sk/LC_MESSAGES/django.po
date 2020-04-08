@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-08 09:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: front/apps/registration/forms.py:36
+msgid "Name of the company"
+msgstr ""
+
+#: front/apps/registration/notify_events.py:22
+msgid "Registration Received"
+msgstr ""
+
+#: front/apps/registration/notify_events.py:23
+msgid "Customer"
+msgstr ""
+
+#: front/apps/registration/notify_events.py:24
+msgid "Customer Email"
+msgstr ""
+
+#: front/apps/registration/notify_events.py:25
+msgid "Activation URL"
+msgstr ""
+
+#: front/apps/registration/notify_events.py:26
+msgid "Is User Active"
+msgstr ""
+
+#: front/apps/registration/notify_events.py:31
+msgid "Company Registration Received"
+msgstr ""
+
+#: front/apps/registration/notify_events.py:36
+msgid "Company Approved"
+msgstr ""
+
+#: front/apps/registration/notify_events.py:73
+msgid "Company has been activated."
+msgstr ""
+
+#: front/apps/registration/notify_events.py:99
+msgid "Send Registration Received Email"
+msgstr ""
+
+#: front/apps/registration/notify_events.py:100
+msgid "Send email when a user registers."
+msgstr ""
+
+#: front/apps/registration/notify_events.py:101
+#: front/apps/registration/notify_events.py:113
+msgid ""
+"This script will send an email to the user or to any configured email right "
+"after a user get registered."
+msgstr ""
+
+#: front/apps/registration/notify_events.py:104
+#: front/apps/registration/notify_events.py:116
+#: front/apps/registration/notify_events.py:128
+msgid "{{ order.shop }} - Welcome!"
+msgstr ""
+
+#: front/apps/registration/notify_events.py:111
+msgid "Send Company Registration Received Email"
+msgstr ""
+
+#: front/apps/registration/notify_events.py:112
+msgid "Send email when a user registers as a company."
+msgstr ""
+
+#: front/apps/registration/notify_events.py:123
+msgid "Send Company Activated Email"
+msgstr ""
+
+#: front/apps/registration/notify_events.py:124
+msgid "Notify company's contact person that company account is activated"
+msgstr ""
+
+#: front/apps/registration/notify_events.py:125
+msgid ""
+"This script will send an email to the user or to any configured email right "
+"after a company is activated."
+msgstr ""
+
+#: front/apps/registration/templates/shuup/registration/company_register.jinja:24
+msgid "Company information"
+msgstr ""
+
+#: front/apps/registration/templates/shuup/registration/company_register.jinja:27
+msgid "Company billing information"
+msgstr ""
+
+#: front/apps/registration/templates/shuup/registration/company_register.jinja:35
+msgid "Contact person"
+msgstr ""
+
+#: front/apps/registration/templates/shuup/registration/company_register.jinja:38
+msgid "Contact information for primary company contact"
+msgstr ""
+
+#: front/apps/registration/templates/shuup/registration/company_register.jinja:43
+msgid "Login information"
+msgstr ""
+
+#: front/apps/registration/templates/shuup/registration/company_register.jinja:46
+msgid "The information you will log in with."
+msgstr ""
+
+#: front/apps/registration/views.py:25
+msgid "Activation successful!"
+msgstr ""
+
+#: front/apps/registration/views.py:35
+msgid ""
+"Registration complete. Please follow the instructions sent to your email "
+"address."
+msgstr ""

@@ -1,0 +1,374 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-08 09:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: testing/modules/content/data.py:19
+msgid "About Us"
+msgstr ""
+
+#: testing/modules/content/data.py:23
+msgid "Privacy Policy"
+msgstr ""
+
+#: testing/modules/content/data.py:27
+msgid "Terms and Conditions"
+msgstr ""
+
+#: testing/modules/content/data.py:31
+msgid "Refund Policy"
+msgstr ""
+
+#: testing/modules/content/data.py:39
+msgid "{{ order.shop }} - Order {{ order.identifier }} Received"
+msgstr ""
+
+#: testing/modules/content/forms.py:41
+msgid "Send customer order confirmation email"
+msgstr ""
+
+#: testing/modules/content/forms.py:44
+msgid ""
+"We will configure a notification to send the customer an email after a "
+"placed order. You can disable this option later or even change the layout of "
+"the email."
+msgstr ""
+
+#: testing/modules/content/forms.py:136
+msgid "Create About Us page"
+msgstr ""
+
+#: testing/modules/content/forms.py:144
+msgid ""
+"We have already created an 'About Us' template for you based on your shop "
+"information. You must review the page and change it accordingly."
+msgstr ""
+
+#: testing/modules/content/forms.py:148
+msgid ""
+"We will create an 'About Us' template for you. We will base content of the "
+"page on your shop information. After we are done, you must review the page "
+"and change it accordingly."
+msgstr ""
+
+#: testing/modules/content/forms.py:154
+msgid "Create Privacy Policy page"
+msgstr ""
+
+#: testing/modules/content/forms.py:161
+msgid ""
+"We have already created a 'Privacy Policy' template for you based on your "
+"shop information. You must review the page and change it accordingly."
+msgstr ""
+
+#: testing/modules/content/forms.py:165
+msgid ""
+"We will create a 'Privacy Policy' template for you. We will base content of "
+"the page on your shop information. After we are done, you must review the "
+"page and change it accordingly."
+msgstr ""
+
+#: testing/modules/content/forms.py:171
+msgid "Create Terms and Conditions page"
+msgstr ""
+
+#: testing/modules/content/forms.py:178
+msgid ""
+"We have already created a 'Terms & Conditions' template for you based on "
+"your shop information. You must review the page and change it accordingly."
+msgstr ""
+
+#: testing/modules/content/forms.py:182
+msgid ""
+"We will create an 'Terms & Conditions' template for you. We will base "
+"content of the page on your shop information. After we are done, you must "
+"review the page and change it accordingly."
+msgstr ""
+
+#: testing/modules/content/forms.py:188
+msgid "Create Refund Policy page"
+msgstr ""
+
+#: testing/modules/content/forms.py:195
+msgid ""
+"We have already created a 'Refund Policy' template for you based on your "
+"shop information. You must review the page and change it accordingly."
+msgstr ""
+
+#: testing/modules/content/forms.py:199
+msgid ""
+"We will create an 'Refund Policy' template for you. We will base content of "
+"the page on your shop information. After we are done, you must review the "
+"page and change it accordingly."
+msgstr ""
+
+#: testing/modules/content/forms.py:210
+msgid "Configure the footer"
+msgstr ""
+
+#: testing/modules/content/forms.py:214
+msgid ""
+"We will now configure your shop footer and fill it with some of your shop's "
+"information. Don't worry, you can change this at any time."
+msgstr ""
+
+#: testing/modules/content/views.py:23
+msgid "Content & Behavior"
+msgstr ""
+
+#: testing/modules/content/views.py:52
+msgid ""
+"Add the initial content and configure the customer notifications for your "
+"shop"
+msgstr ""
+
+#: testing/modules/content/views.py:54
+msgid "Configure notifications for your shop"
+msgstr ""
+
+#: testing/modules/content/views.py:56
+msgid "Add the initial content"
+msgstr ""
+
+#: testing/modules/content/views.py:67
+msgid "Configure the initial content pages"
+msgstr ""
+
+#: testing/modules/content/views.py:78
+msgid "Configure some notifications"
+msgstr ""
+
+#: testing/modules/demo/__init__.py:29
+msgid "Demo"
+msgstr ""
+
+#: testing/modules/mocker/mass_actions.py:18
+msgid "Dummy Mass Action #1"
+msgstr ""
+
+#: testing/modules/mocker/mass_actions.py:23
+msgid "Dummy Mass Action #2"
+msgstr ""
+
+#: testing/modules/mocker/sections.py:17
+msgid "mock section title"
+msgstr ""
+
+#: testing/modules/mocker/toolbar.py:21 testing/modules/mocker/toolbar.py:34
+#: testing/modules/mocker/toolbar.py:70
+msgid "Hello"
+msgstr ""
+
+#: testing/modules/mocker/toolbar.py:50
+#, python-format
+msgid "Hello %(name)s"
+msgstr ""
+
+#: testing/modules/mocker/toolbar.py:62
+#, python-format
+msgid "This is %(sku)s"
+msgstr ""
+
+#: testing/modules/sample_data/__init__.py:56
+msgid ""
+"There is sample data installed. Access \"Settings > Sample Data\" for more "
+"information."
+msgstr ""
+
+#: testing/modules/sample_data/__init__.py:60
+msgid ""
+"There is sample data installed. Click here to consolidate or delete them."
+msgstr ""
+
+#: testing/modules/sample_data/__init__.py:61
+#: testing/modules/sample_data/views.py:77
+#: testing/modules/sample_data/views.py:84
+msgid "Sample Data"
+msgstr ""
+
+#: testing/modules/sample_data/data.py:14
+#: testing/modules/sample_data/data.py:17
+msgid "Default"
+msgstr ""
+
+#: testing/modules/sample_data/data.py:18
+msgid "Cosmetics and perfumes"
+msgstr ""
+
+#: testing/modules/sample_data/data.py:24
+msgid "USpicy Makeup Brushes"
+msgstr ""
+
+#: testing/modules/sample_data/data.py:25
+msgid ""
+"Professional 10 pieces makeup brush set with soft oval toothbrush design"
+msgstr ""
+
+#: testing/modules/sample_data/data.py:30
+msgid "Precision Eyelash Curler"
+msgstr ""
+
+#: testing/modules/sample_data/data.py:31
+msgid ""
+"Precision Eyelash Curler is the professional choice of makeup artists "
+"everywhere."
+msgstr ""
+
+#: testing/modules/sample_data/data.py:36
+msgid "PureMoist Lipstick"
+msgstr ""
+
+#: testing/modules/sample_data/data.py:37
+msgid ""
+"PureMoist Lipstick has a moisturizing formula designed to quench, comfort "
+"and protect lips."
+msgstr ""
+
+#: testing/modules/sample_data/data.py:42
+msgid "Clinique Happy"
+msgstr ""
+
+#: testing/modules/sample_data/data.py:43
+msgid "A hint of citrus. A wealth of flowers. A mix of emotions."
+msgstr ""
+
+#: testing/modules/sample_data/data.py:48
+msgid "Tommy Girld by Tommy Hilfiger Perfume"
+msgstr ""
+
+#: testing/modules/sample_data/data.py:49
+msgid ""
+"A refreshing and energetic floral - with low notes of sandalwood and heather."
+msgstr ""
+
+#: testing/modules/sample_data/data.py:54
+msgid "Bvlgari Omnia Crystalline Eau de Toilette"
+msgstr ""
+
+#: testing/modules/sample_data/data.py:55
+msgid ""
+"Give yourself over to this fragrance as intoxicating and pure as a woman's "
+"soul is fragile."
+msgstr ""
+
+#: testing/modules/sample_data/data.py:60
+msgid "Still Jennifer Lopez Perfume"
+msgstr ""
+
+#: testing/modules/sample_data/data.py:61
+msgid ""
+"Be driven with vitality and confidence, as you wear the Jennifer Lopez Still "
+"fragrance."
+msgstr ""
+
+#: testing/modules/sample_data/data.py:66
+msgid "La Vie Est Belle"
+msgstr ""
+
+#: testing/modules/sample_data/data.py:67
+msgid "A captivating new scent joins the La vie est belle path to happiness."
+msgstr ""
+
+#: testing/modules/sample_data/data.py:72
+msgid "Smooth Viking Beard Brush"
+msgstr ""
+
+#: testing/modules/sample_data/data.py:73
+msgid "Just a beard brush."
+msgstr ""
+
+#: testing/modules/sample_data/data.py:77
+msgid "Beard & Stash Oil"
+msgstr ""
+
+#: testing/modules/sample_data/data.py:78
+msgid "This oil is natural, and is made with the perfect combination of oils."
+msgstr ""
+
+#: testing/modules/sample_data/data.py:84
+msgid "Sample Carousel"
+msgstr ""
+
+#: testing/modules/sample_data/forms.py:19
+msgid "Business Segment"
+msgstr ""
+
+#: testing/modules/sample_data/forms.py:23
+msgid "Select your business segment to install categories."
+msgstr ""
+
+#: testing/modules/sample_data/forms.py:26
+msgid "Install Categories"
+msgstr ""
+
+#: testing/modules/sample_data/forms.py:29
+msgid "Check this to install sample categories."
+msgstr ""
+
+#: testing/modules/sample_data/forms.py:31
+msgid "Install Products"
+msgstr ""
+
+#: testing/modules/sample_data/forms.py:34
+msgid "Check this to install sample products."
+msgstr ""
+
+#: testing/modules/sample_data/forms.py:62
+msgid "Install Carousel"
+msgstr ""
+
+#: testing/modules/sample_data/forms.py:66
+msgid "Check this to install a sample carousel."
+msgstr ""
+
+#: testing/modules/sample_data/forms.py:77
+msgid "Uninstall Categories"
+msgstr ""
+
+#: testing/modules/sample_data/forms.py:82
+msgid "Uninstall Products"
+msgstr ""
+
+#: testing/modules/sample_data/forms.py:88
+msgid "Uninstall Carousel"
+msgstr ""
+
+#: testing/modules/sample_data/views.py:65
+msgid "Sample data were consolidated"
+msgstr ""
+
+#: testing/modules/sample_data/views.py:85
+msgid ""
+"To start shopping right now, please install some sample data into your shop"
+msgstr ""
+
+#: testing/supplier_pricing/pricing.py:19
+msgid "Supplier Pricing"
+msgstr ""
+
+#: testing/themes/__init__.py:16
+msgid "Shuup Testing Theme"
+msgstr ""
+
+#: testing/themes/__init__.py:25
+msgid "Shuup Testing Theme With Custom Base Template"
+msgstr ""
+
+#: testing/themes/plugins.py:17
+msgid "Shuup Test Theme Product Highlights"
+msgstr ""

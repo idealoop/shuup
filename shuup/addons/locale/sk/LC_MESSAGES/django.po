@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-08 09:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: addons/admin_module/__init__.py:16 addons/admin_module/__init__.py:46
+msgid "Addons"
+msgstr ""
+
+#: addons/admin_module/views/list.py:39
+#, python-format
+msgid "Enable %s"
+msgstr ""
+
+#: addons/admin_module/views/list.py:62
+#, python-format
+msgid "%d new addons enabled."
+msgstr ""
+
+#: addons/admin_module/views/list.py:64
+#, python-format
+msgid "%d previously enabled addons disabled."
+msgstr ""
+
+#: addons/admin_module/views/list.py:78
+msgid "No changes were made."
+msgstr ""
+
+#: addons/admin_module/views/list.py:87
+msgid "Save addon changes"
+msgstr ""
+
+#: addons/admin_module/views/list.py:92
+msgid "Upload new addon"
+msgstr ""
+
+#: addons/admin_module/views/list.py:101
+msgid "Reload application"
+msgstr ""
+
+#: addons/admin_module/views/reload.py:39
+msgid ""
+"There are no viable reload methods available. Please contact your system "
+"administrator."
+msgstr ""
+
+#: addons/admin_module/views/reload.py:43
+msgid "Reload Method"
+msgstr ""
+
+#: addons/admin_module/views/reload.py:73
+msgid "Reloading."
+msgstr ""
+
+#: addons/admin_module/views/upload.py:31
+msgid "Addon file (ZIP)"
+msgstr ""
+
+#: addons/admin_module/views/upload.py:32
+msgid "Only upload addon files you trust."
+msgstr ""
+
+#: addons/admin_module/views/upload.py:44
+msgid "Only wheel files are supported"
+msgstr ""
+
+#: addons/admin_module/views/upload.py:65
+msgid "Upload"
+msgstr ""
+
+#: addons/admin_module/views/upload.py:101
+msgid "Install Addon"
+msgstr ""
+
+#: addons/templates/shuup/admin/addons/list.jinja:10
+msgid "Installed addons"
+msgstr ""
+
+#: addons/templates/shuup/admin/addons/reload.jinja:9
+msgid "Reload Application Server"
+msgstr ""
+
+#: addons/templates/shuup/admin/addons/upload.jinja:7
+msgid "Select file"
+msgstr ""
+
+#: addons/templates/shuup/admin/addons/upload_confirm.jinja:9
+msgid "Package Information"
+msgstr ""
+
+#: addons/templates/shuup/admin/addons/upload_confirm.jinja:16
+msgid "File List"
+msgstr ""

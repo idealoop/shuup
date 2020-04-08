@@ -1,0 +1,313 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-08 09:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: front/apps/carousel/admin_module/__init__.py:20
+#: front/apps/carousel/models.py:108
+msgid "Carousels"
+msgstr ""
+
+#: front/apps/carousel/admin_module/views/_delete.py:31
+#, python-format
+msgid "%s has been deleted."
+msgstr ""
+
+#: front/apps/carousel/admin_module/views/_list.py:23
+msgid "Name"
+msgstr ""
+
+#: front/apps/carousel/admin_module/views/_list.py:26
+msgid "Filter by name..."
+msgstr ""
+
+#: front/apps/carousel/forms.py:21 front/apps/carousel/models.py:107
+msgid "Carousel"
+msgstr ""
+
+#: front/apps/carousel/forms.py:26
+msgid "Active"
+msgstr ""
+
+#: front/apps/carousel/models.py:32 front/apps/carousel/models.py:186
+#: front/apps/carousel/models.py:189
+#: front/apps/carousel/templates/shuup/carousel/admin/edit.jinja:74
+msgid "Slide"
+msgstr ""
+
+#: front/apps/carousel/models.py:33
+msgid "Fade"
+msgstr ""
+
+#: front/apps/carousel/models.py:41
+msgid "Current page"
+msgstr ""
+
+#: front/apps/carousel/models.py:42
+msgid "New page"
+msgstr ""
+
+#: front/apps/carousel/models.py:66
+msgid "shops"
+msgstr ""
+
+#: front/apps/carousel/models.py:67
+msgid "Select which shops you would like the carousel to be visible in."
+msgstr ""
+
+#: front/apps/carousel/models.py:70 front/apps/carousel/models.py:119
+msgid "name"
+msgstr ""
+
+#: front/apps/carousel/models.py:70
+msgid "The carousel name use for carousel configuration."
+msgstr ""
+
+#: front/apps/carousel/models.py:73
+msgid "animation"
+msgstr ""
+
+#: front/apps/carousel/models.py:74
+msgid "Animation type for cycling slides."
+msgstr ""
+
+#: front/apps/carousel/models.py:77
+msgid "interval"
+msgstr ""
+
+#: front/apps/carousel/models.py:77
+msgid "Slide interval in seconds."
+msgstr ""
+
+#: front/apps/carousel/models.py:80
+msgid "pause on hover"
+msgstr ""
+
+#: front/apps/carousel/models.py:81
+msgid "When checked, the carousel cycling pauses on mouse over."
+msgstr ""
+
+#: front/apps/carousel/models.py:83
+msgid "show navigation arrows"
+msgstr ""
+
+#: front/apps/carousel/models.py:84
+msgid ""
+"When checked, navigational arrows are shown on the carousel allowing for "
+"customers to go back and forward."
+msgstr ""
+
+#: front/apps/carousel/models.py:86
+msgid "show navigation dots"
+msgstr ""
+
+#: front/apps/carousel/models.py:87
+msgid "When checked, navigational indicator dots are shown."
+msgstr ""
+
+#: front/apps/carousel/models.py:90
+msgid "image width"
+msgstr ""
+
+#: front/apps/carousel/models.py:91
+msgid "Slide images will be cropped to this width."
+msgstr ""
+
+#: front/apps/carousel/models.py:94
+msgid "image height"
+msgstr ""
+
+#: front/apps/carousel/models.py:95
+msgid "Slide images will be cropped to this height."
+msgstr ""
+
+#: front/apps/carousel/models.py:98
+msgid "Arrows color"
+msgstr ""
+
+#: front/apps/carousel/models.py:100
+msgid "Set the custom color for the arrows."
+msgstr ""
+
+#: front/apps/carousel/models.py:120
+msgid "Name is only used to configure slides."
+msgstr ""
+
+#: front/apps/carousel/models.py:123
+msgid "product link"
+msgstr ""
+
+#: front/apps/carousel/models.py:124
+msgid ""
+"Set the product detail page that should be shown when this slide is clicked, "
+"if any."
+msgstr ""
+
+#: front/apps/carousel/models.py:127
+msgid "category link"
+msgstr ""
+
+#: front/apps/carousel/models.py:128
+msgid ""
+"Set the product category page that should be shown when this slide is "
+"clicked, if any."
+msgstr ""
+
+#: front/apps/carousel/models.py:131
+msgid "cms page link"
+msgstr ""
+
+#: front/apps/carousel/models.py:132
+msgid ""
+"Set the web page that should be shown when the slide is clicked, if any."
+msgstr ""
+
+#: front/apps/carousel/models.py:134
+msgid "ordering"
+msgstr ""
+
+#: front/apps/carousel/models.py:135
+msgid ""
+"Set the numeric order in which this slide should appear relative to other "
+"slides in this carousel."
+msgstr ""
+
+#: front/apps/carousel/models.py:138
+msgid "link target"
+msgstr ""
+
+#: front/apps/carousel/models.py:139
+msgid ""
+"Set this to current if clicking on this slide should open a new browser tab."
+msgstr ""
+
+#: front/apps/carousel/models.py:142
+msgid "available from"
+msgstr ""
+
+#: front/apps/carousel/models.py:143 front/apps/carousel/models.py:147
+msgid ""
+"Set the date and time from which this slide should be visible in the "
+"carousel. This is useful to advertise sales campaigns or other time-"
+"sensitive marketing."
+msgstr ""
+
+#: front/apps/carousel/models.py:146
+msgid "available to"
+msgstr ""
+
+#: front/apps/carousel/models.py:151
+msgid "Inactive dot border color"
+msgstr ""
+
+#: front/apps/carousel/models.py:153
+msgid "Customize the dot border color when slide is not active."
+msgstr ""
+
+#: front/apps/carousel/models.py:156
+msgid "Active dot color"
+msgstr ""
+
+#: front/apps/carousel/models.py:158
+msgid "Customize the dot color when slide is active."
+msgstr ""
+
+#: front/apps/carousel/models.py:163
+msgid "caption"
+msgstr ""
+
+#: front/apps/carousel/models.py:164
+msgid ""
+"Text that describes the image. It is displayed on top of the image if "
+"'Render image text' box is enabled in front-end. Also used for search engine "
+"purposes."
+msgstr ""
+
+#: front/apps/carousel/models.py:169
+msgid "caption text"
+msgstr ""
+
+#: front/apps/carousel/models.py:170
+msgid ""
+"Caption text is displayed as secondary text on top of the image if 'Render "
+"image text' box is enabled in front-end for 'Carousel plugin' type (disabled "
+"for 'Banner box' type). It is also shown as a tooltip."
+msgstr ""
+
+#: front/apps/carousel/models.py:176
+msgid "external link"
+msgstr ""
+
+#: front/apps/carousel/models.py:177
+msgid ""
+"Set the external site that should be shown when this slide is clicked, if "
+"any."
+msgstr ""
+
+#: front/apps/carousel/models.py:180
+msgid "image"
+msgstr ""
+
+#: front/apps/carousel/models.py:181
+msgid "The slide image to show."
+msgstr ""
+
+#: front/apps/carousel/models.py:190
+#: front/apps/carousel/templates/shuup/carousel/admin/_edit_slide_form.jinja:30
+msgid "Slides"
+msgstr ""
+
+#: front/apps/carousel/plugins.py:21
+msgid "Carousel Plugin"
+msgstr ""
+
+#: front/apps/carousel/plugins.py:26 front/apps/carousel/plugins.py:68
+msgid "Render image text"
+msgstr ""
+
+#: front/apps/carousel/plugins.py:29 front/apps/carousel/plugins.py:71
+msgid "Display the text on top of the image."
+msgstr ""
+
+#: front/apps/carousel/plugins.py:63
+msgid "Banner Box"
+msgstr ""
+
+#: front/apps/carousel/plugins.py:66
+msgid "Title"
+msgstr ""
+
+#: front/apps/carousel/templates/shuup/carousel/admin/_edit_base_form.jinja:20
+msgid "Adding the carousel to your site"
+msgstr ""
+
+#: front/apps/carousel/templates/shuup/carousel/admin/_edit_base_form.jinja:29
+msgid "Learn more."
+msgstr ""
+
+#: front/apps/carousel/templates/shuup/carousel/admin/_edit_base_form.jinja:39
+msgid "Basic details"
+msgstr ""
+
+#: front/apps/carousel/templates/shuup/carousel/admin/_edit_base_form.jinja:45
+msgid "Advanced options"
+msgstr ""
+
+#: front/apps/carousel/templates/shuup/carousel/admin/_edit_slide_form.jinja:20
+msgid "Remove Slide"
+msgstr ""

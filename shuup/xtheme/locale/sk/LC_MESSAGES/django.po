@@ -1,0 +1,545 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-08 09:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: xtheme/_theme.py:133
+msgid "Theme identifier must match"
+msgstr ""
+
+#: xtheme/_theme.py:144
+msgid "Either theme_settings or shop should be informed"
+msgstr ""
+
+#: xtheme/_theme.py:250
+msgid "Global plugins"
+msgstr ""
+
+#: xtheme/_theme.py:251
+msgid "Theme plugins"
+msgstr ""
+
+#: xtheme/admin_module/__init__.py:32
+msgid "Shuup Extensible Theme Engine"
+msgstr ""
+
+#: xtheme/admin_module/__init__.py:33 xtheme/admin_module/__init__.py:57
+#: xtheme/admin_module/views/_snippet.py:113
+msgid "Themes"
+msgstr ""
+
+#: xtheme/admin_module/__init__.py:68
+msgid "Customize the look and feel of your shop"
+msgstr ""
+
+#: xtheme/admin_module/__init__.py:70
+msgid "Customize theme"
+msgstr ""
+
+#: xtheme/admin_module/__init__.py:89
+msgid "No theme is active. Click here to activate one."
+msgstr ""
+
+#: xtheme/admin_module/__init__.py:90
+msgid "Theming"
+msgstr ""
+
+#: xtheme/admin_module/__init__.py:96
+msgid "Shuup Extensible Theme Engine Snippets"
+msgstr ""
+
+#: xtheme/admin_module/__init__.py:98 xtheme/models.py:194
+#: xtheme/plugins/snippets.py:20
+msgid "Snippets"
+msgstr ""
+
+#: xtheme/admin_module/__init__.py:119
+msgid "Theme Custom CSS/JS"
+msgstr ""
+
+#: xtheme/admin_module/views/_snippet.py:48 xtheme/models.py:189
+msgid ""
+"Select the themes that will have this snippet injected. Leave the field "
+"blank to inject in all themes."
+msgstr ""
+
+#: xtheme/admin_module/views/_snippet.py:59
+msgid "Select the location of the page to inject the snippet."
+msgstr ""
+
+#: xtheme/admin_module/views/_snippet.py:105
+msgid "Location"
+msgstr ""
+
+#: xtheme/admin_module/views/_snippet.py:109
+msgid "Filter by location..."
+msgstr ""
+
+#: xtheme/admin_module/views/_snippet.py:112 xtheme/plugins/products.py:43
+msgid "Type"
+msgstr ""
+
+#: xtheme/admin_module/views/_theme.py:34
+msgid "activate"
+msgstr ""
+
+#: xtheme/admin_module/views/_theme.py:41
+msgid "Theme"
+msgstr ""
+
+#: xtheme/admin_module/views/_theme.py:42
+msgid "Choose a theme for your shop"
+msgstr ""
+
+#: xtheme/admin_module/views/_theme.py:109
+msgid "Theme activated."
+msgstr ""
+
+#: xtheme/admin_module/views/_theme.py:172
+msgid "Custom CSS/JS"
+msgstr ""
+
+#: xtheme/forms.py:39
+msgid "Stylesheets"
+msgstr ""
+
+#: xtheme/forms.py:40
+msgid "The fonts, colors, and styles to use with your theme."
+msgstr ""
+
+#: xtheme/layout/_base.py:232
+msgid "Content in this placeholder is shown without limitations."
+msgstr ""
+
+#: xtheme/layout/_category.py:20
+#, python-format
+msgid ""
+"Content in this placeholder is shown for %(category_name)s category only."
+msgstr ""
+
+#: xtheme/layout/_contact_group.py:19
+msgid "Content in this placeholder is shown for guests."
+msgstr ""
+
+#: xtheme/layout/_contact_group.py:33
+msgid "Content in this placeholder is shown for company contacts."
+msgstr ""
+
+#: xtheme/layout/_contact_group.py:47
+msgid "Content in this placeholder is shown for all logged in contacts."
+msgstr ""
+
+#: xtheme/layout/_contact_group.py:61
+msgid "Content in this placeholder is shown for person contacts."
+msgstr ""
+
+#: xtheme/layout/_product.py:20
+#, python-format
+msgid "Content in this placeholder is shown for %(product_name)s only."
+msgstr ""
+
+#: xtheme/middleware.py:37
+msgid "Shop '{}' has no active theme"
+msgstr ""
+
+#: xtheme/models.py:23
+msgid "Inline JavaScript"
+msgstr ""
+
+#: xtheme/models.py:24
+msgid "Inline CSS"
+msgstr ""
+
+#: xtheme/models.py:25
+msgid "Inline HTML"
+msgstr ""
+
+#: xtheme/models.py:96
+msgid "current draft"
+msgstr ""
+
+#: xtheme/models.py:97
+msgid "old version"
+msgstr ""
+
+#: xtheme/models.py:98
+msgid "public"
+msgstr ""
+
+#: xtheme/models.py:102 xtheme/models.py:152
+msgid "theme identifier"
+msgstr ""
+
+#: xtheme/models.py:104
+msgid "view name"
+msgstr ""
+
+#: xtheme/models.py:105
+msgid "created on"
+msgstr ""
+
+#: xtheme/models.py:106
+msgid "status"
+msgstr ""
+
+#: xtheme/models.py:107
+msgid "internal data"
+msgstr ""
+
+#: xtheme/models.py:154
+msgid "active"
+msgstr ""
+
+#: xtheme/models.py:155
+msgid "data"
+msgstr ""
+
+#: xtheme/models.py:176
+#, python-format
+msgid "Theme configuration for %s"
+msgstr ""
+
+#: xtheme/models.py:184
+msgid "location"
+msgstr ""
+
+#: xtheme/models.py:185
+msgid "snippet type"
+msgstr ""
+
+#: xtheme/models.py:186
+msgid "snippet"
+msgstr ""
+
+#: xtheme/models.py:188
+msgid "themes"
+msgstr ""
+
+#: xtheme/models.py:193
+msgid "Snippet"
+msgstr ""
+
+#: xtheme/models.py:197
+msgid "Snippet for {} in {}"
+msgstr ""
+
+#: xtheme/plugins/_base.py:35 xtheme/views/forms.py:16
+msgid "Plugin"
+msgstr ""
+
+#: xtheme/plugins/category_links.py:34
+msgid "Categories"
+msgstr ""
+
+#: xtheme/plugins/category_links.py:47
+msgid "Category Links"
+msgstr ""
+
+#: xtheme/plugins/category_links.py:51 xtheme/plugins/image.py:50
+#: xtheme/plugins/products.py:41 xtheme/plugins/products.py:89
+#: xtheme/plugins/products.py:160 xtheme/plugins/products.py:227
+#: xtheme/plugins/social_media_links.py:71
+msgid "Title"
+msgstr ""
+
+#: xtheme/plugins/category_links.py:53
+msgid "Show all categories"
+msgstr ""
+
+#: xtheme/plugins/category_links.py:56
+msgid "All categories are shown, even if not selected"
+msgstr ""
+
+#: xtheme/plugins/image.py:47 xtheme/plugins/image.py:51
+msgid "Image"
+msgstr ""
+
+#: xtheme/plugins/image.py:52
+msgid "Image Link URL"
+msgstr ""
+
+#: xtheme/plugins/image.py:54
+msgid "Full width"
+msgstr ""
+
+#: xtheme/plugins/image.py:57
+msgid "Set image to full width of cell"
+msgstr ""
+
+#: xtheme/plugins/image.py:60
+msgid "Width (px)"
+msgstr ""
+
+#: xtheme/plugins/image.py:62 xtheme/plugins/image.py:67
+msgid "Leave blank for default width"
+msgstr ""
+
+#: xtheme/plugins/image.py:65
+msgid "Height (px)"
+msgstr ""
+
+#: xtheme/plugins/products.py:31
+msgid "Newest"
+msgstr ""
+
+#: xtheme/plugins/products.py:32
+msgid "Best Selling"
+msgstr ""
+
+#: xtheme/plugins/products.py:33
+msgid "Random"
+msgstr ""
+
+#: xtheme/plugins/products.py:38
+msgid "Product Highlights"
+msgstr ""
+
+#: xtheme/plugins/products.py:47 xtheme/plugins/products.py:91
+#: xtheme/plugins/products.py:161
+msgid "Count"
+msgstr ""
+
+#: xtheme/plugins/products.py:49 xtheme/plugins/products.py:98
+#: xtheme/plugins/products.py:163
+msgid "Only show in-stock and orderable items"
+msgstr ""
+
+#: xtheme/plugins/products.py:51 xtheme/plugins/products.py:101
+#: xtheme/plugins/products.py:166
+msgid ""
+"Warning: The final number of products can be lower than 'Count' as it will "
+"filter out unorderable products from a set of 'Count' products."
+msgstr ""
+
+#: xtheme/plugins/products.py:85
+msgid "Product Cross Sells"
+msgstr ""
+
+#: xtheme/plugins/products.py:93
+msgid "Show variation parents"
+msgstr ""
+
+#: xtheme/plugins/products.py:94
+msgid "Render variation parents instead of the children."
+msgstr ""
+
+#: xtheme/plugins/products.py:148
+msgid "Category"
+msgstr ""
+
+#: xtheme/plugins/products.py:156
+msgid "Category Products Highlight"
+msgstr ""
+
+#: xtheme/plugins/products.py:208
+msgid "Products"
+msgstr ""
+
+#: xtheme/plugins/products.py:209
+msgid "Select all products you want to show"
+msgstr ""
+
+#: xtheme/plugins/products.py:223
+msgid "Product Selection"
+msgstr ""
+
+#: xtheme/plugins/snippets.py:22
+msgid "In-Place Snippet"
+msgstr ""
+
+#: xtheme/plugins/snippets.py:23
+msgid "Resource snippet for end of head"
+msgstr ""
+
+#: xtheme/plugins/snippets.py:25
+msgid "Resource snippet for beginning of body"
+msgstr ""
+
+#: xtheme/plugins/snippets.py:27
+msgid "Resource for end of body"
+msgstr ""
+
+#: xtheme/plugins/social_media_links.py:35
+msgid "URL"
+msgstr ""
+
+#: xtheme/plugins/social_media_links.py:39
+msgid "Ordering"
+msgstr ""
+
+#: xtheme/plugins/social_media_links.py:66
+msgid "Social Media Links"
+msgstr ""
+
+#: xtheme/plugins/social_media_links.py:70
+msgid "Topic"
+msgstr ""
+
+#: xtheme/plugins/social_media_links.py:72
+msgid "Icon Size"
+msgstr ""
+
+#: xtheme/plugins/social_media_links.py:73
+#: xtheme/plugins/social_media_links.py:81
+msgid "Default"
+msgstr ""
+
+#: xtheme/plugins/social_media_links.py:74
+msgid "Large"
+msgstr ""
+
+#: xtheme/plugins/social_media_links.py:80
+msgid "Alignment"
+msgstr ""
+
+#: xtheme/plugins/social_media_links.py:82 xtheme/views/forms.py:31
+msgid "Left"
+msgstr ""
+
+#: xtheme/plugins/social_media_links.py:83
+msgid "Center"
+msgstr ""
+
+#: xtheme/plugins/social_media_links.py:84 xtheme/views/forms.py:32
+msgid "Right"
+msgstr ""
+
+#: xtheme/plugins/text.py:24
+msgid "text"
+msgstr ""
+
+#: xtheme/rendering.py:155
+#, python-format
+msgid "Click to edit placeholder: %s"
+msgstr ""
+
+#: xtheme/rendering.py:163
+msgid ""
+"This placeholder is global and content of this placeholder is shown on all "
+"pages."
+msgstr ""
+
+#: xtheme/resources.py:30
+msgid "End of head"
+msgstr ""
+
+#: xtheme/resources.py:35
+msgid "Start of head"
+msgstr ""
+
+#: xtheme/resources.py:40
+msgid "End of body"
+msgstr ""
+
+#: xtheme/resources.py:45
+msgid "Start of body"
+msgstr ""
+
+#: xtheme/resources.py:50
+msgid "Content start"
+msgstr ""
+
+#: xtheme/resources.py:55
+msgid "Content end"
+msgstr ""
+
+#: xtheme/resources.py:113
+msgid "(Error while rendering)"
+msgstr ""
+
+#: xtheme/templates/shuup/xtheme/admin/config_detail.jinja:11
+msgid "Theme Configuration"
+msgstr ""
+
+#: xtheme/templates/shuup/xtheme/admin/config_detail.jinja:67
+msgid "Theme Guide"
+msgstr ""
+
+#: xtheme/views/editor.py:55
+msgid "No access to editing"
+msgstr ""
+
+#: xtheme/views/editor.py:74
+#, python-format
+msgid "Unknown command %s"
+msgstr ""
+
+#: xtheme/views/editor.py:99
+msgid "Unable to determine current theme."
+msgstr ""
+
+#: xtheme/views/editor.py:160
+#, python-format
+msgid "Cannot add more than %d cells in one row."
+msgstr ""
+
+#: xtheme/views/editor.py:199
+msgid "Published"
+msgstr ""
+
+#: xtheme/views/editor.py:203
+msgid "Reverted"
+msgstr ""
+
+#: xtheme/views/forms.py:21
+msgid "Full Width"
+msgstr ""
+
+#: xtheme/views/forms.py:22
+msgid "Three Fourths (3/4)"
+msgstr ""
+
+#: xtheme/views/forms.py:23
+msgid "Two Thirds (2/3)"
+msgstr ""
+
+#: xtheme/views/forms.py:24
+msgid "Half (1/2)"
+msgstr ""
+
+#: xtheme/views/forms.py:25
+msgid "One Third (1/3)"
+msgstr ""
+
+#: xtheme/views/forms.py:26
+msgid "One Fourth (1/4)"
+msgstr ""
+
+#: xtheme/views/forms.py:30
+msgid "Auto"
+msgstr ""
+
+#: xtheme/views/forms.py:49
+msgid "Cell width"
+msgstr ""
+
+#: xtheme/views/forms.py:53
+msgid "Cell align"
+msgstr ""
+
+#: xtheme/views/forms.py:57
+msgid "Extra classes"
+msgstr ""
+
+#: xtheme/views/forms.py:58
+msgid "Add extra CSS classes names to the cell"
+msgstr ""
+
+#: xtheme/views/forms.py:64
+msgid "No Plugin"
+msgstr ""

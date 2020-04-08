@@ -1,0 +1,262 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-08 09:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: simple_supplier/admin_module/__init__.py:18
+#: simple_supplier/admin_module/views.py:76
+#: simple_supplier/templates/shuup/simple_supplier/admin/product_form_part.jinja:41
+msgid "Stock management"
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:31
+msgid "SKU"
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:32
+msgid "Filter by SKU..."
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:35
+msgid "Name"
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:36
+msgid "Filter by name..."
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:39 simple_supplier/notify_events.py:23
+msgid "Supplier"
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:43
+msgid "Stock information"
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:47
+msgid "Adjust stock"
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:95
+#, python-format
+msgid ""
+"Added %(delta)s %(unit_symbol)s for product %(product_name)s stock "
+"(%(supplier_name)s)"
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:99
+#, python-format
+msgid ""
+"Removed %(delta)s %(unit_symbol)s from product %(product_name)s stock "
+"(%(supplier_name)s)"
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:149
+#, python-format
+msgid "Alert limit for product %(product_name)s set to %(value)s."
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:165
+#: simple_supplier/admin_module/views.py:180
+msgid "Not allowed"
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:170
+msgid "Error, please check submitted values and try again."
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:174
+#, python-format
+msgid "Error, please check submitted values and try again (%(error)s)."
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:193
+#, python-brace-format
+msgid "Stock management is now enabled for {product}"
+msgstr ""
+
+#: simple_supplier/admin_module/views.py:195
+#, python-brace-format
+msgid "Stock management is now disabled for {product}"
+msgstr ""
+
+#: simple_supplier/forms.py:20
+#, python-format
+msgid "Purchase price per unit (%(currency_name)s)"
+msgstr ""
+
+#: simple_supplier/forms.py:24
+msgid "Quantity"
+msgstr ""
+
+#: simple_supplier/forms.py:36
+msgid "Only non-zero values can be added to stock."
+msgstr ""
+
+#: simple_supplier/forms.py:42
+msgid "Alert limit"
+msgstr ""
+
+#: simple_supplier/models.py:36 simple_supplier/models.py:63
+msgid "product"
+msgstr ""
+
+#: simple_supplier/models.py:37 simple_supplier/models.py:65
+msgid "supplier"
+msgstr ""
+
+#: simple_supplier/models.py:38
+msgid "created on"
+msgstr ""
+
+#: simple_supplier/models.py:40
+msgid "created by"
+msgstr ""
+
+#: simple_supplier/models.py:41
+msgid "delta"
+msgstr ""
+
+#: simple_supplier/models.py:45
+msgid "type"
+msgstr ""
+
+#: simple_supplier/models.py:57
+msgid "alert limit"
+msgstr ""
+
+#: simple_supplier/models.py:58
+msgid "stock managed"
+msgstr ""
+
+#: simple_supplier/models.py:59
+msgid "Use this to override the supplier default stock behavior per product."
+msgstr ""
+
+#: simple_supplier/models.py:66
+msgid "logical count"
+msgstr ""
+
+#: simple_supplier/models.py:67
+msgid "physical count"
+msgstr ""
+
+#: simple_supplier/notify_events.py:21
+msgid "Alert Limit Reached"
+msgstr ""
+
+#: simple_supplier/notify_events.py:24
+msgid "Product"
+msgstr ""
+
+#: simple_supplier/notify_events.py:26
+msgid "Supplier Email"
+msgstr ""
+
+#: simple_supplier/notify_events.py:27
+msgid "Shop Email"
+msgstr ""
+
+#: simple_supplier/notify_events.py:30
+msgid "Fired in the last 24 hours?"
+msgstr ""
+
+#: simple_supplier/notify_events.py:33
+msgid ""
+"This will be True if this event was already dispatched in the last 24 hours "
+"for the same product and supplier. This is useful to prevent sending "
+"identical notifications in a short period of time."
+msgstr ""
+
+#: simple_supplier/notify_script_template.py:23
+msgid "Send to?"
+msgstr ""
+
+#: simple_supplier/notify_script_template.py:24
+msgid "Send email to whom?"
+msgstr ""
+
+#: simple_supplier/notify_script_template.py:25
+msgid "Do not send the same email within 24 hours."
+msgstr ""
+
+#: simple_supplier/notify_script_template.py:28
+msgid ""
+"If enabled, avoids sending the same email for the same product and supplier "
+"within 24 hours."
+msgstr ""
+
+#: simple_supplier/notify_script_template.py:35
+msgid "Send Stock Limit Alert Email"
+msgstr ""
+
+#: simple_supplier/notify_script_template.py:36
+msgid ""
+"Send me an email when a product stock is lower than the configured limit."
+msgstr ""
+
+#: simple_supplier/notify_script_template.py:37
+msgid ""
+"This script will send an email to the configured destination alerting about "
+"the a product's low stock of a supplier. You can configure to not send the "
+"same email multiple times in a period of 24 hours. Every time a product's "
+"stock reach its configured limit, this notification will be fired and the "
+"email sent."
+msgstr ""
+
+#: simple_supplier/notify_script_template.py:94
+msgid "Low stock of: {{ product }} from {{ supplier }}"
+msgstr ""
+
+#: simple_supplier/notify_script_template.py:95
+msgid ""
+"Hi!\n"
+"You are receiving this message because the product {{ product}} from "
+"{{ supplier }} has a low stock."
+msgstr ""
+
+#: simple_supplier/templates/shuup/simple_supplier/admin/add_stock_form.jinja:32
+msgid "Disable stock management"
+msgstr ""
+
+#: simple_supplier/templates/shuup/simple_supplier/admin/add_stock_form.jinja:32
+msgid "Enable stock management"
+msgstr ""
+
+#: simple_supplier/templates/shuup/simple_supplier/admin/stock_information.jinja:5
+#, python-brace-format
+msgid "Physical count ({sales_unit})"
+msgstr ""
+
+#: simple_supplier/templates/shuup/simple_supplier/admin/stock_information.jinja:13
+#, python-brace-format
+msgid "Logical count ({sales_unit})"
+msgstr ""
+
+#: simple_supplier/templates/shuup/simple_supplier/admin/stock_information.jinja:21
+msgid "Value per unit"
+msgstr ""
+
+#: simple_supplier/templates/shuup/simple_supplier/admin/stock_information.jinja:29
+msgid "Total value"
+msgstr ""
+
+#: simple_supplier/templates/shuup/simple_supplier/admin/stock_information.jinja:38
+#, python-brace-format
+msgid "Alert limit ({sales_unit})"
+msgstr ""

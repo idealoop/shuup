@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-08 09:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: order_printouts/admin_module/__init__.py:17
+#: order_printouts/admin_module/section.py:28
+msgid "Printouts"
+msgstr ""
+
+#: order_printouts/admin_module/forms.py:19
+msgid "To"
+msgstr ""
+
+#: order_printouts/admin_module/forms.py:20
+msgid "Email Subject"
+msgstr ""
+
+#: order_printouts/admin_module/forms.py:21
+msgid "Email Body"
+msgstr ""
+
+#: order_printouts/admin_module/section.py:20
+#, python-format
+msgid ""
+"Important information regarding your order, see attachment.\n"
+"\n"
+"Best Regards,\n"
+"%(shop)s"
+msgstr ""
+
+#: order_printouts/admin_module/section.py:47
+#, python-format
+msgid "%(shop)s: Order %(pk)s"
+msgstr ""
+
+#: order_printouts/admin_module/views.py:26
+msgid ""
+"Current shop does not match with order shop. Please change currently active "
+"shop."
+msgstr ""
+
+#: order_printouts/admin_module/views.py:57
+#: order_printouts/admin_module/views.py:71
+msgid "Not allowed"
+msgstr ""
+
+#: order_printouts/admin_module/views.py:90
+msgid "Delivery slip"
+msgstr ""
+
+#: order_printouts/admin_module/views.py:90
+#: order_printouts/admin_module/views.py:109
+msgid "Order"
+msgstr ""
+
+#: order_printouts/admin_module/views.py:109
+msgid "Order confirmation"
+msgstr ""
+
+#: order_printouts/apps.py:16
+msgid "Order printouts"
+msgstr ""
