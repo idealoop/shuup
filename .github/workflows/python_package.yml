@@ -43,6 +43,10 @@ jobs:
         run: |
           npm run build
 
+      - name: Compile messages
+        run: |
+          django-admin compilemessages -l sk
+
       - name: Build and publish core package
         run: |
           python setup.py sdist bdist_wheel
