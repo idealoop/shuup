@@ -126,18 +126,18 @@ msgstr "Vyberte jazyky, ktoré chcete, aby boli v obchode dostupné. Nevyplnené
 
 #, python-format
 msgid "Basket loading failed: Incompatible basket (%s)"
-msgstr "Načítanie košíka zlyhalo: Nekompatibilný košík."
+msgstr "Načítanie košíka zlyhalo: Nekompatibilný košík (%s)"
 
 msgid "Try to remove some products from the basket and order them separately."
 msgstr "Skúste z košíka odobrať niektoré produkty a objednať ich samostatne."
 
 #, python-format
 msgid "Products in basket cannot be shipped together. %s"
-msgstr "Produkty v košíku nie je možné doručiť spolu."
+msgstr "Produkty v košíku nie je možné doručiť spolu. %s"
 
 #, python-format
 msgid "Products in basket have no common payment method. %s"
-msgstr "Produkty v košíku nemajú spoločný spôsob platby."
+msgstr "Produkty v košíku nemajú spoločný spôsob platby. %s"
 
 msgid "Tax number is required with the company name."
 msgstr "Spolu s názvom firmy je požadované aj číslo IČO."
@@ -351,7 +351,7 @@ msgid ""
 "of the configured price range step."
 msgstr "Začiarknite, ak chcete, aby bolo možné filtrovať produkty podľa ceny. "
 "Ceny budú uvedené v skupinách od minimálneho cenového rozpätia po maximálne cenové rozpätie "
-"v násobkoch hodnoty nakonfigurovaného cenového rozpätia.“
+"v násobkoch hodnoty nakonfigurovaného cenového rozpätia."
 
 msgid ""
 "Use a numeric value to set the order in which the price range filters will "
@@ -572,7 +572,7 @@ msgstr "Po vytvorení zásielky poslať email zákazníkovi. "
 msgid ""
 "This script will send an email to customer when a shipment of his order has "
 "been created."
-msgstr "Tento skript pošle zákazníkovi e-mail, keď bude vytvorená zásielka s jeho objednávkou.“
+msgstr "Tento skript pošle zákazníkovi e-mail, keď bude vytvorená zásielka s jeho objednávkou."
 
 msgid "{{ order.shop }} - Shipment created for order {{ order.identifier }}"
 msgstr "{{ order.shop }} - Vytvorená zásielka pre objednávku {{ order.identifier }}"
