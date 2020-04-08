@@ -40,10 +40,10 @@ msgid ""
 msgstr ""
 
 msgid "Created on"
-msgstr ""
+msgstr "Vytvorené"
 
 msgid "Last updated on"
-msgstr ""
+msgstr "Upravené"
 
 msgid "Abandoned"
 msgstr ""
@@ -58,22 +58,22 @@ msgid "Shop"
 msgstr ""
 
 msgid "Product count"
-msgstr ""
+msgstr "Počet produktov"
 
 msgid "Customer"
-msgstr ""
+msgstr "Zákazník"
 
 msgid "Orderer"
-msgstr ""
+msgstr "Objednávateľ"
 
 msgid "Total"
-msgstr ""
+msgstr "Celkom"
 
 msgid "Ordered"
-msgstr ""
+msgstr "Objednané"
 
 msgid "Require shipping method"
-msgstr ""
+msgstr "Vyžaduje spôsob dopravy"
 
 msgid "Whether to require the shipping method in checkout phases."
 msgstr ""
