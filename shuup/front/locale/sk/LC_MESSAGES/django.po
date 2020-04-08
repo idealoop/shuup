@@ -23,7 +23,7 @@ msgstr "Hodnota opusteného nákupného košíka"
 
 #, python-brace-format
 msgid "Based on {b} carts over the last {d} days"
-msgstr ""
+msgstr "Na základe {b} košíkov za posledných {d} dní"
 
 msgid "Carts"
 msgstr "Nákupné košíky"
@@ -32,7 +32,7 @@ msgid "Show carts"
 msgstr "Zobraziť nákupné košíky"
 
 msgid "Cart Inactivity Delay (hours)"
-msgstr ""
+msgstr "Oneskorenie nečinnosti košíka (hodiny)"
 
 msgid ""
 "Set the number of hours the cart must be inactive before it's displayed in "
@@ -43,13 +43,13 @@ msgid "Created on"
 msgstr "Vytvorené"
 
 msgid "Last updated on"
-msgstr "Upravené"
+msgstr "Naposledy upravené"
 
 msgid "Abandoned"
 msgstr "Opustený"
 
 msgid "yes"
-msgstr "áné"
+msgstr "áno"
 
 msgid "no"
 msgstr "nie"
@@ -76,13 +76,13 @@ msgid "Require shipping method"
 msgstr "Vyžaduje spôsob dopravy"
 
 msgid "Whether to require the shipping method in checkout phases."
-msgstr ""
+msgstr "Či vyžadovať spôsob doručenia pri platení."
 
 msgid "Require payment method"
 msgstr "Vyžaduje spôsob platby"
 
 msgid "Whether to require the payment method in checkout phases."
-msgstr ""
+msgstr "Či vyžadovať spôsob platby pri platení. "
 
 msgid "Registration Settings"
 msgstr "Nastavenia registrácie"
@@ -94,19 +94,20 @@ msgid "If you select this, companies can register into your store."
 msgstr "Ak toto vyberiete, do vášho obchodu sa budú môcť zaregistrovať firmy."
 
 msgid "Company registration requires approval"
-msgstr "Zaregistrovanie firmy si vyžaduje schválenie."
+msgstr "Zaregistrovanie firmy si vyžaduje schválenie"
 
 msgid ""
 "Registered companies must be manually approved by admin if this is checked. "
 "This option has no effect if company registration is not allowed on your "
 "site."
-msgstr "Ak je toto zvolené, registrované firmy musia byť manuálne schválené administrátorom."
+msgstr "Začiarknutím budú musieť byť registrované firmy manuálne schválené administrátorom."
+"Táto možnosť neplatí, ak na vašej stránke nie je povolená registrácia pre firmy."
 
 msgid "Company tax number validation"
-msgstr "OVerenie firemného čísla IČO."
+msgstr "Overenie firemného čísla DIČO/IČO."
 
 msgid "Company tax number format is validated for European countries."
-msgstr "Formát čísla IČO firmy je pre európske krajiny schválený."
+msgstr "Formát čísla DIČO/IČO firmy je pre európske krajiny schválený."
 
 msgid "Override shop's default configuration"
 msgstr "Preskočiť predvolené nastavenia obchodu."
@@ -114,7 +115,7 @@ msgstr "Preskočiť predvolené nastavenia obchodu."
 msgid ""
 "If checked, this configuration will be used instead of the shop's default "
 "configuration."
-msgstr "Ak toto zvolíte, toto nastavenie bude použité namiesto predvoleného nastavenia obchodu."
+msgstr "Začiarknutím, bude toto nastavenie použité namiesto predvoleného nastavenia obchodu."
 
 msgid "Available languages in storefront"
 msgstr "Dostupné jazyky obchodu."
@@ -140,10 +141,10 @@ msgid "Products in basket have no common payment method. %s"
 msgstr "Produkty v košíku nemajú spoločný spôsob platby. %s"
 
 msgid "Tax number is required with the company name."
-msgstr "Spolu s názvom firmy je požadované aj číslo IČO."
+msgstr "Spolu s názvom firmy je požadované aj číslo DIČO/IČO."
 
 msgid "Company name is required with the tax number."
-msgstr "Názov firmy je požadovaný spolu s číslom IČO."
+msgstr "Názov firmy je požadovaný spolu s číslom DIČO/IČO."
 
 msgid "Use a saved address"
 msgstr "Použiť uloženú adresu"
@@ -152,7 +153,7 @@ msgid "Addresses"
 msgstr "Adresy"
 
 msgid "Checkout as Guest"
-msgstr "Prihlásiť ako hosťa"
+msgstr "Prihlásiť sa ako hosť"
 
 msgid "Register"
 msgstr "Registrovať"
@@ -267,10 +268,10 @@ msgid "Filter products by manufacturer"
 msgstr "Filtrovať produkty podľa výrobcu"
 
 msgid "Ordering for filter by manufacturer"
-msgstr "Zoradenie podľa výrobcu."
+msgstr "Zoradenie podľa výrobcu"
 
 msgid "Manufacturers"
-msgstr "Výrobca"
+msgstr "Výrobcovia"
 
 msgid ""
 "Check this to allow products to be filterable by manufacturer for this "
@@ -351,7 +352,7 @@ msgid ""
 "of the configured price range step."
 msgstr "Začiarknite, ak chcete, aby bolo možné filtrovať produkty podľa ceny. "
 "Ceny budú uvedené v skupinách od minimálneho cenového rozpätia po maximálne cenové rozpätie "
-"v násobkoch hodnoty nakonfigurovaného cenového rozpätia."
+"v násobkoch hodnoty nakonfigurovaného kroku cenového rozpätia."
 
 msgid ""
 "Use a numeric value to set the order in which the price range filters will "
@@ -375,23 +376,23 @@ msgid ""
 msgstr "Určite maximálnu cenu filtra. Posledné rozpätie bude v tejto hodnote a vyššie."
 
 msgid "Price range step"
-msgstr "Násobok cenového "
+msgstr "Krok cenového rozsahu "
 
 msgid ""
 "Set the price step for each range. Each range will increment by this value."
-msgstr ""
+msgstr "Nastavte cenový krok pre každý rozsah. Každý rozsah sa bude zvyšovať o túto hodnotu."
 
 #, python-format
 msgid "Under %(min_limit)s"
-msgstr ""
+msgstr "Menej ako %(min_limit)s"
 
 #, python-format
 msgid "%(min)s to %(max)s"
-msgstr ""
+msgstr "%(min)s do %(max)s"
 
 #, python-format
 msgid "%(max_limit)s & Above"
-msgstr ""
+msgstr "%(max_limit)s & viac"
 
 msgid "Filter products by supplier"
 msgstr "Filtrovať produkty podľa dodávateľa"
@@ -522,7 +523,7 @@ msgid "Shipment Status"
 msgstr "Stav zásielky"
 
 msgid "Shipment Deleted"
-msgstr "Zásielka vymazaná"
+msgstr "Zásielka odstránená"
 
 msgid "Payment Created"
 msgstr "Vytvorená platba"
@@ -562,12 +563,36 @@ msgid ""
 "    </tbody>\n"
 "</table>\n"
 msgstr ""
+"<p>Vážený {{ order.customer }},</p>\n"
+"<p>Bola vytvorená zásielka pre vašu objednávku a tu sú podrobnosti:</p>\n"
+"\n"
+"{% if shipment.tracking_code %}\n"
+"<p>Kód sledovania zásielky: {{ shipment.tracking_code }}</p>\n"
+"{% endif %}\n"
+"\n"
+"<p>Obsah:</p>\n"
+"<table>\n"
+"    <thead>\n"
+"        <tr>\n"
+"            <th>Produkt</th>\n"
+"            <th>Množstvo</th>\n"
+"        </tr>\n"
+"    </thead>\n"
+"    <tbody>\n"
+"{% for shipment_product in shipments.total_products %}\n"
+"        <tr>\n"
+"            <td>{{ shipment_product.product }}</td>\n"
+"            <td>{{ shipment_product.quantity }}</td>\n"
+"        </tr>\n"
+"{% endif %}\n"
+"    </tbody>\n"
+"</table>\n"
 
 msgid "Send Shipment Created Email"
 msgstr "Poslať email o vytvorení zásielky"
 
 msgid "Send an email to customer when a shipment is created."
-msgstr "Po vytvorení zásielky poslať email zákazníkovi. "
+msgstr "Po vytvorení zásielky poslať email zákazníkovi."
 
 msgid ""
 "This script will send an email to customer when a shipment of his order has "
@@ -578,616 +603,619 @@ msgid "{{ order.shop }} - Shipment created for order {{ order.identifier }}"
 msgstr "{{ order.shop }} - Vytvorená zásielka pre objednávku {{ order.identifier }}"
 
 msgid "Send Shipment Deleted Email"
-msgstr ""
+msgstr "Poslať email o zrušení zásielky"
 
 msgid "Send email when a shipment is deleted."
-msgstr ""
+msgstr "Poslať email, keď je zásielka odstránená."
 
 msgid ""
 "This script will send an email to customer or to any configured email right "
 "after a shipment gets deleted."
-msgstr ""
+msgstr "Tento skript pošle zákazníkovi email alebo na prednastavenú emailovú adresu, hneď po odstránení zásielky. "
 
 msgid "{{ order.shop }} - Shipment deleted for order {{ order.identifier }}"
-msgstr ""
+msgstr "{{ order.shop }} - Zásielka odstránená pre objednávku {{ order.identifier }} "
 
 msgid "Send Payment Created Email"
-msgstr ""
+msgstr "Poslať email o vytvorení platby"
 
 msgid "Send email to customer when a payment is created."
-msgstr ""
+msgstr "Po vytvorení platby poslať email zákazníkovi."
 
 msgid ""
 "This script will send an email to customer or to any configured email right "
 "after a payment gets created."
-msgstr ""
+msgstr "Tento skript pošle zákazníkovi, alebo na prednastavenú emailovú adresu, email hneď po vytvorení platby."
 
 msgid "{{ order.shop }} - Payment created for order {{ order.identifier }}"
-msgstr ""
+msgstr "{{ order.shop }} - Vytvorená platba pre objednávku {{ order.identifier }}"
 
 msgid "Send Refund Created Email"
-msgstr ""
+msgstr "Poslať email o vytvorenom vrátení."
 
 msgid "Send email when a refund is created."
-msgstr ""
+msgstr "Poslať email, keď sa vytvorí vrátenie."
 
 msgid ""
 "This script will send an email to customer or to any configured email right "
 "after a refund gets created."
-msgstr ""
+msgstr "Tento skript pošle email zákazníkovi, alebo na prednastavenú emailovú adresu, email hneď po vytvorení vrátenia."
 
 msgid "{{ order.shop }} - Refund created for order {{ order.identifier }}"
-msgstr ""
+msgstr "{{ order.shop }} - Vytvorené vrátenie pre objednávku {{ order.identifier }}"
 
 msgid "Send Order Confirmation Email"
-msgstr ""
+msgstr "Poslať email s potvrdením objednávky"
 
 msgid "Send a confirmation email when the order is created."
-msgstr ""
+msgstr "Poslať potvrdzujúci email, keď sa vytvorí objednávka."
 
 msgid ""
 "This script will send an email to customer or to any configured email right "
 "after an order is created. The order contents can be put on email body as "
 "well as other informations like shipping method and payment method."
-msgstr ""
+msgstr "Tento skript pošle zákazníkovi, alebo na prednastavenú emailovú adresu, email hneď po vytvorení objednávky."
+"V emaile môže byť uvedený obsah objednávky, ako aj ďalšie informácie ako spôsob dopravy a platby."
 
 msgid "Cart Inactivity Delay"
-msgstr ""
+msgstr "Oneskorenie nečinnosti košíka"
 
 msgid "Checkout configuration"
-msgstr ""
+msgstr "Nastavenie pokladne"
 
 msgid "Product list sorts and filters"
-msgstr ""
+msgstr "Zoznam produktov a filtre"
 
 msgid "Storefront Languages"
-msgstr ""
+msgstr "Jazyky obchodu"
 
 msgid "Shopping cart"
-msgstr ""
+msgstr "Nákupný košík"
 
 msgid "Your shopping cart is empty."
-msgstr ""
+msgstr "Váš nákupný košík je prázdny."
 
 msgid "There were errors on following items"
-msgstr ""
+msgstr "Pri nasledujúcich položkách sa vyskytli chyby"
 
 msgid "You are unable to proceed to checkout!"
-msgstr ""
+msgstr "Nie je možné prejsť k pokladni!"
 
 msgid "Checkout"
-msgstr ""
+msgstr "Pokladňa"
 
 msgid "Log in"
-msgstr ""
+msgstr "Prihlásiť sa"
 
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Zabudli ste svoje heslo?"
 
 msgid "There are errors"
-msgstr ""
+msgstr "Vyskytli sa chyby"
 
 msgid "Please wait..."
-msgstr ""
+msgstr "Čakajte prosím..."
 
 msgid "My Dashboard"
-msgstr ""
+msgstr "Môj dashboard"
 
 msgid "Dashboard"
-msgstr ""
+msgstr "Dashboard"
 
 msgid "Home"
-msgstr ""
+msgstr "Domov"
 
 msgid "Bad Request"
-msgstr ""
+msgstr "Nesprávna požiadavka"
 
 msgid "Unfortunately the server couldn't process your request."
-msgstr ""
+msgstr "Ľutujeme, server nedokázal spracovať vašu požiadavku."
 
 msgid "Back to Homepage"
-msgstr ""
+msgstr "Späť na domovskú stránku"
 
 msgid "Permission Denied"
-msgstr ""
+msgstr "Prístup zamietnutý"
 
 msgid "Unfortunately you didn't have permission to display this page."
-msgstr ""
+msgstr "Ľutujeme, nemáte povolenie na zobrazenie tejto stránky."
 
 msgid "Page Not Found"
-msgstr ""
+msgstr "Stránka nenájdená"
 
 msgid "Unfortunately the page you were looking for does not exist."
-msgstr ""
+msgstr "Ľutujeme, stránka, ktorú hľadáte, neexistuje."
 
 msgid "Go Back"
-msgstr ""
+msgstr "Späť"
 
 msgid "Internal Server Error"
-msgstr ""
+msgstr "Interná chyba servera"
 
 msgid ""
 "Unfortunately an internal server error occurred. Try refreshing the page or "
 "try again later."
-msgstr ""
+msgstr "Ľutujeme, vyskytla sa interná chyba servera. Skúste obnoviť stránku alebo to skúste neskôr."
 
 msgid "Welcome to Shuup!"
-msgstr ""
+msgstr "Vitajte v Shuup!"
 
 #, python-format
 msgid "Welcome to %(name)s!"
-msgstr ""
+msgstr "Vitajte v %(name)s!"
 
 msgid "your shop"
-msgstr ""
+msgstr "váš obchod"
 
 msgid ""
 "You are seeing this page because there is no theme selected for the default "
 "frontend."
-msgstr ""
+msgstr "Táto stránka sa zobrazuje, pretože nie je vybratá žiadna téma pre predvolený frontend."
 
 msgid "Log in to the administration interface"
-msgstr ""
+msgstr "Prihláste sa do administračného prostredia"
 
 msgid "to choose a theme and set up your shop."
-msgstr ""
+msgstr "pre výber témy a nastavenia vášho obchodu."
 
 msgid ""
 "The administration interface does not seem to be available. Use other means "
 "to choose a theme."
-msgstr ""
+msgstr "Zdá sa, že administračné rozhranie nie je k dispozícii. Použite inú tému."
 
 msgid "Product added to cart"
-msgstr ""
+msgstr "Produkt pridaný do košíka"
 
 msgid "There was an error adding the product to the basket"
-msgstr ""
+msgstr "Pri pridávaní produktu do košíka sa vyskytla chyba"
 
 msgid "Remove product from basket"
-msgstr ""
+msgstr "Odstráňte produkt z košíka"
 
 msgid ""
 "The following items are not currently available (or are not available in the "
 "desired quantity) and cannot be included in your order."
-msgstr ""
+msgstr "Nasledovné položky nie sú momentálne k dispozícii (alebo nie sú dostupné v požadovanom množstve) "
+"a nemôžu tak byť zahrnuté do vašej objednávky."
 
 msgid "Continue Shopping"
-msgstr ""
+msgstr "Pokračovať v nákupe"
 
 msgid "Proceed to checkout"
-msgstr ""
+msgstr "Prejsť k pokladni"
 
 msgid "Coupons applied"
-msgstr ""
+msgstr "Použité zľavové kupóny"
 
 msgid "Have a coupon code? Enter it here"
-msgstr ""
+msgstr "Máte kód zľavového kupónu? Zadajte ho sem"
 
 msgid "Coupon Code"
-msgstr ""
+msgstr "Kód zľavového kupónu"
 
 msgid "Submit Code"
-msgstr ""
+msgstr "Potvrdiť kód"
 
 msgid "Save cart"
-msgstr ""
+msgstr "Uložiť nákupný košík"
 
 msgid "Cart Title"
-msgstr ""
+msgstr "Názov nákupného košíka"
 
 msgid "Save"
-msgstr ""
+msgstr "Uložiť"
 
 msgid "Back to Products"
-msgstr ""
+msgstr "Späť na produkty"
 
 msgid "Invalid coupon code."
-msgstr ""
+msgstr "Neplatný kód zľavového kupónu."
 
 msgid "Error when removing coupon."
-msgstr ""
+msgstr "Chyba pri odstraňovaní zľavového kupónu."
 
 msgid "Coupon is not available."
-msgstr ""
+msgstr "Zľavový kupón nie je k dispozícii."
 
 msgid "Error when adding coupon."
-msgstr ""
+msgstr "Chyba pri pridávaní zľavového kupónu."
 
 msgid "Cart saved!"
-msgstr ""
+msgstr "Nákupný košík uložený!"
 
 msgid "Filter Products"
-msgstr ""
+msgstr "Filtrovať produkty"
 
 msgid "Show Grid/List"
-msgstr ""
+msgstr "Zobraziť tabuľku/zoznam"
 
 msgid "Grid/list view"
-msgstr ""
+msgstr "Zobrazenie tabuľky/zoznamu"
 
 msgid "Continue"
-msgstr ""
+msgstr "Pokračovať"
 
 msgid "Billing address"
-msgstr ""
+msgstr "Fakturačná adresa"
 
 msgid "Ordering for a company?"
-msgstr ""
+msgstr "Objednávate pre firmu?"
 
 msgid "Please fill out these fields if you are ordering for a company."
-msgstr ""
+msgstr "Prosím, vyplňte nasledovné polia, ak sa jedná o objednávku pre firmu."
 
 msgid "Shipping address"
-msgstr ""
+msgstr "Doručovacia adresa"
 
 msgid "Ship to my billing address"
-msgstr ""
+msgstr "Doručiť na moju fakturačnú adresu"
 
 msgid "Choose Shipping Method"
-msgstr ""
+msgstr "Vybrať spôsob doručenia"
 
 msgid "Choose Payment Method"
-msgstr ""
+msgstr "Vybrať spôsob platby"
 
 msgid "No method is available."
-msgstr ""
+msgstr "Žiaden spôsob nie je k dispozícii."
 
 msgid "Delivery"
-msgstr ""
+msgstr "Doručenie"
 
 msgid "Delivery method"
-msgstr ""
+msgstr "Spôsob doručenia"
 
 msgid "Billing"
-msgstr ""
+msgstr "Fakturácia"
 
 msgid "Payment method"
-msgstr ""
+msgstr "Spôsob platby"
 
 msgid "Add comment"
-msgstr ""
+msgstr "Pridať komentár"
 
 msgid "Other information"
-msgstr ""
+msgstr "Ďaľšie informácie"
 
 msgid "Place Order"
-msgstr ""
+msgstr "Objednať"
 
 msgid "Previous"
-msgstr ""
+msgstr "Predchádzajúci"
 
 msgid "Next"
-msgstr ""
+msgstr "Ďalší"
 
 #, python-format
 msgid "Items %(start_index)d of %(end_index)d of %(count)d total"
-msgstr ""
+msgstr "Položky %(start_index)d z %(end_index)d z %(count)d celkového počtu"
 
 msgid "Change visibility limit to"
-msgstr ""
+msgstr "Zmeniť limit zobrazenia na"
 
 msgid "show only visible products and categories"
-msgstr ""
+msgstr "zobraziť iba viditeľné produkty a kategórie"
 
 msgid "show all products and categories"
-msgstr ""
+msgstr "zobraziť všetky produkty a kategórie"
 
 msgid "Change customer to person contact mode"
-msgstr ""
+msgstr "Zmeniť režim zákazníka na režim kontakt osoby"
 
 msgid "Change customer to company contact mode"
-msgstr ""
+msgstr "Zmeniť režim zákazníka na režim kontakt spoločnosti"
 
 msgid "Change customer mode to guest"
-msgstr ""
+msgstr "Zmeniť režim zákazníka na hosťa"
 
 msgid "Tools"
-msgstr ""
+msgstr "Nástroje"
 
 msgid "Maintenance"
-msgstr ""
+msgstr "Údržba"
 
 msgid "Live"
-msgstr ""
+msgstr "Naživo"
 
 msgid "Customer mode"
-msgstr ""
+msgstr "režim zákazníka"
 
 msgid "GUEST"
-msgstr ""
+msgstr "HOSŤ"
 
 msgid "COMPANY CONTACT"
-msgstr ""
+msgstr "KONTAKT NA SPOLOČNOSŤ"
 
 msgid "PERSON CONTACT"
-msgstr ""
+msgstr "KONTAKT NA OSOBU"
 
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Prepnúť navigáciu"
 
 #, python-brace-format
 msgid "Edit '{object_title}' in administration page"
-msgstr ""
+msgstr "Upraviť '{object_title}' na administračnej stránke"
 
 #, python-brace-format
 msgid "Edit {object_name} in Admin"
-msgstr ""
+msgstr "Upraviť {object_name} v Adminovi"
 
 msgid "Shop Administration"
-msgstr ""
+msgstr "Administrácia obchodu"
 
 msgid ""
 "There were errors on submitted form fields. Please check them and try again."
-msgstr ""
+msgstr "V poliach odoslaného formuláru sa vyskytli chyby. Prosím, skontrolujte si formulár a skúste znova odoslať."
 
 #, python-format
 msgid "By <strong>%(supplier_name)s</strong>"
-msgstr ""
+msgstr "Podľa <strong>%(supplier_name)s</strong>"
 
 #, python-brace-format
 msgid ""
 "Available until: <span class=\"availability-date\">{date}</span></small>"
-msgstr ""
+msgstr "Dostupné do: <span class=\"availability-date\">{date}</span></small>"
 
 msgid "Edit account details"
-msgstr ""
+msgstr "Upraviť detaily účtu"
 
 msgid "Edit company details"
-msgstr ""
+msgstr "Upraviť detaily spoločnosti"
 
 msgid "My orders"
-msgstr ""
+msgstr "Moje objednávky"
 
 msgid "My saved carts"
-msgstr ""
+msgstr "Moje uložené nákupné košíky"
 
 msgid "My wishlists"
-msgstr ""
+msgstr "Moje zoznamy"
 
 msgid "Admin panel"
-msgstr ""
+msgstr "Adimnistračný panel"
 
 msgid "Log out"
-msgstr ""
+msgstr "Odhlásiť"
 
 msgid "New user? Register here!"
-msgstr ""
+msgstr "Nový používateľ? Registrujte sa tu!"
 
 msgid "Cart"
-msgstr ""
+msgstr "Košík"
 
 msgid "Items"
-msgstr ""
+msgstr "Položky"
 
 msgid "View cart"
-msgstr ""
+msgstr "Zobraziť košík"
 
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 msgid "Products"
-msgstr ""
+msgstr "Produkty"
 
 msgid "Files"
-msgstr ""
+msgstr "Súbory"
 
 msgid "No method selected"
-msgstr ""
+msgstr "Nie je vybratá žiadna metóda"
 
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
 msgid "Unit Price"
-msgstr ""
+msgstr "Jednotková cena"
 
 msgid "Quantity"
-msgstr ""
+msgstr "Množstvo"
 
 msgid "excl. tax"
-msgstr ""
+msgstr "daň DPH"
 
 msgid "Products ordered"
-msgstr ""
+msgstr "Objednané produkty"
 
 msgid "Tax breakdown"
-msgstr ""
+msgstr "Rozčlenenie daní"
 
 msgid "Tax"
-msgstr ""
+msgstr "Daň"
 
 msgid "Tax percentage"
-msgstr ""
+msgstr "Daň v percentách"
 
 msgid "Based on amount"
-msgstr ""
+msgstr "Na základe množstva"
 
 msgid "Amount of tax"
-msgstr ""
+msgstr "Výška dane"
 
 msgid "Total including tax"
-msgstr ""
+msgstr "Celkom vrátane DPH"
 
 msgid "Company"
-msgstr ""
+msgstr "Spoločnosť"
 
 msgid "Tax number"
-msgstr ""
+msgstr "IČO/DIČO"
 
 msgid "Preview"
-msgstr ""
+msgstr "Prehľad"
 
 msgid "Also available in"
-msgstr ""
+msgstr "Tiež dostupné v"
 
 #, python-format
 msgid "Save %(discount_percent)s"
-msgstr ""
+msgstr "Ušetriť %(discount_percent)s"
 
 msgid "Product Information"
-msgstr ""
+msgstr "Informácie o produkte"
 
 msgid "Includes these products"
-msgstr ""
+msgstr "Zahŕňa tieto produkty"
 
 msgid "No product description available"
-msgstr ""
+msgstr "Nie je dostupný žiaden popis produktu"
 
 msgid "SKU"
-msgstr ""
+msgstr "Skladové číslo produktu"
 
 msgid "Barcode"
-msgstr ""
+msgstr "Čiarový kód"
 
 msgid "Manufacturer"
-msgstr ""
+msgstr "Výrobca"
 
 msgid "Package Size"
-msgstr ""
+msgstr "Veľkosť balenia"
 
 msgid "Available Until"
-msgstr ""
+msgstr "Dostupné do"
 
 msgid "Width"
-msgstr ""
+msgstr "Šírka"
 
 msgid "Height"
-msgstr ""
+msgstr "Výška"
 
 msgid "Depth"
-msgstr ""
+msgstr "Hĺbka"
 
 msgid "Net Weight"
-msgstr ""
+msgstr "Čistá hmotnosť"
 
 msgid "Gross Weight"
-msgstr ""
+msgstr "Celková hmotnosť"
 
 msgid "External link"
-msgstr ""
+msgstr "Externý odkaz"
 
 msgid "Select"
-msgstr ""
+msgstr "Vybrať"
 
 msgid "Select product"
-msgstr ""
+msgstr "Vybrať produkt"
 
 msgid "Add to cart"
-msgstr ""
+msgstr "Pridať do košíka"
 
 #, python-brace-format
 msgid "Available until: {date}"
-msgstr ""
+msgstr "Dostupné do: {date}"
 
 msgid "Maintenance mode"
-msgstr ""
+msgstr "Režim údržby"
 
 msgid "Shop is currently down for maintenance."
-msgstr ""
+msgstr "Obchod je momentálne mimo prevádzky z dôvodu údržby."
 
 msgid "Thank you for your order!"
-msgstr ""
+msgstr "Ďakujeme za vašu objednávku!"
 
 msgid ""
 "Your order has been received. You can see the details of your order below."
-msgstr ""
+msgstr "Vaša objednávka bola prijatá. Nižšie môžete vidieť detaily vašej objednávky."
 
 msgid "User account activation"
-msgstr ""
+msgstr "Aktivácia používateľského účtu"
 
 msgid ""
 "If you want to be able to see your order history, please create a password "
 "for your account: "
-msgstr ""
+msgstr "Ak chcete vidieť históriu vašej objednávky, prosím, zadajte heslo k vášmu účtu: "
 
 msgid "Send"
-msgstr ""
+msgstr "Poslať"
 
 msgid "Payment canceled"
-msgstr ""
+msgstr "Platba zrušená"
 
 msgid "You have canceled payment"
-msgstr ""
+msgstr "Zrušili ste platbu"
 
 msgid "Retry payment"
-msgstr ""
+msgstr "Opakovať platbu"
 
 msgid "Error"
-msgstr ""
+msgstr "Chyba"
 
 msgid "Combination not available"
-msgstr ""
+msgstr "Kombinácia nie je k dispozícii"
 
 msgid "Open product page"
-msgstr ""
+msgstr "Otvoriť stránku s produktom"
 
 msgid "Hide prices"
-msgstr ""
+msgstr "Skryť ceny"
 
 msgid "Set shop in catalog mode"
-msgstr ""
+msgstr "Nastaviť obchod do katalógového režimu"
 
 msgid "Show supplier info"
-msgstr ""
+msgstr "Zobraziť informácie o dodávateľovi"
 
 msgid ""
 "Show supplier name in product-box, product-detail, basket- and order-lines"
-msgstr ""
+msgstr "Zobraziť meno dodávateľa na balení produktu, v košíku a zozname objednávok"
 
 msgid "Show Product Details"
-msgstr ""
+msgstr "Zobraziť detaily o produkte"
 
 msgid ""
 "If you check this, extra information will be shown on product page in "
 "frontend."
-msgstr ""
+msgstr "Začiarknutím sa budú zobrazovať dodatočné informácie na stránke produktu v časti frontendu"
+
 
 msgid "Show Variations as Buttons"
-msgstr ""
+msgstr "Zobraziť varianty ako buttony"
 
 msgid ""
 "If you check this, the variations will be shown as buttons instead of "
 "dropdowns."
-msgstr ""
+msgstr "Začiarknutím sa varianty budú zobrazovať ako buttony namiesto rozbaľovacieho menu."
 
 msgid "Product detail extra tab title"
-msgstr ""
+msgstr "Nadpis karty s podrobnosťami o produkte"
 
 msgid "Enter the title for the product detail extra tab."
-msgstr ""
+msgstr "Zadajte názov pre kartu s podrobnosťami o produkte."
 
 msgid "Product detail extra tab content"
-msgstr ""
+msgstr "Obsah karty s podrobnosťami o produkte"
 
 msgid "Enter the content for the product detail extra tab."
-msgstr ""
+msgstr "Vložte obsah karty s podrobnosťami o produkte."
 
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 msgid "Details"
-msgstr ""
+msgstr "Podrobnosti"
 
 msgid "Attributes"
-msgstr ""
+msgstr "Vlastnosti"
 
 msgid "Product reviews"
-msgstr ""
+msgstr "Recenzie produktu"
 
 msgid "Product detail tabs"
-msgstr ""
+msgstr "Karty podrobností o produkte"
 
 msgid "Select all tabs that should be renderd in product details."
-msgstr ""
+msgstr "Vyberte všetky karty, ktoré sa majú vykresliť v podrobnostiach produktu."
 
 msgid "Tax number is not valid."
-msgstr ""
+msgstr "Neplatné DIČO/IČO "
 
 msgid "Edit"
-msgstr ""
+msgstr "Upraviť"
 
 #, python-brace-format
 msgid "{language_code} is an invalid language code"
-msgstr ""
+msgstr "{language_code} nie je platný kód jazyka"
 
 msgid "This product is not available in this shop."
-msgstr ""
+msgstr "Tento produkt nie je dostupný v tomto obchode."
