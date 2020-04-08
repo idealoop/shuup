@@ -38,10 +38,6 @@ jobs:
         run: |
           echo ::set-env name=BUILD_VERSION::$(date '+%Y.%m.%d.%H.%M')
 
-      - name: Build Resources
-        run: |
-          npm run build
-
       - name: Build and publish core package
         run: |
           python setup.py sdist bdist_wheel
