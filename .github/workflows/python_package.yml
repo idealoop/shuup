@@ -28,7 +28,8 @@ jobs:
                   unzip \
                   build-essential \
                   pkg-config \
-                  python-dev 
+                  python-dev \
+                  gettext
 
       - name: Install python dependencies
         run: |
