@@ -40,14 +40,10 @@ VERSION_FILE = os.path.join(TOPDIR, 'shuup', '_version.py')
 #      - Add ".post0.dev" suffix to VERSION variable here
 
 NAME = 'shuup'
-VERSION = '1.10.9.post0.dev'
+VERSION = os.getenv('BUILD_VERSION', '1.10.9.post0.dev')
 DESCRIPTION = 'E-Commerce Platform'
 AUTHOR = 'Shoop Commerce Ltd.'
 AUTHOR_EMAIL = 'shuup@shuup.com'
-URL = 'http://shuup.com/'
-DOWNLOAD_URL_TEMPLATE = (
-    'https://github.com/shuup/shuup/releases/download/'
-    'v{version}/shuup-{version}-py2.py3-none-any.whl')
 LICENSE = 'proprietary'  # https://spdx.org/licenses/
 CLASSIFIERS = """
 Development Status :: 5 - Production/Stable
@@ -156,8 +152,6 @@ if __name__ == '__main__':
         version=version,
         description=DESCRIPTION,
         long_description=utils.get_long_description(LONG_DESCRIPTION_FILE),
-        url=URL,
-        download_url=DOWNLOAD_URL_TEMPLATE.format(version=version),
         author=AUTHOR,
         author_email=AUTHOR_EMAIL,
         license=LICENSE,

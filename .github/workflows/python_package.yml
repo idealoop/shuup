@@ -1,0 +1,45 @@
+name: Python package
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+
+      - name: Set up node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.16.1
+
+      - name: Install os dependencies
+        run: |
+          sudo apt-get -y update &&\
+          sudo apt-get -y --no-install-recommends install \
+                  unzip \
+                  build-essential \
+                  pkg-config \
+                  python-dev \
+                  gettext
+
+      - name: Install python dependencies
+        run: |
+          pip install -r requirements_build.txt
+
+      - name: Set build version env
+        run: |
+          echo ::set-env name=BUILD_VERSION::$(date '+%Y.%m.%d.%H.%M')
+
+      - name: Build and publish core package
+        run: |
+          python setup.py sdist bdist_wheel
+          twine upload --repository-url https://pypi.idealoopdevops.com/ --username user --password ${{ secrets.PYPI_PASSWORD }} dist/*
