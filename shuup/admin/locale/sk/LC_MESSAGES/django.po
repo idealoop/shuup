@@ -19,308 +19,311 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 msgid "Home"
-msgstr ""
+msgstr "Domov"
 
 #, python-format
 msgid ""
 "Please enter a correct %(username)s and password. Note that both fields may "
 "be case-sensitive. In case of multiple accounts with same email only "
 "username can be used to login."
-msgstr ""
+msgstr "Prosím zadajte správne %(username)s a heslo. Rozlišujte veľké a malé písmená. "
+"V prípade viacerých účtov pod rovnakou emailovou adresou môže byť na prihlásenie použité iba užívateľské meno. "
 
 msgid "This account is inactive."
-msgstr ""
+msgstr "Účet je neaktívny."
 
 msgid "Username or email address"
-msgstr ""
+msgstr "Užívateľské meno alebo emailová adresa"
 
 msgid "Create New"
-msgstr ""
+msgstr "Vytvoriť nové"
 
 msgid "Select an option"
-msgstr ""
+msgstr "Vybrať možnosť"
 
 msgid "Monday"
-msgstr ""
+msgstr "Pondelok"
 
 msgid "Tuesday"
-msgstr ""
+msgstr "Utorok"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "Streda"
 
 msgid "Thursday"
-msgstr ""
+msgstr "Štvrtok"
 
 msgid "Friday"
-msgstr ""
+msgstr "Piatok"
 
 msgid "Saturday"
-msgstr ""
+msgstr "Sobota"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Nedeľa"
 
 msgid "Select"
-msgstr ""
+msgstr "Vybrať"
 
 msgid "Select Media"
-msgstr ""
+msgstr "Vybrať médiá"
 
 msgid "Select Image"
-msgstr ""
+msgstr "Vybrať obrázok"
 
 msgid "Select Product"
-msgstr ""
+msgstr "Vybrať produkt"
 
 msgid "Select Contact"
-msgstr ""
+msgstr "Vybrať kontakt"
 
 msgid "Orders"
-msgstr ""
+msgstr "Objednávky"
 
 msgid "Products"
-msgstr ""
+msgstr "Produkty"
 
 msgid "Contacts"
-msgstr ""
+msgstr "Kontakty"
 
 msgid "Campaigns"
-msgstr ""
+msgstr "Kampane"
 
 msgid "Content"
-msgstr ""
+msgstr "Obsah"
 
 msgid "Reports"
-msgstr ""
+msgstr "Správy"
 
 msgid "Shops"
-msgstr ""
+msgstr "Obchody"
 
 msgid "Addons"
-msgstr ""
+msgstr "Prídavné doplnky"
 
 msgid "Settings"
-msgstr ""
+msgstr "Nastavenia"
 
 msgid "Logs"
-msgstr ""
+msgstr "Záznam činností"
 
 msgid "Messages"
-msgstr ""
+msgstr "Správy"
 
 msgid "Attributes"
-msgstr ""
+msgstr "Vlastnosti"
 
 msgid "Identifier"
-msgstr ""
+msgstr "Indentifikátor"
 
 msgid "Filter by identifier..."
-msgstr ""
+msgstr "Filtrovať podľa indentifikátora..."
 
 msgid "Name"
-msgstr ""
+msgstr "Meno"
 
 msgid "Filter by name..."
-msgstr ""
+msgstr "Filtrovať podľa mena..."
 
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 msgid "Visibility Mode"
-msgstr ""
+msgstr "Režim zobrazenia"
 
 msgid "Searchable"
-msgstr ""
+msgstr "Vyhľadateľné"
 
 msgid "Used in # Product Types"
-msgstr ""
+msgstr "Používa sa v # typoch produktov"
 
 msgid "Categories"
-msgstr ""
+msgstr "Kategórie"
 
 msgid "Add a product category to organize your products"
-msgstr ""
+msgstr "Pridať kategóriu produktu na usporiadanie vašich produktov"
 
 msgid "New category"
-msgstr ""
+msgstr "Nová kategória"
 
 msgid "Can not use this category as parent for this shop."
-msgstr ""
+msgstr "Túto kategóriu nie je v tomto obchode možné použiť ako nadradenú."
 
 msgid "Primary Category"
-msgstr ""
+msgstr "Primárna kategória"
 
 msgid "Set this category as a primary for selected products."
-msgstr ""
+msgstr "Pre vybraté produkty nastaviť túto kategóriu ako primárnu."
 
 msgid "Additional Category"
-msgstr ""
+msgstr "Dodatočná kategória"
 
 msgid "Add selected products to this category"
-msgstr ""
+msgstr "Pridať vybraté produkty do tejto katefórie"
 
 msgid "Remove Products"
-msgstr ""
+msgstr "Odobrať produkty"
 
 msgid "Remove selected products from this category"
-msgstr ""
+msgstr "Odobrať vybraté produkty z tejto kategórie"
 
 msgid "Invalid category"
-msgstr ""
+msgstr "Neplatná kategória"
 
 #, python-format
 msgid "Visibility settings copied to %d product(s)"
-msgstr ""
+msgstr "Nastavenia zobrazenia skopírované do %d produktu(s)"
 
 #, python-format
 msgid "%s has been deleted."
-msgstr ""
+msgstr "%s bol zmazaný."
 
 msgid "Image"
-msgstr ""
+msgstr "Obrázok"
 
 msgid "Status"
-msgstr ""
+msgstr "Stav"
 
 msgid "Visibility"
-msgstr ""
+msgstr "Zobrazenie"
 
 msgid "Contact Group Pricing Display"
-msgstr ""
+msgstr "Zobrazenie cien v skupine kontaktov"
 
 msgid "unspecified"
-msgstr ""
+msgstr "nešpecifikované"
 
 msgid "show prices with taxes included"
-msgstr ""
+msgstr "zobraziť ceny zahŕňajúce daň"
 
 msgid "show pre-tax prices"
-msgstr ""
+msgstr "zobraziť ceny pred zdanením"
 
 msgid "hide prices"
-msgstr ""
+msgstr "skryť ceny"
 
 msgid "shop"
-msgstr ""
+msgstr "obchod"
 
 msgid "Price display mode"
-msgstr ""
+msgstr "Režim zobrazenia ceny"
 
 msgid "Set how prices are displayed to contacts in this group."
-msgstr ""
+msgstr "Nastaviť spôsob zobrazovania cien kontaktom v tejto skupine."
 
 msgid "Group"
-msgstr ""
+msgstr "Skupina"
 
 msgid "Display Mode"
-msgstr ""
+msgstr "Režim zobrazenia"
 
 msgid "Unspecified"
-msgstr ""
+msgstr "Nešpecifikované"
 
 msgid "Contact Groups"
-msgstr ""
+msgstr "Skupiny kontaktov"
 
 msgid "member"
-msgstr ""
+msgstr "člen"
 
 msgid "Remove"
-msgstr ""
+msgstr "Odstrániť"
 
 #, python-format
 msgid "%(count)s member added"
 msgid_plural "%(count)s members added"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(count)s pridaný člen"
+msgstr[1] "%(count)s pridaných členov"
 
 #, python-format
 msgid "%(count)s member removed"
 msgid_plural "%(count)s members removed"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(count)s odstránený člen"
+msgstr[1] "%(count)s odstránených členov"
 
 msgid "Number of Members"
-msgstr ""
+msgstr "Počet členov"
 
 #, python-format
 msgid "User %(bind_user)s already has a contact"
-msgstr ""
+msgstr "Používateľ %(bind_user)s už má kontakt"
 
 msgid ""
 "The contact groups this contact belongs to. Contact groups are defined in "
 "Contacts - Contact Groups and are used to configure sales, campaigns, and "
 "product pricing tailored for a set of users."
-msgstr ""
+msgstr "Skupiny kontaktov, do ktorých tento kontakt patrí. Skupiny kontaktov sú definované v "
+"Kontakty - Skupiny kontaktov a využívajú sa na konfigurovanie predaja, kampaní a "
+"cien produktov prispôsobené pre určité skupiny používateľov."
 
 msgid "The shops this contact belongs to"
-msgstr ""
+msgstr "Obchody, do ktorých patrí tento kontakt"
 
 msgid "Language"
-msgstr ""
+msgstr "Jazyk"
 
 msgid "The primary language to be used in all communications with the contact."
-msgstr ""
+msgstr "Primárny jazyk, ktorý sa používa pri každej komunikácii s kontaktom."
 
 msgid "The company name."
-msgstr ""
+msgstr "Názov spoločnosti."
 
 msgid "The contacts that are members of this company."
-msgstr ""
+msgstr "Kontakty, ktoré sú členmi tejto spoločnosti."
 
 msgid "Gender"
-msgstr ""
+msgstr "Pohlavie"
 
 msgid "Merchant Notes"
-msgstr ""
+msgstr "Poznámky obchodníka"
 
 msgid "Website URL"
-msgstr ""
+msgstr "webová adresa URL"
 
 msgid "Account Manager"
 msgstr ""
 
 msgid "Company: Tax Number"
-msgstr ""
+msgstr "Spoločnosť: DIČO"
 
 msgid "Company: Members"
-msgstr ""
+msgstr "Spoločnosť: Členovia"
 
 msgid "Select Language"
-msgstr ""
+msgstr "Zvoliť jazyk"
 
 msgid "Contact Group"
-msgstr ""
+msgstr "Skupina kontaktov"
 
 msgid "Edit Contacts"
-msgstr ""
+msgstr "Upraviť kontakty"
 
 msgid "Set Contact Groups"
-msgstr ""
+msgstr "Nastaviť skupiny kontaktov"
 
 msgid "Basic Information"
-msgstr ""
+msgstr "Základné informácie"
 
 msgid "Addresses"
-msgstr ""
+msgstr "Adresy"
 
 msgid "Members"
-msgstr ""
+msgstr "Členovia"
 
 msgid "The Shuup frontend is not enabled."
-msgstr ""
+msgstr "Klientské rozhranie Shuup nie je povolené."
 
 msgid "Contact has no associated user."
-msgstr ""
+msgstr "Kontakt nemá priradeného používateľa."
 
 msgid "User has no associated email."
-msgstr ""
+msgstr "Používateľ nemá priradenú emailovú adresu."
 
 msgid "Reset password"
-msgstr ""
+msgstr "Resetovať heslo"
 
 msgid "Send a password renewal email."
-msgstr ""
+msgstr "Poslať email na obnovenie hesla."
 
 #, python-format
 msgid "Are you sure you wish to send a password recovery email to %s?"
