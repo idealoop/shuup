@@ -327,7 +327,7 @@ msgstr "Poslať email na obnovenie hesla."
 
 #, python-format
 msgid "Are you sure you wish to send a password recovery email to %s?"
-msgstr Naozaj si prajete zaslať email na obonovu hesla %s?"
+msgstr "Naozaj si prajete zaslať email na obonovu hesla %s?"
 
 msgid "New User"
 msgstr "Nový používateľ"
@@ -634,7 +634,7 @@ msgid "Shipments"
 msgstr "Doručenia"
 
 msgid "Log Entries"
-msgstr ""
+msgstr "Záznam činností"
 
 msgid "Admin comment/notes"
 msgstr "komentáre/Poznámky administrátora"
@@ -775,7 +775,7 @@ msgid "Payment deleted."
 msgstr "Platba zmazaná."
 
 msgid "Line"
-msgstr ""
+msgstr "Riadok"
 
 msgid ""
 "The line to refund. To refund an amount not associated with any line, select "
@@ -935,7 +935,7 @@ msgid "Import"
 msgstr "Dovoz"
 
 msgid "Add a product to see it in your store"
-msgstr ""Pridajte produkt aby bol viditeľný vo vašom obchode
+msgstr "Pridajte produkt aby bol viditeľný vo vašom obchode"
 
 msgid "Primary Product Image"
 msgstr "Obrázok primárneho produktu"
@@ -1119,7 +1119,7 @@ msgid "Mode"
 msgstr "Režim"
 
 msgid "Filter by category name..."
-msgstr "Filtrocať podľa názvu kategórie..."
+msgstr "Filtrovať podľa názvu kategórie..."
 
 msgid "Filter by supplier name..."
 msgstr "Filtrovať podľa názvu dodávateľa..."
@@ -1295,7 +1295,7 @@ msgid "Shipping Methods"
 msgstr "Spôsoby dopravy"
 
 msgid "Payment Methods"
-msgstr "Spôsobt platby"
+msgstr "Spôsoby platby"
 
 msgid "Service"
 msgstr "Služba"
