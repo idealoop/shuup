@@ -1331,7 +1331,7 @@ msgid "Select accepted countries for this service."
 msgstr "Vyberte akceptované krajiny pre túto službu."
 
 msgid "Select this to accept all countries in EU."
-msgstr "Vyberte túto možnosť pre akceptovanie všetkých krajín v EÚ.
+msgstr "Vyberte túto možnosť pre akceptovanie všetkých krajín v EÚ."
 
 msgid "Select restricted countries for this service."
 msgstr "Vyberte krajiny s obmedzeným prístupom pre túto službu."
@@ -1399,177 +1399,179 @@ msgid ""
 "number is running system wide, regardless of the amount of shops."
 "<br><br><b>Shop Running</b><br>Every shop has its own running numbers for "
 "reference."
-msgstr ""
+msgstr "Táto možnosť definuje, ako sa vyrábajú referenčné čísla pre objednávky. Možnosti "
+"sú:<br><br><b>Jedinečné</b><br>číslo objednávky je jedinečný systém "
 
 msgid "Settings saved"
-msgstr ""
+msgstr "Nastavenia uložené"
 
 msgid "Reset Defaults"
-msgstr ""
+msgstr "Resetovať východzie"
 
 msgid "Changes saved successfully"
-msgstr ""
+msgstr "Zmeny úspešne uložené"
 
 msgid "No changes detected"
-msgstr ""
+msgstr "Žiadne zmeny nie sú zaznamenané"
 
 msgid "Save system settings"
-msgstr ""
+msgstr "Uložiť systémové nastavenia"
 
 msgid "Add a logo to make your store stand out"
-msgstr ""
+msgstr "Pridajte logo, aby váš obchod vynikol"
 
 msgid "Add logo"
-msgstr ""
+msgstr "Pridať logo"
 
 msgid "Publish your store"
-msgstr ""
+msgstr "Zverejnite váš obchod"
 
 msgid "Let customers browse your store and make purchases"
-msgstr ""
+msgstr "Umožnite zákazníkom prehľadávať váš obchod a nakupovať"
 
 msgid "Publish shop"
-msgstr ""
+msgstr "Zverejniť obchod"
 
 msgid "Set \"{}\" as the active shop"
-msgstr ""
+msgstr "Určiť \"{}\" ako aktívny obchod"
 
 msgid "Available Shops [currently active: {}]"
-msgstr ""
+msgstr "Dostupné obchody [currently active: {}]"
 
 msgid ""
 "This field cannot be changed since there are existing orders for this shop."
-msgstr ""
+msgstr "Toto pole nie je možné zmeniť, pretože v tomto obchode existujú objednávky."
 
 msgid "Currency"
-msgstr ""
+msgstr "Mena"
 
 msgid ""
 "The primary shop currency. This is the currency used when selling your "
 "products."
-msgstr ""
+msgstr "Primárna mena obchodu. Toto je mena, ktorá sa používa pri predávaní vašich produktov."
 
 msgid "Staff"
-msgstr ""
+msgstr "Zamestnanci"
 
 msgid "Select staff members for this shop."
-msgstr ""
+msgstr "Zvoľte zamestnancov pre tento obchod."
 
 msgid "Domain is unique. Please enter a unique value."
-msgstr ""
+msgstr "Doména je jedinečná. Zadajte jedinečnú hodnotu, prosím."
 
 msgid "Shop name"
-msgstr ""
+msgstr "Názvo obchodu"
 
 msgid "First name"
-msgstr ""
+msgstr "Krstné meno"
 
 msgid "Your first name."
-msgstr ""
+msgstr "Vaše krstné meno"
 
 msgid "Last name"
-msgstr ""
+msgstr "Priezvisko"
 
 msgid "Your last name."
-msgstr ""
+msgstr "Vaše priezvisko."
 
 msgid "Zip/Postal code"
-msgstr ""
+msgstr "PSČ"
 
 msgid "State/Province"
-msgstr ""
+msgstr "Štát"
 
 msgid "Address"
-msgstr ""
+msgstr "Adresa"
 
 msgid "Address (2)"
-msgstr ""
+msgstr "Adresa (2)"
 
 msgid ""
 "The shop street address. This may be used to provide estimated shipping "
 "costs."
-msgstr ""
+msgstr "Ulica obchodu. To sa môže použiť na zabezpečenie odhadovaných prepravných nákladov."
 
 msgid "The shop zip/postal code."
-msgstr ""
+msgstr "PSČ obchodu."
 
 msgid "The city in which your shop is located."
-msgstr ""
+msgstr "Mesto, v ktorom sa nachádza váš obchod."
 
 msgid "The country in which your shop is located."
-msgstr ""
+msgstr "Krajina, v ktorej sa nachádza váš obchod."
 
 msgid "There are still some pending actions to complete!"
-msgstr ""
+msgstr "Stále sú tu procesy čakajúce na dokončenie!"
 
 msgid "Your store is now live!"
-msgstr ""
+msgstr "Váš obchod je teraz aktívny!"
 
 msgid "Shop {} is now active!"
-msgstr ""
+msgstr "Obchod {} je teraz aktívny!"
 
 msgid "Domain"
-msgstr ""
+msgstr "Doména"
 
 msgid "Shop Details"
-msgstr ""
+msgstr "Detaily obchodu"
 
 msgid "Add an address so you can get paid"
-msgstr ""
+msgstr "Pridajte adresu, aby ste dostali zaplatené"
 
 msgid "Default Tax Class"
-msgstr ""
+msgstr "Štandardná daňová trieda"
 
 msgid "Select shops for this supplier. Keep it blank to share with all shops."
-msgstr ""
+msgstr "Vyberte obchody pre tohto dodávateľa. Nechajte nevyplnené, ak chcete zdieľať obsah so všetkými obchodmi."
 
 #, python-format
 msgid "No %s module"
-msgstr ""
+msgstr "Žiadny %s modul"
 
 msgid "It is not possible to manage inventory when no module is selected."
-msgstr ""
+msgstr "Ak nie je vybraný žiadny modul, nie je možné spravovať zásoby."
 
 msgid "Module"
-msgstr ""
+msgstr "Modul"
 
 msgid "Shuup Support"
-msgstr ""
+msgstr "Shuup podpora"
 
 msgid "System"
-msgstr ""
+msgstr "Systém"
 
 msgid "Telemetry"
-msgstr ""
+msgstr "Telemetria"
 
 msgid ""
 "Statistics will be periodically sent to Shuup.com after 24 hours. Click here "
 "for more information."
-msgstr ""
+msgstr "Po 24 hodinách budú pravidelne štatistiky odosielané na Shuup.com. Pre viac "
+"informácií kliknite sem."
 
 msgid "Opt-in for telemetry"
-msgstr ""
+msgstr "Opt-in pre telemetriu"
 
 msgid "Taxes"
-msgstr ""
+msgstr "Dane"
 
 msgid "Customer Tax Groups"
-msgstr ""
+msgstr "Daňové skupiny zákazníkov"
 
 msgid "Tax Classes"
-msgstr ""
+msgstr "Daňové triedy"
 
 msgid "Rate"
-msgstr ""
+msgstr "Hodnotiť"
 
 msgid "Users"
-msgstr ""
+msgstr "Používatelia"
 
 msgid "Add some users to help manage your shop"
-msgstr ""
+msgstr "Pridajte nejakých používateľov, ktorí vám na pomôžu spravovať váš obchod"
 
 msgid "New user"
-msgstr ""
+msgstr "Nový používateľ"
 
 #, python-format
 msgid ""
@@ -1583,422 +1585,446 @@ msgid ""
 "        Your username: %(username)s\n"
 "        Your password: Please contact your admin.\n"
 msgstr ""
+"\n"
+"    Vitajte %(first_name)s!\n"
+"\n"
+"    YBoli ste pridaný ako administrátor do %(shop_url)s. Tu sú "
+"podrobnosti:\n"
+"        URL obchodu: %(shop_url)s\n"
+"        URL prihlásenia: %(admin_url)s\n"
+"        Vaše používateľké meno: %(username)s\n"
+"        Vaše heslo: Kontaktujte admina, prosím.\n"
 
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 msgid "The user password."
-msgstr ""
+msgstr "Heslo používateľa"
 
 msgid "Permissions"
-msgstr ""
+msgstr "Oprávnenia"
 
 msgid "See the permissions view to change these."
-msgstr ""
+msgstr "Pozrite si zobrazenie povolení pre ich zmenu."
 
 msgid "See Contacts - Permission Groups to change these."
-msgstr ""
+msgstr "Pozrite Kontakty - Skupiny povolení pre ich zmenu."
 
 msgid "The user email address. Used for password resets."
-msgstr ""
+msgstr "Emailová adresa používateľa. Využívaná pre obnovu hesla."
 
 msgid "The first name of the user."
-msgstr ""
+msgstr "Krstné meno používateľa."
 
 msgid "The last name of the user."
-msgstr ""
+msgstr "Priezvisko používateľa."
 
 msgid "staff"
-msgstr ""
+msgstr "zamestnanci"
 
 msgid "superuser"
-msgstr ""
+msgstr "superuser"
 
 msgid "No special permissions"
-msgstr ""
+msgstr "Žiadne mimoriadne povolenia"
 
 msgid "No permission groups"
-msgstr ""
+msgstr "Skupiny bez povolení"
 
 msgid "Send email confirmation"
-msgstr ""
+msgstr "Poslať potvrdenie emailom"
 
 msgid ""
 "Send an email to the user to let them know they've been added as a shop "
 "user. Applicable only for users with staff status."
-msgstr ""
+msgstr "Poslať používateľovi email, aby vedel, že bol pridaný ako používateľ obchodu. "
+"Možné použiť iba pre používateľov, ktorí sú označení ako zamestnanci."
 
 msgid "Please enter an email to send a confirmation"
-msgstr ""
+msgstr "Zadajte email na zaslanie potvrdenia, prosím"
 
 msgid "Change Password"
-msgstr ""
+msgstr "Zmeniť heslo"
 
 msgid "User has no email address"
-msgstr ""
+msgstr "Používateľ nemá emailovú adresu"
 
 msgid "Send Password Reset Email"
-msgstr ""
+msgstr "Poslať email na obnovu hesla"
 
 msgid "Edit Permissions"
-msgstr ""
+msgstr "Upraviť povolenia"
 
 msgid "Contact Details"
-msgstr ""
+msgstr "Detaily kontaktu"
 
 msgid "Create a new contact and associate it with this user"
-msgstr ""
+msgstr "Vytvoriť nový kontakt a priradiť ho k tomuto používateľovi"
 
 msgid "Activate User"
-msgstr ""
+msgstr "Aktivovať používateľa"
 
 msgid "Deactivate User"
-msgstr ""
+msgstr "Deaktivovať používateľa"
 
 msgid "Login as User"
-msgstr ""
+msgstr "Prihlásiť ako používateľa"
 
 msgid "Login as Staff User"
-msgstr ""
+msgstr "Prihlásiť ako zamestnaného používateľa"
 
 #, python-format
 msgid "User bound to contact %(contact)s."
-msgstr ""
+msgstr "Používateľ viazaný na kontakt %(contact)s."
 
 #, python-format
 msgid "You've been added as an admin user to %s"
-msgstr ""
+msgstr "Boli ste pridaný ako administrátorský používateľ do  %s"
 
 msgid "User"
-msgstr ""
+msgstr "Používateľ"
 
 #, python-format
 msgid "%(user)s is now %(state)s."
-msgstr ""
+msgstr "%(user)s je teraz %(state)s."
 
 msgid "No shop configured."
-msgstr ""
+msgstr "Nie je nakonfigurovaný žiadny obchod."
 
 msgid "You are already logged in."
-msgstr ""
+msgstr "Už ste prihlásený."
 
 msgid "This user is not active."
-msgstr ""
+msgstr "Tento používateľ nie je aktívny."
 
 #, python-brace-format
 msgid "You're now logged in as {username}"
-msgstr ""
+msgstr "Ste prihlásený ako {username}"
 
 msgid "Username"
-msgstr ""
+msgstr "Používateľské meno"
 
 msgid "First Name"
-msgstr ""
+msgstr "Krstné meno"
 
 msgid "Last Name"
-msgstr ""
+msgstr "Priezvisko"
 
 msgid "Superuser"
-msgstr ""
+msgstr "Superuser"
 
 #, python-format
 msgid "First Name: %s"
-msgstr ""
+msgstr "Krstné meno: %s"
 
 #, python-format
 msgid "Last Name: %s"
-msgstr ""
+msgstr "Priezvisko: %s"
 
 msgid "The two password fields didn't match."
-msgstr ""
+msgstr "Dve polia s heslom nie sú rovnaké."
 
 msgid "Your old password was entered incorrectly. Please enter it again."
-msgstr ""
+msgstr "Vaše staré heslo bolo nesprávne zadané. Zadajte ho znova, prosím."
 
 msgid "Your Password"
-msgstr ""
+msgstr "Vaše heslo"
 
 msgid "For security purposes, we need your current password."
-msgstr ""
+msgstr "Z bezpečnostných dôvodov potrebujeme vaše terajšie heslo."
 
 msgid "New Password"
-msgstr ""
+msgstr "Nové heslo"
 
 msgid "New Password (again)"
-msgstr ""
+msgstr "Nové heslo (znova)"
 
 msgid "You can not change the password of a superuser."
-msgstr ""
+msgstr "Heslo superusera nie je možné zmeniť."
 
 msgid "Change User Password"
-msgstr ""
+msgstr "Zmeniť heslo používateľa"
 
 #, python-format
 msgid "Password changed for %s."
-msgstr ""
+msgstr "Zmenené heslo pre %s."
 
 msgid "Reset User Password"
-msgstr ""
+msgstr "Obnoviť heslo používateľa"
 
 msgid "The `shuup.front.apps.auth` app needs to be enabled for password reset."
-msgstr ""
+msgstr "`shuup.front.apps.auth` aplikácia musí mať povolenie na obnovu hesla."
 
 #, python-format
 msgid "Password recovery email sent to %(email)s"
-msgstr ""
+msgstr "Email na obnovu hesla odoslaný na %(email)s"
 
 msgid "Sending the password recovery email failed."
-msgstr ""
+msgstr "Odoslanie emailu na obnovu hesla zlyhalo."
 
 msgid ""
 "The permission groups that this user belongs to. Permission groups are "
 "configured through Contacts - Permission Groups."
-msgstr ""
+msgstr "Skupiny povolení, do ktorých patrí tento používateľ. Skupiny povolení sú "
+"konfigurované cez Kontakty - Skupiny povolení."
 
 msgid "You can't unset this status for yourself."
-msgstr ""
+msgstr "Tento stav nemôžete zrušiť sami."
 
 msgid "Change User Permissions"
-msgstr ""
+msgstr "Zmeniť povolenia používateľa"
 
 #, python-format
 msgid "Change Permissions: %s"
-msgstr ""
+msgstr "Zmeniť povolenia: %s"
 
 #, python-format
 msgid "Permissions changed for %s."
-msgstr ""
+msgstr "Povolenia zmenené pre %s."
 
 msgid "You must be a staff user"
-msgstr ""
+msgstr "Musíte byť zamestnaný používateľ"
 
 msgid "You are not a staff member of this shop"
-msgstr ""
+msgstr "Nie ste zamestaný používateľ tohto obchodu"
 
 msgid "New Attribute"
-msgstr ""
+msgstr "Nový atribút"
 
 msgid "Login"
-msgstr ""
+msgstr "Prihlásenie"
 
 msgid "Welcome back"
-msgstr ""
+msgstr "Vitajte späť"
 
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Zabudli ste heslo"
 
 msgid "Logged out"
-msgstr ""
+msgstr "Odhlásený"
 
 msgid "You have been securely logged out. Hope to see you soon!"
-msgstr ""
+msgstr "Boli ste bezpečne odhlásený. Dúfame, že vás čoskoro uvidíme!"
 
 msgid "Log in again"
-msgstr ""
+msgstr "Znova prihlásiť"
 
 msgid "Visit shop"
-msgstr ""
+msgstr "Navšítviť obchod"
 
 #, python-format
 msgid "Hi %(fullname)s"
-msgstr ""
+msgstr "Ahoj %(fullname)s"
 
 #, python-format
 msgid "In case you've forgotten, your username is %(username)s."
-msgstr ""
+msgstr "V prípade, že ste zabudli, vaše používateľské meno je %(username)s."
 
 #, python-format
 msgid ""
 "You're receiving this email because you requested a password reset for your "
 "user account at %(site_name)s."
-msgstr ""
+msgstr "Tento email vám bol doručený, lebo ste žiadali obnovu hesla pre váš "
+"používateľský účet na %(site_name)s."
 
 msgid "Please go to the following page and choose a new password:"
-msgstr ""
+msgstr "Pokračujte na nasledovnú stránku a vyberte nové heslo, prosím:"
 
 msgid "Password Recovery"
-msgstr ""
+msgstr "Obnova hesla"
 
 msgid "Reset Password"
-msgstr ""
+msgstr "Vyresetovanie hesla"
 
 msgid "Send password recovery instructions"
-msgstr ""
+msgstr "Zaslať pokyny k obnove hesla"
 
 msgid "Active shop:"
-msgstr ""
+msgstr "Aktívny obchod:"
 
 msgid "Active vendor:"
-msgstr ""
+msgstr "Aktívny predajca:"
 
 msgid "Dashboard"
-msgstr ""
+msgstr "Dashboard"
 
 msgid "Quicklinks"
 msgstr "Rýchle odkazy"
 
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 msgid "Search for"
-msgstr ""
+msgstr "Hľadať"
 
 msgid "Go to dashboard"
-msgstr ""
+msgstr "Ísť do dashboardu"
 
 msgid "Go home"
-msgstr ""
+msgstr "Ísť domov"
 
 msgid "Hello"
-msgstr ""
+msgstr "Ahoj"
 
 msgid "Stop Auto Refresh"
-msgstr ""
+msgstr "Zastaviť automatické obnovovanie"
 
 msgid "Auto Refresh Every 30s"
-msgstr ""
+msgstr "Automatické obnovovanie každých 30 sekúnd"
 
 msgid "Show Tour"
-msgstr ""
+msgstr "Zobraziť prehliadku"
 
 msgid "Log out"
-msgstr ""
+msgstr "Odhlásiť"
 
 msgid "General Information"
-msgstr ""
+msgstr "Všeobecné informácie"
 
 msgid "Copy visibility settings to products"
-msgstr ""
+msgstr "Skopírovať nastavenia viditeľnosti do produktov"
 
 msgid "Category Image"
-msgstr ""
+msgstr "Obrázok kategórie"
 
 msgid "* Products that has this category as a primary category."
-msgstr ""
+msgstr "* Produkty, ktoré majú túto kategóriu ako primárnu."
 
 msgid "Add a new product category"
-msgstr ""
+msgstr "Pridať novú kategóriu produktu"
 
 msgid ""
 "You are adding a new product category. When people search your store, they "
 "can find your product under the category you choose for it, like the aisle "
 "signs at the supermarket."
-msgstr ""
+msgstr "Pridávate novú kategóriu produktu. Ľudia pri prezeraní vášho obchodu "
+"môžu nájsť váš produkt pod kategóriou, ktorú vyberiete, podobne ako označenia uličiek "
+"v supermarkete."
 
 msgid ""
 "You can add a name, description, picture or anything you want to make it "
 "stand out."
-msgstr ""
+msgstr "Môžete pridať názov, popis, obrázok alebo čokoľvek chcete, aby to vyniklo."
 
 msgid "General information"
-msgstr ""
+msgstr "Všeobecné informácie"
 
 msgid "Add Members"
-msgstr ""
+msgstr "Pridať členov"
 
 msgid "Add more"
-msgstr ""
+msgstr "Pridať viac"
 
 msgid "Billing address"
-msgstr ""
+msgstr "Fakturačná adresa"
 
 msgid "No billing address defined."
-msgstr ""
+msgstr "Nezadefinovaná žiadna fakturačná adresa."
 
 msgid "Shipping address"
-msgstr ""
+msgstr "Doručovacia adresa"
 
 msgid "No shipping address defined."
-msgstr ""
+msgstr "Nezadefinovaná žiadna doručovacia adresa."
 
 msgid "Full Name"
-msgstr ""
+msgstr "Celé meno"
 
 msgid "No groups"
-msgstr ""
+msgstr "Žiadne skupiny"
 
 msgid "Bound User"
-msgstr ""
+msgstr "Viazaný používateľ"
 
 msgid "Companies"
-msgstr ""
+msgstr "Spoločnosti"
 
 msgid "No members."
-msgstr ""
+msgstr "Žiadni členovia."
 
 msgid "Use billing address as shipping address"
-msgstr ""
+msgstr "Použiť fakturačnú adresu ako doručovaciu adresu."
 
 msgid "Basic details"
-msgstr ""
+msgstr "Základné detaily"
 
 msgid "COMPANY NAME"
-msgstr ""
+msgstr "NÁZOV SPOLOČNOSTI"
 
 #, python-format
 msgid ""
 "You can enter here the information about <strong>%(public_name)s</strong>."
-msgstr ""
+msgstr "Sem môžete zadať informácie o <strong>%(public_name)s</strong>."
 
 msgid "Your order has been received and will be processed as soon as possible."
-msgstr ""
+msgstr "Vaša objednávka bola prijatá a bude čo najskôr spracovaná."
 
 msgid "For reference, here's a list of your order's contents."
-msgstr ""
+msgstr "Tu je zoznam obsahu vašej objednávky."
 
 msgid "Please note that no record of your order being paid currently exists."
-msgstr ""
+msgstr "Upozorňujeme vás, že v súčasnosti neexistuje žiadny záznam o platení vašej objednávky."
 
 msgid "Thank you for shopping with us!"
-msgstr ""
+msgstr "Ďakujeme za váš nákup!"
 
 msgid "YOUR E-MAIL HERE"
-msgstr ""
+msgstr "VÁŠ EMAIL"
 
 msgid "YOUR ADDRESS HERE"
-msgstr ""
+msgstr "VAŠA ADRESA"
 
 msgid "SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?"
-msgstr ""
+msgstr "ČASŤ 1 - ČO ROBÍME S VAŠIMI INFORMÁCIAMI?"
 
 msgid ""
 "When you purchase something from our store, as part of the buying and "
 "selling process, we collect the personal information you give us such as "
 "your name, address and email address."
-msgstr ""
+msgstr "Keď si kúpite niečo z nášho obchodu, ako súčasť procesu kúpy a "
+"predaja zhromažďujeme vaše osobné informácie, ako je "
+"vaše meno, adresa a emailová adresa."
 
 msgid ""
 "When you browse our store, we also automatically receive your computer’s "
 "internet protocol (IP) address in order to provide us with information that "
 "helps us learn about your browser and operating system."
-msgstr ""
+msgstr "Pri prehliadaní nášho obchodu tiež automaticky dostaneme "
+"adresu internetového protokolu (IP) s cieľom poskytnúť nám informácie, ktoré "
+"nám pomáhajú dozvedieť sa viac o vašom prehliadači a operačnom systéme."
 
 msgid ""
 "Email marketing (if applicable): With your permission, we may send you "
 "emails about our store, new products and other updates."
-msgstr ""
+msgstr "Emailový marketing (ak je k dispozícii): S vašim povolením vám môžeme poslať "
+"e-maily o našom obchode, nových produktoch a ďalších aktualizáciách."
 
 msgid "SECTION 2 - CONSENT"
-msgstr ""
+msgstr "ČASŤ 2 - SÚHLAS
 
 msgid "How do you get my consent?"
-msgstr ""
+msgstr "Ako dostanete môj súhlas?"
 
 msgid ""
 "When you provide us with personal information to complete a transaction, "
 "verify your credit card, place an order, arrange for a delivery or return a "
 "purchase, we imply that you consent to our collecting it and using it for "
 "that specific reason only."
-msgstr ""
+msgstr "Keď nám poskytujete osobné informácie za účelom dokončenia transakcie, "
+"overenia svojej kreditnej karty, zadania objednávky, určenie dodania alebo vrátenia tovaru, "
+"máme za to, že súhlasíte s naším zberom a použitím "
+"iba pre tieto konkrétne účely."
 
 msgid ""
 "If we ask for your personal information for a secondary reason, like "
 "marketing, we will either ask you directly for your expressed consent, or "
 "provide you with an opportunity to say no."
-msgstr ""
+msgstr "Ak požiadame o vaše osobné informácie zo sekundárneho dôvodu, napríklad "
+"kvôli marketingu, buď vás priamo požiadame o váš výslovný súhlas, alebo "
+"vám poskytneme príležitosť povedať nie."
 
 msgid "How do I withdraw my consent?"
-msgstr ""
+msgstr "Ako môžem odvolať svoj súhlas?"
 
 #, python-format
 msgid ""
@@ -2006,31 +2032,37 @@ msgid ""
 "us to contact you, for the continued collection, use or disclosure of your "
 "information, at anytime, by contacting us at <strong>%(shop_email)s</strong> "
 "or mailing us at: <strong>%(shop_address)s</strong>"
-msgstr ""
+msgstr "Ak po prihlásení zmeníte názor, môžete odvolať svoj súhlas, že vás môžeme kontaktovať "
+" kvôli nasledovnému zberu, použitiu alebo zverejneniu vašich údajov, "
+"kedykoľvek tým, že nás budete kontaktujtovať na adrese <strong>%(shop_email)s</strong> "
+"alebo e-mailom na adresu: <strong>%(shop_address)s</strong>"
 
 msgid "SECTION 3 - DISCLOSURE"
-msgstr ""
+msgstr "ČASŤ 3 - ZVEREJŇOVANIE"
 
 msgid ""
 "We may disclose your personal information if we are required by law to do so "
 "or if you violate our Terms of Service."
-msgstr ""
+msgstr "Vaše osobné údaje môžeme zverejniť, ak to od nás vyžaduje zákon "
+"alebo ak porušíte naše Zmluvné podmienky."
 
 msgid "SECTION 4 - SHUUP"
-msgstr ""
+msgstr "ČASŤ 4 - SHUUP"
 
 msgid ""
 "Our store is hosted on Shuup. They provide us with the online e-commerce "
 "platform that allows us to sell our products and services to you."
-msgstr ""
+msgstr "Náš obchod je hostovaný na Shuup. Poskytuje nám platformu online elektronického obchodu, "
+"ktorá nám umožňuje predávať naše produkty a služby."
 
 msgid ""
 "Your data is stored through Shuup’s data storage, databases and the general "
 "Shuup application. They store your data on a secure server behind a firewall."
-msgstr ""
+msgstr "Vaše údaje sú uchovávané v úložisku Shuup, databázach a všeobecnej Shuup aplikácii. "
+"Uchovávajú vaše dáta na bezpečnom serveri chránenom firewallom."
 
 msgid "Payment"
-msgstr ""
+msgstr "Platba"
 
 msgid ""
 "If you choose a direct payment gateway to complete your purchase, then Shuup "
@@ -2038,45 +2070,58 @@ msgid ""
 "Industry Data Security Standard (PCI-DSS). Your purchase transaction data is "
 "stored only as long as is necessary to complete your purchase transaction. "
 "After that is complete, your purchase transaction information is deleted."
-msgstr ""
+msgstr "Ak si na dokončenie nákupu zvolíte priamu platbu, Shuup si uchová dáta vašej kreditnej karty. "
+"Sú šifrované na základe Priemyselného dátového bezpečnostného štandardu platobných kariet (PCI-DSS). "
+"Vaše údaje o transakciách počas nákupu sú uložené iba dovtedy, kým je to potrebné na dokončenie "
+"vašej nákupnej transakcie. Po dokončení sa vaše informácie o nákupnej transakcii odstránia."
 
 msgid ""
 "All direct payment gateways adhere to the standards set by PCI-DSS as "
 "managed by the PCI Security Standards Council, which is a joint effort of "
 "brands like Visa, MasterCard, American Express and Discover."
-msgstr ""
+msgstr "Všetky platobné brány na priamu platbu dodržiavajú štandardy PCI-DSS "
+"riadené Radou pre bezpečnostné štandardy PCI, ktorá je výsledkom spoločného úsilia "
+"značiek ako Visa, MasterCard, American Express a Discover."
 
 msgid ""
 "PCI-DSS requirements help ensure the secure handling of credit card "
 "information by our store and its service providers."
-msgstr ""
+msgstr "Požiadavky PCI-DSS pomáhajú nášmu obchodu a našim poskytovateľom služieb "
+"zaistiť bezpečné zaobchádzanie s informáciami o kreditnej karte."
 
 msgid ""
 "For more insight, you may also want to read Shuup’s Terms of Service here or "
 "Privacy Statement here."
-msgstr ""
+msgstr "Ak chcete získať podrobnejšie informácie, môžete si prečítať Zmluvné podmienky služby Shuup tu "
+"alebo si môžeye prečítať Vyhlásenie o ochrane osobných údajov tu."
 
 msgid "SECTION 5 - THIRD-PARTY SERVICES"
-msgstr ""
+msgstr "ČASŤ 5 - SLUŽBY TRETÍCH STRÁN"
 
 msgid ""
 "In general, the third-party providers used by us will only collect, use and "
 "disclose your information to the extent necessary to allow them to perform "
 "the services they provide to us."
-msgstr ""
+msgstr "Všeobecne povedané, poskytovatelia tretích strán, s ktorými pracujeme, budú zhromažďovať, používať a "
+"zverejňovať vaše informácie v rozsahu nevyhnutnom na vykonanie "
+"služieb, ktoré nám poskytujú."
 
 msgid ""
 "However, certain third-party service providers, such as payment gateways and "
 "other payment transaction processors, have their own privacy policies in "
 "respect to the information we are required to provide to them for your "
 "purchase-related transactions."
-msgstr ""
+msgstr "Niektorí poskytovatelia služieb tretích strán, napríklad platobné brány a "
+"ostatní spracovatelia platobných transakcií, majú svoje vlastné zásady ochrany osobných údajov "
+"v súvislosti s informáciami, ktoré im musíme poskytnúť v rámci transakcií spojených s vaším nákupom."
 
 msgid ""
 "For these providers, we recommend that you read their privacy policies so "
 "you can understand the manner in which your personal information will be "
 "handled by these providers."
-msgstr ""
+msgstr "Pri týchto poskytovateľoch vám odporúčame prečítať si ich pravidlá ochrany osobných údajov, "
+"aby ste mohli pochopiť spôsob, akým budú vaše osobné informácie "
+"spracované týmito poskytovateľmi."
 
 msgid ""
 "In particular, remember that certain providers may be located in or have "
@@ -2085,38 +2130,51 @@ msgid ""
 "of a third-party service provider, then your information may become subject "
 "to the laws of the jurisdiction(s) in which that service provider or its "
 "facilities are located."
-msgstr ""
+msgstr "Predovšetkým nezabudnite, že niektorí poskytovatelia sa môžu nachádzať alebo mať "
+"zariadenia, ktoré sa nachádzajú v inej jurisdikcii ako vy alebo "
+"my. Takže, ak sa rozhodnete pokračovať v transakcii, ktorá zahŕňa služby "
+"od poskytovateľa služieb tretej strany, môžu byť vaše informácie predmetom "
+"jurisdikcie (jurisdikcií), v ktorej sa poskytovateľ služieb, alebo jeho poskytovateľ "
+"zariadenia, nachádza."
 
 msgid ""
 "As an example, if you are located in Canada and your transaction is "
 "processed by a payment gateway located in the United States, then your "
 "personal information used in completing that transaction may be subject to "
 "disclosure under United States legislation, including the Patriot Act."
-msgstr ""
+msgstr "Napríklad, ak sa nachádzate v Kanade a vaša transakcia je spracovávaná platobnou bránou "
+"umiestnenou v Spojených štátoch, potom vaše osobné údaje použité na dokončenie transakcie môžu "
+"byť predmetom zverejnenia v rámci legislatívy Spojených štátov, zahŕňajúc Patriot Act."
 
 msgid ""
 "Once you leave our store’s website or are redirected to a third-party "
 "website or application, you are no longer governed by this Privacy Policy or "
 "our website’s Terms of Service."
-msgstr ""
+msgstr "Po opustení webových stránok nášho obchodu alebo presmerovaní na webovú stránku alebo aplikáciu  "
+"tretej strany, zásady ochrany osobných údajov alebo Zmluvné podmienky našich webových stránok "
+"sa na vás už viac nevzťahujú."
 
 msgid "Links"
-msgstr ""
+msgstr "Odkazy"
 
 msgid ""
 "When you click on links on our store, they may direct you away from our "
 "site. We are not responsible for the privacy practices of other sites and "
 "encourage you to read their privacy statements."
-msgstr ""
+msgstr "Ak v našom obchode kliknete na odkazy, môžu vás presmerovať preč z našich stránok. "
+"Za postupy ochrany osobných údajov iných stránok nie sme zodpovední a "
+"odporúčame vám prečítať si ich vyhlásenia o ochrane osobných údajov."
 
 msgid "SECTION 6 - SECURITY"
-msgstr ""
+msgstr "ČASŤ 6 - BEZPEČNOSŤ"
 
 msgid ""
 "To protect your personal information, we take reasonable precautions and "
 "follow industry best practices to make sure it is not inappropriately lost, "
 "misused, accessed, disclosed, altered or destroyed."
-msgstr ""
+msgstr "Na ochranu vašich osobných údajov prijímame primerané opatrenia a "
+"postupujeme podľa osvedčených postupov, aby ste sa uistili, že sa vaše údaje nestratia, "
+"alebo aby neboli zneužité, neprimerane sprístupnené, zverejnené, pozmenené alebo zničené."
 
 #, python-format
 msgid ""
@@ -2125,33 +2183,42 @@ msgid ""
 "AES-256 encryption.  Although no method of transmission over the Internet or "
 "electronic storage is 100%% secure, we follow all PCI-DSS requirements and "
 "implement additional generally accepted industry standards."
-msgstr ""
+msgstr "Keď nám poskytujete informácie o svojej kreditnej karte, tieto informácie sú "
+"šifrované pomocou technológie zabezpečenej soketovej vrstvy (SSL) a uložené so "
+"šifrovaním AES-256. Aj keď prenosu cez internet alebo "
+"elektronické úložisko nie je 100 %% bezpečné, dodržujeme všetky požiadavky PCI-DSS a "
+"implementujeme ďalšie všeobecne akceptované priemyselné normy."
 
 msgid "COOKIES"
-msgstr ""
+msgstr "COOKIES"
 
 msgid ""
 "Here is a list of cookies that we use. We’ve listed them here so you can "
 "choose if you want to opt-out of cookies or not."
-msgstr ""
+msgstr "Tu je zoznam cookies, ktoré používame. Uviedli sme ich tu, "
+"aby ste si mohli vybrať, či chcete alebo nechcete používať súbory cookie.“
 
 msgid ""
 "unique token, sessional, Allows Shuup to store information about your "
 "session (referrer, landing page, etc)."
-msgstr ""
+msgstr "jedinečný token, sessional, Umožňuje aplikácii Shuup ukladať informácie o vašej"
+nique token, sessional, Allows Shuup to store information about your "
+"session (referrer, landing page, etc)."
 
 msgid "SECTION 7 - AGE OF CONSENT"
-msgstr ""
+msgstr "ČASŤ 7 - VEK A SÚHLAS S POUŽÍVANÍM OSOBNÝCH ÚDAJOV"
 
 msgid ""
 "By using this site, you represent that you are at least the age of majority "
 "in your state or province of residence, or that you are the age of majority "
 "in your state or province of residence and you have given us your consent to "
 "allow any of your minor dependents to use this site."
-msgstr ""
+msgstr "Používaním tejto stránky vyhlasujete, že ste vo vašom štáte alebo provincii bydliska plnoletý, "
+"alebo, že ste vo vašom štáte alebo provincii bydliska plnoletý a dali ste nám svoj súhlas, "
+"že maloletá osoba, ktorej ste zákonný zástupca, môže používať túto stránku."
 
 msgid "SECTION 8 - CHANGES TO THIS PRIVACY POLICY"
-msgstr ""
+msgstr "ČASŤ 8 - ZMENY ZÁSAD O OCHRANE OSOBNÝCH ÚDAJOV"
 
 msgid ""
 "We reserve the right to modify this privacy policy at any time, so please "
@@ -2160,16 +2227,23 @@ msgid ""
 "to this policy, we will notify you here that it has been updated, so that "
 "you are aware of what information we collect, how we use it, and under what "
 "circumstances, if any, we use and/or disclose it."
-msgstr ""
+msgstr "Vyhradzujeme si právo tieto zásady ochrany osobných údajov kedykoľvek zmeniť, takže prosím "
+"pravidelne si ich čítajte. Zmeny začnú platiť "
+"okamžite po uverejnení na webovej stránke. Ak vykonáme podstatné zmeny "
+"v týchto zásadách, budeme vás informovať, že boli aktualizované, aby "
+"ste vedeli, aké informácie zhromažďujeme, ako ich používame a za akých "
+"okolnosti ich používame a/alebo zverejňujeme."
 
 msgid ""
 "If our store is acquired or merged with another company, your information "
 "may be transferred to the new owners so that we may continue to sell "
 "products to you."
-msgstr ""
+msgstr "Ak je náš obchod získaný alebo zlúčený s inou spoločnosťou, vaše informácie "
+"môžu byť prevedené na nových vlastníkov, aby sme vám mohli naďalej predávať "
+"produkty."
 
 msgid "QUESTIONS AND CONTACT INFORMATION"
-msgstr ""
+msgstr "OTÁZKY A KONTAKTNÉ INFORMÁCIE"
 
 #, python-format
 msgid ""
@@ -2177,15 +2251,19 @@ msgid ""
 "information we have about you, register a complaint, or simply want more "
 "information contact our Privacy Compliance Officer at <strong>"
 "%(shop_email)s</strong> or by mail at <strong>%(shop_address)s</strong>."
-msgstr ""
+msgstr "Ak by ste chceli: získať prístup, opraviť, zmeniť alebo odstrániť akékoľvek osobné údaje, "
+"ktoré o vás máme, zaregistrujte sťažnosť, alebo jednoducho chcete viac "
+"informácií, kontaktujte nášho úradníka pre dodržiavanie ochrany osobných údajov na <strong> "
+"% (shop_email)s</strong> alebo poštou na <strong>% (shop_address)s</strong>."
 
 msgid "YOUR COMPANY NAME HERE"
-msgstr ""
+msgstr "NÁZOV VAŠEJ SPOLOČNOSTI TU"
 
 msgid ""
 "Our policy lasts 30 days. If 30 days have gone by since your purchase, "
 "unfortunately we can’t offer you a refund or exchange."
-msgstr ""
+msgstr "Naše pravidlá trvajú 30 dní. Ak od nákupu uplynulo 30 dní, "
+"už vám bohužial nemôžeme ponúknuť vrátenie platby alebo výmenu."
 
 msgid ""
 "To be eligible for a return, your item must be unused and in the same "
