@@ -327,452 +327,452 @@ msgstr "Poslať email na obnovenie hesla."
 
 #, python-format
 msgid "Are you sure you wish to send a password recovery email to %s?"
-msgstr ""
+msgstr Naozaj si prajete zaslať email na obonovu hesla %s?"
 
 msgid "New User"
-msgstr ""
+msgstr "Nový používateľ"
 
 msgid "Create a user for the contact."
-msgstr ""
+msgstr "Vytvoriť používateľa pre kontakt."
 
 msgid "New Order"
-msgstr ""
+msgstr "Nová obejdnávka"
 
 msgid "Create an order for the contact."
-msgstr ""
+msgstr "Vytvoriť objednávku pre kontakt."
 
 msgid "Deactivate Contact"
-msgstr ""
+msgstr "Deaktivovať kontakt"
 
 msgid "Activate Contact"
-msgstr ""
+msgstr "Aktivovať kontakt"
 
 msgid "Options"
-msgstr ""
+msgstr "Možnosti"
 
 msgid "Actions"
-msgstr ""
+msgstr "Akcie"
 
 msgid "Edit"
-msgstr ""
+msgstr "Upraviť"
 
 msgid "You can not deactivate a superuser."
-msgstr ""
+msgstr "Nie je možné deaktivovať superusera."
 
 msgid "You can not deactivate yourself."
-msgstr ""
+msgstr "Nie je možné deaktivovať samého seba."
 
 #, python-format
 msgid "%(contact)s is now %(state)s."
-msgstr ""
+msgstr "%(contact)s je teraz %(state)s."
 
 msgid "active"
-msgstr ""
+msgstr "aktívny"
 
 msgid "inactive"
-msgstr ""
+msgstr "neaktívny"
 
 msgid "New Company"
-msgstr ""
+msgstr "Nová spoločnosť"
 
 msgid "New Contact"
-msgstr ""
+msgstr "Nový kontakt"
 
 msgid "Person"
-msgstr ""
+msgstr "Osoba"
 
 msgid "Company"
-msgstr ""
+msgstr "Spoločnosť"
 
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 msgid "Phone"
-msgstr ""
+msgstr "Telefón"
 
 msgid "Active"
-msgstr ""
+msgstr "Aktívny"
 
 msgid "no"
-msgstr ""
+msgstr "nie"
 
 msgid "yes"
-msgstr ""
+msgstr "áno"
 
 msgid "# Orders"
-msgstr ""
+msgstr "# objednávky"
 
 msgid "Groups"
-msgstr ""
+msgstr "Skupiny"
 
 msgid "Registered in"
-msgstr ""
+msgstr "Zaregistrované v"
 
 msgid "Contact"
-msgstr ""
+msgstr "Kontakt"
 
 msgid "No group"
-msgstr ""
+msgstr "Žiadna skupina"
 
 msgid "No shops"
-msgstr ""
+msgstr "Žiadne obchody"
 
 msgid "Inactive"
-msgstr ""
+msgstr "Neaktívny"
 
 #, python-format
 msgid "Email: %s"
-msgstr ""
+msgstr "Email: %s"
 
 #, python-format
 msgid "Phone: %s"
-msgstr ""
+msgstr "Telefón: %s"
 
 #, python-format
 msgid "%d orders"
-msgstr ""
+msgstr "%d objednávok"
 
 msgid "Mass Edit: Contacts"
-msgstr ""
+msgstr "Hromadne upraviť: Kontakty"
 
 msgid "Contacts changed successfully"
-msgstr ""
+msgstr "Kontakty zmenené úspešne"
 
 msgid "Mass Edit: Contact Groups"
-msgstr ""
+msgstr "Hromadne upraviť: Skupiny kontaktov"
 
 msgid "Contacts Groups changed successfully"
-msgstr ""
+msgstr "Skupiny kontaktov zmenené úspešne"
 
 msgid "The contact does not have an associated user."
-msgstr ""
+msgstr "Kontakt nemá priradeného používateľa."
 
 msgid "Currencies"
-msgstr ""
+msgstr "Meny"
 
 msgid "Code"
-msgstr ""
+msgstr "Kód"
 
 msgid "Filter by code"
-msgstr ""
+msgstr "Filtrovať podľa kódu"
 
 msgid "Decimal places"
-msgstr ""
+msgstr "Desatinné miesta"
 
 msgid "Customers Dashboard"
-msgstr ""
+msgstr "Panel pre zákazníkov"
 
 msgid "Active customers"
-msgstr ""
+msgstr "Aktívni zákazníci"
 
 msgid "Based on orders within 30 days"
-msgstr ""
+msgstr "Na základe objednávok do 30 dní"
 
 msgid "Labels"
-msgstr ""
+msgstr "Etikety"
 
 msgid "Created on"
-msgstr ""
+msgstr "Vytvorené v"
 
 msgid "Modified on"
-msgstr ""
+msgstr "Upravené v"
 
 msgid "Manufacturers"
-msgstr ""
+msgstr "Výrobcovia"
 
 msgid ""
 "Select shops for this manufacturer. Keep it blank to share with all shops."
-msgstr ""
+msgstr "Vyberte obchody pre tohto výrobcu. Ak chcete zdieľať obsah so všetkými obchodmi, nechajte to prázdne."
 
 msgid "You have no permission to change a shared Manufacturer."
-msgstr ""
+msgstr "Nemáte povolenie na zmenu zdieľaného výrobcu."
 
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 msgid "Media"
-msgstr ""
+msgstr "Médiá"
 
 msgid "Media browser"
-msgstr ""
+msgstr "Prehľadávč médií"
 
 msgid "Root"
-msgstr ""
+msgstr "Koreňový adresár"
 
 #, python-brace-format
 msgid "{num} subfolders moved to {folder}."
-msgstr ""
+msgstr "{num} podpriečinkov bolo premiestnených do {folder}. "
 
 #, python-brace-format
 msgid "{num} files moved to {folder}."
-msgstr ""
+msgstr "{num} súborov bolo presunutých do {folder}."
 
 #, python-format
 msgid "Folder %s deleted."
-msgstr ""
+msgstr "Priečinok %s zmazaný."
 
 msgid "Browse Media"
-msgstr ""
+msgstr "Prechádzať médiami"
 
 msgid "Can not rename shared folder."
-msgstr ""
+msgstr "Nie je možné premenovať zdieľaný priečinok."
 
 msgid "Folder renamed."
-msgstr ""
+msgstr "Priečinok premenovaný."
 
 msgid "Can not delete shared folder."
-msgstr ""
+msgstr "Nie je možné zmazať zdieľaný priečinok."
 
 msgid "Can not rename shared file."
-msgstr ""
+msgstr "Nie je možné premenovať zdieľaný súbor."
 
 msgid "File renamed."
-msgstr ""
+msgstr "Súbor premenovaný."
 
 msgid "Can not delete shared file."
-msgstr ""
+msgstr "Nie je možné zmazať zdieľaný súbor."
 
 msgid "File deleted."
-msgstr ""
+msgstr "Súbor zmazaný."
 
 msgid "Can not move shared file."
-msgstr ""
+msgstr "Nie je možné presunúť zdieľaný súbor."
 
 #, python-format
 msgid "%(file)s moved from %(old)s to %(new)s."
-msgstr ""
+msgstr "%(file)s presunuté z %(old)s do %(new)s."
 
 #, python-format
 msgid "%(file)s uploaded to %(folder)s"
-msgstr ""
+msgstr "%(file)s nahratý do %(folder)s"
 
 msgid "Admin menu"
-msgstr ""
+msgstr "Administrátorské menu"
 
 msgid "Menu saved"
-msgstr ""
+msgstr "Menu uložené"
 
 msgid "Menu reset"
-msgstr ""
+msgstr "Menu reset"
 
 msgid "Show orders"
-msgstr ""
+msgstr "Zobraziť objednávky"
 
 msgid "Outstanding Orders"
-msgstr ""
+msgstr "Nevybavené objednávky"
 
 #, python-format
 msgid "%d outstanding orders"
-msgstr ""
+msgstr "%d nevybavených objednávok"
 
 msgid "New order"
-msgstr ""
+msgstr "Nová objednávka"
 
 msgid "Order Status"
-msgstr ""
+msgstr "Stav objednávky"
 
 msgid "List Statuses"
-msgstr ""
+msgstr "Zoznam stavov"
 
 #, python-format
 msgid "The quantity '%(quantity)s' (for line %(text)s) is invalid (%(error)s)"
-msgstr ""
+msgstr "Množstvo '%(quantity)s' (pre riadok %(text)s) je neplatný (%(error)s)"
 
 #, python-format
 msgid "The price '%(price)s' (for line %(text)s) is invalid (%(error)s)"
-msgstr ""
+msgstr "Cena '%(price)s' (pre riadok %(text)s) je neplatná (%(error)s)"
 
 #, python-format
 msgid "The discount '%(discount)s' (for line %(text)s is invalid (%(error)s)"
-msgstr ""
+msgstr "Zľava '%(discount)s' (pre riadok %(text)s je neplatná (%(error)s)"
 
 msgid "Product line does not have a product set."
-msgstr ""
+msgstr "Produktový rad nemá stanovený produkt."
 
 #, python-format
 msgid "Product %s does not exist."
-msgstr ""
+msgstr "Produkt %s neexistuje."
 
 #, python-format
 msgid "Product %(product)s is not available in the %(shop)s shop."
-msgstr ""
+msgstr "Produkt %(product)s je v obchode %(shop)s nedostupný."
 
 msgid "Please add lines to the order."
-msgstr ""
+msgstr "Pridajte do objednávky riadky, prosím."
 
 msgid "Tax number is not set for company."
-msgstr ""
+msgstr "DIČ pre spoločnosť nie je stanovené."
 
 msgid "Please choose a valid shop."
-msgstr ""
+msgstr "Prosím zvoľte platný obchod."
 
 msgid "Please select shipping method."
-msgstr ""
+msgstr "Prosím, vyberte spôsob doručenia."
 
 msgid "Please select payment method."
-msgstr ""
+msgstr "Prosím, vyberte spôsob platby."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušiť"
 
 msgid "Print Confirmation PDF(s)"
-msgstr ""
+msgstr "Vytlačiť PDF(s) s potvrdením"
 
 msgid "Selecting all is not supported."
-msgstr ""
+msgstr "Výber všetkých nie je podporovaný."
 
 msgid "Print Delivery PDF(s)"
-msgstr ""
+msgstr "Vytlačiť PDF(s) o doručení"
 
 msgid "Details"
-msgstr ""
+msgstr "Detaily"
 
 msgid "Payments"
-msgstr ""
+msgstr "Platby"
 
 msgid "Shipments"
-msgstr ""
+msgstr "Doručenia"
 
 msgid "Log Entries"
 msgstr ""
 
 msgid "Admin comment/notes"
-msgstr ""
+msgstr "komentáre/Poznámky administrátora"
 
 msgid "Set Status"
-msgstr ""
+msgstr "Nastaviť stav"
 
 msgid "Set Complete"
-msgstr ""
+msgstr "Nastaviť ako úplné"
 
 msgid "This order can not be set as complete at this point"
-msgstr ""
+msgstr "V tomto momente nie je možné túto objednávku nastaviť ako úplnú."
 
 msgid "Cancel Order"
-msgstr ""
+msgstr "Zrušiť objednávku"
 
 msgid "Paid, shipped, or canceled orders cannot be canceled"
-msgstr ""
+msgstr "Zaplatené, expedované alebo zrušené objednávky nie je možné zrušiť"
 
 msgid "Edit order"
-msgstr ""
+msgstr "Upraviť objednávku"
 
 msgid "This order cannot modified at this point"
-msgstr ""
+msgstr "V tomto momente nie je možné upraviť objednávku"
 
 msgid "Create Payment"
-msgstr ""
+msgstr "Vytvoriť platbu"
 
 msgid "Set Paid"
-msgstr ""
+msgstr "Nastaviť ako zaplatené"
 
 msgid "Create Refund"
-msgstr ""
+msgstr "Vytvoriť vrátenie platby"
 
 msgid "Edit Addresses"
-msgstr ""
+msgstr "Upraviť adresy"
 
 msgid "Billing Address"
-msgstr ""
+msgstr "Fakturačné adresy"
 
 msgid "Shipping Address"
-msgstr ""
+msgstr "Doručovacie adresy"
 
 #, python-format
 msgid "%(field)s updated from: %(old_address)s"
-msgstr ""
+msgstr "%(field)s aktualizované z: %(old_address)s"
 
 #, python-format
 msgid "%(field)s saved successfully."
-msgstr ""
+msgstr "%(field)s úspešne uložené."
 
 #, python-format
 msgid "Save -- %s"
-msgstr ""
+msgstr "Uložiť -- %s"
 
 msgid "Save"
-msgstr ""
+msgstr "Uložiť"
 
 msgid "Unable to set order as completed at this point"
-msgstr ""
+msgstr "V tomto momente nie je možné nastaviť objednávku ako úplnú"
 
 #, python-brace-format
 msgid "Order status changed: {old_status} to {new_status}"
-msgstr ""
+msgstr "Stav objednávky zmenený: {old_status} na {new_status}"
 
 msgid "Create Order"
-msgstr ""
+msgstr "Vytvoriť objednávku"
 
 #, python-format
 msgid "Contact %s does not exist."
-msgstr ""
+msgstr "Kontakt %s neexistuje."
 
 #, python-format
 msgid "Order %(identifier)s updated."
-msgstr ""
+msgstr "Objednávka %(identifier)s aktualizovaná."
 
 #, python-format
 msgid "Order %(identifier)s created."
-msgstr ""
+msgstr "Objednávka %(identifier)s vytvorená."
 
 msgid "Could not proceed with order:"
-msgstr ""
+msgstr "Nie je možné pokračovať v objednávke:"
 
 msgid "Could not finalize order:"
-msgstr ""
+msgstr "Nie je možné dokončiť objednávku:"
 
 msgid "Order"
-msgstr ""
+msgstr "Objednávka"
 
 msgid "Order Date"
-msgstr ""
+msgstr "Dátum objednávky"
 
 msgid "Customer"
-msgstr ""
+msgstr "Zákazník"
 
 msgid "Payment Status"
-msgstr ""
+msgstr "Stav platby"
 
 msgid "Shipping Status"
-msgstr ""
+msgstr "Stav doručenia"
 
 msgid "Total"
-msgstr ""
+msgstr "Celkom"
 
 #, python-format
 msgid "Create Payment -- %s"
-msgstr ""
+msgstr "Vytvoriť platbu -- %s"
 
 msgid "Payment amount"
-msgstr ""
+msgstr "Čiastka na úhradu"
 
 msgid "Payment amount cannot be 0"
-msgstr ""
+msgstr "Čiastka na úhradu nemôže byť 0"
 
 #, python-format
 msgid "Payment %s created."
-msgstr ""
+msgstr "Platba %s vytvorená."
 
 msgid "Order has already been paid"
-msgstr ""
+msgstr "Objednávka už bola uhradená"
 
 msgid "Only orders which are not paid or deferred can be set as paid."
-msgstr ""
+msgstr "Iba objednávky, ktoré nie sú zaplatené alebo odložené, môžu byť nastavené ako zaplatené."
 
 msgid "Only zero price orders can be set as paid without creating a payment."
-msgstr ""
+msgstr "Iba objednávky s nulovou cenou môžu byť nastavené ako zaplatené bez vytvorenia platby."
 
 msgid "Zero amount payment"
-msgstr ""
+msgstr "Nulová čiastka na úhradu"
 
 msgid "Order marked as paid."
-msgstr ""
+msgstr "Objednávka označená ako zaplatená."
 
 msgid "Payment doesn't exist."
-msgstr ""
+msgstr "Platba neexistuje."
 
 msgid "Payment deleted."
-msgstr ""
+msgstr "Platba zmazaná."
 
 msgid "Line"
 msgstr ""
@@ -780,606 +780,617 @@ msgstr ""
 msgid ""
 "The line to refund. To refund an amount not associated with any line, select "
 "'Refund arbitrary amount'."
-msgstr ""
+msgstr "Riadok na vrátenie platby. Ak chcete vrátiť sumu, ktorá nie je priradená k žiadnemu riadku, vyberte "
+"možnosť 'Vrátenie ľubovoľnej sumy'."
 
 msgid "Quantity"
-msgstr ""
+msgstr "Množstvo"
 
 msgid "The number of units to refund."
-msgstr ""
+msgstr "Počet jednotiek na vrátenie."
 
 msgid "Line Text/Comment"
-msgstr ""
+msgstr "Riadok pre text/komentár"
 
 msgid ""
 "The text describing the nature of the refund and/or the reason for the "
 "refund."
-msgstr ""
+msgstr "Text popisujúci dôvod vrátenia a/alebo príčinu vrátenia."
 
 msgid "Amount"
-msgstr ""
+msgstr "Množstvo"
 
 msgid "The amount including tax to refund."
-msgstr ""
+msgstr "Množstvo na vrátenie vrátane dane."
 
 msgid "Restock products"
-msgstr ""
+msgstr "Doskladnenie produktov"
 
 msgid ""
 "If checked, the quantity is adding back into the sellable product inventory."
-msgstr ""
+msgstr "Ak je toto políčko začiarknuté, množstvo sa vracia späť do skladu predajných produktov."
 
 #, python-format
 msgid "Create Refund -- %s"
-msgstr ""
+msgstr "Vytvorit vrátenie platby -- %s"
 
 msgid "Refund Entire Order"
-msgstr ""
+msgstr "Vrátenie celej objednávky"
 
 msgid "This order already has existing refunds"
-msgstr ""
+msgstr "Táto objednávka už má existujúce vrátenie platby."
 
 msgid "Refund arbitrary amount"
-msgstr ""
+msgstr "Vrátenie ľubovoľnej čiastky"
 
 msgid "Refund amount exceeds order amount."
-msgstr ""
+msgstr "Vrátenie čiastky prevyšuje čiastku objednávky."
 
 msgid "Refund amounts should match sign on parent line."
-msgstr ""
+msgstr "Sumy na vrátenie platby by sa mali zhodovať so značkou na nadradenom riadku."
 
 msgid "Refund created."
-msgstr ""
+msgstr "Vytovrené vrátenie platby."
 
 #, python-format
 msgid "Create Full Refund -- %s"
-msgstr ""
+msgstr "Vytvoriť plné vrátenie platby -- %s"
 
 msgid "Could not create full refund."
-msgstr ""
+msgstr "Nepodarilo sa vytvoriť plné vrátenie platby."
 
 msgid "Full refund created."
-msgstr ""
+msgstr "Plné vrátenie platby vytvorené."
 
 #, python-format
 msgid "Create Shipment -- %s"
-msgstr ""
+msgstr "Vytvoriť dodanie -- %s"
 
 msgid "Create Shipment"
-msgstr ""
+msgstr "Vytvoriť dodanie"
 
 #, python-format
 msgid "%(product_name)s (%(supplier)s)"
-msgstr ""
+msgstr "%(product_name)s (%(supplier)s)"
 
 msgid "No products to ship."
-msgstr ""
+msgstr "Žiaden tovar na odoslanie."
 
 msgid "Shipping address is not set."
-msgstr ""
+msgstr "Nie je určená dodacia adresa."
 
 #, python-format
 msgid "Shipment %s created."
-msgstr ""
+msgstr "Dodanie %s vytvorené."
 
 #, python-format
 msgid "Shipment %s has been deleted."
-msgstr ""
+msgstr "Dodanie %s bolo zmazané."
 
 msgid "Identifier already exists"
-msgstr ""
+msgstr "Identifikátor už existuje"
 
 msgid "Public Name"
-msgstr ""
+msgstr "Verejné meno"
 
 msgid "Role"
-msgstr ""
+msgstr "Rola"
 
 msgid "Default"
-msgstr ""
+msgstr "Východzie"
 
 msgid "Permission Groups"
-msgstr ""
+msgstr "Skupiny oprávnení"
 
 msgid "The permission group name."
-msgstr ""
+msgstr "Názov skupiny oprávnení."
 
 msgid "Set the users that belong to this permission group."
-msgstr ""
+msgstr "Nastavte používateľov, ktorí patria do tejto skupiny povolení."
 
 msgid "Create new Permission Group"
-msgstr ""
+msgstr "Vytvoriť novú skupinu povolení"
 
 msgid "Product Types"
-msgstr ""
+msgstr "Typy výrobkov"
 
 msgid "Product types"
-msgstr ""
+msgstr "Typy výrobkov"
 
 #, python-format
 msgid "%s has been marked deleted."
-msgstr ""
+msgstr "%s bol označený ako odstránený."
 
 msgid ""
 "Select attributes that go with your product type. These are defined in "
 "Products Settings - Attributes."
-msgstr ""
+msgstr "Vyberte vlastnosti, ktoré súvisia s typom produktu. Sú definované v časti "
+"Nastavenia produktu - Vlastnosti."
 
 msgid "Delete"
-msgstr ""
+msgstr "Odstrániť"
 
 #, python-format
 msgid ""
 "Are you sure you wish to delete %s? Warrning: all related products will "
 "disappear from storefront until new value for product type is set!"
-msgstr ""
+msgstr "Chcete naozaj ostrániť %s? Upozornenie: všetky súvisiace produkty "
+"zmiznú z ponuky obchodu pokiaľ nebude nastavená nová hodnota pre typ produktu!"
 
 msgid "Number of Attributes"
-msgstr ""
+msgstr "Počet vlastností"
 
 #, python-format
 msgid "Create Product Called \"%s\""
-msgstr ""
+msgstr "Vytvoriť produkt nazvaný \"%s\""
 
 #, python-format
 msgid "Create Product with SKU \"%s\""
-msgstr ""
+msgstr "Vytvoriť produkt pomocou SKU \"%s\""
 
 msgid "New product"
-msgstr ""
+msgstr "Nové produkty"
 
 msgid "Import"
-msgstr ""
+msgstr "Dovoz"
 
 msgid "Add a product to see it in your store"
-msgstr ""
+msgstr ""Pridajte produkt aby bol viditeľný vo vašom obchode
 
 msgid "Primary Product Image"
-msgstr ""
+msgstr "Obrázok primárneho produktu"
 
 msgid ""
 "The main product image. You can add additional images on the Product Images "
 "tab."
-msgstr ""
+msgstr "Obrázok hlavného produktu. Môžete pridať dodatočné obrázky v okne Obrázky produktu"
 
 msgid "Select a manufacturer"
-msgstr ""
+msgstr "Vybrať výrobcu"
 
 msgid "Product type"
-msgstr ""
+msgstr "Typ produktu"
 
 msgid "Given value is already in use, please use unique SKU and try again."
-msgstr ""
+msgstr "Zadaná hodnota sa už používa, použite jedinečný kód SKU a skúste to znova."
 
 msgid ""
 "Number of units that can be purchased after the product is out of stock. Set "
 "to blank for product to be purchasable without limits"
-msgstr ""
+msgstr "Počet kusov, ktoré je možné kúpiť po vypredaní zásob. Nastavte "
+"prázdne, ak chcete, aby bolo možné produkt zakúpiť bez obmedzení"
 
 msgid "Select a category"
-msgstr ""
+msgstr "Vybrať kategóriu"
 
 msgid "Minimum Purchase Quantity must be greater than 0."
-msgstr ""
+msgstr "Minimálne množstvo nákupu musí byť väčšie ako 0."
 
 msgid "Backorder maximum must be greater than or equal to 0."
-msgstr ""
+msgstr "Maximálna výška predobjednávky musí byť väčšia alebo rovná 0."
 
 #, python-format
 msgid "Thumbnail generation of %(media)s failed: %(error)s"
-msgstr ""
+msgstr "Generovanie miniatúrt z %(media)s zlyhalo: %(error)s"
 
 msgid "Use only URL or file, not both"
-msgstr ""
+msgstr "Použite iba URL alebo súbor, nie oboje"
 
 msgid "Is primary"
-msgstr ""
+msgstr "Je primárny"
 
 msgid "Only images allowed in this field"
-msgstr ""
+msgstr "V tomto políčku sú povolené iba obrázky"
 
 #, python-format
 msgid "Unable to make package %(product)s: %(error)s"
-msgstr ""
+msgstr "Nie je možné vytvoriť balenie %(product)s: %(error)s"
 
 #, python-format
 msgid "New: %d"
-msgstr ""
+msgstr "Nový: %d"
 
 #, python-format
 msgid "Removed: %d"
-msgstr ""
+msgstr "Odstránený: %d"
 
 #, python-format
 msgid "Couldn't add product %s to own package"
-msgstr ""
+msgstr "Nepodarilo sa pridať produkt %s do vlastného balenia"
 
 msgid "child"
-msgstr ""
+msgstr "potomok"
 
 msgid "Unlink"
-msgstr ""
+msgstr "Odpojiť"
 
 #, python-format
 msgid "Unable to link %(product)s: %(error)s"
-msgstr ""
+msgstr "Nie je možné prepojiť  %(product)s: %(error)s"
 
 msgid "variable combination"
-msgstr ""
+msgstr "variabilná kombinácia"
 
 msgid "Activate template"
-msgstr ""
+msgstr "Aktivovať šablónu"
 
 msgid ""
 "Check this to activate a selected template. If no template is selected "
 "variation data will be saved without checking this."
-msgstr ""
+msgstr "Začiarknite pre aktiváciu zvolenej šablóny. Ak nie je zvolená šablóna "
+" údaje o variantoch sa uložia bez začiarknutia.
 
 #, python-format
 msgid "Unnamed %s"
-msgstr ""
+msgstr "Nemenovaný %s"
 
 msgid "Set visible"
-msgstr ""
+msgstr "Nastaviť viditeľné"
 
 msgid "Set invisible"
-msgstr ""
+msgstr "Nastaviť neviditeľné"
 
 msgid "Export CSV"
-msgstr ""
+msgstr "Exportovať CSV"
 
 msgid "Edit products"
-msgstr ""
+msgstr "Upraviť produkty"
 
 msgid "Minimum Purchase Quantity has been rounded to match Sales Unit."
-msgstr ""
+msgstr "Minimálne množstvo nákupu bolo zaokrúhlené tak, aby zodpovedalo predajnej jednotke."
 
 #, python-format
 msgid "Changes to shop instance for %s saved"
-msgstr ""
+msgstr "Zmeny inštancie obchodu pre %s boli uložené"
 
 msgid "Product is not available."
-msgstr ""
+msgstr "Produkt nie je k dispozícii."
 
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
 #, python-format
 msgid "Edit Cross-Sell: %s"
-msgstr ""
+msgstr "Upraviť Krížový-predaj: %s"
 
 msgid "Changes saved."
-msgstr ""
+msgstr "Zmeny uložené."
 
 #, python-format
 msgid "Edit Media: %s"
-msgstr ""
+msgstr "Upraviť médiá: %s"
 
 msgid "Files added to product."
-msgstr ""
+msgstr "Pridané súbory k produktu."
 
 msgid "Clear package"
-msgstr ""
+msgstr "Vyčistiť balenie"
 
 msgid "Are you sure? This will remove all products from package."
-msgstr ""
+msgstr "Ste si istý? Z balenia budú ostránené všetky produkty."
 
 #, python-format
 msgid "Edit Package: %s"
-msgstr ""
+msgstr "Upraviť balenie: %s"
 
 msgid "Package cleared."
-msgstr ""
+msgstr "Balenie vyčistené."
 
 msgid ""
 "Are you sure? This will unlink all children and remove all variation "
 "variables."
-msgstr ""
+msgstr "Ste si istý? Týmto zrušíte prepojenie všetkých potomkov a odstránite všetky variácie "
+"premenných."
 
 msgid "Clear variation"
-msgstr ""
+msgstr "Vyčistiť variácie"
 
 msgid ""
 "Are you sure? This will remove all variation variables, converting children "
 "to direct links."
-msgstr ""
+msgstr "Ste si istý? Týmto sa odstránia všetky variácie premenných a potomkovia sa prevedú na priame odkazy."
 
 msgid "Convert to simple variation"
-msgstr ""
+msgstr "Previesť na jednoduchú variáciu"
 
 #, python-format
 msgid "Edit Variation: %s"
-msgstr ""
+msgstr "Upraviť variáciu: %s"
 
 msgid "Variation cleared."
-msgstr ""
+msgstr "Variácia vymazaná."
 
 msgid "Variation simplified."
-msgstr ""
+msgstr "Variácia zjednodušená."
 
 msgid "Primary Image"
-msgstr ""
+msgstr "Primiárny obrázok"
 
 msgid "SKU"
-msgstr ""
+msgstr "SKU"
 
 msgid "Barcode"
-msgstr ""
+msgstr "Čiarový kód"
 
 msgid "Filter by barcode..."
-msgstr ""
+msgstr "Filtrovať podľa čiarového kódu..."
 
 msgid "Mode"
-msgstr ""
+msgstr "Režim"
 
 msgid "Filter by category name..."
-msgstr ""
+msgstr "Filtrocať podľa názvu kategórie..."
 
 msgid "Filter by supplier name..."
-msgstr ""
+msgstr "Filtrovať podľa názvu dodávateľa..."
 
 msgid "Suppliers"
-msgstr ""
+msgstr "Dodávatelia"
 
 msgid "Additional Categories"
-msgstr ""
+msgstr "Dodatočné kategórie"
 
 msgid "Purchasable"
-msgstr ""
+msgstr "Predajný"
 
 msgid "Mass Edit: Products"
-msgstr ""
+msgstr "Hromadne upraviť: Produkty"
 
 msgid "Products changed successfully"
-msgstr ""
+msgstr "Produkty úspešne zmenené"
 
 msgid "Manage Cross-Selling"
-msgstr ""
+msgstr "Spravovať Cross-Selling"
 
 msgid "Cross-Selling"
-msgstr ""
+msgstr "Cross-Selling"
 
 msgid "Other"
-msgstr ""
+msgstr "Ostatné"
 
 #, python-format
 msgid "Child: %s"
-msgstr ""
+msgstr "Potomok: %s"
 
 #, python-format
 msgid "Parent: %s"
-msgstr ""
+msgstr "Nadradený: %s"
 
 #, python-format
 msgid "Sibling: %s"
-msgstr ""
+msgstr "Súrodenec: %s"
 
 msgid "Variations"
-msgstr ""
+msgstr "Variácie"
 
 msgid "Manage Variations"
-msgstr ""
+msgstr "Spravovať variácie"
 
 msgid "Packages"
-msgstr ""
+msgstr "Balenia"
 
 msgid "Manage Package"
-msgstr ""
+msgstr "Spravovať balenia"
 
 msgid "Convert to Package Parent"
-msgstr ""
+msgstr "Previesť na nadradené balenie"
 
 msgid "Convert to Variation Parent"
-msgstr ""
+msgstr "Previesť na nadradenú variáciu"
 
 msgid "Save and Exit"
-msgstr ""
+msgstr "Uložiť a opustiť"
 
 msgid "Save and Create New"
-msgstr ""
+msgstr "Uložiť a vytvoriť nové"
 
 msgid "Save as a copy"
-msgstr ""
+msgstr "Uložiť ako kópiu"
 
 msgid "Sales Dashboard"
-msgstr ""
+msgstr "Dashobard predaja"
 
 msgid "Sales per Month (past 12 months)"
-msgstr ""
+msgstr "Mesačný predaj (posledných 12 mesiacov)"
 
 msgid "Average Sales"
-msgstr ""
+msgstr "Priemerný predaj"
 
 msgid "Sales"
-msgstr ""
+msgstr "Predaj"
 
 msgid "Cumulative Total Sales"
-msgstr ""
+msgstr "Kumulatívny celkový predaj"
 
 #, python-format
 msgid "Based on %d orders"
-msgstr ""
+msgstr "Podľa %d objednávok"
 
 msgid "Today's Sales"
-msgstr ""
+msgstr "Dnešný predaj"
 
 msgid "Lifetime Sales"
-msgstr ""
+msgstr "Doživotný predaj"
 
 msgid "Average Purchase"
-msgstr ""
+msgstr "Priemerný nákup"
 
 msgid "Open Orders Value"
-msgstr ""
+msgstr "Hodnota otvorených objednávok"
 
 msgid "Sales Units"
-msgstr ""
+msgstr "Predajné jednotky"
 
 msgid "Display Units"
-msgstr ""
+msgstr "Zobrazovacie jednotky"
 
 msgid "Symbol"
-msgstr ""
+msgstr "Znak"
 
 msgid "Allowed decimals"
-msgstr ""
+msgstr "Povolené desatinné miesta"
 
 msgid "Service Providers"
-msgstr ""
+msgstr "Poskytovatelia služieb"
 
 msgid "Payment and Shipping"
-msgstr ""
+msgstr "Platba a doručenie"
 
 #, python-format
 msgid "Edit %(model)s"
-msgstr ""
+msgstr "Upraviť %(model)s"
 
 msgid ""
 "The service provider type. This can be any of the shipping carriers or "
 "payment processors configured for your shop."
-msgstr ""
+msgstr "Typ poskytovateľa služieb. Môže to byť ktorýkoľvek z prepravcov alebo "
+"spracovatelia platieb nakonfigurovaní pre váš obchod. "
 
 #, python-brace-format
 msgid "Create {service_name}"
-msgstr ""
+msgstr "Vytvoriť {service_name}"
 
 msgid "Provider"
-msgstr ""
+msgstr "Poskytovateľ"
 
 #, python-format
 msgid "Please activate at least one %s."
-msgstr ""
+msgstr "Prosím, aktivujte aspoň jedno %s."
 
 msgid "Carrier"
-msgstr ""
+msgstr "Prepravca"
 
 msgid ""
 "To start shipping products right away, please add shipping methods for your "
 "shop"
-msgstr ""
+msgstr "Ak chcete začať s doručovaním produktov ihneď, pridajte pre svoj obchod spôsoby dopravy, prosím"
 
 msgid "shipping method"
-msgstr ""
+msgstr "sposoby dopravy"
 
 msgid "Payment Provider"
-msgstr ""
+msgstr "Poskytovateľ platieb"
 
 msgid ""
 "To start accepting payments right away, please add payment methods for your "
 "shop"
-msgstr ""
+msgstr "Ak chcete hneď začať prijímať platby, pridajte pre svoj obchod spôsoby platby, prosím"
 
 msgid "payment method"
-msgstr ""
+msgstr "spôsoby platby"
 
 msgid "Service name"
-msgstr ""
+msgstr "Názov služby"
 
 msgid "The name shown in the shop checkout process."
-msgstr ""
+msgstr "Názov uvedený v procese platby."
 
 msgid "Instructions"
-msgstr ""
+msgstr "Pokyny"
 
 msgid "Additional instructions shown in the shop checkout process."
-msgstr ""
+msgstr "Ďalšie pokyny uvedené v procese platby v obchode."
 
 msgid "Shipping Methods"
-msgstr ""
+msgstr "Spôsoby dopravy"
 
 msgid "Payment Methods"
-msgstr ""
+msgstr "Spôsobt platby"
 
 msgid "Service"
-msgstr ""
+msgstr "Služba"
 
 msgid "Select a service to use for this service provider."
-msgstr ""
+msgstr "Vyberte službu, ktorú chcete použiť pre tohto poskytovateľa služieb."
 
 msgid ""
 "The carrier to use for this shipping method. Select a carrier before filling "
 "other fields."
-msgstr ""
+msgstr "Dopravca, pre tento spôsob dopravy. Vyberte prepravcu pred vyplnením "
+"ostatných polí."
 
 msgid ""
 "The payment processor to use for this payment method. Select a payment "
 "processor before filling out the other fields."
-msgstr ""
+msgstr "Spracovateľ platby pre túto možnosť platby. Vyberte spracovateľa platby "
+"pred vyplnením ostatných polí."
 
 msgid "Price"
-msgstr ""
+msgstr "Cena"
 
 msgid "Waive limit"
-msgstr ""
+msgstr "Hranica odpustenia"
 
 msgid "Available in countries"
-msgstr ""
+msgstr "Dostupné v krajinách"
 
 msgid "Unavailable in countries"
-msgstr ""
+msgstr "Nedostupné v krajinách"
 
 msgid "Select accepted countries for this service."
-msgstr ""
+msgstr "Vyberte akceptované krajiny pre túto službu."
 
 msgid "Select this to accept all countries in EU."
-msgstr ""
+msgstr "Vyberte túto možnosť pre akceptovanie všetkých krajín v EÚ.
 
 msgid "Select restricted countries for this service."
-msgstr ""
+msgstr "Vyberte krajiny s obmedzeným prístupom pre túto službu."
 
 msgid "Select this to restrict this service for countries in EU"
-msgstr ""
+msgstr "Vyberte túto možnosť, ak chcete túto službu obmedziť na krajiny EÚ"
 
 msgid "Service choice"
-msgstr ""
+msgstr "Výber služby"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Povolené"
 
 msgid "Shop"
-msgstr ""
+msgstr "Obchod"
 
 msgid "Payment Processor"
-msgstr ""
+msgstr "Spracovateľ platieb"
 
 msgid "Weight-based pricing range"
-msgstr ""
+msgstr "Cenový rozsah založený na hmotnosti"
 
 msgid "System Settings"
-msgstr ""
+msgstr "Systémové nastavenia"
 
 msgid "unique"
-msgstr ""
+msgstr "jedinečný"
 
 msgid "running"
-msgstr ""
+msgstr "prebiehajúci"
 
 msgid "shop running"
-msgstr ""
+msgstr "prebiehajúci obchod"
 
 msgid "Reference number length"
-msgstr ""
+msgstr "dĺžka referenčného čísla"
 
 msgid ""
 "Length of the order reference number not including the checksum number. This "
 "can vary based on the country your shop is in. If you set the length to 19, "
 "the actual length is going to be 20 because the checksum is being added."
-msgstr ""
+msgstr "Dĺžka referenčného čísla objednávky nezahŕňa číslo kontrolného súčtu. Toto "
+"môže sa líšiť v závislosti od krajiny, v ktorej sa nachádza váš obchod. Ak nastavíte dĺžku na 19,"
+"skutočná dĺžka bude 20, pretože sa pridáva kontrolný súčet."
 
 msgid "Reference number prefix"
-msgstr ""
+msgstr "Predpona referenčného čísla"
 
 msgid "Order minimum total"
-msgstr ""
+msgstr "Minimálna celková objednávka"
 
 msgid "The minimum sum that an order needs to reach to be created."
-msgstr ""
+msgstr "Minimálna suma potrebná k vytvoreniu objednávky."
 
 msgid "Order Settings"
-msgstr ""
+msgstr "Nastavenia objednávky"
 
 msgid "Order Reference number method"
-msgstr ""
+msgstr "Metóda referenčného čísla objednávky"
 
 msgid ""
 "This option defines how the reference numbers for orders are built. The "
