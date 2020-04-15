@@ -1018,7 +1018,7 @@ msgid ""
 "Check this to activate a selected template. If no template is selected "
 "variation data will be saved without checking this."
 msgstr "Začiarknite pre aktiváciu zvolenej šablóny. Ak nie je zvolená šablóna "
-" údaje o variantoch sa uložia bez začiarknutia.
+" údaje o variantoch sa uložia bez začiarknutia."
 
 #, python-format
 msgid "Unnamed %s"
@@ -2000,7 +2000,7 @@ msgstr "Emailový marketing (ak je k dispozícii): S vašim povolením vám mô�
 "e-maily o našom obchode, nových produktoch a ďalších aktualizáciách."
 
 msgid "SECTION 2 - CONSENT"
-msgstr "ČASŤ 2 - SÚHLAS
+msgstr "ČASŤ 2 - SÚHLAS"
 
 msgid "How do you get my consent?"
 msgstr "Ako dostanete môj súhlas?"
@@ -2195,8 +2195,9 @@ msgstr "COOKIES"
 msgid ""
 "Here is a list of cookies that we use. We’ve listed them here so you can "
 "choose if you want to opt-out of cookies or not."
-msgstr "Tu je zoznam cookies, ktoré používame. Uviedli sme ich tu, "
-"aby ste si mohli vybrať, či chcete alebo nechcete používať súbory cookie.“
+msgstr ""
+"Tu je zoznam cookies, ktoré používame. Uviedli sme ich tu, "
+"aby ste si mohli vybrať, či chcete alebo nechcete používať súbory cookie."
 
 msgid ""
 "unique token, sessional, Allows Shuup to store information about your "
@@ -2250,10 +2251,11 @@ msgid ""
 "information we have about you, register a complaint, or simply want more "
 "information contact our Privacy Compliance Officer at <strong>"
 "%(shop_email)s</strong> or by mail at <strong>%(shop_address)s</strong>."
+
 msgstr "Ak by ste chceli: získať prístup, opraviť, zmeniť alebo odstrániť akékoľvek osobné údaje, "
 "ktoré o vás máme, zaregistrujte sťažnosť, alebo jednoducho chcete viac "
 "informácií, kontaktujte nášho úradníka pre dodržiavanie ochrany osobných údajov na <strong> "
-"% (shop_email)s</strong> alebo poštou na <strong>% (shop_address)s</strong>."
+"%(shop_email)s</strong> alebo poštou na <strong>%(shop_address)s</strong>."
 
 msgid "YOUR COMPANY NAME HERE"
 msgstr "NÁZOV VAŠEJ SPOLOČNOSTI TU"
