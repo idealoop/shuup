@@ -21,121 +21,121 @@ msgstr ""
 #: core/basket/command_dispatcher.py:68
 #, python-format
 msgid "Invalid command %s"
-msgstr ""
+msgstr "Neplatný príkaz %s"
 
 #: core/basket/commands.py:67
 #, python-format
 msgid "The quantity %f is not allowed. Please use an integer value."
-msgstr ""
+msgstr "Množstvo %f nie je povolené. Prosím použite hodnotu celého čísla."
 
 #: core/basket/commands.py:72 core/basket/commands.py:75
 #, python-format
 msgid "The quantity %s is not valid."
-msgstr ""
+msgstr "Neplatné množstvo %s."
 
 #: core/basket/commands.py:142
 msgid "This variation is not available."
-msgstr ""
+msgstr "Tento variant je nedostupný."
 
 #: core/basket/commands.py:193
 msgid "Customer is not active."
-msgstr ""
+msgstr "Zákazník nie je aktívny."
 
 #: core/basket/commands.py:199
 msgid "Shop does not have permission for this customer."
-msgstr ""
+msgstr "Pre tohto zákazníka nemá obchod povolenie."
 
 #: core/basket/commands.py:219
 msgid "You don't have the required permission to assign this customer."
-msgstr ""
+msgstr "Na pridelenie tohto zákazníka nemáte potrebné povolenie."
 
 #: core/basket/commands.py:228
 msgid "You must specify the order when customer is a company."
-msgstr ""
+msgstr "Keď je zákazníkom spoločnosť, musíte špecifikovať objednávku."
 
 #: core/basket/commands.py:233
 msgid "Invalid customer."
-msgstr ""
+msgstr "Neplatný zákazník."
 
 #: core/basket/commands.py:238
 msgid "Orderer is not member of the company."
-msgstr ""
+msgstr "Objednávateľ nie je členom spoločnosti."
 
 #: core/basket/commands.py:241
 msgid "You are not member of the company."
-msgstr ""
+msgstr "Nie ste členom spoločnosti."
 
 #: core/basket/objects.py:153
 #, python-format
 msgid "Basket loading failed: Incompatible basket (%s)"
-msgstr ""
+msgstr "Načítanie nákupného košíka zlyhalo: Nekompatibilný nákupný košík (%s)"
 
 #: core/basket/objects.py:627
 msgid "Try to remove some products from the basket and order them separately."
-msgstr ""
+msgstr "Skúste odobrať niektoré produkty z nákupného košíka a objednať ich samostatne."
 
 #: core/basket/objects.py:631
 #, python-format
 msgid "Products in basket cannot be shipped together. %s"
-msgstr ""
+msgstr "Produkty v nákupnom košíku nie je možné doručiť spolu. %s"
 
 #: core/basket/objects.py:635
 #, python-format
 msgid "Products in basket have no common payment method. %s"
-msgstr ""
+msgstr "Produkty v nákupnom košíku nemajú spoločný spôsob platby. %s"
 
 #: core/fields/__init__.py:44
 msgid "internal identifier"
-msgstr ""
+msgstr "interný identifikátor"
 
 #: core/fields/__init__.py:45
 msgid "Do not change this value if you are not sure what you are doing."
-msgstr ""
+msgstr "Túto hodnotu nemeňte pokiaľ si nie ste istý, že viete, čo robíte."
 
 #: core/fields/__init__.py:219
 msgid "Invalid color"
-msgstr ""
+msgstr "Neplatná farba"
 
 #: core/fields/__init__.py:271
 msgid "Enter valid JSON"
-msgstr ""
+msgstr "Zadajte platný JSON"
 
 #: core/middleware.py:38
 msgid "Error"
-msgstr ""
+msgstr "Chyba"
 
 #: core/middleware.py:77
 msgid "No shop!"
-msgstr ""
+msgstr "Žiaden obchod !"
 
 #: core/models/_addresses.py:45 core/models/_contacts.py:193
 #: core/models/_orders.py:331
 msgid "shipping address"
-msgstr ""
+msgstr "doručovacia adresa"
 
 #: core/models/_addresses.py:46 core/models/_contacts.py:197
 #: core/models/_orders.py:326
 msgid "billing address"
-msgstr ""
+msgstr "fakturačná adresa"
 
 #: core/models/_addresses.py:54 core/models/_shops.py:45
 msgid "disabled"
-msgstr ""
+msgstr "vypnutý"
 
 #: core/models/_addresses.py:55 core/models/_product_media.py:60
 #: core/models/_service_base.py:46 core/models/_service_base.py:195
 #: core/models/_shops.py:46 core/models/_suppliers.py:71
 #: core/models/_taxes.py:56 core/models/_taxes.py:108 core/models/_taxes.py:126
 msgid "enabled"
-msgstr ""
+msgstr "zapnutý"
 
 #: core/models/_addresses.py:62 core/models/_contacts.py:223
 msgid "name prefix"
-msgstr ""
+msgstr "titul pred menom"
 
 #: core/models/_addresses.py:63
 msgid "The name prefix. For example, Mr, Mrs, Ms, Dr, etc."
-msgstr ""
+msgstr "Titul pred menom. Napríklad Ing, JUDr, Dr, PhDr, Bc, atď."
 
 #: core/models/_addresses.py:65 core/models/_attributes.py:121
 #: core/models/_categories.py:135 core/models/_contacts.py:98
@@ -149,237 +149,242 @@ msgstr ""
 #: core/models/_taxes.py:102 core/models/_taxes.py:120
 #: core/models/_units.py:125 core/models/_units.py:188
 msgid "name"
-msgstr ""
+msgstr "meno"
 
 #: core/models/_addresses.py:66
 msgid "The name for the address."
-msgstr ""
+msgstr "meno pre adresu"
 
 #: core/models/_addresses.py:68 core/models/_contacts.py:227
 msgid "name suffix"
-msgstr ""
+msgstr "titul za menom"
 
 #: core/models/_addresses.py:69
 msgid "The name suffix. For example, Jr, Sr, etc."
-msgstr ""
+msgstr "Titul za menom. Napríklad PhD, CSc, DrSc, atď."
 
 #: core/models/_addresses.py:71 core/models/_contacts.py:230
 msgid "name extension"
-msgstr ""
+msgstr "prípona mena"
 
 #: core/models/_addresses.py:72
 msgid ""
 "Any other text to display along with the address. This could be department "
 "names (for companies) or titles (for people)."
-msgstr ""
+msgstr "Akýkoľvek text na zobrazenie spolu s adresou. Môže to byť priestor "
+"pre názvy spoločností alebo pre tituly osôb."
 
 #: core/models/_addresses.py:75
 msgid "company name"
-msgstr ""
+msgstr "názov spoločnosti"
 
 #: core/models/_addresses.py:76
 msgid "The company name for the address."
-msgstr ""
+msgstr "Názov spoločnosti pre adresu."
 
 #: core/models/_addresses.py:78 core/models/_contacts.py:388
 #: core/models/_orders.py:332
 msgid "tax number"
-msgstr ""
+msgstr "daňové číslo"
 
 #: core/models/_addresses.py:79
 msgid "The business tax number. For example, EIN in US or VAT code in Europe."
-msgstr ""
+msgstr "Daňové číslo pre podnikanie. Napríklad IČ DPH, IČO, DIČ."
 
 #: core/models/_addresses.py:81 core/models/_contacts.py:213
 #: core/models/_orders.py:333
 msgid "phone"
-msgstr ""
+msgstr "telefónne číslo"
 
 #: core/models/_addresses.py:82
 msgid "The primary phone number for the address."
-msgstr ""
+msgstr "Primárne telefónne číslo pre adresu."
 
 #: core/models/_addresses.py:84 core/models/_contacts.py:231
 msgid "email"
-msgstr ""
+msgstr "emailová adresa"
 
 #: core/models/_addresses.py:85
 msgid "The primary email for the address."
-msgstr ""
+msgstr "Primárna emailová adresa pre adresu."
 
 #: core/models/_addresses.py:87
 msgid "street"
-msgstr ""
+msgstr "ulica"
 
 #: core/models/_addresses.py:88
 msgid "The street address."
-msgstr ""
+msgstr "Adresa ulice"
 
 #: core/models/_addresses.py:90
 msgid "street (2)"
-msgstr ""
+msgstr "ulica (2)"
 
 #: core/models/_addresses.py:91
 msgid "An additional street address line."
-msgstr ""
+msgstr "Riadok pre dodatočnú adresu ulice."
 
 #: core/models/_addresses.py:93
 msgid "street (3)"
-msgstr ""
+msgstr "ulica (3)"
 
 #: core/models/_addresses.py:94
 msgid "Any additional street address line."
-msgstr ""
+msgstr "Riadok pre ďalšiu dodatočnú adresu ulice."
 
 #: core/models/_addresses.py:96
 msgid "postal code"
-msgstr ""
+msgstr "poštové smerové číslo"
 
 #: core/models/_addresses.py:97
 msgid "The address postal/zip code."
-msgstr ""
+msgstr "Poštové smerové číslo"
 
 #: core/models/_addresses.py:99
 msgid "city"
-msgstr ""
+msgstr "mesto"
 
 #: core/models/_addresses.py:100
 msgid "The address city."
-msgstr ""
+msgstr "Adresa mesta"
 
 #: core/models/_addresses.py:102
 msgid "region code"
-msgstr ""
+msgstr "Kód regiónu"
 
 #: core/models/_addresses.py:103 core/models/_addresses.py:106
 msgid "The address region, province, or state."
-msgstr ""
+msgstr "Adresa regiónu, provincie alebo štátu."
 
 #: core/models/_addresses.py:105
 msgid "region"
-msgstr ""
+msgstr "región"
 
 #: core/models/_addresses.py:108
 msgid "country"
-msgstr ""
+msgstr "krajina"
 
 #: core/models/_addresses.py:109
 msgid "The address country."
-msgstr ""
+msgstr "Adresa krajiny"
 
 #: core/models/_addresses.py:116 core/models/_addresses.py:238
 msgid "address"
-msgstr ""
+msgstr "adresa"
 
 #: core/models/_addresses.py:117
 msgid "addresses"
-msgstr ""
+msgstr "adresy"
 
 #: core/models/_addresses.py:236
 msgid "owner"
-msgstr ""
+msgstr "majiteľ"
 
 #: core/models/_addresses.py:240 core/models/_orders.py:154
 msgid "role"
-msgstr ""
+msgstr "úloha"
 
 #: core/models/_addresses.py:241 core/models/_categories.py:105
 #: core/models/_orders.py:355 core/models/_product_variation.py:83
 #: core/models/_shipments.py:70 core/models/_shops.py:61
 msgid "status"
-msgstr ""
+msgstr "stav"
 
 #: core/models/_addresses.py:242 core/models/_basket.py:55
 #: core/models/_product_media.py:73
 msgid "title"
-msgstr ""
+msgstr "titul"
 
 #: core/models/_addresses.py:246
 msgid "saved address"
-msgstr ""
+msgstr "uložená adresa"
 
 #: core/models/_addresses.py:247
 msgid "saved addresses"
-msgstr ""
+msgstr "uložené adresy"
 
 #: core/models/_attributes.py:48
 msgid "hidden"
-msgstr ""
+msgstr "skrytý"
 
 #: core/models/_attributes.py:49
 msgid "shown on product page"
-msgstr ""
+msgstr "zobrazené na stránke produktov"
 
 #: core/models/_attributes.py:50
 msgid "searchable metadata"
-msgstr ""
+msgstr "vyhľadateľné metadáta"
 
 #: core/models/_attributes.py:51
 msgid "private metadata"
-msgstr ""
+msgstr "súkromné metadáta"
 
 #: core/models/_attributes.py:67
 msgid "integer"
-msgstr ""
+msgstr "celé číslo"
 
 #: core/models/_attributes.py:68
 msgid "decimal"
-msgstr ""
+msgstr "desatinný"
 
 #: core/models/_attributes.py:69
 msgid "boolean"
-msgstr ""
+msgstr "boolean"
 
 #: core/models/_attributes.py:70
 msgid "time interval"
-msgstr ""
+msgstr "časový úsek"
 
 #: core/models/_attributes.py:72
 msgid "date and time"
-msgstr ""
+msgstr "dátum a čas"
 
 #: core/models/_attributes.py:73
 msgid "date only"
-msgstr ""
+msgstr "iba dátum"
 
 #: core/models/_attributes.py:75
 msgid "translated string"
-msgstr ""
+msgstr "preložený reťazec"
 
 #: core/models/_attributes.py:76
 msgid "untranslated string"
-msgstr ""
+msgstr "nepreložený reťazec"
 
 #: core/models/_attributes.py:105 core/models/_product_shops.py:49
 msgid "searchable"
-msgstr ""
+msgstr "vyhľadávací"
 
 #: core/models/_attributes.py:106
 msgid ""
 "Searchable attributes will be used for product lookup when customers search "
 "your store."
-msgstr ""
+msgstr "Vyhľadávacie atribúty sa použijú na vyhľadávanie produktov, keď budú zákazníci vyhľadávať "
+"váš obchod"
 
 #: core/models/_attributes.py:109 core/models/_products.py:798
 #: core/models/_shipments.py:76
 msgid "type"
-msgstr ""
+msgstr "typ"
 
 #: core/models/_attributes.py:110
 msgid ""
 "The attribute data type. Attribute values can be set on the product editor "
 "page."
-msgstr ""
+msgstr "Typ údajov atribútu. Hodnoty atribútov je možné nastaviť na stránke pre úpravu produktu."
+
 
 #: core/models/_attributes.py:115
 msgid "visibility mode"
-msgstr ""
+msgstr "režim zobrazenia"
 
 #: core/models/_attributes.py:117
 msgid ""
 "Select the attribute visibility setting. Attributes can be shown on the "
 "product detail page or can be used to enhance product search results."
-msgstr ""
+msgstr "Vyberte nastavenie zobrazenia atribútu. Atribúty sa zobrazia "
+"na stránke detailu produktu a môžu byť použité na zlepšenie výsledkov vyhľadávania "
+"produktu."
 
 #: core/models/_attributes.py:122
 msgid ""
@@ -387,55 +392,58 @@ msgid ""
 "features of a product and can be shown on the product detail page. The "
 "product attributes for a product are determined by the product type and can "
 "be set on the product editor page."
-msgstr ""
+msgstr "Názov atribútu. Atribúty produktu sa dajú použiť na zoradenie rôznych "
+"funkcií produktu a môžu byť zobrazené na stránke s podrobnosťami o produkte. "
+"Atribúty produktu sú určené typom produktu a dajú sa "
+"nastaviť na stránke pre úpravu produktu."
 
 #: core/models/_attributes.py:132 core/models/_attributes.py:212
 msgid "attribute"
-msgstr ""
+msgstr "atribút"
 
 #: core/models/_attributes.py:133 core/models/_products.py:121
 msgid "attributes"
-msgstr ""
+msgstr "atribúty"
 
 #: core/models/_attributes.py:215
 msgid "numeric value"
-msgstr ""
+msgstr "číselná hodnota"
 
 #: core/models/_attributes.py:217
 msgid "datetime value"
-msgstr ""
+msgstr "dátumová hodnota"
 
 #: core/models/_attributes.py:218
 msgid "untranslated value"
-msgstr ""
+msgstr "nepreložená hodnota"
 
 #: core/models/_base.py:108
 msgid "The following fields can not be changed"
-msgstr ""
+msgstr "Nasledovné polia sa nedajú zmeniť"
 
 #: core/models/_basket.py:27 core/models/_configurations.py:25
 #: core/models/_orders.py:308 core/models/_persistent_cache.py:15
 msgid "key"
-msgstr ""
+msgstr "kľúč"
 
 #: core/models/_basket.py:29 core/models/_configurations.py:23
 #: core/models/_contacts.py:94 core/models/_orders.py:300
 #: core/models/_product_shops.py:55 core/models/_service_base.py:198
 #: core/models/_shops.py:123 core/utils/forms.py:143
 msgid "shop"
-msgstr ""
+msgstr "obchod"
 
 #: core/models/_basket.py:35 core/models/_orders.py:317
 msgid "customer"
-msgstr ""
+msgstr "zákazník"
 
 #: core/models/_basket.py:41 core/models/_orders.py:321
 msgid "orderer"
-msgstr ""
+msgstr "objednávateľ"
 
 #: core/models/_basket.py:47
 msgid "creator"
-msgstr ""
+msgstr "výrobca"
 
 #: core/models/_basket.py:50 core/models/_contacts.py:177
 #: core/models/_labels.py:23 core/models/_order_lines.py:104
@@ -443,15 +451,15 @@ msgstr ""
 #: core/models/_products.py:222 core/models/_shipments.py:69
 #: core/models/_shops.py:54 core/models/_suppliers.py:47
 msgid "created on"
-msgstr ""
+msgstr "vyrobené v"
 
 #: core/models/_basket.py:51
 msgid "updated on"
-msgstr ""
+msgstr "aktualizované v"
 
 #: core/models/_basket.py:52
 msgid "persistent"
-msgstr ""
+msgstr "trvalý"
 
 #: core/models/_basket.py:53 core/models/_categories.py:39
 #: core/models/_orders.py:354 core/models/_products.py:224
