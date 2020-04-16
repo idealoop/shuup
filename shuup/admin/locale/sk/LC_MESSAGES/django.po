@@ -3336,604 +3336,629 @@ msgid "No log entries have been added yet."
 msgstr "Zatiaľ neboli pridané žiadne záznamy."
 
 msgid "Use the input below to add new log entries."
-msgstr ""
+msgstr "Pomocou nižšie uvedeného vstupu môžete pridať nové záznamy."
 
 msgid "Add to Log"
-msgstr ""
+msgstr "Pridať do záznamu"
 
 msgid "Log entry added."
-msgstr ""
+msgstr "Záznam pridaný."
 
 msgid "There was an error adding the log entry."
-msgstr ""
+msgstr "Vyskytla sa chyba pri pridávaní záznamu."
 
 msgid "Unshipped"
-msgstr ""
+msgstr "Nedoručené"
 
 msgid "Shipped"
-msgstr ""
+msgstr "Doručené"
 
 msgid "Ordered"
-msgstr ""
+msgstr "Objednané"
 
 msgid "Refunded"
-msgstr ""
+msgstr "Vrátené"
 
 #, python-format
 msgid "Create new shipment for %(supplier_name)s"
-msgstr ""
+msgstr "Vytvoriť nové dodanie pre %(supplier_name)s"
 
 msgid "Tracking Code"
-msgstr ""
+msgstr "Kód sledovania zásielky"
 
 msgid "Created"
-msgstr ""
+msgstr "Vytvorené"
 
 msgid ""
 "Shipped shipments should not be deleted. Deletion will affect products "
 "physical stock count. Delete anyway?"
-msgstr ""
+msgstr "Odoslané zásielky by nemali byť odstránené. Odstránenie ovplyvní fyzický produkty "
+"počet produktov na sklade."
 
 msgid "Line #"
-msgstr ""
+msgstr "Riadok #"
 
 msgid "Refunded Quantity"
-msgstr ""
+msgstr "Vrátené množstvo"
 
 msgid "Refund Amount"
-msgstr ""
+msgstr "Vrátená suma"
 
 msgid "Are you sure you want to create a full refund?"
-msgstr ""
+msgstr "Ste si istý, že chcete vytvoriť plné vrátenie platby?"
 
 msgid "Confirm Refund"
-msgstr ""
+msgstr "Potvrdiť vrátenie platby"
 
 msgid "Order Contents"
-msgstr ""
+msgstr "Obsah objednávky"
 
 msgid "Paid"
-msgstr ""
+msgstr "Zaplatené"
 
 msgid "Remaining"
-msgstr ""
+msgstr "Zostávajúci"
 
 msgid "Add Another Refund"
-msgstr ""
+msgstr "Pridať ďalšie vrátenie platby"
 
 msgid "Order Line"
-msgstr ""
+msgstr "Riadok objednávky"
 
 msgid "To Ship"
-msgstr ""
+msgstr "Na odoslanie"
 
 msgid "Set All Products To Ship"
-msgstr ""
+msgstr "Určiť všetky produkty na odoslanie"
 
 msgid "Ship All"
-msgstr ""
+msgstr "Odoslať všetko"
 
 msgid "Select all permissions"
-msgstr ""
+msgstr "Zvoliť všetky povolenia"
 
 msgid "Deselect all permissions"
-msgstr ""
+msgstr "Zrušiť výber všetkých povolení"
 
 msgid "(All permissions granted)"
-msgstr ""
+msgstr "(Všetky udelené povolenia)"
 
 msgid "(Partial permissions granted)"
-msgstr ""
+msgstr "(Udelené čiastočné povolenia)"
 
 msgid "Module permission"
-msgstr ""
+msgstr "Povolenie modulu"
 
 msgid "Select the following permission to enable users to access this module."
-msgstr ""
+msgstr "Zvoľte nasledovné povolenie aby mohli mať používatelia prístup k modulu."
 
 msgid "Select all permissions for this module"
-msgstr ""
+msgstr "Zvoliť všetky povolenia pre tento modul"
 
 msgid "Features permissions"
-msgstr ""
+msgstr "Funkcie povolení"
 
 msgid ""
 "Select the permissions to enable access to specific features of the module."
-msgstr ""
+msgstr "Zvoliť povolenia pre možnosť prístupu k špecifickým funkciám modulu."
 
 msgid "Error!"
-msgstr ""
+msgstr "Chyba!"
 
 msgid "All the required product information."
-msgstr ""
+msgstr "Všetky požadované informácie o produkte."
 
 msgid "Additional Details"
-msgstr ""
+msgstr "Dodatočné podrobnosti"
 
 msgid "Product features such as size, weight and keywords are located here."
-msgstr ""
+msgstr "Vlastnosti produktu ako veľkosť, váha a kľúčové slová sa nachádzajú tu."
 
 msgid "Manufacturer"
-msgstr ""
+msgstr "Výrobca"
 
 msgid "If you know the manufacturer of the product select it here."
-msgstr ""
+msgstr "Ak viete výrobcu produktu, zvoľte ho tu."
 
 msgid "Additional"
-msgstr ""
+msgstr "Dodatočný"
 
 msgid ""
 "Strictly shop related information. For example set the minimum price "
 "applicable in this shop."
-msgstr ""
+msgstr "Informácie spojené výhradne s obchodom. Napríklad nastavte minimálnu cenu "
+"použiteľnú v tomto obchode."
 
 #, python-format
 msgid "These settings apply only for shop: <b>%(shop_name)s</b>."
-msgstr ""
+msgstr "Tieto nastavenia sa aplikujú iba pre obchod: <b>%(shop_name)s</b>."
 
 #, python-format
 msgid "Product image %(index)s"
-msgstr ""
+msgstr "Obrázok produktu %(index)s"
 
 #, python-format
 msgid "Product media %(index)s"
-msgstr ""
+msgstr "Médiá produktu %(index)s"
 
 msgid "Primary image"
-msgstr ""
+msgstr "Primárny obrázok"
 
 msgid "Set as primary image"
-msgstr ""
+msgstr "Určiť ako primárny obrázok"
 
 msgid "Product Images"
-msgstr ""
+msgstr "Obrázky produktu"
 
 msgid "Product Files"
-msgstr ""
+msgstr "Súbory produktu"
 
 msgid "You can attach files such as manual to the merchandise(s) here."
-msgstr ""
+msgstr "Sem môžete pridať súbory ako príručky k tovaru."
 
 msgid "Showcase your merchandise here."
-msgstr ""
+msgstr "Tu môžete predviesť svoj tovar."
 
 msgid "Drop files here or click to <a href=\"#\">browse</a>."
-msgstr ""
+msgstr "Sem presuňte súbory alebo kliknite na <a href=\"#\">browse</a>."
 
 msgid "All the orders that have this product."
-msgstr ""
+msgstr "Všetky objednávky obsahujúce tento produkt."
 
 msgid "No orders found"
-msgstr ""
+msgstr "Nenájdené žiadne objednávky"
 
 msgid "This product is currently not orderable."
-msgstr ""
+msgstr "Tento produkt momentálne nie je možné objednať."
 
 msgid "Add a new product"
-msgstr ""
+msgstr "Pridať nový produkt."
 
 msgid "You are adding a product."
-msgstr ""
+msgstr "Pridávate produkt."
 
 msgid ""
 "To make it stand out, give it an awesome description and picture. This is "
 "what will help your shoppers learn about your products. It will also help "
 "shoppers find them in the store and on the web."
-msgstr ""
+msgstr "Aby produkt vynikol, dodajte popis a obrázok. To pomôže,"
+"vašim zákazníkom dozvedieť sa o vašich produktoch. Tiež im to pomôže "
+"nájsť tieto produkty v obchode a na webovej stránke."
 
 msgid ""
 "You can set its price or size and many other things in the option boxes for "
 "each product."
-msgstr ""
+msgstr "V poliach môžete pre každý produkt nastaviť cenu, veľkosť a veľa iných vecí."
 
 msgid "If you know the product manufacturer, it can be set here."
-msgstr ""
+msgstr "Ak poznáte výrobcu produktu, zadajte ho tu."
 
 msgid "Additional Information"
-msgstr ""
+msgstr "Dodatočné informácie"
 
 msgid "Images"
-msgstr ""
+msgstr "Obrázky"
 
 msgid "Contact Group Pricing"
-msgstr ""
+msgstr "Ceny skupiny kontaktov"
 
 msgid ""
 "Set specific prices for your customer segments such as loyalty, tier status "
 "or season here."
-msgstr ""
+msgstr "Tu nastavte konkrétne ceny pre zákazníkov rozdelených podľa lojality, stavu úrovne "
+"alebo sezóny."
 
 msgid "Contact Group Discounts"
-msgstr ""
+msgstr "Zľavy skupiny kontaktov"
 
 msgid ""
 "Here you can set individual discount amounts for different contact groups. "
 "\" +\n"
 "                    \"The discount amount may be visible on storefront. "
 "These groups are defined in"
-msgstr ""
+msgstr "Tu môžete nastaviť individuálne zľavy pre rôzne skupiny kontaktov. "
+"\" +\n"
+"                    \"Výška zľavy sa zobrazí v obchode. "
+"Tieto skupiny sú definované v"
 
 msgid "Cross-sells"
-msgstr ""
+msgstr "Krížové predaje"
 
 msgid "Cross-sell"
-msgstr ""
+msgstr "Krížový predaj"
 
 msgid "File "
-msgstr ""
+msgstr "Súbor"
 
 #, python-format
 msgid "Logical count: %(logical_count)s %(sales_unit)s"
-msgstr ""
+msgstr "Logický počet: %(logical_count)s %(sales_unit)s"
 
 #, python-format
 msgid "Physical count: %(physical_count)s %(sales_unit)s"
-msgstr ""
+msgstr "Fyzický počet: %(physical_count)s %(sales_unit)s"
 
 msgid "This product is not yet a package."
-msgstr ""
+msgstr "Tento produkt ešte nie je v balení."
 
 msgid "To create a package, choose products below."
-msgstr ""
+msgstr "Na vytvorenie balenia zvoľte produkty nižšie."
 
 msgid "Package Products"
-msgstr ""
+msgstr "Balíky výrobkov"
 
 msgid "Simple Variation Children"
-msgstr ""
+msgstr "Jednoduchý podradený variant produktu"
 
 msgid "Variable Children"
-msgstr ""
+msgstr "Podradené variabilné produkty"
 
 msgid "Combination"
-msgstr ""
+msgstr "Kombinácia"
 
 msgid "Variables"
-msgstr ""
+msgstr "Variabilné produkty"
 
 msgid "Template"
-msgstr ""
+msgstr "Šablóna"
 
 msgid "New template"
-msgstr ""
+msgstr "Nová šablóna"
 
 msgid " Cancel "
-msgstr ""
+msgstr "Zrušiť"
 
 msgid "This product is not yet a variation."
-msgstr ""
+msgstr "Tento produkt ešte nie je variantom."
 
 msgid "To create a simple variation, choose products below."
-msgstr ""
+msgstr "Na vytvorenie jednoduchého variantu, zvoľte produkty nižšie."
 
 msgid ""
 "To create a variation with multiple variables, create the variables on the "
 "Variables tab and then link them to products here."
-msgstr ""
+msgstr "Na vytvorenie variantu s viacerými možnosťami, vytvorte variabilné produkty v okne "
+"Variabilný produkt a potom ich prepojte s produktami tu."
 
 msgid "Recent Orders"
-msgstr ""
+msgstr "Nedávne objednávky"
 
 msgid "Store Overview"
-msgstr ""
+msgstr "Prehľad obchodu"
 
 msgid "Customers"
-msgstr ""
+msgstr "Zákazníci"
 
 msgid "Today"
-msgstr ""
+msgstr "Dnes"
 
 msgid "Month to date (MTD)"
-msgstr ""
+msgstr "Za posledný mesiac
 
 msgid "Year to date (YTD)"
-msgstr ""
+msgstr "Za poseldný rok"
 
 msgid "Totals"
-msgstr ""
+msgstr "Súčty"
 
 msgid "Consolidate Data"
-msgstr ""
+msgstr "Konsolidovať údaje"
 
 msgid ""
 "Your shop currently has some sample data installed. Select below which "
 "objects you want to uninstall."
-msgstr ""
+msgstr "Vo vašom obchode sú momentálne nainštalované vzorové údaje. Vyberte nižšie, ktoré "
+"objekty, chcete odinštalovať."
 
 msgid ""
 "After the consolidation, preserved objects will lose their status of Sample "
 "Object and it will be no longer possible to distinguish them from the others."
-msgstr ""
+msgstr "Po konsolidácii zachované objekty stratia status vzorového "
+"objektu a už ich nebude možné odlíšiť od ostatných."
 
 msgid "Caution: this action cannot be undone."
-msgstr ""
+msgstr "Upozornenie: túto akciu nie je možné vrátiť späť."
 
 msgid "Consolidate"
-msgstr ""
+msgstr "Konsolidovať"
 
 msgid "Your shop has no sample data installed!"
-msgstr ""
+msgstr "Váš obchod nemá nainštalované žiadne vzorové dáta."
 
 msgid "Select the objects you want to install"
-msgstr ""
+msgstr "Zvoľte objekty, ktoré chcete inštalovať"
 
 msgid "Manually process payments"
-msgstr ""
+msgstr "Spracovať platbu ručne"
 
 msgid "Manage payments outside of Shuup"
-msgstr ""
+msgstr "Spravovať platby mimo Shuup"
 
 msgid "Manual"
-msgstr ""
+msgstr "Ručnš"
 
 msgid "Manual process shipping"
-msgstr ""
+msgstr "Spracovať doručenie ručne"
 
 msgid "Handle shipping outside of Shuup"
-msgstr ""
+msgstr "Zaistiť dopravu mimo Shuup"
 
 msgid "Deactivate"
-msgstr ""
+msgstr "Deaktivovať"
 
 msgid "Activate"
-msgstr ""
+msgstr "Aktivovať"
 
 msgid ""
 "Define price based basket weight range. Range minimum is counted in range "
 "only as zero."
-msgstr ""
+msgstr "Definujte cenu na základe rozsahu váhy nákupného košíka. Minimálny "
+"rozsah sa započítava iba ako nula."
 
 msgid "Behavior"
-msgstr ""
+msgstr "Správanie"
 
 msgid "Behavior component type"
-msgstr ""
+msgstr "Typ komponentu správania"
 
 msgid ""
 "The behaviors for this service. These behaviors can be used to add costs to "
 "the order or can be used to restrict availability of the service."
-msgstr ""
+msgstr "Správanie pre túto službu. Toto správanie možno použiť na zvýšenie nákladov na "
+"objednávku alebo môže byť použité na obmedzenie dostupnosti služby."
 
 msgid "Add component"
-msgstr ""
+msgstr "Pridať komponent"
 
 msgid "Order Configuration"
-msgstr ""
+msgstr "Nastavenie objednávky"
 
 #, python-format
 msgid ""
 "The field \"Reference number prefix\" is disabled because the order "
 "reference number generation method doesn't support a prefix. You can edit "
 "this setting from <a href=\"%(url)s\">system settings</a>."
-msgstr ""
+msgstr "Pole \"Reference number prefix\" je zakázané, pretože "
+"metóda generovania referenčných čísel objednávky nepodporuje predponu. Toto nastavenie "
+"môžete upraviť systémových nastavení <a href=\"%(url)s\">system settings</a>."
 
 msgid "Shop Images"
-msgstr ""
+msgstr "Obrázky obchodu"
 
 msgid "Maintenance Mode"
-msgstr ""
+msgstr "Režim údržby"
 
 msgid "Contact Address"
-msgstr ""
+msgstr "Adresa kontaktu"
 
 msgid "News &amp; Updates"
-msgstr ""
+msgstr "Novinky &amp; aktualizácie "
 
 msgid "Support"
-msgstr ""
+msgstr "Podpora"
 
 msgid "Community Links"
-msgstr ""
+msgstr "Odkazy komunity"
 
 msgid "Community Forums"
-msgstr ""
+msgstr "Fóra komunity"
 
 msgid "Shuup Blog"
-msgstr ""
+msgstr "Shuup blog"
 
 msgid "Contact Us"
-msgstr ""
+msgstr "Kontaktujte nás"
 
 msgid "About Shuup Telemetry"
-msgstr ""
+msgstr "O telemetrii Shuup"
 
 msgid "Shuup will occasionally send telemetry data to a Shuup.com server."
-msgstr ""
+msgstr "Shuup občas odošle telemetrické údaje na server Shuup.com."
 
 #, python-format
 msgid ""
 "The data contains an unique installation key, as well as the hostname of the "
 "installation (as sent by the visiting browser; currently <code>%(host)s</"
 "code>)."
-msgstr ""
+msgstr "Dáta obsahujú jedinečný inštalačný kľúč, ako aj hostname pre inštaláciu "
+"(tak, ako ho odoslal hostujúci prehliadač; aktuálne <code>%(host)s</"
+"code>)."
 
 msgid ""
 "No business data or other customer information is ever sent. Shuup.com only "
 "uses the telemetry data for statistical purposes and for insights about the "
 "software's installation base."
-msgstr ""
+msgstr "Nikdy sa nezasielajú žiadne obchodné údaje ani iné informácie o zákazníkoch. Iba Shuup.com "
+"používa údaje z telemetrie na štatistické účely a na získanie informácií o "
+"softwérových základoch pre inštaláciu."
 
 msgid "Opt-in / opt-out"
-msgstr ""
+msgstr "Opt-in / opt-out"
 
 msgid ""
 "You are currently <span class=\"lead label label-success\">opted in</span> "
 "to send telemetry data to Shuup.com."
-msgstr ""
+msgstr "Momentálne ste <span class=\"lead label label-success\">prihlásený</span> "
+"na odoslanie dát telemetrie na shuup.com."
 
 msgid "Thank you for your valuable contribution."
-msgstr ""
+msgstr "Ďakujeme za váš cenný príspevok."
 
 msgid "Opt out"
-msgstr ""
+msgstr "Opt out"
 
 msgid ""
 "You are currently <span class=\"label label-warning\">opted out</span> of "
 "Shuup telemetry."
-msgstr ""
+msgstr "Momentálne ste span class=\"label label-warning\">vypnutý</span> z "
+"telemetrie Shuup."
 
 msgid "Opt in"
-msgstr ""
+msgstr "Opt in"
 
 msgid "Last Telemetry"
-msgstr ""
+msgstr "Posledná telemetria"
 
 msgid ""
 "Telemetry submission is currently suspended; data will only be sent 24 hours "
 "after installation if still opted in at that point."
-msgstr ""
+msgstr "Odosielanie telemetrie je momentálne pozastavené; údaje sa budú odosielať iba 24 hodín "
+"po inštalácii, ak to bude aktivované."
 
 #, python-format
 msgid ""
 "Telemetry data was last submitted at %(submission_datetime)s - "
 "(%(submission_timesince)s) ago"
-msgstr ""
+msgstr "Telemtrické dáta sa naposledy odoslali pred %(submission_datetime)s - "
+"(%(submission_timesince)s)"
 
 msgid "See the data that was submitted."
-msgstr ""
+msgstr "Pozrieť odoslané dáta."
 
 msgid "Telemetry data has not yet been submitted."
-msgstr ""
+msgstr "Dáta telemetrie ešte neboli odoslané."
 
 msgid "Telemetry Data"
-msgstr ""
+msgstr "Dáta telemetrie"
 
 msgid "Here is an example of the data that would be submitted right now."
-msgstr ""
+msgstr "Tu je príklad dát, ktoré sa teraz odošlú."
 
 msgid "User Information"
-msgstr ""
+msgstr "Informácie používateľa"
 
 #, python-format
 msgid "Send a password reset email to %(email)s?"
-msgstr ""
+msgstr "Poslať email na obnovu hesla na %(email)s?"
 
 msgid "Send Reset Email"
-msgstr ""
+msgstr "Poslať email na obnovu hesla"
 
 msgid ""
 "Please fill out the following information to get your store up and running"
-msgstr ""
+msgstr "Vyplňťe nasledovné informácie, aby sa váš obchod dostal do prevádzky"
 
 msgid "All information entered here can be edited later."
-msgstr ""
+msgstr "Všetky vypísané informácie môžete upraviť neskôr."
 
 msgid "Click here for help"
-msgstr ""
+msgstr "Kliknite sem, ak potrebujete pomoc"
 
 msgid "Create new"
-msgstr ""
+msgstr "Vytvoriť nový"
 
 #, python-format
 msgid "New %(model)s"
-msgstr ""
+msgstr "Nový %(model)s"
 
 msgid "Discard Changes"
-msgstr ""
+msgstr "Odstrániť zmeny"
 
 #, python-format
 msgid "Are you sure you wish to delete %s?"
-msgstr ""
+msgstr "Ste si istý, že chcete zmazať %s?"
 
 #, python-format
 msgid "Showing %(per_page)s of %(n_items)s %(verbose_name_plural)s"
-msgstr ""
+msgstr "Zobrazuje %(per_page)s z %(n_items)s %(verbose_name_plural)s"
 
 msgid "objects"
-msgstr ""
+msgstr "objekty"
 
 msgid "Unknown error"
-msgstr ""
+msgstr "Neznáma chyba"
 
 msgid "Mass Action"
-msgstr ""
+msgstr "Hromadná akcia"
 
 #, python-format
 msgid "Can't view this page. %(reason)s"
-msgstr ""
+msgstr "Nie je možné vidieť túto stránku.  %(reason)s"
 
 msgid "Log in with different credentials..."
-msgstr ""
+msgstr "Prihlásiť s rôznymi povereniami..."
 
 msgid "Sign in to continue"
-msgstr ""
+msgstr "Prihláste sa, aby ste pokračovali"
 
 msgid "You must be a staff member."
-msgstr ""
+msgstr "Musíte byť zamestnanec."
 
 msgid "There is no active shop available. Contact support for more details."
-msgstr ""
+msgstr "Nie je k dispozícii žiaden aktívny obchod. Pre viac podrobností kontaktujte podporu."
 
 #, python-format
 msgid "You do not have the required permissions: %s"
-msgstr ""
+msgstr "Nemáte vyžadované povolenia: %s"
 
 #, python-brace-format
 msgid ""
 "Can't view this page. You do not have the required permission(s): "
 "{permissions}"
-msgstr ""
+msgstr "Nie je možné zobraziť stránku. Nemáte požadované povolenie: "
+"{permissions}"
 
 msgid "Unnamed"
-msgstr ""
+msgstr "Nemenovaný"
 
 msgid "Item"
-msgstr ""
+msgstr "Položka"
 
 #, python-format
 msgid "New %s created."
-msgstr ""
+msgstr "Nový %s vytvorený."
 
 #, python-format
 msgid "%s edited."
-msgstr ""
+msgstr "%s upravený"
 
 #, python-format
 msgid "New %s"
-msgstr ""
+msgstr "Nový %s"
 
 #, python-format
 msgid "Only one %(model)s permitted."
-msgstr ""
+msgstr "Povolený je iba jeden %(model)s."
 
 msgid "Mass Edit"
-msgstr ""
+msgstr "Hromadne upraviť"
 
 msgid "Invalid object."
-msgstr ""
+msgstr "Neplatné objekty."
 
 msgid "Invalid model."
-msgstr ""
+msgstr "Neplatný model."
 
 msgid "Object not found"
-msgstr ""
+msgstr "Objekt nebol nájdený"
 
 msgid "Storefront"
-msgstr ""
+msgstr "Obchod"
 
 msgid "General"
-msgstr ""
+msgstr "Všeobecné"
 
 msgid "Complete wizard"
-msgstr ""
+msgstr "Dokončiť sprievodcu"
 
 msgid "Complete the setup wizard"
-msgstr ""
+msgstr "Dokončiť nastavenie sprievodcu"
 
 msgid "All set. Nothing to be configured"
-msgstr ""
+msgstr "Všetko pripravené. Nie je potrebné nič konfigurovať"
 
 msgid ""
 "A reset password email was sent. Please, follow the instructions to set a "
 "new password."
-msgstr ""
+msgstr "Bol odoslaný email na obnovu hesla. Dodržujte inštrukcie a určite "
+"nové heslo, prosím."
 
 msgid "This recovery link is invalid."
-msgstr ""
+msgstr "Tento odkaz na obnovu nie je platný."
 
 msgid "Password changed successfully!"
-msgstr ""
+msgstr "Heslo úšpešne zmenené!"
 
 #, python-format
 msgid "Couldn't get selections for %s."
-msgstr ""
+msgstr "Nepodarilo sa získať výber pre %s."
