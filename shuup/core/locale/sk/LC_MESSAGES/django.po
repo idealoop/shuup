@@ -465,148 +465,152 @@ msgstr "trvalý"
 #: core/models/_orders.py:354 core/models/_products.py:224
 #: core/models/_shipments.py:44 core/models/_suppliers.py:97
 msgid "deleted"
-msgstr ""
+msgstr "zmazaný"
 
 #: core/models/_basket.py:54
 msgid "finished"
-msgstr ""
+msgstr "dokončený"
 
 #: core/models/_basket.py:56 core/models/_persistent_cache.py:17
 msgid "data"
-msgstr ""
+msgstr "dáta"
 
 #: core/models/_basket.py:62
 msgid "taxless total price"
-msgstr ""
+msgstr "celková cena bez dane"
 
 #: core/models/_basket.py:63
 msgid "taxful total price"
-msgstr ""
+msgstr "celková cena s daňou"
 
 #: core/models/_basket.py:64 core/models/_currencies.py:51
 #: core/models/_orders.py:390 core/models/_shops.py:66
 msgid "currency"
-msgstr ""
+msgstr "mena"
 
 #: core/models/_basket.py:65 core/models/_orders.py:391
 #: core/models/_shops.py:69
 msgid "prices include tax"
-msgstr ""
+msgstr "ceny vrátane dane"
 
 #: core/models/_basket.py:67
 msgid "product_count"
-msgstr ""
+msgstr "počet_výrobkov"
 
 #: core/models/_basket.py:68 core/models/_products.py:381
 msgid "products"
-msgstr ""
+msgstr "produkty"
 
 #: core/models/_basket.py:71
 msgid "basket"
-msgstr ""
+msgstr "nákupný košík"
 
 #: core/models/_basket.py:72
 msgid "baskets"
-msgstr ""
+msgstr "nákupné košíky"
 
 #: core/models/_categories.py:37 core/models/_product_variation.py:33
 msgid "invisible"
-msgstr ""
+msgstr "neviditeľný"
 
 #: core/models/_categories.py:38 core/models/_product_variation.py:34
 msgid "visible"
-msgstr ""
+msgstr "viditeľný"
 
 #: core/models/_categories.py:48 core/models/_products.py:61
 msgid "visible to all"
-msgstr ""
+msgstr "viditeľný pre všetkých"
 
 #: core/models/_categories.py:49
 msgid "visible to logged in customers"
-msgstr ""
+msgstr "viditeľný pre prihlásených zákazníkov"
 
 #: core/models/_categories.py:50
 msgid "visible to certain customer groups"
-msgstr ""
+msgstr "viditeľný pre určité skupiny zákazníkov"
 
 #: core/models/_categories.py:94
 msgid "parent category"
-msgstr ""
+msgstr "nadradená kategória"
 
 #: core/models/_categories.py:95
 msgid ""
 "If your category is a sub-category of another category, you can link them "
 "here."
-msgstr ""
+msgstr "Ak je vaša kategória podradená inej kategórii, môžete ich prepojit tu."
 
 #: core/models/_categories.py:99 core/models/_contacts.py:184
 #: core/models/_manufacturers.py:26 core/models/_media.py:21
 #: core/models/_media.py:32 core/models/_product_media.py:40
 #: core/models/_shops.py:124 core/models/_suppliers.py:67
 msgid "shops"
-msgstr ""
+msgstr "obchody"
 
 #: core/models/_categories.py:100
 msgid "You can select which shops the category is visible in."
-msgstr ""
+msgstr "Môžete určiť v ktorých obchodoch bude kategória viditeľná."
 
 #: core/models/_categories.py:106
 msgid ""
 "Here you can choose whether or not you want the category to be visible in "
 "your store."
-msgstr ""
+msgstr "Tu si môžete vybrať, či chcete alebo nechcete mať kategóriu viditeľnú"
+"vo vašom obchode."
 
 #: core/models/_categories.py:109 core/models/_product_media.py:31
 msgid "image"
-msgstr ""
+msgstr "obrázok"
 
 #: core/models/_categories.py:110
 msgid "Category image. Will be shown at theme."
-msgstr ""
+msgstr "Obrázok kategórie. Bude zobrazený v téme."
 
 #: core/models/_categories.py:112 core/models/_order_lines.py:86
 #: core/models/_order_lines.py:203 core/models/_orders.py:150
 #: core/models/_product_media.py:54
 msgid "ordering"
-msgstr ""
+msgstr "zoradenie"
 
 #: core/models/_categories.py:113
 msgid "You can set the order of categories in your store numerically."
-msgstr ""
+msgstr "Tu si môžete nastaviť číselné zoradenie kategórií vo vašom obchode."
 
 #: core/models/_categories.py:118 core/models/_product_shops.py:80
 msgid "visibility limitations"
-msgstr ""
+msgstr "obmedzenia zobrazenia"
 
 #: core/models/_categories.py:119
 msgid ""
 "You can choose to limit who sees your category based on whether they are "
 "logged in or if they are  part of a customer group."
-msgstr ""
+msgstr "Tu si môžete zvoliť limit kto uvidí vašu kategóriu a to podľa toho či sú "
+prihlásení alebo sú časťou skupiny kontaktov."
 
 #: core/models/_categories.py:123
 msgid "visible in menu"
-msgstr ""
+msgstr "zobrazené v menu"
 
 #: core/models/_categories.py:124
 msgid "Check this if this category should be visible in menu."
-msgstr ""
+msgstr "Začiarknite, ak má byť táto kategoória viditeľná v menu."
 
 #: core/models/_categories.py:127 core/models/_product_shops.py:87
 msgid "visible for groups"
-msgstr ""
+msgstr "viditeľné pre skupiny"
 
 #: core/models/_categories.py:129
 msgid ""
 "Select the customer groups you would like to be able to see the category. "
 "These groups are defined in Contacts Settings - Contact Groups."
-msgstr ""
+msgstr "Zvoľte zákaznícke skupiny, ktoré majú mať možnosť vidieť kategóriu."
+"Tieto skupiny sú definované v časti Nastavenia kontaktov - Skupiny kontaktov."
 
 #: core/models/_categories.py:136
 msgid ""
 "Enter a descriptive name for your product category. Products can be found in "
 "menus and in search in your store under the category name."
-msgstr ""
+msgstr "Zadajte popisný názov pre svoju kategóriu produktu. Produkty nájdete v "
+"menu a vo vyhľadávaní vo vašom obchode pod názvom kategórie."
 
 #: core/models/_categories.py:140 core/models/_payments.py:31
 #: core/models/_product_media.py:77 core/models/_product_shops.py:184
@@ -616,202 +620,207 @@ msgstr ""
 #: core/models/_shipments.py:72 core/models/_shops.py:98
 #: core/models/_suppliers.py:88
 msgid "description"
-msgstr ""
+msgstr "popis"
 
 #: core/models/_categories.py:141
 msgid ""
 "Give your product category a detailed description. This will help shoppers "
 "find your products under that category in your store and on the web."
-msgstr ""
+msgstr "Dajte vašej kategórii produktu podrobný popis. Pomôže to nakupujúcim "
+"vo vašom obchode a na webovej stránke nájsť v danej kategórii váš produkt."
 
 #: core/models/_categories.py:145 core/models/_products.py:354
 #: core/models/_suppliers.py:91
 msgid "slug"
-msgstr ""
+msgstr "slug"
 
 #: core/models/_categories.py:146
 msgid ""
 "Enter a URL slug for your category. This is what your product category page "
 "URL will be. A default will be created using the category name."
-msgstr ""
+msgstr "Zadajte URL slug pre vašu kategóriu. Taká bude URL adresa stánky vašej kategórie produktu. "
+"Predvolená hodnota bude vytvorená pomocou názvu kategórie."
 
 #: core/models/_categories.py:156
 msgid "category"
-msgstr ""
+msgstr "kategória"
 
 #: core/models/_categories.py:157 core/models/_product_shops.py:142
 msgid "categories"
-msgstr ""
+msgstr "kategórie"
 
 #: core/models/_configurations.py:26 core/models/_counters.py:26
 #: core/models/_product_variation.py:63
 msgid "value"
-msgstr ""
+msgstr "hodnota"
 
 #: core/models/_configurations.py:30
 msgid "configuration item"
-msgstr ""
+msgstr "konfigurácia položky"
 
 #: core/models/_configurations.py:31
 msgid "configuration items"
-msgstr ""
+msgstr "konfigurácia položiek"
 
 #: core/models/_configurations.py:35
 #, python-format
 msgid "%(key)s for shop %(shop)s"
-msgstr ""
+msgstr "%(key)s pre obchod %(shop)s""
 
 #: core/models/_configurations.py:37
 #, python-format
 msgid "%(key)s (global)"
-msgstr ""
+msgstr "%(key)s (global)"
 
 #: core/models/_contacts.py:55
 msgid "show as pricing option"
-msgstr ""
+msgstr "zobraziť ako možnosť určenia ceny"
 
 #: core/models/_contacts.py:58
 msgid "show prices including taxes"
-msgstr ""
+msgstr "zobraziť ceny vrátane dane"
 
 #: core/models/_contacts.py:61
 msgid "hide prices"
-msgstr ""
+msgstr "skyť ceny"
 
 #: core/models/_contacts.py:66
 msgid "Unknown"
-msgstr ""
+msgstr "Neznámy"
 
 #: core/models/_contacts.py:67
 #, python-format
 msgid "Price Display Options for Contact Group %s"
-msgstr ""
+msgstr "Možnosti zobrazenia cien pre skupinu kontaktov %s"
 
 #: core/models/_contacts.py:70
 msgid "contact group price display"
-msgstr ""
+msgstr "zobrazenie ceny skuiny kontaktov"
 
 #: core/models/_contacts.py:71
 msgid "contact group price displays"
-msgstr ""
+msgstr "zobrazenia ceny skupine kontaktov"
 
 #: core/models/_contacts.py:95 core/models/_contacts.py:384
 msgid "members"
-msgstr ""
+msgstr "členovia"
 
 #: core/models/_contacts.py:99
 msgid ""
 "The contact group name. Contact groups can be used to target sales and "
 "campaigns to specific set of users."
-msgstr ""
+msgstr "Názov skupiny kontaktu. Skupiny kontaktov môžu byť vhodné ako cieľ výpredajov a "
+"kampaní pre určitú skupinu používateľov."
 
 #: core/models/_contacts.py:107
 msgid "contact group"
-msgstr ""
+msgstr "skupina kontaktu"
 
 #: core/models/_contacts.py:108
 msgid "contact groups"
-msgstr ""
+msgstr "Skupiny kontaktov"
 
 #: core/models/_contacts.py:115
 msgid "Cannot set shop for default Contact Group."
-msgstr ""
+msgstr "Nie je možné zvoliť obchod pre predvolenú skupinu kontaktov."
 
 #: core/models/_contacts.py:148
 msgid "Can't delete. This object is protected."
-msgstr ""
+msgstr "Nie je možné vymazať. Tento objekt je chránený."
 
 #: core/models/_contacts.py:179 core/models/_labels.py:24
 #: core/models/_order_lines.py:106 core/models/_orders.py:302
 #: core/models/_products.py:223 core/models/_shops.py:55
 #: core/models/_suppliers.py:48
 msgid "modified on"
-msgstr ""
+msgstr "upravené v"
 
 #: core/models/_contacts.py:181
 msgid "active"
-msgstr ""
+msgstr "aktívny"
 
 #: core/models/_contacts.py:182
 msgid "Check this if the contact is an active customer."
-msgstr ""
+msgstr "Začiarknite, ak je kontakt aktívnym zákazníkom."
 
 #: core/models/_contacts.py:185
 msgid "Inform which shops have access to this contact."
-msgstr ""
+msgstr "Informovať ktoré obchody majú prístup k tomuto kontaktu."
 
 #: core/models/_contacts.py:189
 msgid "registration shop"
-msgstr ""
+msgstr "registračný obchod"
 
 #: core/models/_contacts.py:201
 msgid "default shipping method"
-msgstr ""
+msgstr "predvolený spôsob dopravy"
 
 #: core/models/_contacts.py:204
 msgid "default payment method"
-msgstr ""
+msgstr "predvolený spôsob platby"
 
 #: core/models/_contacts.py:207 core/models/_orders.py:404
 msgid "language"
-msgstr ""
+msgstr "jazyk"
 
 #: core/models/_contacts.py:208
 msgid "The primary language to be used in all communications with the contact."
-msgstr ""
+msgstr "Primárny jazyk, ktorý bude používaný pri celkovej komunikácii s kontaktom."
 
 #: core/models/_contacts.py:210 core/models/_orders.py:409
 msgid "marketing permission"
-msgstr ""
+msgstr "marektingové oprávnenia"
 
 #: core/models/_contacts.py:211
 msgid ""
 "Check this if the contact can receive marketing and promotional materials."
-msgstr ""
+msgstr "Začiarknite, ak kontakt môže dostávať marketingový a reklamný obsah."
 
 #: core/models/_contacts.py:214
 msgid "The primary phone number of the contact."
-msgstr ""
+msgstr "Primárne telefónne číslo kontaktu."
 
 #: core/models/_contacts.py:216
 msgid "web address"
-msgstr ""
+msgstr "webová adresa"
 
 #: core/models/_contacts.py:217
 msgid "The web address of the contact, if any."
-msgstr ""
+msgstr "Webová adresa kontaktu, ak taká je."
 
 #: core/models/_contacts.py:219
 msgid "time zone"
-msgstr ""
+msgstr "časové pásmo"
 
 #: core/models/_contacts.py:220
 msgid ""
 "The timezone in which the contact resides. This can be used to target the "
 "delivery of promotional materials at a particular time."
-msgstr ""
+msgstr "Časové pásmo kontaktu. To môže byť vhodné pri doručovaní reklamných "
+"materiálov v konkrétnom čase."
 
 #: core/models/_contacts.py:224
 msgid "The name prefix of the contact. For example, Mr, Mrs, Dr, etc."
-msgstr ""
+msgstr "Titul pred menom kontaktu. Napríklad pán, pani, Bc, Ing, JUDr, Mgr, atď."
 
 #: core/models/_contacts.py:226
 msgid "The contact name"
-msgstr ""
+msgstr "Meno kontaktu"
 
 #: core/models/_contacts.py:228
 msgid "The name suffix of the contact. For example, Sr, Jr, etc."
-msgstr ""
+msgstr "Titul za menom kontaktu. Napr. st, ml, atď."
 
 #: core/models/_contacts.py:232
 msgid ""
 "The email that will receive order confirmations and promotional materials "
 "(if permitted)."
-msgstr ""
+msgstr "Na tento email budú doručované potvrdzovacie a preklamné materiály "
+"(ak je to povolené)."
 
 #: core/models/_contacts.py:235 core/models/_orders.py:343
 msgid "tax group"
-msgstr ""
+msgstr "daňová skupina"
 
 #: core/models/_contacts.py:237
 msgid ""
@@ -819,229 +828,234 @@ msgid ""
 "to customize the tax rules the that apply to any of this contacts orders. "
 "Tax groups are defined in Settings - Customer Tax Groups and can be applied "
 "to tax rules in Settings - Tax Rules"
-msgstr ""
+msgstr "Zvoľte daňovú skupinu pre tento kontakt. Daňové skupiny môžu byť použité "
+"na úpravu daňových nastavení, ktoré sa aplikujú na každú objednávku tohto kontaktu. "
+"Daňové skupiny sú definované v časti Nástroje - Daňové skupiny zákazníkov a dajú sa použiť "
+"v daňových nastaveniach v časti Nástroje - Daňové nastavenia"
 
 #: core/models/_contacts.py:243
 msgid "merchant notes"
-msgstr ""
+msgstr "poznámky obchodníka"
 
 #: core/models/_contacts.py:244
 msgid ""
 "Enter any private notes for this customer that are only accessible in Shuup "
 "admin."
-msgstr ""
+msgstr "Zadajte súkromné poznámky pre tohto zákazníka, ktoré budú prístupné iba v administrátorskom prostredí Shuup."
 
 #: core/models/_contacts.py:246 core/models/_orders.py:339
 msgid "account manager"
-msgstr ""
+msgstr "správca účtu"
 
 #: core/models/_contacts.py:247 core/models/_shops.py:65
 #: core/models/_suppliers.py:86
 msgid "options"
-msgstr ""
+msgstr "možnosti"
 
 #: core/models/_contacts.py:249
 msgid "picture"
-msgstr ""
+msgstr "obrázok"
 
 #: core/models/_contacts.py:251
 msgid ""
 "Contact picture. Can be used alongside contact profile, reviews and messages "
 "for example."
-msgstr ""
+msgstr "Obrázok kontaktu. Môže byť použitý napríklad v profile kontaktu, recenziách a správach."
 
 #: core/models/_contacts.py:259 core/models/_shops.py:64
 msgid "contact"
-msgstr ""
+msgstr "kontakt"
 
 #: core/models/_contacts.py:260
 msgid "contacts"
-msgstr ""
+msgstr "kontakty"
 
 #: core/models/_contacts.py:380
 msgid "Company Contacts"
-msgstr ""
+msgstr "Kontakty spoločnosti"
 
 #: core/models/_contacts.py:389
 msgid "e.g. EIN in US or VAT code in Europe"
-msgstr ""
+msgstr "napr. EIN v USA alebo číslo DPH v Európe"
 
 #: core/models/_contacts.py:392
 msgid "company"
-msgstr ""
+msgstr "spoločnosť"
 
 #: core/models/_contacts.py:393
 msgid "companies"
-msgstr ""
+msgstr "spoločnosti"
 
 #: core/models/_contacts.py:407
 msgid "undisclosed"
-msgstr ""
+msgstr "neuverejnené"
 
 #: core/models/_contacts.py:408
 msgid "male"
-msgstr ""
+msgstr "muž"
 
 #: core/models/_contacts.py:409
 msgid "female"
-msgstr ""
+msgstr "žena"
 
 #: core/models/_contacts.py:410 core/models/_order_lines.py:45
 msgid "other"
-msgstr ""
+msgstr "ostatné"
 
 #: core/models/_contacts.py:416
 msgid "Person Contacts"
-msgstr ""
+msgstr "Kontakty osoby"
 
 #: core/models/_contacts.py:420
 msgid "user"
-msgstr ""
+msgstr "používateľ"
 
 #: core/models/_contacts.py:422
 msgid "gender"
-msgstr ""
+msgstr "pohlavie"
 
 #: core/models/_contacts.py:423
 msgid "The gender of the contact."
-msgstr ""
+msgstr "Pohlavie kontaktu."
 
 #: core/models/_contacts.py:425
 msgid "birth date"
-msgstr ""
+msgstr "dátum narodenia"
 
 #: core/models/_contacts.py:426
 msgid "The birth date of the contact."
-msgstr ""
+msgstr "Dátum narodenia kontaktu."
 
 #: core/models/_contacts.py:428
 msgid "first name"
-msgstr ""
+msgstr "Krstné meno"
 
 #: core/models/_contacts.py:429
 msgid "The first name of the contact."
-msgstr ""
+msgstr "Krstné meno kontaktu."
 
 #: core/models/_contacts.py:431
 msgid "last name"
-msgstr ""
+msgstr "Priezvisko"
 
 #: core/models/_contacts.py:432
 msgid "The last name of the contact."
-msgstr ""
+msgstr "Priezvisko kontaktu."
 
 #: core/models/_contacts.py:437
 msgid "person"
-msgstr ""
+msgstr "osoba"
 
 #: core/models/_contacts.py:438
 msgid "persons"
-msgstr ""
+msgstr "osoby"
 
 #: core/models/_contacts.py:488
 msgid "Anonymous Contacts"
-msgstr ""
+msgstr "Anonymné kontakty"
 
 #: core/models/_counters.py:21
 msgid "order reference"
-msgstr ""
+msgstr "referencia objednávky"
 
 #: core/models/_counters.py:25 core/models/_payments.py:22
 #: core/models/_service_base.py:194
 msgid "identifier"
-msgstr ""
+msgstr "identifikátor"
 
 #: core/models/_counters.py:29
 msgid "counter"
-msgstr ""
+msgstr "pokladňa"
 
 #: core/models/_counters.py:30
 msgid "counters"
-msgstr ""
+msgstr "pokladne"
 
 #: core/models/_currencies.py:27 core/models/_taxes.py:33
 msgid "code"
-msgstr ""
+msgstr "kód"
 
 #: core/models/_currencies.py:31
 msgid "The ISO-4217 code of the currency"
-msgstr ""
+msgstr "ISO-4217 kód meny"
 
 #: core/models/_currencies.py:33 core/models/_units.py:163
 msgid "decimal places"
-msgstr ""
+msgstr "desatinné miesta"
 
 #: core/models/_currencies.py:37
 msgid "The number of decimal places supported by this currency."
-msgstr ""
+msgstr "Táto mena podporuje číslo s desatinnými miestami."
 
 #: core/models/_currencies.py:44
 msgid "Enter a valid ISO-4217 currency code"
-msgstr ""
+msgstr "Zadajte platný ISO-4217 kód meny"
 
 #: core/models/_currencies.py:52
 msgid "currencies"
-msgstr ""
+msgstr "meny"
 
 #: core/models/_labels.py:31 core/models/_orders.py:305
 msgid "label"
-msgstr ""
+msgstr "označenie"
 
 #: core/models/_labels.py:32 core/models/_order_lines.py:94
 #: core/models/_service_base.py:220 core/models/_shops.py:88
 msgid "labels"
-msgstr ""
+msgstr "označenia"
 
 #: core/models/_manufacturers.py:23
 msgid "added"
-msgstr ""
+msgstr "pridaný"
 
 #: core/models/_manufacturers.py:28
 msgid ""
 "Enter the manufacturer’s name. Products can be filtered by the manufacturer "
 "and can be useful for inventory and stock management."
-msgstr ""
+msgstr "Zadajte meno výrobcu. Produkty sa dajú filtrovať podľa výrobcu "
+"a môže to byť užitočné pre sklad a riadenie zásob."
 
 #: core/models/_manufacturers.py:31 core/models/_product_media.py:51
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: core/models/_manufacturers.py:32
 msgid ""
 "Enter the URL of the product manufacturer if you would like customers to be "
 "able to visit the manufacturer's website."
-msgstr ""
+msgstr "Zadjte URL výrobcu produktu ak chcete, aby mohli zákazníci navštíviť "
+"webovú stránku výbrobcu."
 
 #: core/models/_manufacturers.py:37 core/models/_service_base.py:53
 #: core/models/_service_base.py:211 core/models/_shops.py:74
 #: core/models/_suppliers.py:75
 msgid "logo"
-msgstr ""
+msgstr "logo"
 
 #: core/models/_manufacturers.py:41 core/models/_products.py:323
 msgid "manufacturer"
-msgstr ""
+msgstr "výrobca"
 
 #: core/models/_manufacturers.py:42
 msgid "manufacturers"
-msgstr ""
+msgstr "výrobcovia"
 
 #: core/models/_media.py:19 core/models/_product_media.py:30
 #: core/models/_product_media.py:49
 msgid "file"
-msgstr ""
+msgstr "súbor"
 
 #: core/models/_media.py:22
 msgid "Select which shops you would like the files to be visible in."
-msgstr ""
+msgstr "Vyberte obchody, v ktorých chcete zobraziť súbory."
 
 #: core/models/_media.py:30
 msgid "folder"
-msgstr ""
+msgstr "priečinok"
 
 #: core/models/_media.py:33
 msgid "Select which shops you would like the folder to be visible in."
-msgstr ""
+msgstr "Vyberte obchody, v ktorých chcete zobraziť priečinky."
 
 #: core/models/_order_lines.py:41 core/models/_order_lines.py:75
 #: core/models/_product_media.py:39 core/models/_product_shops.py:57
@@ -1049,513 +1063,517 @@ msgstr ""
 #: core/models/_products.py:380 core/models/_products.py:807
 #: core/models/_shipments.py:168 core/models/_supplied_products.py:17
 msgid "product"
-msgstr ""
+msgstr "produkt"
 
 #: core/models/_order_lines.py:42
 msgid "shipping"
-msgstr ""
+msgstr "doručenie"
 
 #: core/models/_order_lines.py:43 core/models/_payments.py:42
 msgid "payment"
-msgstr ""
+msgstr "platba"
 
 #: core/models/_order_lines.py:44
 msgid "discount"
-msgstr ""
+msgstr "zľava"
 
 #: core/models/_order_lines.py:46
 msgid "refund"
-msgstr ""
+msgstr "vrátenie peňazí"
 
 #: core/models/_order_lines.py:47
 msgid "rounding"
-msgstr ""
+msgstr "zaokrúhlenie"
 
 #: core/models/_order_lines.py:79 core/models/_shipments.py:67
 #: core/models/_supplied_products.py:16
 msgid "supplier"
-msgstr ""
+msgstr "dodávateľ"
 
 #: core/models/_order_lines.py:84
 msgid "parent line"
-msgstr ""
+msgstr "nadradený riadok"
 
 #: core/models/_order_lines.py:87
 msgid "line type"
-msgstr ""
+msgstr "typ riadku"
 
 #: core/models/_order_lines.py:88
 msgid "line SKU"
-msgstr ""
+msgstr "riadok SKU"
 
 #: core/models/_order_lines.py:89
 msgid "line text"
-msgstr ""
+msgstr "textový riadok"
 
 #: core/models/_order_lines.py:90
 msgid "accounting identifier"
-msgstr ""
+msgstr "účtovný identifikátor"
 
 #: core/models/_order_lines.py:91
 msgid "require verification"
-msgstr ""
+msgstr "vyžadovať overenie"
 
 #: core/models/_order_lines.py:92
 msgid "verified"
-msgstr ""
+msgstr "overený"
 
 #: core/models/_order_lines.py:93 core/models/_orders.py:382
 msgid "extra data"
-msgstr ""
+msgstr "ďalšie údaje"
 
 #: core/models/_order_lines.py:97 core/models/_product_packages.py:18
 #: core/models/_shipments.py:170
 msgid "quantity"
-msgstr ""
+msgstr "množstvo"
 
 #: core/models/_order_lines.py:101
 msgid "unit price amount (undiscounted)"
-msgstr ""
+msgstr "jednotková cena (nezľavnená)"
 
 #: core/models/_order_lines.py:102
 msgid "total amount of discount"
-msgstr ""
+msgstr "celková výška zľavy"
 
 #: core/models/_order_lines.py:112 core/models/_order_lines.py:189
 msgid "order line"
-msgstr ""
+msgstr "riadok objednávky"
 
 #: core/models/_order_lines.py:113
 msgid "order lines"
-msgstr ""
+msgstr "riadky objednávky"
 
 #: core/models/_order_lines.py:176 core/models/_orders.py:417
 #: core/models/_payments.py:39 core/models/_shipments.py:65
 msgid "order"
-msgstr ""
+msgstr "objednávka"
 
 #: core/models/_order_lines.py:192 core/models/_taxes.py:95
 msgid "tax"
-msgstr ""
+msgstr "daň"
 
 #: core/models/_order_lines.py:193
 msgid "tax name"
-msgstr ""
+msgstr "názov dane"
 
 #: core/models/_order_lines.py:198
 msgid "tax amount"
-msgstr ""
+msgstr "výška dane"
 
 #: core/models/_order_lines.py:200
 msgid "base amount"
-msgstr ""
+msgstr "základnné množstvo"
 
 #: core/models/_order_lines.py:201
 msgid "Amount that this tax is calculated from"
-msgstr ""
+msgstr "Množstvo, z ktorého je táto daň vypočítaná"
 
 #: core/models/_orders.py:67
 msgid "not paid"
-msgstr ""
+msgstr "nezaplatený"
 
 #: core/models/_orders.py:68
 msgid "partially paid"
-msgstr ""
+msgstr "čiastočne zaplatený"
 
 #: core/models/_orders.py:69
 msgid "fully paid"
-msgstr ""
+msgstr "úplne vyplatený"
 
 #: core/models/_orders.py:70
 msgid "canceled"
-msgstr ""
+msgstr "zrušený"
 
 #: core/models/_orders.py:71
 msgid "deferred"
-msgstr ""
+msgstr "odložený"
 
 #: core/models/_orders.py:80
 msgid "not shipped"
-msgstr ""
+msgstr "neodoslaný"
 
 #: core/models/_orders.py:81
 msgid "partially shipped"
-msgstr ""
+msgstr "čiastočne odoslaný"
 
 #: core/models/_orders.py:82
 msgid "fully shipped"
-msgstr ""
+msgstr "úplne odoslaný"
 
 #: core/models/_orders.py:94 core/models/_orders.py:110
 msgid "none"
-msgstr ""
+msgstr "žiaden"
 
 #: core/models/_orders.py:95
 msgid "Initial"
-msgstr ""
+msgstr "Počiatočný"
 
 #: core/models/_orders.py:96 core/models/_orders.py:112
 msgid "Complete"
-msgstr ""
+msgstr "Úplný"
 
 #: core/models/_orders.py:97 core/models/_orders.py:113
 msgid "Canceled"
-msgstr ""
+msgstr "Zrušený"
 
 #: core/models/_orders.py:98
 msgid "Processing"
-msgstr ""
+msgstr "Spracovanie"
 
 #: core/models/_orders.py:111
 msgid "Received"
-msgstr ""
+msgstr "Doručený"
 
 #: core/models/_orders.py:114
 msgid "In Progress"
-msgstr ""
+msgstr "V priebehu"
 
 #: core/models/_orders.py:149
 msgid ""
 "Internal identifier for status. This is used to identify the statuses in "
 "Shuup."
-msgstr ""
+msgstr "Interný identifikátor stavu. Používa sa na identifikáciu stavov v Shuup."
 
 #: core/models/_orders.py:151
 msgid "The processing order of statuses. Default is always processed first."
-msgstr ""
+msgstr "Poradie spracovania stavov. Predvolená hodnota je vždy spracovaná ako prvá."
 
 #: core/models/_orders.py:155
 msgid "Role of status. One role can have multiple order statuses."
-msgstr ""
+msgstr "Úloha statusu. Jedna rola môže mať viac stavov objednávky."
 
 #: core/models/_orders.py:157
 msgid "default"
-msgstr ""
+msgstr "predvolený"
 
 #: core/models/_orders.py:158
 msgid "Defines if the status should be considered as default."
-msgstr ""
+msgstr "Určuje, či by mal byť stav považovaný za predvolený."
 
 #: core/models/_orders.py:161
 msgid "is active"
-msgstr ""
+msgstr "je aktívny"
 
 #: core/models/_orders.py:161
 msgid "Define if the status is usable."
-msgstr ""
+msgstr "Určiť či je stav použiteľný."
 
 #: core/models/_orders.py:166
 msgid "Name of the order status"
-msgstr ""
+msgstr "Názov stavu objednávky"
 
 #: core/models/_orders.py:168 core/models/_shops.py:94
 msgid "public name"
-msgstr ""
+msgstr "verejný názov"
 
 #: core/models/_orders.py:168
 msgid "The name shown for customer in shop front."
-msgstr ""
+msgstr "Názov viditeľný pre zákazníka v obchode."
 
 #: core/models/_orders.py:173
 msgid "order status"
-msgstr ""
+msgstr "stav objednávky"
 
 #: core/models/_orders.py:174
 msgid "order statuses"
-msgstr ""
+msgstr "stavy objednávky"
 
 #: core/models/_orders.py:303
 msgid "order identifier"
-msgstr ""
+msgstr "indentifikátor objednávky"
 
 #: core/models/_orders.py:311
 msgid "reference number"
-msgstr ""
+msgstr "referenčné číslo"
 
 #: core/models/_orders.py:334
 msgid "email address"
-msgstr ""
+msgstr "emailová adresa"
 
 #: core/models/_orders.py:341
 msgid "customer groups"
-msgstr ""
+msgstr "skupiny zákazníka"
 
 #: core/models/_orders.py:349
 msgid "creating user"
-msgstr ""
+msgstr "vytvorenie používateľa"
 
 #: core/models/_orders.py:353
 msgid "modifier user"
-msgstr ""
+msgstr "používateľ modifikátora"
 
 #: core/models/_orders.py:358
 msgid "payment status"
-msgstr ""
+msgstr "stav platby"
 
 #: core/models/_orders.py:361
 msgid "shipping status"
-msgstr ""
+msgstr "stav doručenia"
 
 #: core/models/_orders.py:367 core/models/_service_payment.py:49
 msgid "payment method"
-msgstr ""
+msgstr "spôsob platby"
 
 #: core/models/_orders.py:370
 msgid "payment method name"
-msgstr ""
+msgstr "názov spôsobu platby"
 
 #: core/models/_orders.py:371
 msgid "payment data"
-msgstr ""
+msgstr "platobné údaje"
 
 #: core/models/_orders.py:376 core/models/_service_shipping.py:42
 msgid "shipping method"
-msgstr ""
+msgstr "spôsob doručenia"
 
 #: core/models/_orders.py:379
 msgid "shipping method name"
-msgstr ""
+msgstr "názov spôsobu doručenia"
 
 #: core/models/_orders.py:380
 msgid "shipping data"
-msgstr ""
+msgstr "doručovacie údaje"
 
 #: core/models/_orders.py:388
 msgid "grand total"
-msgstr ""
+msgstr "úhrn"
 
 #: core/models/_orders.py:389
 msgid "taxless total"
-msgstr ""
+msgstr "celkom bez dane"
 
 #: core/models/_orders.py:393
 msgid "display currency"
-msgstr ""
+msgstr "zobraziť menu"
 
 #: core/models/_orders.py:395
 msgid "display currency rate"
-msgstr ""
+msgstr "zobraziť menový kurz"
 
 #: core/models/_orders.py:399
 msgid "IP address"
-msgstr ""
+msgstr "IP adresa"
 
 #: core/models/_orders.py:401
 msgid "order date"
-msgstr ""
+msgstr "dátum objednávky"
 
 #: core/models/_orders.py:402
 msgid "payment date"
-msgstr ""
+msgstr "dátum platby"
 
 #: core/models/_orders.py:405
 msgid "customer comment"
-msgstr ""
+msgstr "komentár zákazníka"
 
 #: core/models/_orders.py:406
 msgid "admin comment/notes"
-msgstr ""
+msgstr "komentár/poznámky administrátora"
 
 #: core/models/_orders.py:407
 msgid "requires verification"
-msgstr ""
+msgstr "vyžaduje overenie"
 
 #: core/models/_orders.py:408
 msgid "all lines verified"
-msgstr ""
+msgstr "všetky riady overené"
 
 #: core/models/_orders.py:410
 msgid "codes"
-msgstr ""
+msgstr "kódy"
 
 #: core/models/_orders.py:418
 msgid "orders"
-msgstr ""
+msgstr "objednávky"
 
 #: core/models/_orders.py:561
 msgid "Order marked as paid."
-msgstr ""
+msgstr "Objednávka označená ako zaplatená."
 
 #: core/models/_orders.py:568
 msgid "Order marked as partially paid."
-msgstr ""
+msgstr "Objednávka označená ako čiastočne zaplatená."
 
 #: core/models/_orders.py:698
 #, python-format
 msgid "Shipment #%d created."
-msgstr ""
+msgstr "Doručovanie #%d vytvorené."
 
 #: core/models/_orders.py:757 core/models/_orders.py:855
 #: core/models/_orders.py:869
 #, python-format
 msgid "Refund for %s"
-msgstr ""
+msgstr "Vrátenie peňazí pre %s"
 
 #: core/models/_orders.py:812
 msgid "Misc refund"
-msgstr ""
+msgstr "Rôzne náhrady"
 
 #: core/models/_orders.py:983
 msgid "All rows requiring verification have been verified."
-msgstr ""
+msgstr "Všetky rady vyžadujúce overenie musia byť overené."
 
 #: core/models/_orders.py:1062
 #, python-format
 msgid "New shipping status set: %(shipping_status)s"
-msgstr ""
+msgstr "Nastavený nový stav doručenia: %(shipping_status)s"
 
 #: core/models/_orders.py:1078
 #, python-format
 msgid "New payment status set: %(payment_status)s"
-msgstr ""
+msgstr "Nastavený nový stav platby: %(payment_status)s"
 
 #: core/models/_payments.py:21
 msgid "gateway ID"
-msgstr ""
+msgstr "ID brány"
 
 #: core/models/_payments.py:27
 msgid "amount"
-msgstr ""
+msgstr "množstvo"
 
 #: core/models/_payments.py:28
 msgid "foreign amount"
-msgstr ""
+msgstr "zahraničné množstvo"
 
 #: core/models/_payments.py:29
 msgid "foreign amount currency"
-msgstr ""
+msgstr "množstvo v cudzej mene"
 
 #: core/models/_payments.py:43
 msgid "payments"
-msgstr ""
+msgstr "platby"
 
 #: core/models/_persistent_cache.py:14 core/models/_suppliers.py:61
 msgid "module"
-msgstr ""
+msgstr "modul"
 
 #: core/models/_persistent_cache.py:16
 msgid "time"
-msgstr ""
+msgstr "čas"
 
 #: core/models/_persistent_cache.py:20
 msgid "cache entry"
-msgstr ""
+msgstr "záznam vyrovnávacej pamäte"
 
 #: core/models/_persistent_cache.py:21
 msgid "cache entries"
-msgstr ""
+msgstr "záznamy vyrovnávacej pamäte"
 
 #: core/models/_product_media.py:32
 msgid "documentation"
-msgstr ""
+msgstr "dokumentácia"
 
 #: core/models/_product_media.py:33
 msgid "sample"
-msgstr ""
+msgstr "vzorka"
 
 #: core/models/_product_media.py:41
 msgid "Select which shops you would like the product media to be visible in."
-msgstr ""
+msgstr "Vyberte v ktorých obchodoch chcete, aby boli zobrazené produktové médiá."
 
 #: core/models/_product_media.py:45
 msgid "kind"
-msgstr ""
+msgstr "druh"
 
 #: core/models/_product_media.py:46
 msgid ""
 "Select what type the media is. It can either be a normal file, part of the "
 "documentation, or a sample."
-msgstr ""
+msgstr "Vyberte o aký typ média ide. Môže to byť normálny súbor, časť dokumnetácie "
+"alebo vzorka."
 
 #: core/models/_product_media.py:52
 msgid ""
 "Enter URL to external file. If this field is filled, the selected media "
 "doesn't apply."
-msgstr ""
+msgstr "Zadajte URL externého súboru. Ak je toto pole vyplené, tak vybraté médium neplatí."
 
 #: core/models/_product_media.py:55
 msgid ""
 "You enter the numerical order that your image will be displayed on your "
 "product page."
-msgstr ""
+msgstr "Zadáte číselné poradie, v ktorom sa bude zobrazovať váš obrázok na vašej stránke produktu."
+
 
 #: core/models/_product_media.py:62
 msgid "public (shown on product page)"
-msgstr ""
+msgstr "verejné (zobrazené na stránke produktu)"
 
 #: core/models/_product_media.py:63
 msgid ""
 "Check this if you would like the image shown on your product page. Checked "
 "by default."
-msgstr ""
+msgstr "Začiarknite, ak chcete, aby bol obrázok zobrazený na vašej stránke produktu. Predvolene "
+"je táto možnosť začiarknutá."
 
 #: core/models/_product_media.py:67
 msgid "purchased (shown for finished purchases)"
-msgstr ""
+msgstr "zakúpené (zobrazuje sa pre dokončené nákupy)"
 
 #: core/models/_product_media.py:68
 msgid ""
 "Select this if you would like the product media shown for completed "
 "purchases."
-msgstr ""
+msgstr "Vyberte túto možnosť ak chcete, aby sa médium vášho produktu zobrazovalo pre dokončené nákupy."
 
 #: core/models/_product_media.py:74
 msgid ""
 "Choose a title for your product media. This will help it be found in your "
 "store and on the web."
-msgstr ""
+msgstr "Vyberte titul pre médium vášho produktu. To zlepší jeho vyhľadanie vo vašom obchode a na webovej stránke."
 
 #: core/models/_product_media.py:78
 msgid ""
 "Write a description for your product media. This will help it be found in "
 "your store and on the web."
-msgstr ""
+msgstr "Napíšte popis média vášho produktu. To zlepší jeho vyhľadanie vo vašom obchode a na webovej stránke."
 
 #: core/models/_product_media.py:84
 msgid "product attachment"
-msgstr ""
+msgstr "príloha produktu"
 
 #: core/models/_product_media.py:85
 msgid "product attachments"
-msgstr ""
+msgstr "prílohy produktu"
 
 #: core/models/_product_media.py:103
 msgid "attachment"
-msgstr ""
+msgstr "príloha"
 
 #: core/models/_product_packages.py:16
 msgid "parent product"
-msgstr ""
+msgstr "nadradený produkt"
 
 #: core/models/_product_packages.py:17
 msgid "child product"
-msgstr ""
+msgstr "podradený produkt"
 
 #: core/models/_product_shops.py:48
 msgid "not visible"
-msgstr ""
+msgstr "neviditeľný"
 
 #: core/models/_product_shops.py:50
 msgid "listed"
-msgstr ""
+msgstr "uvedený"
 
 #: core/models/_product_shops.py:51
 msgid "always visible"
-msgstr ""
+msgstr "vždy viditeľný"
 
 #: core/models/_product_shops.py:59
 msgid "suppliers"
-msgstr ""
+msgstr "dodávatelia"
 
 #: core/models/_product_shops.py:60
 msgid ""
 "List your suppliers here. Suppliers can be found in Product Settings - "
 "Suppliers."
-msgstr ""
+msgstr "Tu uveďte svojich dodávateľov. Dodávatelia sa nachádzajú v časti Nastavenia produktu - "
+"Dodávatelia."
 
 #: core/models/_product_shops.py:68
 msgid "visibility"
-msgstr ""
+msgstr "viditeľnosť"
 
 #: core/models/_product_shops.py:70
 msgid ""
