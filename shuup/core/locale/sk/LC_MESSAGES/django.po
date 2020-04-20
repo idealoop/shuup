@@ -1583,93 +1583,107 @@ msgid ""
 "category page.</p><p>Listed: Product will be shown on category pages but not "
 "shown in search results.</p><p>Always Visible: Product will be shown in your "
 "store front and found in search.</p>"
-msgstr ""
+msgstr "Zvoľte túto možnosť, ak chcete, aby zákazníci našli váš produkt. <p>"
+"Neviditeľný: Produkt nebude zobrazený v obchode ani vo vyhľadávaní.</"
+"p><p>Vyhľadateľný: Produkt bude zobrazený vo vyhľadávaní ale nebude uvedený na "
+"žiadnej stránke kategórií.</p><p>Uvedený: Produkt bude uvedený na stránkach kategórií "
+"ale nebude zobrazený vo výsledkoch vyhľadávania.</p><p>Vždy viditeľný: Produkt bude zobrazený "
+"vo vašom obchode aj vo vyhľadávaní.</p>"
 
 #: core/models/_product_shops.py:77
 msgid "purchasable"
-msgstr ""
+msgstr "predajný"
 
 #: core/models/_product_shops.py:81
 msgid ""
 "Select whether you want your product to have special limitations on its "
 "visibility in your store. You can make products visible to all, visible to "
 "only logged in users, or visible only to certain customer groups."
-msgstr ""
+msgstr "Vyberte, ak chcete, aby váš produkt mal osobité obmedzenia týkajúce sa jeho viditeľnosti "
+vo vašom obchode. Môžte určiť, či budú viditeľné všetky produkty, alebo či budú "
+viditeľné iba pre prihlásených používateľov alebo pre učité skupiny zákazníkov."
 
 #: core/models/_product_shops.py:88
 msgid ""
 "Select the groups you would like to make your product visible for. These "
 "groups are defined in Contacts Settings - Contact Groups."
-msgstr ""
+msgstr "Zvoľte skupiny, pre ktoré chcete, aby bol váš produkt viditeľný. Tieto "
+"skupiny sú definované v časti Nastavenia kontaktov - Skupiny kontaktov."
 
 #: core/models/_product_shops.py:93
 msgid "backorder maximum"
-msgstr ""
+msgstr "maximum predobjednávky"
 
 #: core/models/_product_shops.py:94
 msgid ""
 "The number of units that can be purchased after the product is out of stock. "
 "Set to blank for product to be purchasable without limits."
-msgstr ""
+msgstr "Počet jednotiek, ktoré môžu byť nakúpené po vypredaní produktu. "
+"Nechajte prázdne, ak chcete, aby bolo produkt možné kúpiť bez obmedzení."
 
 #: core/models/_product_shops.py:97
 msgid "purchase multiple"
-msgstr ""
+msgstr "násobok nákupu"
 
 #: core/models/_product_shops.py:98
 msgid ""
 "Set this if the product needs to be purchased in multiples. For example, if "
 "the purchase multiple is set to 2, then customers are required to order the "
 "product in multiples of 2."
-msgstr ""
+msgstr "Zvoľte túto možnosť, ak má byť produkt kupovaný v násobkoch. Napríklad, ak "
+"je násobok nákupu 2, tak zákazníci si budú môcť kúpiť produkt iba v násobkoch 2."
 
 #: core/models/_product_shops.py:103
 msgid "minimum purchase"
-msgstr ""
+msgstr "minimum nákupu"
 
 #: core/models/_product_shops.py:104
 msgid ""
 "Set a minimum number of products needed to be ordered for the purchase. This "
 "is useful for setting bulk orders and B2B purchases."
-msgstr ""
+msgstr "Zvoľte minimálny počet produktov potrebných na objednávku. Toto je užitočné "
+"pri zadávaní hromadných objednávok alebo nákupe B2B (typ podnik-podnik)."
 
 #: core/models/_product_shops.py:109
 msgid "limited for shipping methods"
-msgstr ""
+msgstr "obmezdené spôsobmi dopravy"
 
 #: core/models/_product_shops.py:110 core/models/_product_shops.py:116
 msgid ""
 "Check this if you want to limit your product to use only select payment "
 "methods. You can select the payment method(s) in the field below."
-msgstr ""
+msgstr "Začiarknite, ak chcete aby bol váš produkt obmedzený iba na použitie "
+"vybratých spôsobov platby. V nižšie uvedenom poli môžete vybrať spôsoby platby."
 
 #: core/models/_product_shops.py:115
 msgid "limited for payment methods"
-msgstr ""
+msgstr "obmedzené spôsobmi platby"
 
 #: core/models/_product_shops.py:121 core/models/_service_shipping.py:43
 msgid "shipping methods"
-msgstr ""
+msgstr "spôsoby dopravy"
 
 #: core/models/_product_shops.py:122
 msgid ""
 "Select the shipping methods you would like to limit the product to using. "
 "These are defined in Settings - Shipping Methods."
-msgstr ""
+msgstr "Zvoľte spôsoby dopravy, ktoré chcete obmedziť na použitie produktu. "
+"Tieto sú definované v časti Nastavenia - Spôsoby doručenia."
 
 #: core/models/_product_shops.py:127 core/models/_service_payment.py:50
 msgid "payment methods"
-msgstr ""
+msgstr "spôsoby platby"
 
 #: core/models/_product_shops.py:128
 msgid ""
 "Select the payment methods you would like to limit the product to using. "
 "These are defined in Settings - Payment Methods."
-msgstr ""
+msgstr "Zvoľte spôsoby platby, ktoré chcete obmedziť na použitie produktu. "
+"Tieto sú definované v časti Nastavenie - Spôsoby platby."
 
 #: core/models/_product_shops.py:133
 msgid "primary category"
-msgstr ""
+msgstr "primárna kategória"
 
 #: core/models/_product_shops.py:135
 msgid ""
@@ -1677,317 +1691,334 @@ msgid ""
 "for classification in the system. Your product can be found under this "
 "category in your store. Categories are defined in Products Settings - "
 "Categories."
-msgstr ""
+msgstr "Vyberte primárnu kategóriu vášho produktu. To bude hlavná kategória "
+"pri zaradené do systému. Vo vašom obchode bude váš produkt možné nájsť pod tohuto "
+"kategóriou. Kategórie sú definované v časti Kategórie."
+
 
 #: core/models/_product_shops.py:143
 msgid ""
 "Add secondary categories for your product. These are other categories that "
 "your product fits under and that it can be found by in your store."
-msgstr ""
+msgstr "Doplňte druhotné kategórie pre váš produkt. To sú ďalšie kategórie, pod "
+"ktoré spadá váš produkt a môže sa podľa nich dať vyhľadať vo vašom obchode."
 
 #: core/models/_product_shops.py:150 core/models/_products.py:331
 msgid "primary image"
-msgstr ""
+msgstr "primárny obrázok"
 
 #: core/models/_product_shops.py:151
 msgid ""
 "Click this to set this image as the primary display image for your product."
-msgstr ""
+msgstr "Kliknite pre nastavenie tohto obrázku ako primárneho, ktorý sa zobrazí pre váš produkt."
 
 #: core/models/_product_shops.py:157
 msgid "default price"
-msgstr ""
+msgstr "predvolená cena"
 
 #: core/models/_product_shops.py:158
 msgid ""
 "This is the default individual base unit (or multi-pack) price of the "
 "product. All discounts or coupons will be based off of this price."
-msgstr ""
+msgstr "Všetky zľavy alebo kupóny sa budú odvíjať od tejto ceny."
 
 #: core/models/_product_shops.py:164
 msgid "minimum price"
-msgstr ""
+msgstr "minimálna cena"
 
 #: core/models/_product_shops.py:165
 msgid ""
 "This is the default price that the product cannot go under in your store, "
 "despite coupons or discounts being applied. This is useful to make sure your "
 "product price stays above cost."
-msgstr ""
+msgstr "Toto je predvolená cena produktu, ktorá nemôže byť nižšia aj napriek "
+"použitiu kupónov alebo uplatnenia zľavy. Je to užitočné, aby tak váš produkt "
+"zostal nad cenou."
 
 #: core/models/_product_shops.py:170
 msgid "available until"
-msgstr ""
+msgstr "dostupné do"
 
 #: core/models/_product_shops.py:171
 msgid "After this date the product will be invisible."
-msgstr ""
+msgstr "Po tomto dátume bude produkt neviditeľný."
 
 #: core/models/_product_shops.py:176 core/models/_units.py:196
 msgid "display unit"
-msgstr ""
+msgstr "zobrazenie jednotky"
 
 #: core/models/_product_shops.py:177
 msgid "Unit for displaying quantities of this product"
-msgstr ""
+msgstr "Jednotka pre určenie množstva tohto produktu"
 
 #: core/models/_product_shops.py:182 core/models/_products.py:336
 msgid ""
 "Enter a descriptive name for your product. This will be its title in your "
 "store."
-msgstr ""
+msgstr "Zadjte popisný názvo vášho produktu. Bude to jeho názov v obchode."
 
 #: core/models/_product_shops.py:186 core/models/_products.py:340
 msgid ""
 "To make your product stand out, give it an awesome description. This is what "
 "will help your shoppers learn about your products. It will also help "
 "shoppers find them in the store and on the web."
-msgstr ""
+msgstr "Aby váš produkt vynikol, dajte mu dobrý popis. Tak sa nakupujúci viac "
+"dozvedia o vašom produkte. Tiež im to pomôže nájsť produkt v obchode a na webe."
 
 #: core/models/_product_shops.py:192 core/models/_products.py:346
 #: core/models/_shops.py:106
 msgid "short description"
-msgstr ""
+msgstr "stručný popis"
 
 #: core/models/_product_shops.py:194 core/models/_products.py:348
 msgid ""
 "Enter a short description for your product. The short description will be "
 "used to get the attention of your customer with a small but precise "
 "description of your product."
-msgstr ""
+msgstr "Zadajte stručný popis vášho produktu. Vďaka stručnému a výstižnému popisu prilákate "
+"pozornosť zákazníkov."
 
 #: core/models/_product_shops.py:201
 msgid "status text"
-msgstr ""
+msgstr "text stavu"
 
 #: core/models/_product_shops.py:203
 msgid ""
 "This text will be shown alongside the product in the shop. It is useful for "
 "informing customers of special stock numbers or preorders. (Ex.: Available "
 "in a month)"
-msgstr ""
+msgstr "Tento text sa zobrazí pri produkte v obchode. Je to užitočné "
+"na informovanie zákazníkov o skladových zásobách a predobjednávkach. (napr.: Dostupné "
+"o mesiac)"
 
 #: core/models/_product_shops.py:225
 msgid ""
 "Invalid display unit: Internal unit of the selected display unit does not "
 "match with the sales unit of the product"
-msgstr ""
+msgstr "Neplatná zobrazovacia jednotka: Interná jednotka vybranej zobrazovacej jednotky nie je "
+"zhodná s predajnou jednotkou produktu"
 
 #: core/models/_product_shops.py:270
 msgid "This product has been deleted."
-msgstr ""
+msgstr "Tento produkt bol vymazaný."
 
 #: core/models/_product_shops.py:276
 msgid "This product is not visible."
-msgstr ""
+msgstr "Tento produkt nie je viditeľný."
 
 #: core/models/_product_shops.py:279
 msgid "This product is not available to the current date."
-msgstr ""
+msgstr "Tento produkt nie je momentálne dostupný."
 
 #: core/models/_product_shops.py:285
 msgid "The Product is invisible to users not logged in."
-msgstr ""
+msgstr "Produkt nie je viditeľný pre neprihlásených používateľov."
 
 #: core/models/_product_shops.py:294
 msgid "This product is not visible to your group."
-msgstr ""
+msgstr "Tento produkt nie je viditeľný pre vašu skupinu."
 
 #: core/models/_product_shops.py:344
 msgid "The product is not purchasable"
-msgstr ""
+msgstr "Produkt nie je na predaj"
 
 #: core/models/_product_shops.py:363
 #, python-format
 msgid "The purchase quantity needs to be at least %d for this product."
-msgstr ""
+msgstr "Predajné množstvo pre tento produkt musí byť aspoň %d."
 
 #: core/models/_product_shops.py:375
 #, python-brace-format
 msgid ""
 "The product can only be ordered in multiples of {package_size}, for example "
 "{amount}"
-msgstr ""
+msgstr "Produkt je možné objednať iba v násobkoch {package_size}, napríklad "
+"{amount}"
 
 #: core/models/_product_shops.py:381
 #, python-brace-format
 msgid ""
 "The product can only be ordered in multiples of {package_size}, for example "
 "{smaller_amount} or {larger_amount}"
-msgstr ""
+msgstr "Produkt je možné objednať iba v násobkoch {package_size}, napríklad "
+"{smaller_amount} alebo {larger_amount}"
 
 #: core/models/_product_shops.py:396
 msgid "The product has no supplier."
-msgstr ""
+msgstr "Produkt nemá dodávateľa."
 
 #: core/models/_product_shops.py:402
 #, python-format
 msgid "The product is not supplied by %s."
-msgstr ""
+msgstr "Produkt %s nedodáva."
 
 #: core/models/_product_shops.py:437 core/models/_product_shops.py:460
 msgid "Product has no sellable children"
-msgstr ""
+msgstr "Produkt nemá žiadne predajné podradené produkty."
 
 #: core/models/_product_variation.py:47 core/models/_product_variation.py:59
 msgid "variation variable"
-msgstr ""
+msgstr "variant variabilného produktu"
 
 #: core/models/_product_variation.py:48
 msgid "variation variables"
-msgstr ""
+msgstr "variant variabilných produktov"
 
 #: core/models/_product_variation.py:67
 msgid "variation value"
-msgstr ""
+msgstr "hodnota variantu"
 
 #: core/models/_product_variation.py:68
 msgid "variation values"
-msgstr ""
+msgstr "hodnoty variantu"
 
 #: core/models/_product_variation.py:79
 msgid "combination hash"
-msgstr ""
+msgstr "hash kombinácia"
 
 #: core/models/_product_variation.py:81
 msgid "result"
-msgstr ""
+msgstr "výsledok"
 
 #: core/models/_product_variation.py:96
 msgid "variation result"
-msgstr ""
+msgstr "výsledok variantu"
 
 #: core/models/_product_variation.py:97
 msgid "variation results"
-msgstr ""
+msgstr "výsledky variantu"
 
 #: core/models/_products.py:47
 msgid "normal"
-msgstr ""
+msgstr "normálny"
 
 #: core/models/_products.py:48
 msgid "package parent"
-msgstr ""
+msgstr "nadradené balenie"
 
 #: core/models/_products.py:49
 msgid "variation parent (simple)"
-msgstr ""
+msgstr "nadaradený variant produktu (jednoduchý)"
 
 #: core/models/_products.py:50
 msgid "variation parent (variable)"
-msgstr ""
+msgstr "nadaradený variant produktu (variabilný produkt)"
 
 #: core/models/_products.py:51
 msgid "variation child"
-msgstr ""
+msgstr "podradený variant produktu"
 
 #: core/models/_products.py:52
 msgid "subscription"
-msgstr ""
+msgstr "predplatné"
 
 #: core/models/_products.py:62
 msgid "visible to logged in"
-msgstr ""
+msgstr "viditeľný pre prihlásených"
 
 #: core/models/_products.py:63
 msgid "visible to groups"
-msgstr ""
+msgstr "viditeľný pre skupiny"
 
 #: core/models/_products.py:72
 msgid "stocked"
-msgstr ""
+msgstr "skladom"
 
 #: core/models/_products.py:73
 msgid "unstocked"
-msgstr ""
+msgstr "nenaskladnené"
 
 #: core/models/_products.py:83
 msgid "recommended"
-msgstr ""
+msgstr "odporúčaný"
 
 #: core/models/_products.py:84
 msgid "related"
-msgstr ""
+msgstr "príbuzný"
 
 #: core/models/_products.py:85
 msgid "computed"
-msgstr ""
+msgstr "vypočítaný"
 
 #: core/models/_products.py:86
 msgid "bought with"
-msgstr ""
+msgstr "zakúpený s"
 
 #: core/models/_products.py:94
 msgid "not shipped (non-deliverable)"
-msgstr ""
+msgstr "nie je dodané (nedoručiteľné)"
 
 #: core/models/_products.py:95
 msgid "shipped (deliverable)"
-msgstr ""
+msgstr "dodané (doručiteľné)"
 
 #: core/models/_products.py:104
 msgid "no verification required"
-msgstr ""
+msgstr "nevyžaduje sa overenie"
 
 #: core/models/_products.py:105
 msgid "admin verification required"
-msgstr ""
+msgstr "vyžaduje sa overenie administrátora"
 
 #: core/models/_products.py:106
 msgid "third party verification required"
-msgstr ""
+msgstr "vyžaduje sa overenie tretej strany"
 
 #: core/models/_products.py:114
 msgid ""
 "Enter a descriptive name for your product type. Products and attributes for "
 "products of this type can be found under this name."
-msgstr ""
+msgstr "Zadajte popisný názov pre typ vášho produktu. Pod týmto názvom sa budú nachádzať "
+"produkty a vlastnosti produktov tohto typu."
 
 #: core/models/_products.py:122
 msgid ""
 "Select attributes that go with your product type. These are defined in "
 "Products Settings – Attributes."
-msgstr ""
+msgstr "Vyberte vlastnosti, ktoré súvisia s typom produktu. Sú definované v časti "
+"Nastavenia produktu - Vlastnosti."
 
 #: core/models/_products.py:127 core/models/_products.py:255
 msgid "product type"
-msgstr ""
+msgstr "typ produktu"
 
 #: core/models/_products.py:128
 msgid "product types"
-msgstr ""
+msgstr "typy produktu"
 
 #: core/models/_products.py:227
 msgid "mode"
-msgstr ""
+msgstr "režim"
 
 #: core/models/_products.py:231
 msgid "variation parent"
-msgstr ""
+msgstr "nadradený variant produktu"
 
 #: core/models/_products.py:233
 msgid "shipping mode"
-msgstr ""
+msgstr "režim doručenia"
 
 #: core/models/_products.py:234
 msgid "Set to shipped if the product requires shipment."
-msgstr ""
+msgstr "Ak produkt vyžaduje prepravu, nastavte ho na odoslanie."
 
 #: core/models/_products.py:237 core/models/_units.py:67
 msgid "sales unit"
-msgstr ""
+msgstr "predajná jednotka"
 
 #: core/models/_products.py:238
 msgid ""
 "Select a sales unit for your product. This is shown in your store front and "
 "is used to determine whether the product can be purchased using fractional "
 "amounts. Sales units are defined in Products - Sales Units."
-msgstr ""
+msgstr "Vyberte predajnú jednotku pre váš produkt.  Toto sa zobrazuje v obchode a "
+"používa sa na určenie, či je možné produkt kúpiť za časť predajnej "
+"jednotky. Predajné jednotky sú definované v časti Produkty - Predajné jednotky."
 
 #: core/models/_products.py:243 core/models/_service_base.py:213
 #: core/models/_taxes.py:113
 msgid "tax class"
-msgstr ""
+msgstr "daňová trieda"
 
 #: core/models/_products.py:244
 msgid ""
@@ -1995,17 +2026,21 @@ msgid ""
 "which taxes to apply to your product. Tax classes are defined in Settings - "
 "Tax Classes. The rules by which taxes are applied are defined in Settings - "
 "Tax Rules."
-msgstr ""
+msgstr "Zvoľte daňovú triedu vášho produktu. Daňová trieda pomáha určiť "
+"aká daň sa použije na váš produkt. Daňové triedy sú definované v časti "
+"Nastavenia - Daňové triedy. Určenie dane, ktorá sa má použiť je definované v časti "
+"Nastavenia - Daňové pravidlá."
 
 #: core/models/_products.py:258
 msgid ""
 "Select a product type for your product. These allow you to configure custom "
 "attributes to help with classification and analysis."
-msgstr ""
+msgstr "Vyberte typ produktu pre váš produkt. To vám umožňuje nakonfigurovať si vlastné "
+"atribúty, ktoré pomáhajú pri klasifikácii a analýze."
 
 #: core/models/_products.py:263 core/models/_supplied_products.py:18
 msgid "SKU"
-msgstr ""
+msgstr "skladové číslo produktu"
 
 #: core/models/_products.py:265
 msgid ""
@@ -2013,62 +2048,68 @@ msgid ""
 "identification code that helps you track it through your inventory. People "
 "often use the number by the barcode on the product, but you can set up any "
 "numerical system you want to keep track of products."
-msgstr ""
+msgstr "Zadajte skladové číslo produktu. Je to identifikačný kód, ktorý pomôže "
+"vyhľadať produkt na sklade. Často sa používa číslo čiarového kódu, no môžete si "
+"určiť vlastný číselný systém na vyhľadávanie produktov."
 
 #: core/models/_products.py:271
 msgid "GTIN"
-msgstr ""
+msgstr "kód GTIN"
 
 #: core/models/_products.py:272
 msgid ""
 "You can enter a Global Trade Item Number. This is typically a 14 digit "
 "identification number for all of your trade items. It can often be found by "
 "the barcode."
-msgstr ""
+msgstr "Môžete zadať kód GTIN. Je to 14 miestne identifikačné číslo pre všetky vaše produkty. "
+"Často býva pri čiarovom kóde."
 
 #: core/models/_products.py:276
 msgid "barcode"
-msgstr ""
+msgstr "čiarový kód"
 
 #: core/models/_products.py:277
 msgid ""
 "You can enter the barcode number for your product. This is useful for "
 "inventory/stock tracking and analysis."
-msgstr ""
+msgstr "Môžte zadať číslo čiarového kódu vášho produktu. Je to užitočné pri "
+"sledovaní skladových zásob a analýze."
 
 #: core/models/_products.py:279
 msgid "bookkeeping account"
-msgstr ""
+msgstr "účtovnícky účet"
 
 #: core/models/_products.py:280
 msgid "profit center"
-msgstr ""
+msgstr "ziskové centrum"
 
 #: core/models/_products.py:281
 msgid "cost center"
-msgstr ""
+msgstr "nákladové centrum"
 
 #: core/models/_products.py:285
 msgid "width (mm)"
-msgstr ""
+msgstr "šírka (mm)"
 
 #: core/models/_products.py:287
 msgid ""
 "Set the measured width of your product or product packaging. This will "
 "provide customers with your product size and help with calculating shipping "
 "costs."
-msgstr ""
+msgstr "Určite nameranú šírku vášho produktu alebo balenia. To pomôže zákazníkom "
+"mať pojem o veľkosti produktu a uľahčí to prepočet nákladov na dopravu."
 
 #: core/models/_products.py:292
 msgid "height (mm)"
-msgstr ""
+msgstr "výška (mm)"
 
 #: core/models/_products.py:294
 msgid ""
 "Set the measured height of your product or product packaging. This will "
 "provide customers with your product size and help with calculating shipping "
 "costs."
-msgstr ""
+msgstr "Určite nameranú výšku vášho produktu alebo balenia. To pomôže zákazníkom "
+"mať pojem o veľkosti produktu a uľahčí to prepočet nákladov na dopravu."
 
 #: core/models/_products.py:299
 msgid "depth (mm)"
