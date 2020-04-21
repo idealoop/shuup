@@ -20,89 +20,89 @@ msgstr ""
 
 #: addons/admin_module/__init__.py:16 addons/admin_module/__init__.py:46
 msgid "Addons"
-msgstr ""
+msgstr "Doplnky"
 
 #: addons/admin_module/views/list.py:39
 #, python-format
 msgid "Enable %s"
-msgstr ""
+msgstr "Povoliť %s"
 
 #: addons/admin_module/views/list.py:62
 #, python-format
 msgid "%d new addons enabled."
-msgstr ""
+msgstr "%d nové doplnky povolené."
 
 #: addons/admin_module/views/list.py:64
 #, python-format
 msgid "%d previously enabled addons disabled."
-msgstr ""
+msgstr "%d predtým povolené doplnky zakázané."
 
 #: addons/admin_module/views/list.py:78
 msgid "No changes were made."
-msgstr ""
+msgstr "Neboli vykonané žiadne zmeny."
 
 #: addons/admin_module/views/list.py:87
 msgid "Save addon changes"
-msgstr ""
+msgstr "Uložiť zmeny v doplnkoch"
 
 #: addons/admin_module/views/list.py:92
 msgid "Upload new addon"
-msgstr ""
+msgstr "Nahrať nový doplnok"
 
 #: addons/admin_module/views/list.py:101
 msgid "Reload application"
-msgstr ""
+msgstr "Obnoviť aplikáciu"
 
 #: addons/admin_module/views/reload.py:39
 msgid ""
 "There are no viable reload methods available. Please contact your system "
 "administrator."
-msgstr ""
+msgstr "Nie sú k dispozícii žiadne realizovateľné metódy obnovenia. Prosím kontaktujte správcu systému."
 
 #: addons/admin_module/views/reload.py:43
 msgid "Reload Method"
-msgstr ""
+msgstr "Obnoviť metódu"
 
 #: addons/admin_module/views/reload.py:73
 msgid "Reloading."
-msgstr ""
+msgstr "Obnovovanie."
 
 #: addons/admin_module/views/upload.py:31
 msgid "Addon file (ZIP)"
-msgstr ""
+msgstr "Súbor doplnkov (ZIP)"
 
 #: addons/admin_module/views/upload.py:32
 msgid "Only upload addon files you trust."
-msgstr ""
+msgstr "Nahrávajte iba súbory doplnkov, ktorým dôverujete."
 
 #: addons/admin_module/views/upload.py:44
 msgid "Only wheel files are supported"
-msgstr ""
+msgstr "Podporované sú iba súbory .whl"
 
 #: addons/admin_module/views/upload.py:65
 msgid "Upload"
-msgstr ""
+msgstr "Nahrať"
 
 #: addons/admin_module/views/upload.py:101
 msgid "Install Addon"
-msgstr ""
+msgstr "Inštalovať doplnok"
 
 #: addons/templates/shuup/admin/addons/list.jinja:10
 msgid "Installed addons"
-msgstr ""
+msgstr "Nainštalované doplnky"
 
 #: addons/templates/shuup/admin/addons/reload.jinja:9
 msgid "Reload Application Server"
-msgstr ""
+msgstr "Obnoviť server aplikácie"
 
 #: addons/templates/shuup/admin/addons/upload.jinja:7
 msgid "Select file"
-msgstr ""
+msgstr "Vybrať súbor"
 
 #: addons/templates/shuup/admin/addons/upload_confirm.jinja:9
 msgid "Package Information"
-msgstr ""
+msgstr "Informácie o balíčku"
 
 #: addons/templates/shuup/admin/addons/upload_confirm.jinja:16
 msgid "File List"
-msgstr ""
+msgstr "Zoznam súborov"
