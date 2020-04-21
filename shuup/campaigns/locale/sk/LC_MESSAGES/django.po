@@ -21,68 +21,68 @@ msgstr ""
 #: campaigns/admin_module/__init__.py:23 campaigns/models/campaigns.py:88
 #: campaigns/modules.py:23
 msgid "Campaigns"
-msgstr ""
+msgstr "Kampane"
 
 #: campaigns/admin_module/__init__.py:53
 msgid "Basket Campaigns"
-msgstr ""
+msgstr "Kampane k nákupným košíkom"
 
 #: campaigns/admin_module/__init__.py:55
 msgid "Show Basket Campaigns"
-msgstr ""
+msgstr "Zobraziť kampane k nákupným košíkom"
 
 #: campaigns/admin_module/__init__.py:58
 msgid "Coupons"
-msgstr ""
+msgstr "Kupóny"
 
 #: campaigns/admin_module/__init__.py:60
 msgid "Show Coupons"
-msgstr ""
+msgstr "Zobraziť kupóny"
 
 #: campaigns/admin_module/__init__.py:67
 msgid "Catalog Campaigns"
-msgstr ""
+msgstr "Katalógové kampane"
 
 #: campaigns/admin_module/__init__.py:69
 msgid "Show Catalog Campaigns"
-msgstr ""
+msgstr "Zobraziť katalógové kampane"
 
 #: campaigns/admin_module/__init__.py:78
 msgid "Set up a sales campaign"
-msgstr ""
+msgstr "Nastaviť výpredajovú kampaň"
 
 #: campaigns/admin_module/__init__.py:80
 msgid "New basket campaign"
-msgstr ""
+msgstr "Kampaň k novému nákupnému košíku"
 
 #: campaigns/admin_module/__init__.py:83
 msgid "New coupon"
-msgstr ""
+msgstr "Nový kupón"
 
 #: campaigns/admin_module/form_parts.py:32
 msgid "Minimum value"
-msgstr ""
+msgstr "Minimálna hodnota"
 
 #: campaigns/admin_module/form_parts.py:33
 msgid "Maximum value"
-msgstr ""
+msgstr "Maximálna hodnota"
 
 #: campaigns/admin_module/form_parts.py:36
 msgid "Leave empty for no maximum"
-msgstr ""
+msgstr "Nechajte nevyplnené pre žiadnu maximálnu hodnotu"
 
 #: campaigns/admin_module/forms/_base.py:47
 msgid "Campaign end date can't be before start date."
-msgstr ""
+msgstr "Dátum konca kampane nesmie byť pred dátumom začiatku."
 
 #: campaigns/admin_module/forms/_basket.py:35
 msgid "Define the required coupon for this campaign."
-msgstr ""
+msgstr "Definujte požadovaný kupón pre túto kampaň."
 
 #: campaigns/admin_module/forms/_basket.py:36
 #: campaigns/admin_module/views/_edit.py:126 campaigns/reports.py:21
 msgid "Coupon"
-msgstr ""
+msgstr "Kupón"
 
 #: campaigns/admin_module/forms/_basket_effects.py:31
 #: campaigns/admin_module/forms/_basket_effects.py:41
@@ -92,7 +92,7 @@ msgstr ""
 #: campaigns/models/basket_line_effects.py:150
 #: campaigns/models/product_effects.py:65
 msgid "discount percentage"
-msgstr ""
+msgstr "percentuálna zľava"
 
 #: campaigns/admin_module/forms/_basket_effects.py:32
 #: campaigns/admin_module/forms/_basket_effects.py:42
@@ -102,647 +102,656 @@ msgstr ""
 #: campaigns/models/basket_line_effects.py:151
 #: campaigns/models/product_effects.py:66
 msgid "The discount percentage for this campaign."
-msgstr ""
+msgstr "Percentuálna zľava pre túto kampaň."
 
 #: campaigns/admin_module/forms/_basket_effects.py:63
 #, python-format
 msgid "Product %(product)s is not available in the %(shop)s shop."
-msgstr ""
+msgstr "Produkt %(product)s nie je k dispozícii v obchode %(shop)s."
 
 #: campaigns/admin_module/forms/_basket_effects.py:92
 msgid "Only amount or percentage can be set."
-msgstr ""
+msgstr "Je možné nastaviť iba množstvo alebo percento."
 
 #: campaigns/admin_module/forms/_coupon.py:17
 msgid "Autogenerate code"
-msgstr ""
+msgstr "Automaticky generovaný kód"
 
 #: campaigns/admin_module/forms/_coupon.py:55
 msgid "Discount Code already in use."
-msgstr ""
+msgstr "Zľavový kód je už použitý."
 
 #: campaigns/admin_module/sections.py:19
 msgid "Active Basket Campaigns"
-msgstr ""
+msgstr "AKtívne kampane pre nákupné košíky"
 
 #: campaigns/admin_module/views/_edit.py:81
 msgid "Catalog Campaign"
-msgstr ""
+msgstr "Katalógová kampaň"
 
 #: campaigns/admin_module/views/_edit.py:109
 msgid "Basket Campaign"
-msgstr ""
+msgstr "Kampaň pre nákupné košíky"
 
 #: campaigns/admin_module/views/_list.py:25
 msgid "Title"
-msgstr ""
+msgstr "Titul"
 
 #: campaigns/admin_module/views/_list.py:28
 msgid "Starts"
-msgstr ""
+msgstr "Začína"
 
 #: campaigns/admin_module/views/_list.py:29
 msgid "Ends"
-msgstr ""
+msgstr "Končí"
 
 #: campaigns/admin_module/views/_list.py:30
 #: campaigns/admin_module/views/_list.py:106
 msgid "Active"
-msgstr ""
+msgstr "Aktívny"
 
 #: campaigns/admin_module/views/_list.py:30
 msgid "No"
-msgstr ""
+msgstr "Nie"
 
 #: campaigns/admin_module/views/_list.py:30
 msgid "Yes"
-msgstr ""
+msgstr "Áno"
 
 #: campaigns/admin_module/views/_list.py:53
 msgid "CatalogCampaign"
-msgstr ""
+msgstr "Katalóvoá kampaň"
 
 #: campaigns/admin_module/views/_list.py:67
 msgid "Create new Catalog Campaign"
-msgstr ""
+msgstr "Vytvoriť novú katalógovú kampaň"
 
 #: campaigns/admin_module/views/_list.py:83
 msgid "Create new Basket Campaign"
-msgstr ""
+msgstr "Vytvoriť novú kampaň pre nákupné košíky"
 
 #: campaigns/admin_module/views/_list.py:100
 msgid "Code"
-msgstr ""
+msgstr "Kód"
 
 #: campaigns/admin_module/views/_list.py:103
 msgid "Usages"
-msgstr ""
+msgstr "Použitia"
 
 #: campaigns/admin_module/views/_list.py:104
 msgid "Usages Limit per contact"
-msgstr ""
+msgstr "Limit použití pre kontakt"
 
 #: campaigns/admin_module/views/_list.py:105
 msgid "Usage Limit"
-msgstr ""
+msgstr "Limit použití"
 
 #: campaigns/admin_module/views/_list.py:107
 msgid "Created by"
-msgstr ""
+msgstr "Vytvorený"
 
 #: campaigns/admin_module/views/_list.py:108
 msgid "Date created"
-msgstr ""
+msgstr "Vytvorený dátum"
 
 #: campaigns/admin_module/views/_list.py:121
 msgid "Create new Coupon"
-msgstr ""
+msgstr "Vytvoriť nový kupón"
 
 #: campaigns/models/basket_conditions.py:30
 msgid "Basket condition"
-msgstr ""
+msgstr "Stav nákupného košíka"
 
 #: campaigns/models/basket_conditions.py:41
 msgid "Basket product count"
-msgstr ""
+msgstr "Počet produktov v nákupnom košíku"
 
 #: campaigns/models/basket_conditions.py:44
 msgid "product count in basket"
-msgstr ""
+msgstr "počet produktov v nákupnom košíku"
 
 #: campaigns/models/basket_conditions.py:54
 msgid ""
 "Limit the campaign to match when basket has at least the product count "
 "entered here."
-msgstr ""
+msgstr "Obmedzte kampaň tak, aby sa zhodovala, keď je v košíku aspoň toľko poroduktov ako je tu zadané."
 
 #: campaigns/models/basket_conditions.py:67
 msgid "Basket total value"
-msgstr ""
+msgstr "Celková hodnota nákupného košíka"
 
 #: campaigns/models/basket_conditions.py:70
 #: campaigns/models/basket_conditions.py:95
 msgid "basket total amount"
-msgstr ""
+msgstr "celková čiastka košíka"
 
 #: campaigns/models/basket_conditions.py:79
 msgid ""
 "Limit the campaign to match when it has at least the total value entered "
 "here worth of products."
-msgstr ""
+msgstr "Obmedzte kampaň tak, aby sa zhodovala, keď má celkovú hodnotu aspoň ako tu zadaná celková hodnota produktov."
 
 #: campaigns/models/basket_conditions.py:92
 msgid "Undiscounted basket total value"
-msgstr ""
+msgstr "Nezľavnená celková hodnota nákupného košíka"
 
 #: campaigns/models/basket_conditions.py:117
 msgid ""
 "Limit the campaign to match when it has at least the total value entered "
 "here worth of products which doesn't have already discounts."
-msgstr ""
+msgstr "Obmedzte kampaň tak, aby zadaná celková hodnota bola aspoň taká,
+aká je celková hodnota produktov, ktoré ešte neboli zľavnené.
 
 #: campaigns/models/basket_conditions.py:131
 msgid "Basket maximum product count"
-msgstr ""
+msgstr "Maximálny počet produktov v košíku"
 
 #: campaigns/models/basket_conditions.py:134
 msgid "maximum product count in basket"
-msgstr ""
+msgstr "maximálny počet produktov v košíku"
 
 #: campaigns/models/basket_conditions.py:143
 msgid ""
 "Limit the campaign to match when basket has at maximum the product count "
 "entered here."
-msgstr ""
+msgstr "Obmedzte kampaň tak, aby sa vzťahovala na taký maximálny počet produktov v košíku, "
+"aký je tu zadaný."
 
 #: campaigns/models/basket_conditions.py:156
 msgid "Basket maximum total value"
-msgstr ""
+msgstr "Maximálna celková hodnota košíka"
 
 #: campaigns/models/basket_conditions.py:159
 msgid "maximum basket total amount"
-msgstr ""
+msgstr "maximum celkovej sumy košíka"
 
 #: campaigns/models/basket_conditions.py:168
 msgid ""
 "Limit the campaign to match when it has at maximum the total value entered "
 "here worth of products."
-msgstr ""
+msgstr "Obmedzte kampať, aby sa vzťahovala na také maximum celkovej hodnoty, "
+"aké je tu zadané."
 
 #: campaigns/models/basket_conditions.py:184
 msgid "Exactly"
-msgstr ""
+msgstr "Presne"
 
 #: campaigns/models/basket_conditions.py:185
 msgid "Greater than or equal to"
-msgstr ""
+msgstr "Väčšie ako alebo rovné"
 
 #: campaigns/models/basket_conditions.py:190
 msgid "Products in basket"
-msgstr ""
+msgstr "Produkty v nákupnom košíku"
 
 #: campaigns/models/basket_conditions.py:195
 #: campaigns/models/basket_conditions.py:278
 msgid "operator"
-msgstr ""
+msgstr "operátor"
 
 #: campaigns/models/basket_conditions.py:196
 #: campaigns/models/basket_conditions.py:279
 #: campaigns/models/basket_line_effects.py:41
 msgid "quantity"
-msgstr ""
+msgstr "množstvo"
 
 #: campaigns/models/basket_conditions.py:197
 msgid "products"
-msgstr ""
+msgstr "produkty"
 
 #: campaigns/models/basket_conditions.py:213
 msgid "Limit the campaign to have the selected products in basket."
-msgstr ""
+msgstr "Obmedzte kampaň, aby boli v košíku vybraté produkty."
 
 #: campaigns/models/basket_conditions.py:227
 #: campaigns/models/context_conditions.py:31
 msgid "Contact Group"
-msgstr ""
+msgstr "Skupina kontaktov"
 
 #: campaigns/models/basket_conditions.py:229
 #: campaigns/models/context_conditions.py:33
 msgid "contact groups"
-msgstr ""
+msgstr "skupiny kontaktov"
 
 #: campaigns/models/basket_conditions.py:237
 #: campaigns/models/context_conditions.py:42
 msgid "Limit the campaign to members of the selected contact groups."
-msgstr ""
+msgstr "Obmedzte kampaň pre členov vybratých skupín kontaktov."
 
 #: campaigns/models/basket_conditions.py:251
 #: campaigns/models/context_conditions.py:56
 msgid "Contact"
-msgstr ""
+msgstr "Kontakt"
 
 #: campaigns/models/basket_conditions.py:253
 #: campaigns/models/context_conditions.py:58
 msgid "contacts"
-msgstr ""
+msgstr "kontakty"
 
 #: campaigns/models/basket_conditions.py:261
 #: campaigns/models/context_conditions.py:66
 msgid "Limit the campaign to selected contacts."
-msgstr ""
+msgstr "Obmedzte kampaň na vybraté kontakty."
 
 #: campaigns/models/basket_conditions.py:275
 msgid "Category products in basket"
-msgstr ""
+msgstr "Kategórie produktov v nákupnom košíku"
 
 #: campaigns/models/basket_conditions.py:280
 #: campaigns/models/catalog_filters.py:95
 msgid "categories"
-msgstr ""
+msgstr "kategórie"
 
 #: campaigns/models/basket_conditions.py:282
 msgid "excluded categories"
-msgstr ""
+msgstr "vylúčené kategórie"
 
 #: campaigns/models/basket_conditions.py:284
 msgid ""
 "If the customer has even a single product in the basket from these "
 "categories this rule won't match thus the campaign cannot be applied to the "
 "basket."
-msgstr ""
+msgstr "Ak má zákazník v nákupnom košíku čo i len jeden produkt z týchto kategórií, "
+"nevzťahuje sa na to pravidlo, takže kampaň sa na nákupný košík nemôže uplatniť. "
 
 #: campaigns/models/basket_conditions.py:305
 msgid "Limit the campaign to match the products from selected categories."
-msgstr ""
+msgstr "Obmedzte kampaň, aby sa vzťahovala na produkty z vybratých kategórií."
 
 #: campaigns/models/basket_conditions.py:310
 #: campaigns/models/context_conditions.py:79
 msgid "Day and hour"
-msgstr ""
+msgstr "Deň a hodina"
 
 #: campaigns/models/basket_conditions.py:313
 #: campaigns/models/context_conditions.py:82
 msgid "start time"
-msgstr ""
+msgstr "čas začiatku"
 
 #: campaigns/models/basket_conditions.py:314
 #: campaigns/models/context_conditions.py:83
 msgid "12pm is considered noon and 12am as midnight."
-msgstr ""
+msgstr "12pm je považovaných za obed a 12am za polnoc."
 
 #: campaigns/models/basket_conditions.py:317
 #: campaigns/models/context_conditions.py:86
 msgid "end time"
-msgstr ""
+msgstr "čas ukončenia"
 
 #: campaigns/models/basket_conditions.py:318
 #: campaigns/models/context_conditions.py:87
 msgid ""
 "12pm is considered noon and 12am as midnight. End time is not considered "
 "match."
-msgstr ""
+msgstr "12pm sa považuje za obed a 12am za polnoc. Čas ukončenia sa nepovažuje za zhodu. "
 
 #: campaigns/models/basket_conditions.py:320
 #: campaigns/models/context_conditions.py:89
 msgid "days"
-msgstr ""
+msgstr "dni"
 
 #: campaigns/models/basket_conditions.py:327
 #: campaigns/models/context_conditions.py:96
 msgid "Limit the campaign to selected days."
-msgstr ""
+msgstr "Obmedzte kampať na vybraté dni."
 
 #: campaigns/models/basket_conditions.py:336
 msgid "Product Variation Child"
-msgstr ""
+msgstr "Podradený variant produktu"
 
 #: campaigns/models/basket_conditions.py:360
 msgid ""
 "Limit the campaign to match only variation children of the selected product."
-msgstr ""
+msgstr "Obmedzte kampaň, aby sa vzťahovala iba na podradené varianty vybratého produktu."
 
 #: campaigns/models/basket_effects.py:23
 #: campaigns/models/basket_line_effects.py:24
 #: campaigns/models/product_effects.py:20
 msgid "campaign"
-msgstr ""
+msgstr "kampaň"
 
 #: campaigns/models/basket_effects.py:37 campaigns/models/product_effects.py:35
 msgid "Discount amount value"
-msgstr ""
+msgstr "Hodnota zľavnenej čiastky"
 
 #: campaigns/models/basket_effects.py:41
 #: campaigns/models/basket_line_effects.py:101
 #: campaigns/models/basket_line_effects.py:146
 #: campaigns/models/product_effects.py:39
 msgid "discount amount"
-msgstr ""
+msgstr "zľavnená čiastka"
 
 #: campaigns/models/basket_effects.py:42
 #: campaigns/models/basket_line_effects.py:102
 #: campaigns/models/basket_line_effects.py:147
 #: campaigns/models/product_effects.py:40
 msgid "Flat amount of discount."
-msgstr ""
+msgstr "Paušálna čiastka zľavy."
 
 #: campaigns/models/basket_effects.py:46 campaigns/models/product_effects.py:44
 msgid "Give discount amount."
-msgstr ""
+msgstr "Dajte zľavnenú čiastku."
 
 #: campaigns/models/basket_effects.py:62 campaigns/models/product_effects.py:60
 msgid "Discount amount percentage"
-msgstr ""
+msgstr "Percentuálna čiastka zľavy"
 
 #: campaigns/models/basket_effects.py:72 campaigns/models/product_effects.py:70
 msgid "Give percentage discount."
-msgstr ""
+msgstr "Dať percentuálnu zľavu."
 
 #: campaigns/models/basket_effects.py:89
 msgid "Discount amount percentage from undiscounted amount"
-msgstr ""
+msgstr "Percentuálny podiel zľavy z nezľavnenej čiastky"
 
 #: campaigns/models/basket_effects.py:99
 msgid "Give percentage discount based on undiscounted product prices."
-msgstr ""
+msgstr "Dať percentuálnu zľavu podľa cien nezľavnených produktov."
 
 #: campaigns/models/basket_line_effects.py:39
 msgid "Free Product(s)"
-msgstr ""
+msgstr "Produkt(s) zadarmo"
 
 #: campaigns/models/basket_line_effects.py:42
 #: campaigns/models/basket_line_effects.py:104
 #: campaigns/models/catalog_filters.py:62
 msgid "product"
-msgstr ""
+msgstr "produkt"
 
 #: campaigns/models/basket_line_effects.py:46
 msgid "Select product(s) to give free."
-msgstr ""
+msgstr "Vyberte produkt(s), ktoré chcete dať zadarmo."
 
 #: campaigns/models/basket_line_effects.py:92
 msgid "Discount from Product"
-msgstr ""
+msgstr "Zľava z produktu"
 
 #: campaigns/models/basket_line_effects.py:96
 msgid "per line discount"
-msgstr ""
+msgstr "zľava na riadok"
 
 #: campaigns/models/basket_line_effects.py:97
 msgid "Uncheck this if you want to give discount for each matched product."
-msgstr ""
+msgstr "Zrušte začiarknutie tohto políčka, ak chcete každému produktu priradiť zľavu."
 
 #: campaigns/models/basket_line_effects.py:108
 msgid "Select discount amount and products."
-msgstr ""
+msgstr "Zvoľte čiastku zľavy a produkty."
 
 #: campaigns/models/basket_line_effects.py:142
 msgid "Discount from Category products"
-msgstr ""
+msgstr "Zľava z kategórie produktov"
 
 #: campaigns/models/basket_line_effects.py:152
 msgid "category"
-msgstr ""
+msgstr "kategória"
 
 #: campaigns/models/basket_line_effects.py:157
 msgid ""
 "Select discount amount and category. Please note that the discount will be "
 "given to all matching products in basket."
-msgstr ""
+msgstr "Zvoľte čiastku zľavy a kategóriu. Pamätajte, že táto zľava bude aplikovaná na "
+"všetky zhodujúce sa produkty v nákupnom košíku."
 
 #: campaigns/models/campaigns.py:57 campaigns/models/campaigns.py:362
 #: campaigns/models/contact_group_sales_ranges.py:31
 msgid "shop"
-msgstr ""
+msgstr "obchod"
 
 #: campaigns/models/campaigns.py:57
 msgid "The shop where the campaign is active."
-msgstr ""
+msgstr "Obchod, v ktorom je aktívna kampaň."
 
 #: campaigns/models/campaigns.py:58
 msgid "name"
-msgstr ""
+msgstr "názov"
 
 #: campaigns/models/campaigns.py:58
 msgid "The name for this campaign."
-msgstr ""
+msgstr "Názov pre túto kampaň."
 
 #: campaigns/models/campaigns.py:63 campaigns/models/catalog_filters.py:21
 msgid "active"
-msgstr ""
+msgstr "aktívny"
 
 #: campaigns/models/campaigns.py:64
 msgid ""
 "Check this if the campaign is currently active. Please also set a start and "
 "end date."
-msgstr ""
+msgstr "Začiarknite, ak je táto kampaň momentálne aktívna. Nastavte tiež dátum začiatku a konca, prosím."
 
 #: campaigns/models/campaigns.py:66
 msgid "start date and time"
-msgstr ""
+msgstr "dátum začiatku a ukončenia"
 
 #: campaigns/models/campaigns.py:67
 msgid ""
 "The date and time the campaign starts. This is only applicable if the "
 "campaign is marked as active."
-msgstr ""
+msgstr "Dátum a čas začiatku kampane. Je to použiteľné iba vtedy, ak "
+"je kampaň označená ako aktívna."
 
 #: campaigns/models/campaigns.py:69
 msgid "end date and time"
-msgstr ""
+msgstr "dátum ukončenia"
 
 #: campaigns/models/campaigns.py:70
 msgid ""
 "The date and time the campaign ends. This is only applicable if the campaign "
 "is marked as active."
-msgstr ""
+msgstr "Dátum a čas ukončenia kampane. Toto je použiteľné iba ak je kampaň "
+"označená ako aktávna."
 
 #: campaigns/models/campaigns.py:75 campaigns/models/campaigns.py:328
 #: campaigns/models/campaigns.py:377
 msgid "created by"
-msgstr ""
+msgstr "vytvorené"
 
 #: campaigns/models/campaigns.py:79 campaigns/models/campaigns.py:332
 #: campaigns/models/campaigns.py:381
 msgid "modified by"
-msgstr ""
+msgstr "upravené"
 
 #: campaigns/models/campaigns.py:80 campaigns/models/campaigns.py:334
 #: campaigns/models/campaigns.py:383
 msgid "created on"
-msgstr ""
+msgstr "vytvorené v"
 
 #: campaigns/models/campaigns.py:81 campaigns/models/campaigns.py:335
 #: campaigns/models/campaigns.py:384
 msgid "modified on"
-msgstr ""
+msgstr "upravené v"
 
 #: campaigns/models/campaigns.py:87
 msgid "Campaign"
-msgstr ""
+msgstr "Kampaň"
 
 #: campaigns/models/campaigns.py:124 campaigns/models/campaigns.py:229
 msgid "The campaign name to show in the store front."
-msgstr ""
+msgstr "Názov kampane, ktorý sa bude zobrazovať v obchode."
 
 #: campaigns/models/campaigns.py:128
 #, python-format
 msgid "Catalog Campaign: %(name)s"
-msgstr ""
+msgstr "Katalógová kampaň: %(name)s"
 
 #: campaigns/models/campaigns.py:212
 msgid "basket line text"
-msgstr ""
+msgstr "riadok s textom v nákupnom košíku"
 
 #: campaigns/models/campaigns.py:212
 msgid "This text will be shown in basket."
-msgstr ""
+msgstr "Tento text sa bude zobrazovať v nákupnom košíku."
 
 #: campaigns/models/campaigns.py:215
 msgid "coupon"
-msgstr ""
+msgstr "kupón"
 
 #: campaigns/models/campaigns.py:220 campaigns/models/campaigns.py:371
 msgid "supplier"
-msgstr ""
+msgstr "dodávateľ"
 
 #: campaigns/models/campaigns.py:222
 msgid ""
 "When set, this campaign will match only products from the selected supplier. "
 "Rules and Effects will also be restricted to the products of this supplier."
-msgstr ""
+msgstr "Ak toto nastavíte, táto kampaň sa bude vzťahovať iba na produkty od vybratého dodávateľa. "
+"Pravidlá a účinky budú takisto výhradne pre produkty tohto dodávateľa."
 
 #: campaigns/models/campaigns.py:228
 msgid "public name"
-msgstr ""
+msgstr "verejné meno"
 
 #: campaigns/models/campaigns.py:234
 #, python-format
 msgid "Basket Campaign: %(name)s"
-msgstr ""
+msgstr "Kampaň pre nákupný košík: %(name)s"
 
 #: campaigns/models/campaigns.py:241 campaigns/models/campaigns.py:244
 #: campaigns/models/campaigns.py:390
 msgid "Can not have multiple active campaigns with same code."
-msgstr ""
+msgstr "Nie je možné mať viacero aktívnych kampaní s rovnakým kódom."
 
 #: campaigns/models/campaigns.py:352
 msgid "usage limit per customer"
-msgstr ""
+msgstr "limit použitia pre zákazníka"
 
 #: campaigns/models/campaigns.py:352
 msgid "Limit the amount of usages per a single customer."
-msgstr ""
+msgstr "Obmedziť množstvo použití pre jedeného zákazníka."
 
 #: campaigns/models/campaigns.py:355
 msgid "usage limit"
-msgstr ""
+msgstr "limit použitia"
 
 #: campaigns/models/campaigns.py:356
 msgid ""
 "Set the absolute limit of usages for this coupon. If the limit is zero (0) "
 "coupon cannot be used."
-msgstr ""
+msgstr "Nastavte absolútny limi použitia pre tento kupón. Ak je limit nula (0) "
+"kupón sa nebude dať použiť."
 
 #: campaigns/models/campaigns.py:359
 msgid "is active"
-msgstr ""
+msgstr "je aktívny"
 
 #: campaigns/models/campaigns.py:365
 msgid "The shop where the coupon is active."
-msgstr ""
+msgstr "Obchod, v ktorom je kupón aktívny."
 
 #: campaigns/models/catalog_filters.py:19
 msgid "Base Catalog Filter"
-msgstr ""
+msgstr "Základná katalógový filter"
 
 #: campaigns/models/catalog_filters.py:30
 msgid "Product type"
-msgstr ""
+msgstr "Typ produktu"
 
 #: campaigns/models/catalog_filters.py:32
 msgid "product Types"
-msgstr ""
+msgstr "typy produktu"
 
 #: campaigns/models/catalog_filters.py:46
 msgid "Limit the campaign to selected product types."
-msgstr ""
+msgstr "Obmedzte kampaň na vybraté typy produktu."
 
 #: campaigns/models/catalog_filters.py:60
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
 #: campaigns/models/catalog_filters.py:79
 msgid "Limit the campaign to selected products."
-msgstr ""
+msgstr "Obmedzte kampaň na vybraté produkty."
 
 #: campaigns/models/catalog_filters.py:93
 msgid "Product Category"
-msgstr ""
+msgstr "Kategória produktu"
 
 #: campaigns/models/catalog_filters.py:137
 msgid "Limit the campaign to products in selected categories."
-msgstr ""
+msgstr "Obmedzte kampaň na produkty vybratých kategórií."
 
 #: campaigns/models/contact_group_sales_ranges.py:30
 msgid "group"
-msgstr ""
+msgstr "skupina"
 
 #: campaigns/models/contact_group_sales_ranges.py:32
 msgid "min amount"
-msgstr ""
+msgstr "minimálne množstvo"
 
 #: campaigns/models/contact_group_sales_ranges.py:33
 msgid "max amount"
-msgstr ""
+msgstr "maximálne množstvo"
 
 #: campaigns/models/contact_group_sales_ranges.py:50
 msgid "Can not add sales limits for default contact groups"
-msgstr ""
+msgstr "Nie je možné pridať zľavové obmedzenia pre predvolené skupiny kontaktov"
 
 #: campaigns/models/context_conditions.py:19
 #: campaigns/models/context_conditions.py:20
 msgid "Context Condition"
-msgstr ""
+msgstr "kontextová podmienka"
 
 #: campaigns/modules.py:65
 msgid "Campaign Basket Discounts"
-msgstr ""
+msgstr "Zľavy na kampaň pre nákupný košík"
 
 #: campaigns/modules.py:81
 msgid "Coupon Code:"
-msgstr ""
+msgstr "Kód kupónu:"
 
 #: campaigns/reports.py:24
 msgid "Filter report results by coupon."
-msgstr ""
+msgstr "Filtrovať správu výsledkov podľa kupónu."
 
 #: campaigns/reports.py:37
 msgid "Coupons Usage"
-msgstr ""
+msgstr "Použitie kupónov"
 
 #: campaigns/reports.py:42
 msgid "Date"
-msgstr ""
+msgstr "Dátum"
 
 #: campaigns/reports.py:43
 msgid "Coupon code"
-msgstr ""
+msgstr "Kód kupónu"
 
 #: campaigns/reports.py:44
 msgid "Order"
-msgstr ""
+msgstr "Objednávka"
 
 #: campaigns/reports.py:45
 msgid "Taxful total"
-msgstr ""
+msgstr "Celková suma s daňou"
 
 #: campaigns/reports.py:46
 msgid "Taxful subtotal"
-msgstr ""
+msgstr "Medzisuma s daňou"
 
 #: campaigns/reports.py:47
 msgid "Total discount"
-msgstr ""
+msgstr "Celková zľava"
 
 #: campaigns/templates/shuup/campaigns/admin/_edit_base_form.jinja:6
 msgid "General Information"
-msgstr ""
+msgstr "Všeobecné informácie"
 
 #: campaigns/templates/shuup/campaigns/admin/edit_campaigns.jinja:13
 msgid "Rules"
-msgstr ""
+msgstr "Pravidlá"
 
 #: campaigns/templates/shuup/campaigns/admin/edit_campaigns.jinja:52
 msgid "Effects"
-msgstr ""
+msgstr "Účinky"
 
 #: campaigns/templates/shuup/campaigns/admin/edit_coupons.jinja:11
 msgid "General information"
-msgstr ""
+msgstr "Všeobecné informácie"
 
 #: campaigns/templates/shuup/campaigns/admin/edit_coupons.jinja:12
 msgid "Generate"
-msgstr ""
+msgstr "Generovať"
 
 #: campaigns/templates/shuup/campaigns/admin/sales_ranges_form_part.jinja:6
 msgid "Sales Ranges"
-msgstr ""
+msgstr "Rozsahy zliav"
