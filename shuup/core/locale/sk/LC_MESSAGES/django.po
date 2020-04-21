@@ -2113,986 +2113,1020 @@ msgstr "Určite nameranú výšku vášho produktu alebo balenia. To pomôže z�
 
 #: core/models/_products.py:299
 msgid "depth (mm)"
-msgstr ""
+msgstr "hĺbka (mm)"
 
 #: core/models/_products.py:301
 msgid ""
 "Set the measured depth or length of your product or product packaging. This "
 "will provide customers with your product size and help with calculating "
 "shipping costs."
-msgstr ""
+msgstr "Určite nameranú hĺbku vášho produktu alebo balenia. To pomôže zákazníkom "
+"mať pojem o veľkosti produktu a uľahčí to prepočet nákladov na dopravu."
 
 #: core/models/_products.py:306
 msgid "net weight (g)"
-msgstr ""
+msgstr "čistá hmotnosť (g)"
 
 #: core/models/_products.py:308
 msgid ""
 "Set the measured weight of your product WITHOUT its packaging. This will "
 "provide customers with your product weight."
-msgstr ""
+msgstr "Určite nameranú hmotnosť vášho produktu BEZ obalu. To pomôže zákazníkom "
+"mať pojem o hmotnosti produktu."
 
 #: core/models/_products.py:313
 msgid "gross weight (g)"
-msgstr ""
+msgstr "celková hmotnosť (g)"
 
 #: core/models/_products.py:315
 msgid ""
 "Set the measured gross Weight of your product WITH its packaging. This will "
 "help with calculating shipping costs."
-msgstr ""
+msgstr "Určite nameranú celkovú hmotnosť vášho produktu VRÁTANE balenia. To uľahčí
+"prepočet nákladov na dopravu."
 
 #: core/models/_products.py:324
 msgid ""
 "Select a manufacturer for your product. These are defined in Products "
 "Settings - Manufacturers"
-msgstr ""
+msgstr "Vyberte výrobcu produktu. Výrobcovia sú definovaní v časti "
+"Nastavenia produktov - Výrobcovia"
 
 #: core/models/_products.py:356
 msgid ""
 "Enter a URL Slug for your product. This is what your product page URL will "
 "be. A default will be created using the product name."
-msgstr ""
+msgstr "Zadajte reťazec URL pre produkt. Takto bude vyzerať URL stánka vášho produktu. "
+"Prednastavené bude vytvorené z názvu produktu."
 
 #: core/models/_products.py:360
 msgid "keywords"
-msgstr ""
+msgstr "kľúčové slová"
 
 #: core/models/_products.py:361
 msgid ""
 "You can enter keywords that describe your product. This will help your "
 "shoppers learn about your products. It will also help shoppers find them in "
 "the store and on the web."
-msgstr ""
+msgstr "Môžte zadať kľúčové slová, ktoré opisujú váš produkt. Zákazníci sa "
+"tak viac dozvedia o vašom produkte."
 
 #: core/models/_products.py:368
 msgid "variation name"
-msgstr ""
+msgstr "názov variantu produktu"
 
 #: core/models/_products.py:370
 msgid ""
 "You can enter a name for the variation of your product. This could be for "
 "example different colors or versions."
-msgstr ""
+msgstr "Môžte zadať názov pre variant vášho produktu. Môžu to byť napríklad "
+"rôzne farby alebo verzie."
 
 #: core/models/_products.py:698
 msgid ""
 "Multilevel parentage hierarchies aren't supported (parent is a child already)"
-msgstr ""
+msgstr "Viacúrovňové hierarchie rodičovstva nie sú podporované (nadradený je už podaradený)"
 
 #: core/models/_products.py:703
 msgid "Parent is a variable variation parent, yet variables were not passed"
-msgstr ""
+msgstr "Nadradený je variabilným produktom pre variant produktu, variabilné produkty však neprešli."
 
 #: core/models/_products.py:713
 msgid ""
 "Multilevel parentage hierarchies aren't supported (this product is a simple "
 "variation parent)"
-msgstr ""
+msgstr "Viacúrovňové hierarchie nie sú podporované (tento produkt je nadradený jednoduchý
+"variant produktu)"
 
 #: core/models/_products.py:718
 msgid ""
 "Multilevel parentage hierarchies aren't supported (this product is a "
 "variable variation parent)"
-msgstr ""
+msgstr "Viacúrovňové hierarchie nie sú podporované (tento produkt je "
+"nadradený premenlivý variant produktu)"
 
 #: core/models/_products.py:725
 msgid "Product is currently not a normal product, can't turn into package"
-msgstr ""
+msgstr "Produkt nie je normálny produkt, nie je možné ho zmeniť na balenie"
 
 #: core/models/_products.py:731
 msgid "Package can't contain itself"
-msgstr ""
+msgstr "Balenie nemôže obsahovať samé seba"
 
 #: core/models/_products.py:735
 msgid "Variation parents can not belong into a package"
-msgstr ""
+msgstr "Nadradené varianty produktu nepatria do balenia"
 
 #: core/models/_products.py:739
 msgid "Packages can't be nested"
-msgstr ""
+msgstr "Balenia nesmú byť vnorené"
 
 #: core/models/_products.py:741
 #, python-format
 msgid "Quantity %s is invalid"
-msgstr ""
+msgstr "Množstvo %s je neplatné"
 
 #: core/models/_products.py:794
 msgid "primary product"
-msgstr ""
+msgstr "primárny produkt"
 
 #: core/models/_products.py:796
 msgid "secondary product"
-msgstr ""
+msgstr "sekundárny produkt"
 
 #: core/models/_products.py:797 core/models/_shipments.py:74
 msgid "weight"
-msgstr ""
+msgstr "hmotnosť"
 
 #: core/models/_products.py:801
 msgid "cross sell link"
-msgstr ""
+msgstr "odkaz na krížový predaj"
 
 #: core/models/_products.py:802
 msgid "cross sell links"
-msgstr ""
+msgstr "linky na krížový predaj"
 
 #: core/models/_products.py:810
 msgid "translated value"
-msgstr ""
+msgstr "preložená hodnota"
 
 #: core/models/_products.py:815
 msgid "product attribute"
-msgstr ""
+msgstr "vlastnosť produktu"
 
 #: core/models/_products.py:816
 msgid "product attributes"
-msgstr ""
+msgstr "vlastnosti produktu"
 
 #: core/models/_service_base.py:47
 msgid "Check this if this service provider can be used when placing orders"
-msgstr ""
+msgstr "Začiarknite, ak má byť tento poskytovateľ služieb použitý pri vytváraní objednávok"
 
 #: core/models/_service_base.py:56
 msgid "The service provider name."
-msgstr ""
+msgstr "Názov poskytovateľa služieb."
 
 #: core/models/_service_base.py:196
 msgid "Check this if this service is selectable on checkout."
-msgstr ""
+msgstr "Začiarknite ak je táto služba možná pri platbe na pokladni."
 
 #: core/models/_service_base.py:198
 msgid "The shop for this service."
-msgstr ""
+msgstr "Obchod pre túto službu."
 
 #: core/models/_service_base.py:201
 msgid "choice identifier"
-msgstr ""
+msgstr "indentifikátor výberu"
 
 #: core/models/_service_base.py:214
 msgid ""
 "The tax class to use for this service. Tax classes are defined in Settings - "
 "Tax Classes."
-msgstr ""
+msgstr "Daňová trieda pri použití tejto služby. Daňové triedy sú definované v časti "
+"Nastavenia - Daňové triedy."
 
 #: core/models/_service_base.py:219
 msgid "behavior components"
-msgstr ""
+msgstr "komponenty správania"
 
 #: core/models/_service_base.py:267
 #, python-format
 msgid "%s is disabled"
-msgstr ""
+msgstr "%s ne nepovolený"
 
 #: core/models/_service_base.py:271
 #, python-format
 msgid "%s is for different shop"
-msgstr ""
+msgstr "%s je pre iný obchod"
 
 #: core/models/_service_base.py:336
 #, python-format
 msgid "%(service_name)s: %(sub_item)s"
-msgstr ""
+msgstr "%(service_name)s: %(sub_item)s"
 
 #: core/models/_service_behavior.py:30
 msgid "Fixed cost"
-msgstr ""
+msgstr "Fixné náklady"
 
 #: core/models/_service_behavior.py:31
 msgid "Add fixed cost to price of the service."
-msgstr ""
+msgstr "Pridať fixné náklady k cene služby."
 
 #: core/models/_service_behavior.py:33
 msgid "The fixed cost to apply to this service."
-msgstr ""
+msgstr "Fixné náklady, ktoré sa vzťahujú pre túto službu."
 
 #: core/models/_service_behavior.py:38 core/models/_service_behavior.py:63
 #: core/models/_service_behavior.py:123
 msgid "The order line text to display when this behavior is applied."
-msgstr ""
+msgstr "Text riadku objednávky na zobrazenie pri použití tohto správania."
 
 #: core/models/_service_behavior.py:49
 msgid "Waiving cost"
-msgstr ""
+msgstr "Odpustené náklady"
 
 #: core/models/_service_behavior.py:51
 msgid ""
 "Add cost to price of the service if total price of products is less than a "
 "waive limit."
-msgstr ""
+msgstr "Pridať k cene služby náklady, ak celková suma produktu je menšia ako limit "
+"na odpustenie nákladov."
 
 #: core/models/_service_behavior.py:55
 msgid ""
 "The cost to apply to this service if the total price is below the waive "
 "limit."
-msgstr ""
+msgstr "Náklady, ktoré sa majú pridať k službe, ak je celková suma pod limitom "
+"na odpustenie nákladov."
 
 #: core/models/_service_behavior.py:57
 msgid "The total price of products at which this service cost is waived."
-msgstr ""
+msgstr "Celková cena produktov, v ktorých sú odpustené náklady za túto službu."
 
 #: core/models/_service_behavior.py:80
 msgid "Weight limits"
-msgstr ""
+msgstr "Hmotnostné obmedzenia"
 
 #: core/models/_service_behavior.py:82
 msgid "Limit availability of the service based on total weight of products."
-msgstr ""
+msgstr "Obmedziť dostupnosť tejto služby podľa celkovej hmotnosti produktov."
 
 #: core/models/_service_behavior.py:87
 msgid "minimum weight"
-msgstr ""
+msgstr "minimálna hmotnosť"
 
 #: core/models/_service_behavior.py:88
 msgid "The minimum weight required for this service to be available."
-msgstr ""
+msgstr "Aby bola služba dostupná, je vyžadovaná minimálna hmotnosť."
 
 #: core/models/_service_behavior.py:92
 msgid "maximum weight"
-msgstr ""
+msgstr "maximálna hmotnosť"
 
 #: core/models/_service_behavior.py:93
 msgid "The maximum weight allowed by this service."
-msgstr ""
+msgstr "Maximálna povolená hmotnosť pre túto službu."
 
 #: core/models/_service_behavior.py:100
 msgid "Minimum weight not met."
-msgstr ""
+msgstr "Nedodržaná minimálna hmotnosť."
 
 #: core/models/_service_behavior.py:103
 msgid "Maximum weight exceeded."
-msgstr ""
+msgstr "Prekročená maximálna hmotnosť."
 
 #: core/models/_service_behavior.py:112
 msgid "min weight (g)"
-msgstr ""
+msgstr "min. hmotnosť (g)"
 
 #: core/models/_service_behavior.py:113
 msgid "The minimum weight, in grams, for this price to apply."
-msgstr ""
+msgstr "Minimálna hmotnosť, v gramoch, aby sa mohla uplatniť táto cena."
 
 #: core/models/_service_behavior.py:115
 msgid "max weight (g)"
-msgstr ""
+msgstr "max. hmotnosť (g)"
 
 #: core/models/_service_behavior.py:116
 msgid "The maximum weight, in grams, before this price no longer applies."
-msgstr ""
+msgstr "Maximálna hmotnosť, v gramoch, do ktorej sa dá táto cena ulpatňuje."
 
 #: core/models/_service_behavior.py:118
 msgid "The cost to apply to this service when the weight criteria is met."
-msgstr ""
+msgstr "Náklady, ktoré sa pri tejto službe uplatňujú pokiaľ sú splnené hmotnosté kritériá."
 
 #: core/models/_service_behavior.py:132
 msgid "Weight-based pricing"
-msgstr ""
+msgstr "Oceňovanie založené na hmotnosti"
 
 #: core/models/_service_behavior.py:134
 msgid ""
 "Define price based on basket weight. Range minimums is counted in range only "
 "as zero."
-msgstr ""
+msgstr "Definujte cenu podľa hmotnosti nákupného košíka. Minimálne hodnoty rozsahu sa počítajú do rozsahu "
+"iba ako nula."
 
 #: core/models/_service_behavior.py:154
 msgid "Weight does not match with any range."
-msgstr ""
+msgstr "Hmotnosť nezodpovedá žiadnemu rozsahu."
 
 #: core/models/_service_behavior.py:158
 msgid "Contact group availability"
-msgstr ""
+msgstr "Dostupnosť pre kontaktnú skupinu"
 
 #: core/models/_service_behavior.py:159
 msgid "Limit service availability for specific contact groups."
-msgstr ""
+msgstr "Obmedziť dostupnosť služby pre špecifické skupiny kontaktov."
 
 #: core/models/_service_behavior.py:161
 msgid "groups"
-msgstr ""
+msgstr "skupiny"
 
 #: core/models/_service_behavior.py:162
 msgid "The contact groups for which this service is available."
-msgstr ""
+msgstr "Skupiny kontaktov pre ktoré je dostupná táto služba."
 
 #: core/models/_service_behavior.py:167
 msgid "Customer does not belong to any group."
-msgstr ""
+msgstr "Zákazník nepatrí do žiadnej skupiny."
 
 #: core/models/_service_behavior.py:173
 msgid "Service is not available for any of the customers groups."
-msgstr ""
+msgstr "Služba nie je dostupná pre žiadnu zo skupín zákazníkov."
 
 #: core/models/_service_behavior.py:177
 msgid "Staff only availability"
-msgstr ""
+msgstr "Dostupnosť iba pre zamestnancov"
 
 #: core/models/_service_behavior.py:178
 msgid "Limit service availability to staff only"
-msgstr ""
+msgstr "Obmedziť dostupnosť služby iba pre zamestnancov."
 
 #: core/models/_service_behavior.py:182
 msgid "Service is only available for staff"
-msgstr ""
+msgstr "Služba je dostupná iba pre zamestnancov"
 
 #: core/models/_service_behavior.py:186
 msgid "Order total limit"
-msgstr ""
+msgstr "Celkový limit objednávky"
 
 #: core/models/_service_behavior.py:187
 msgid "Limit service availability based on order total"
-msgstr ""
+msgstr "Obmedziť dostupnosť služby podľa celkovej objednávky"
 
 #: core/models/_service_behavior.py:189
 msgid "min price value"
-msgstr ""
+msgstr "hodnota minimálnej ceny"
 
 #: core/models/_service_behavior.py:190
 msgid "max price value"
-msgstr ""
+msgstr "hodnota maximálnej ceny"
 
 #: core/models/_service_behavior.py:197
 msgid "Order total does not match with service limits."
-msgstr ""
+msgstr "Celková objednávka nezodpovedá obmedzeniam sluzby."
 
 #: core/models/_service_behavior.py:201
 msgid "Country limit"
-msgstr ""
+msgstr "Obmezenie krajiny"
 
 #: core/models/_service_behavior.py:202
 msgid "Limit service availability based on countries selected"
-msgstr ""
+msgstr "Obmedziť dostupnosť služby podľa vybraných krajín"
 
 #: core/models/_service_behavior.py:204
 msgid "available in countries"
-msgstr ""
+msgstr "dostupné v krajinách"
 
 #: core/models/_service_behavior.py:206
 msgid "available in european countries"
-msgstr ""
+msgstr "dostupné v krajinách Európy"
 
 #: core/models/_service_behavior.py:207
 msgid "unavailable in countries"
-msgstr ""
+msgstr "nedostupné v krajinách"
 
 #: core/models/_service_behavior.py:209
 msgid "unavailable in european countries"
-msgstr ""
+msgstr "nedostpné v krajinách Európy"
 
 #: core/models/_service_behavior.py:215
 msgid "Service is not available without country."
-msgstr ""
+msgstr "Službe nie je dostupná bez zadania krajiny."
 
 #: core/models/_service_behavior.py:231
 msgid "Service is not available for this country."
-msgstr ""
+msgstr "Služba nie je dostupná pre túto krajinu."
 
 #: core/models/_service_behavior.py:241 core/models/_service_payment.py:144
 msgid "round to nearest with ties going away from zero"
-msgstr ""
+msgstr "zaokrúhliť na najbližie od nuly"
 
 #: core/models/_service_behavior.py:242 core/models/_service_payment.py:145
 msgid "round to nearest with ties going towards zero"
-msgstr ""
+msgstr "zaokrúhliť na najbližšie k nule"
 
 #: core/models/_service_behavior.py:243 core/models/_service_payment.py:146
 msgid "round away from zero"
-msgstr ""
+msgstr "zaokrúhliť od nuly"
 
 #: core/models/_service_behavior.py:244 core/models/_service_payment.py:147
 msgid "round towards zero"
-msgstr ""
+msgstr "zaokrúhliť k nule"
 
 #: core/models/_service_payment.py:30
 msgid "payment processor"
-msgstr ""
+msgstr "spracovateľ platieb"
 
 #: core/models/_service_payment.py:34
 msgid "The payment method name. This name is shown to customers on checkout."
-msgstr ""
+msgstr "Názov spôsobu platby. Názov sa zobrazí zákazníkom pri platení v pokladni."
 
 #: core/models/_service_payment.py:39
 msgid ""
 "The payment method description. This description is shown to customers on "
 "checkout."
-msgstr ""
+msgstr "Popis spôsobu platby. Popis sa zobrazí zákazníkom pri platení v pokladni."
 
 #: core/models/_service_payment.py:159
 msgid "rounding quantize"
-msgstr ""
+msgstr "kvantovať zaokrúhlenie"
 
 #: core/models/_service_payment.py:160
 msgid "Rounding quantize for cash payment."
-msgstr ""
+msgstr "Kvantovať zaokrúhlenie pre platbu v hotovosti."
 
 #: core/models/_service_payment.py:162
 msgid "rounding mode"
-msgstr ""
+msgstr "režim zaokrúhľovania"
 
 #: core/models/_service_payment.py:163
 msgid "Rounding mode for cash payment."
-msgstr ""
+msgstr "Režim zaokrúhľovania pre hotovostnú platbu."
 
 #: core/models/_service_payment.py:166
 msgid "custom payment processor"
-msgstr ""
+msgstr "vlastný spracovateľ platieb"
 
 #: core/models/_service_payment.py:167
 msgid "custom payment processors"
-msgstr ""
+msgstr "vlastní spracovatelia platieb"
 
 #: core/models/_service_payment.py:171
 msgid "Manually processed payment"
-msgstr ""
+msgstr "Manuálne spracovaná platba"
 
 #: core/models/_service_payment.py:172
 msgid "Cash payment"
-msgstr ""
+msgstr "Platba v hotovosti"
 
 #: core/models/_service_shipping.py:25
 msgid "carrier"
-msgstr ""
+msgstr "prepravca"
 
 #: core/models/_service_shipping.py:29
 msgid "The shipping method name. This name is shown to customers on checkout."
-msgstr ""
+msgstr "Názov spôsobu dopravy. Tento názov sa zobrazí zákazníkom pri platbe v pokladni."
 
 #: core/models/_service_shipping.py:33
 msgid ""
 "The shipping method description. This name is shown to customers on checkout."
-msgstr ""
+msgstr "Popis spôsobu dopravy. Tento popis sa zobrazí zákazníkom pri platbe v pokladni."
 
 #: core/models/_service_shipping.py:103
 msgid "custom carrier"
-msgstr ""
+msgstr "vlastný prepravca"
 
 #: core/models/_service_shipping.py:104
 msgid "custom carriers"
-msgstr ""
+msgstr "vlastní prepravcovia"
 
 #: core/models/_service_shipping.py:107
 msgid "Manually processed shipment"
-msgstr ""
+msgstr "Manuálne spracované doručenie"
 
 #: core/models/_shipments.py:40
 msgid "not sent"
-msgstr ""
+msgstr "neodoslané"
 
 #: core/models/_shipments.py:41
 msgid "sent"
-msgstr ""
+msgstr "odoslané"
 
 #: core/models/_shipments.py:42
 msgid "received"
-msgstr ""
+msgstr "doručené"
 
 #: core/models/_shipments.py:43
 msgid "error"
-msgstr ""
+msgstr "chyba"
 
 #: core/models/_shipments.py:52
 msgid "outgoing"
-msgstr ""
+msgstr "odchádzajúce"
 
 #: core/models/_shipments.py:53
 msgid "incoming"
-msgstr ""
+msgstr "prichádzajúce"
 
 #: core/models/_shipments.py:71
 msgid "tracking code"
-msgstr ""
+msgstr "kód sledovania zásielky"
 
 #: core/models/_shipments.py:73
 msgid "volume"
-msgstr ""
+msgstr "objem"
 
 #: core/models/_shipments.py:82 core/models/_shipments.py:165
 msgid "shipment"
-msgstr ""
+msgstr "preprava"
 
 #: core/models/_shipments.py:83
 msgid "shipments"
-msgstr ""
+msgstr "prepravy"
 
 #: core/models/_shipments.py:173
 msgid "unit volume"
-msgstr ""
+msgstr "jednotka obsahu"
 
 #: core/models/_shipments.py:174
 msgid "unit weight"
-msgstr ""
+msgstr "jednotka hmotnosti"
 
 #: core/models/_shipments.py:177
 msgid "sent product"
-msgstr ""
+msgstr "odoslaný produkt"
 
 #: core/models/_shipments.py:178
 msgid "sent products"
-msgstr ""
+msgstr "odoslané produkty"
 
 #: core/models/_shops.py:52
 msgid ""
 "The following fields cannot be changed since there are existing orders for "
 "this shop"
-msgstr ""
+msgstr "Nasledovné polia nie je možné meniť, ak pre tento obchod už existujú objednávky."
 
 #: core/models/_shops.py:57
 msgid "domain"
-msgstr ""
+msgstr "doména"
 
 #: core/models/_shops.py:58
 msgid ""
 "Your shop domain name. Use this field to configure the URL that is used to "
 "visit your site. Note: this requires additional configuration through your "
 "internet domain registrar."
-msgstr ""
+msgstr "Názov domény vášho obchodu. Vyplňte toto pole na konfiguráciu URL, ktorá "
+"sa bude používať na návštevu vašej stránky. Poznámka: vyžaduje si to dodatočné nastavenia "
+"prostredníctvom vášho registrárora internetovej domény."
 
 #: core/models/_shops.py:62
 msgid "Your shop status. Disable your shop if it is no longer in use."
-msgstr ""
+msgstr "Stav vášho obchodu. Vypnite váš obchod, ak ho už viac nepoužívate."
 
 #: core/models/_shops.py:67
 msgid ""
 "The primary shop currency. This is the currency used when selling your "
 "products."
-msgstr ""
+msgstr "Primárna mena obchodu. Je to mena, ktorá sa bude používať pri predaji vášho produktu."
 
 #: core/models/_shops.py:70
 msgid ""
 "This option defines whether product prices entered in admin include taxes. "
 "Note this behavior can be overridden with contact group pricing."
-msgstr ""
+msgstr "Táto možnosť určuje, či ceny produktov zadaných v administrátorskom prostredí "
+"zahŕňajú daň. Upozorňujeme, že toto správanie môže byť zmenené pri určovaní cien skupiny kontaktov."
 
 #: core/models/_shops.py:75
 msgid "Shop logo. Will be shown at theme."
-msgstr ""
+msgstr "Logo obchodu, ktoré bude použité."
 
 #: core/models/_shops.py:78
 msgid "favicon"
-msgstr ""
+msgstr "favicon"
 
 #: core/models/_shops.py:79
 msgid "Shop favicon. Will be shown next to the address on browser."
-msgstr ""
+msgstr "Favicon obchodu. Bude zobrazené vedľa adresy v prehliadači."
 
 #: core/models/_shops.py:81
 msgid "maintenance mode"
-msgstr ""
+msgstr "režim údržby"
 
 #: core/models/_shops.py:82
 msgid ""
 "Check this if you would like to make your shop temporarily unavailable while "
 "you do some shop maintenance."
-msgstr ""
+msgstr "Začiarknite, ak chcete dočasne vypnúť váš obchod, pokým v ňom vykonáte určitú údržbu."
 
 #: core/models/_shops.py:85 core/models/_suppliers.py:79
 msgid "contact address"
-msgstr ""
+msgstr "Adresy kontaktu"
 
 #: core/models/_shops.py:87
 msgid "staff members"
-msgstr ""
+msgstr "zamestnanci"
 
 #: core/models/_shops.py:92
 msgid "The shop name. This name is displayed throughout admin."
-msgstr ""
+msgstr "Názov obchodu. Tento názov sa zobrazí v celom administrátorskom prostredí."
 
 #: core/models/_shops.py:95
 msgid ""
 "The public shop name. This name is displayed in the store front and in any "
 "customer email correspondence."
-msgstr ""
+msgstr "Verejný názov obchodu. Tento názov sa zobrazí v obchode a v akejkoľvek zákazníckej "
+"emailovej korešpondencii."
+
 
 #: core/models/_shops.py:100
 msgid ""
 "To make your shop stand out, give it an awesome description. This is what "
 "will help your shoppers learn about your shop. It will also help shoppers "
 "find your store from the web."
-msgstr ""
+msgstr "Ak chcete, aby váš obchod vynikol, zaujímavo ho opíšte. To pomôže "
+"nakupujúcim viac sa dozvedieť o vašom obchode. Tiež tak lepšie nájdu váš obchod "
+"na webe."
 
 #: core/models/_shops.py:108
 msgid ""
 "Enter a short description for your shop. The short description will be used "
 "to get the attention of your customer with a small but precise description "
 "of your shop."
-msgstr ""
+msgstr "Zadajte stručný popis vášho obchodu. To priláka pozornosť zákazníkov."
 
 #: core/models/_shops.py:114
 msgid "maintenance message"
-msgstr ""
+msgstr "správa o údržbe"
 
 #: core/models/_shops.py:115
 msgid ""
 "The message to display to customers while your shop is in maintenance mode."
-msgstr ""
+msgstr "Správa, ktorá sa bude zákazníkom zobrazovať po dobu, čo bude váš obchod "
+"v režime údržby."
 
 #: core/models/_supplied_products.py:19
 msgid "alert limit"
-msgstr ""
+msgstr "upozorniť na limit"
 
 #: core/models/_supplied_products.py:20
 msgid "physical stock count"
-msgstr ""
+msgstr "fyzické množstvo zásob"
 
 #: core/models/_supplied_products.py:21
 msgid "logical stock count"
-msgstr ""
+msgstr "logické množstvo zásob"
 
 #: core/models/_suppliers.py:30
 msgid "internal"
-msgstr ""
+msgstr "vnútorný"
 
 #: core/models/_suppliers.py:31
 msgid "external"
-msgstr ""
+msgstr "vonkajší"
 
 #: core/models/_suppliers.py:51
 msgid ""
 "The product suppliers name. Suppliers can be used manage the inventory of "
 "stocked products."
-msgstr ""
+msgstr "Názov dodávateľa produktu. Dodávatelia môžu byť použití na správu zásob produktov "
+"na sklade."
 
 #: core/models/_suppliers.py:54
 msgid "supplier type"
-msgstr ""
+msgstr "typ dodávateľa"
 
 #: core/models/_suppliers.py:55
 msgid ""
 "The supplier type indicates whether the products are supplied through an "
 "internal supplier or an external supplier."
-msgstr ""
+msgstr "Typ dodávateľa určuje, či sú produkty dodávané vnútorným dodávateľom alebo externým."
 
 #: core/models/_suppliers.py:58
 msgid "stock managed"
-msgstr ""
+msgstr "sklad spravovaný"
 
 #: core/models/_suppliers.py:59
 msgid ""
 "Check this if this supplier will be used to manage the inventory of stocked "
 "products."
-msgstr ""
+msgstr "Začiarknite, ak má tento dodávateľ riadiť zásoby produktov na sklade."
 
 #: core/models/_suppliers.py:62
 msgid ""
 "Select the supplier module to use for this supplier. Supplier modules define "
 "the rules by which inventory is managed."
-msgstr ""
+msgstr "Zvoľte modul dodávateľa, ktorý má byť použitý týmto dodávateľom. Moduly dodávateľa definujú "
+"pravidlá, podľa ktorých sa spravujú zásoby."
 
 #: core/models/_suppliers.py:65
 msgid "module data"
-msgstr ""
+msgstr "modulové údaje"
 
 #: core/models/_suppliers.py:68
 msgid "You can select which shops the supplier is available to."
-msgstr ""
+msgstr "Môžte vybrať, pre ktoré obchody je dodávateľ k dispozícii."
 
 #: core/models/_suppliers.py:72
 msgid "Indicates whether this supplier is currently enabled."
-msgstr ""
+msgstr "Označuje, či je tento dodávateľ momentálne povolený."
 
 #: core/models/_suppliers.py:83
 msgid "approved"
-msgstr ""
+msgstr "schválený"
 
 #: core/models/_suppliers.py:84
 msgid "Indicates whether this supplier is currently approved."
-msgstr ""
+msgstr "Označije, či je tento dodávateľ momentálne schválený."
 
 #: core/models/_suppliers.py:93
 msgid ""
 "Enter a URL Slug for your supplier. This is what your supplier page URL will "
 "be. A default will be created using the supplier name."
-msgstr ""
+msgstr "Zadajte URL slug pre dodávateľa. Takto bude vyzerať URL stránka vášho dodávateľa. "
+"Predvolené sa vytvorí z názvu dodávateľa."
 
 #: core/models/_taxes.py:29
 msgid "Cannot change business critical fields of Tax that is in use"
-msgstr ""
+msgstr "Nie je možné zmeniť obchodné oblasti daní, ktoré sa používajú"
 
 #: core/models/_taxes.py:33
 msgid "The abbreviated tax code name."
-msgstr ""
+msgstr "Skrátený kódový názov dane."
 
 #: core/models/_taxes.py:37
 msgid ""
 "The tax name. This is shown in order lines in order invoices and "
 "confirmations."
-msgstr ""
+msgstr "Názov dane. Tento bude uvedený na objednávke, vo faktúrach a potvrdeniach."
 
 #: core/models/_taxes.py:44
 msgid "tax rate"
-msgstr ""
+msgstr "daňová sadzba"
 
 #: core/models/_taxes.py:45
 msgid "The percentage rate of the tax."
-msgstr ""
+msgstr "Percentuálna sadzba dane."
 
 #: core/models/_taxes.py:49
 msgid "tax amount value"
-msgstr ""
+msgstr "hodnota dane"
 
 #: core/models/_taxes.py:50
 msgid "The flat amount of the tax. Mutually exclusive with percentage rates."
-msgstr ""
+msgstr "Paušálna výška dane. Vzájomne sa vylučuje s percentuálnymi sadzbami."
 
 #: core/models/_taxes.py:54
 msgid "currency of tax amount"
-msgstr ""
+msgstr "mena dane"
 
 #: core/models/_taxes.py:57
 msgid "Check this if this tax is valid and active."
-msgstr ""
+msgstr "Začiarknite, ak je daň platná a aktívna."
 
 #: core/models/_taxes.py:63
 msgid "Either rate or amount is required"
-msgstr ""
+msgstr "Sazba aj množstvo sú požadované"
 
 #: core/models/_taxes.py:65
 msgid "Cannot have both rate and amount"
-msgstr ""
+msgstr "Nie je možné mať aj sadzbu aj množstvo"
 
 #: core/models/_taxes.py:68
 msgid "Currency is required if amount is specified"
-msgstr ""
+msgstr "Ak je určené množstvo, vyžaduje sa mena"
 
 #: core/models/_taxes.py:96
 msgid "taxes"
-msgstr ""
+msgstr "dane"
 
 #: core/models/_taxes.py:103
 msgid ""
 "The tax class name. Tax classes are used to control how taxes are applied to "
 "products."
-msgstr ""
+msgstr "Názov daňovej triedy. Daňové triedy sa používajú na riadenie uplatnenia daní na produkty."
 
 #: core/models/_taxes.py:109
 msgid "Check this if this tax class is active and valid."
-msgstr ""
+msgstr "Začiarknite, ak je táto daňová skupina aktívna a platná."
 
 #: core/models/_taxes.py:114
 msgid "tax classes"
-msgstr ""
+msgstr "daňové triedy"
 
 #: core/models/_taxes.py:121
 msgid ""
 "The customer tax group name. Customer tax groups can be used to control how "
 "taxes are applied to a set of customers. "
-msgstr ""
+msgstr "Názov daňovej skupiny zákazníkov. Daňové skupiny zákazníkov sa využívajú na určenie "
+"aké dane majú byť uplatnené na určitý okruh zákazníkov."
 
 #: core/models/_taxes.py:129
 msgid "customer tax group"
-msgstr ""
+msgstr "daňová skupina zákazníkov"
 
 #: core/models/_taxes.py:130
 msgid "customer tax groups"
-msgstr ""
+msgstr "daňové skupiny zákazníkov"
 
 #: core/models/_taxes.py:135
 msgid "Retail Customers"
-msgstr ""
+msgstr "Maloobchodní zákazníci"
 
 #: core/models/_taxes.py:142
 msgid "Company Customers"
-msgstr ""
+msgstr "Spoločnosti ako zákazníci"
 
 #: core/models/_units.py:58
 msgid "allowed decimal places"
-msgstr ""
+msgstr "povolené desatinné mieste"
 
 #: core/models/_units.py:59
 msgid ""
 "The number of decimal places allowed by this sales unit.Set this to a value "
 "greater than zero if products with this sales unit can be sold in fractional "
 "quantities"
-msgstr ""
+msgstr "Počet desatinných miest povolený touto predajnou jednotkou. Nastavte to na hodnotu "
+"väčšiu ako nula ak produkty s touto predajnou jednotkou môžu byť predajné v čiastkových množstvách."
 
 #: core/models/_units.py:68
 msgid "sales units"
-msgstr ""
+msgstr "predajné jednotky"
 
 #: core/models/_units.py:126
 msgid ""
 "The sales unit name to use for products (For example, 'pieces' or 'units'). "
 "Sales units can be set for each product through the product editor view."
-msgstr ""
+msgstr "Názov predajnej jednotky použitý pre produkty (Napríklad, 'kusy' or 'balenia'). "
+"Predajné jednotky sa dajú nastaviť pre každý produkt pomocou zobrazenia editora produktu."
 
 #: core/models/_units.py:130 core/models/_units.py:191
 msgid "symbol"
-msgstr ""
+msgstr "symbol"
 
 #: core/models/_units.py:131
 msgid ""
 "An abbreviated name for this sales unit that is shown throughout admin and "
 "order invoices."
-msgstr ""
+msgstr "Skrátený názov predajnej jednotky, ktorý bude použitý v celom administrátorskom prostredí a "
+"vo faktúrach objednávok."
 
 #: core/models/_units.py:146
 msgid "Value must be positive and non-zero"
-msgstr ""
+msgstr "Hodnota musí byť kladná a nesmie byť nulová."
 
 #: core/models/_units.py:152
 msgid "internal unit"
-msgstr ""
+msgstr "interná jednotka"
 
 #: core/models/_units.py:153
 msgid "The sales unit that this display unit is linked to."
-msgstr ""
+msgstr "Predajná jednotka ku ktorej je prepojená zobrazovacia jednotka."
 
 #: core/models/_units.py:156
 msgid "ratio"
-msgstr ""
+msgstr "pomer"
 
 #: core/models/_units.py:158
 msgid ""
 "Size of the display unit in internal unit.  E.g. if internal unit is "
 "kilogram and display unit is gram, ratio is 0.001."
-msgstr ""
+msgstr "Veľkosť zobrazovacej jendotky v internej jednotke. Ak je interná jednotka "
+"kilogram a zobrazovacia jednotka je gram, pomer je 0.001."
 
 #: core/models/_units.py:165
 msgid ""
 "The number of decimal places to use for values in the display unit.  The "
 "internal values are still rounded based on settings of the internal unit."
-msgstr ""
+msgstr "Počet desatinných miest pre hodnoty v zobrazovacích jednotkách.
+"Interné hodnoty sú stále zaokrúhlené podľa nastavení internej jednotky."
 
 #: core/models/_units.py:170
 msgid "comparison value"
-msgstr ""
+msgstr "porovnávacia hodnota"
 
 #: core/models/_units.py:172
 msgid ""
 "Value to use when displaying unit prices.  E.g. if the display unit is g and "
 "the comparison value is 100, then unit prices are shown per 100g, like: "
 "$2.95 per 100g."
-msgstr ""
+msgstr "Hodnota pri zobrazení cenových jednotiek. Ak je zobrazovacia jednotka g a "
+"porovnávacia hodnota je 100, tak cenová jednotka je zobrazená ako 100g, ako: "
+"$2.95 za 100g."
 
 #: core/models/_units.py:176
 msgid "allow bare number"
-msgstr ""
+msgstr "povoliť iba číslo"
 
 #: core/models/_units.py:178
 msgid ""
 "If true, values of this unit can be shown without the symbol occasionally.  "
 "Usually wanted if the unit is a piece, so that product listings can show "
 "just '$5.95' rather than '$5.95 per pc.'."
-msgstr ""
+msgstr "Ak toto platí, hodnoty tejto jednotky sa môžu zobrazovať aj bez symbolu. "
+"Zvyčajne sa požaduje, ak je jednotkou kus, aby zoznamy produktov zobrazovali iba "
+"$5.95 namiesto $5.95 za kus."
 
 #: core/models/_units.py:183
 msgid "use by default"
-msgstr ""
+msgstr "použiť predvolené"
 
 #: core/models/_units.py:184
 msgid ""
 "Use this display unit by default when displaying values of the internal unit."
-msgstr ""
+msgstr "Použiť túto zobrazovaciu jednotku ako predvolenú, keď sa zobrazujú hodnoty interných jednotiek."
 
 #: core/models/_units.py:189
 msgid "Name of the display unit, e.g. Grams."
-msgstr ""
+msgstr "Názov zobrazovacej jednotky, napr. Gramy."
 
 #: core/models/_units.py:192
 msgid "An abbreviated name of the display unit, e.g. 'g'."
-msgstr ""
+msgstr "Skrátený názov zobrazovacej jednotky, napr. g."
 
 #: core/models/_units.py:197
 msgid "display units"
-msgstr ""
+msgstr "zobrazovacie jednotky"
 
 #: core/models/_units.py:243
 msgid "Pieces"
-msgstr ""
+msgstr "Kusy"
 
 #: core/models/_units.py:244
 msgctxt "Symbol for pieces unit"
 msgid "pc."
-msgstr ""
+msgstr "ks"
 
 #: core/models/_units.py:428
 #, python-brace-format
 msgctxt "Display value with unit symbol (with or without space)"
 msgid "{value}{symbol}"
-msgstr ""
+msgstr "Zobrazovacia jednotka so symbolom jendotky (s medzerou alebo bez)"
 
 #: core/modules/interface.py:56
 msgid "No Choice"
-msgstr ""
+msgstr "Žiaden výber"
 
 #: core/order_creator/_source.py:44
 msgid "inherit"
-msgstr ""
+msgstr "zdediť"
 
 #: core/order_creator/_source.py:45
 msgid "skip"
-msgstr ""
+msgstr "preskočiť"
 
 #: core/order_creator/_source.py:46
 msgid "delete"
-msgstr ""
+msgstr "vymazať"
 
 #: core/order_creator/_validators.py:36
 msgid "The total should be greater than {} to be ordered."
-msgstr ""
+msgstr "Pre objednanie musí byť celková suma väčšia ako {}."
 
 #: core/order_creator/_validators.py:63
 #, python-format
 msgid "%s not available in this shop"
-msgstr ""
+msgstr "%s v tomto obchode nie je k dispozícii."
 
 #: core/pricing/default_pricing.py:16
 msgid "Default Pricing"
-msgstr ""
+msgstr "Predvolené ceny"
 
 #: core/suppliers/base.py:79
 msgid "Insufficient stock"
-msgstr ""
+msgstr "nedostatočné zásoby"
 
 #: core/suppliers/base.py:111
 #, python-format
 msgid "%(name)s (physical stock: %(quantity)s)"
-msgstr ""
+msgstr "%(name)s (fyzický sklad: %(quantity)s)"
 
 #: core/suppliers/base.py:118
 #, python-format
 msgid ""
 "Insufficient physical stock count for following products: %(product_counts)s"
-msgstr ""
+msgstr "Nedostatočné počet zásob fyzického skladu pre nasledovné produkty: %(product_counts)s"
 
 #: core/suppliers/enums.py:18
 msgid "inventory"
-msgstr ""
+msgstr "sklad"
 
 #: core/suppliers/enums.py:19
 msgid "restock"
-msgstr ""
+msgstr "doplnenie zásob"
 
 #: core/suppliers/enums.py:20
 msgid "restock logical"
-msgstr ""
+msgstr "logické doplnenie zásob"
 
 #: core/taxing/_tax_summary.py:49
 msgid "Untaxed"
-msgstr ""
+msgstr "nezdanený"
 
 #: core/utils/form_mixins.py:13
 msgid "This field cannot be changed since it is protected."
-msgstr ""
+msgstr "Toto pole sa nedá zmeniť, nakoľko je chránené."
 
 #: core/utils/forms.py:36
 msgid "Region"
-msgstr ""
+msgstr "kraj"
 
 #: core/utils/forms.py:94
 msgid "Username"
-msgstr ""
+msgstr "používateľské meno"
 
 #: core/utils/forms.py:95
 msgid "Email"
-msgstr ""
+msgstr "email"
 
 #: core/utils/forms.py:107
 msgid "Please provide either username or email, not both."
-msgstr ""
+msgstr "Zadajte používateľské meno alebo email, nie oboje, prosím."
 
 #: core/utils/forms.py:112
 msgid "Please provide either username or email."
-msgstr ""
+msgstr "Zadajte používateľské meno alebo email."
 
 #: core/utils/name_mixin.py:15
 msgid "First Last"
-msgstr ""
+msgstr "Prvý posledný"
