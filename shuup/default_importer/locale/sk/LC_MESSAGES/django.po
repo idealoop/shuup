@@ -20,30 +20,30 @@ msgstr ""
 
 #: default_importer/importers/contact.py:54
 msgid "Contact Importer"
-msgstr ""
+msgstr "Dovozca kontaktu"
 
 #: default_importer/importers/contact.py:79
 msgid "Company Contact Importer"
-msgstr ""
+msgstr "Dovozca kontaktu spoločnosti"
 
 #: default_importer/importers/product.py:112
 #: default_importer/importers/product.py:120
 #, python-format
 msgid "Image '%s' not found, please check whether the image exists."
-msgstr ""
+msgstr "Obrázok '%s' sa nenašiel, skontrolujte prosím, či existuje."
 
 #: default_importer/importers/product.py:151
 msgid "Please add supplier to row before importing stock quantities."
-msgstr ""
+msgstr "Pred importovaním množstiev zásob pridajte do riadku dodávateľa, prosím."
 
 #: default_importer/importers/product.py:155
 msgid "No supplier found, please check the supplier exists."
-msgstr ""
+msgstr "Nenašiel sa žiadny dodávateľ, skontrolujte, či existuje, prosím."
 
 #: default_importer/importers/product.py:157
 msgid "This supplier doesn't handle stocks, please set Stock Managed on."
-msgstr ""
+msgstr "Tento dodávateľ nespracováva zásoby, nastavte prosím Spravovanie zásob, prosím."
 
 #: default_importer/importers/product.py:256
 msgid "Product Importer"
-msgstr ""
+msgstr "Dovozca produktu"
