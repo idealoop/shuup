@@ -20,200 +20,207 @@ msgstr ""
 
 #: gdpr/admin_module/__init__.py:18 gdpr/admin_module/__init__.py:42
 msgid "GDPR"
-msgstr ""
+msgstr "GDPR"
 
 #: gdpr/admin_module/toolbar.py:19
 msgid "Anonymize"
-msgstr ""
+msgstr "Anonymizovať"
 
 #: gdpr/admin_module/toolbar.py:22
 msgid ""
 "This action will replace all contact personal data with random values making "
 "it impossible to be identified. The account will also be deactivated and any "
 "pending order(s) will be canceled. Are you sure?"
-msgstr ""
+msgstr "Táto akcia nahradí všetky kontaktné osobné údaje náhodnými hodnotami a tak ich nebude "
+"možné identifikovať. Účet tiež bude deaktivovaný a akékoľvek čakajúce objednávky budú "
+"zrušené. Ste si istý, že to chcete vykonať?"
 
 #: gdpr/admin_module/toolbar.py:39
 msgid "Download data"
-msgstr ""
+msgstr "Stiahnuť údaje"
 
 #: gdpr/admin_module/views.py:47
 msgid "Save"
-msgstr ""
+msgstr "Uložiť"
 
 #: gdpr/admin_module/views.py:61
 msgid "General Data Protection Regulation"
-msgstr ""
+msgstr "Všeobecné nariadenie o ochrane údajov"
 
 #: gdpr/admin_module/views.py:111
 msgid "Contact anonymized!"
-msgstr ""
+msgstr "Kontakt bol anonymizovaný!"
 
 #: gdpr/dashboard_items.py:15
 msgid "My Data"
-msgstr ""
+msgstr "Moje údaje"
 
 #: gdpr/dashboard_items.py:18
 msgid "Customer data"
-msgstr ""
+msgstr "Údaje zákazníka"
 
 #: gdpr/models.py:29
 msgid "enabled"
-msgstr ""
+msgstr "povolený"
 
 #: gdpr/models.py:30
 msgid "Define if the GDPR is active."
-msgstr ""
+msgstr "Definovať či je GDPR aktívne."
 
 #: gdpr/models.py:34
 msgid "skip consent on login"
-msgstr ""
+msgstr "preskočiť súhlas pri prihlásení"
 
 #: gdpr/models.py:35
 msgid "Do not require consent on login when GDPR is activated."
-msgstr ""
+msgstr "Nevyžadovať súhlas pri prihlásení, keď je GDPR aktivované."
 
 #: gdpr/models.py:40
 msgid "privacy policy page"
-msgstr ""
+msgstr "stránka pravidiel ochrany osobných údajov"
 
 #: gdpr/models.py:41
 msgid ""
 "Choose your privacy policy page here. If this page changes, customers will "
 "be prompted for new consent."
-msgstr ""
+msgstr "Vyberte si tu vašu stránku pravidiel ochrany osobných údajov. Ak sa táto stránka zmení, "
+"zákazníci budú požiadaní o nový súhlas."
 
 #: gdpr/models.py:45
 msgid "consent pages"
-msgstr ""
+msgstr "stránky súhlasu"
 
 #: gdpr/models.py:47
 msgid ""
 "Choose pages here which are being monitored for customer consent. If any of "
 "these pages change, the customer is being prompted for a new consent."
-msgstr ""
+msgstr "Tu vyberte stránky, ktoré sú monitorované pre súhlas zákazníka. Ak sa akákoľvek z nich "
+"zmení. zákazník bude požiadaný o nový súhlas."
 
 #: gdpr/models.py:52
 msgid "cookie banner content"
-msgstr ""
+msgstr "obsah banneru s cookies"
 
 #: gdpr/models.py:53
 msgid "The text to be presented to users in a pop-up warning."
-msgstr ""
+msgstr "Text, ktorý sa používateľom zobrazí vo vyskakovacom upozornení."
 
 #: gdpr/models.py:57
 msgid "cookie privacy excerpt"
-msgstr ""
+msgstr "výpis súkromných súborov cookie"
 
 #: gdpr/models.py:58
 msgid "The summary text to be presented about cookie privacy."
-msgstr ""
+msgstr "Súhrnný text o ochrane osobných údajov v súboroch cookie."
 
 #: gdpr/models.py:62
 msgid "login consent text"
-msgstr ""
+msgstr "text súhlasu pri prihlásení"
 
 #: gdpr/models.py:63
 msgid ""
 "Shown in login page between the form and the button. Optional but should be "
 "considered when the consent on login is disabled."
-msgstr ""
+msgstr "Zobraziť na prihlasovacej stránke medzi formulárom a potvrdzovacím tlačítkom. Voliteľné ale mali "
+"by ste zvážiť, kedy nepovoliť súhlas pri prihlásení."
 
 #: gdpr/models.py:69 gdpr/models.py:70
 msgid "GDPR settings"
-msgstr ""
+msgstr "nastavenia GDPR"
 
 #: gdpr/models.py:73
 msgid "GDPR for {}"
-msgstr ""
+msgstr "GDPR pre {}"
 
 #: gdpr/models.py:98
 msgid "always active"
-msgstr ""
+msgstr "vždy aktívny"
 
 #: gdpr/models.py:100
 msgid "active by default"
-msgstr ""
+msgstr "aktívny v predvolenom nastavení"
 
 #: gdpr/models.py:102
 msgid "whether this cookie category is active by default"
-msgstr ""
+msgstr "či je táto kategória súborov cookie aktívna v predvolenom nastavení"
 
 #: gdpr/models.py:105
 msgid "cookies used"
-msgstr ""
+msgstr "použité súbory cookie"
 
 #: gdpr/models.py:107
 msgid ""
 "Comma separated list of cookies names, prefix or suffix that will be "
 "included in this category, e.g. _ga, mysession, user_c_"
-msgstr ""
+msgstr "Zoznam názvov súborov cookie, predpôn alebo prípon, oddelených čiarkami, ktoré budú "
+"zahrnuté do tejto kategórie, napríklad _ga, mysession, user_c_"
 
 #: gdpr/models.py:113
 msgid "name"
-msgstr ""
+msgstr "názov"
 
 #: gdpr/models.py:115
 msgid "how we use"
-msgstr ""
+msgstr "ako používame"
 
 #: gdpr/models.py:116
 msgid "Describe the purpose of this category of cookies and how it is used."
-msgstr ""
+msgstr "Opíšte účel tejto kategórie cookies a spôsob jej použitia."
 
 #: gdpr/models.py:122
 msgid "GDPR cookie category"
-msgstr ""
+msgstr "GDPR cookie kategória"
 
 #: gdpr/models.py:123
 msgid "GDPR cookie categories"
-msgstr ""
+msgstr "GDPR cookie kategórie"
 
 #: gdpr/models.py:126
 msgid "GDPR cookie category for {}"
-msgstr ""
+msgstr "GDPR cookie kategória pre {}"
 
 #: gdpr/models.py:135
 msgid "created on"
-msgstr ""
+msgstr "vytvorené v"
 
 #: gdpr/models.py:150
 msgid "consent documents"
-msgstr ""
+msgstr "dokumenty súhlasu"
 
 #: gdpr/models.py:156
 msgid "GDPR user consent"
-msgstr ""
+msgstr "GDPR súhlas používateľa"
 
 #: gdpr/models.py:157
 msgid "GDPR user consents"
-msgstr ""
+msgstr "GDPR súhlasy používateľa"
 
 #: gdpr/models.py:208
 msgid "GDPR user consent in {} for user {} in shop {}"
-msgstr ""
+msgstr "GDPR súhlas používateľa v {} pre používateľa {} v obchode {}"
 
 #: gdpr/models.py:217
 msgid "GDPR user consent document for {} (Version: {})"
-msgstr ""
+msgstr "Dokument GDPR súhlasu používateľa pre {} (Verzia: {})"
 
 #: gdpr/providers.py:67
 msgid ""
 "I have read and accept the <a href='{}' target='_blank' "
 "class='gdpr_consent_doc_check'>{}</a>"
-msgstr ""
+msgstr "Prečítal som si a súhlasím s <a href='{}' target='_blank' "
+"class='gdpr_consent_doc_check'>{}</a>"
 
 #: gdpr/providers.py:78
 msgid "You must accept to this to register."
-msgstr ""
+msgstr "Pre registráciu toto musíte prijať."
 
 #: gdpr/providers.py:82
 msgid "You must accept to this to order."
-msgstr ""
+msgstr "Pre objednanie, musiíte toto prijať."
 
 #: gdpr/providers.py:86
 msgid "You must accept to this to authenticate."
-msgstr ""
+msgstr "Pre overenie, musíte toto prijať."
 
 #: gdpr/settings.py:16
 msgid ""
@@ -223,7 +230,13 @@ msgid ""
 "browsing experience and for analytics and metrics about our visitors both on "
 "this website and other media. To find out more about the cookies we use, see "
 "our Privacy Policy.</p>"
-msgstr ""
+msgstr "<p>
+Táto webová stránka ukladá súbory cookie do vášho počítača. Tieto súbory cookie sa používajú na "
+"zhromažďovanie informácie o tom, ako komunikujete s naším webovým serverom, a umožňujú nám "
+"zapamätať si vás. Tieto informácie používame na zlepšenie a prispôsobenie vášho prehliadania "
+"nášho webu a pre analytické a metrické údaje o našich návštevníkoch. "
+"Viac informácií o súboroch cookie, ktoré používame, nájdete v časti "
+"Pravidlá ochrany osobných údajov.</p>"
 
 #: gdpr/settings.py:24
 msgid ""
@@ -236,124 +249,133 @@ msgid ""
 "cookies. Click on the different category headings to find out more and "
 "change our default settings. However, blocking some types of cookies may "
 "impact your experience of the site and the services we are able to offer.</p>"
-msgstr ""
+msgstr "<p>Ak navšítvite akúkoľvek webovú stránku, môže ukladať alebo získavať informácie "
+"o vašom webovom prehliadači, prevaže vo forme súborov cookie. Tieto informácie by mali byť "
+"o vás, vašich nastaveniach alebo vašom zariadení a prevažne sú používané na to, aby stránka "
+"fungovala tak, ako očakávate. Informácie vás zvyčajne priamo neidentifikujú, ale môžu vám "
+"poskytnúť viac prispôsobený zážitok pri prehliadaní webu.</p><p>Keďže rešpektujeme vaše právo "
+"na súkromie, môžete sa rozhodnúť nepovoliť niektoré typy súborov cookie. "
+"Viac informácií získate kliknutím na jednotlivé názvy kategórií a "
+"zmeňte naše predvolené nastavenia. Blokovanie niektorých typov súborov cookie však môže "
+"ovplyvniť vaše skúsenosti s webom a službami, ktoré vám ponúkame."
 
 #: gdpr/templates/shuup/admin/gdpr/edit_base_form_part.jinja:6
 msgid "General Settings"
-msgstr ""
+msgstr "Všeobecné nastavenia"
 
 #: gdpr/templates/shuup/admin/gdpr/edit_cookie_category_form_part.jinja:6
 msgid "Cookie Categories"
-msgstr ""
+msgstr "Kategórie cookies"
 
 #: gdpr/templates/shuup/admin/gdpr/edit_cookie_category_form_part.jinja:17
 msgid "Add new cookie category"
-msgstr ""
+msgstr "Pridať novú kategóriu cookie"
 
 #: gdpr/templates/shuup/admin/gdpr/edit_cookie_category_form_part.jinja:18
 msgid "Use this form to create a new cookie category"
-msgstr ""
+msgstr "Použiť tento formulár na vytvorenie novej kategórie cookie"
 
 #: gdpr/templates/shuup/gdpr/edit_customer_data.jinja:20
 msgid "Download your data"
-msgstr ""
+msgstr "Stiahnuť vaše údaje"
 
 #: gdpr/templates/shuup/gdpr/edit_customer_data.jinja:25
 msgid "Download all my data"
-msgstr ""
+msgstr "Stiahnuť všetky moje údaje"
 
 #: gdpr/templates/shuup/gdpr/edit_customer_data.jinja:34
 msgid "Anonymize your account"
-msgstr ""
+msgstr "Anonymizovať váš účet"
 
 #: gdpr/templates/shuup/gdpr/edit_customer_data.jinja:37
 msgid "You have pending orders!"
-msgstr ""
+msgstr "Máte čakajúce objednávky!"
 
 #: gdpr/templates/shuup/gdpr/edit_customer_data.jinja:45
 msgid "Request Account Anonymization"
-msgstr ""
+msgstr "Žiadosť o anonymizáciu účtu"
 
 #: gdpr/templates/shuup/gdpr/edit_customer_data.jinja:52
 msgid "This action is irreversible!"
-msgstr ""
+msgstr "Tento krok nie je možné vrátiť späť!"
 
 #: gdpr/templates/shuup/gdpr/edit_customer_data.jinja:63
 msgid "Are you sure? This cannot be undone."
-msgstr ""
+msgstr "Ste si istý? Toto nie je možné vrátiť späť."
 
 #: gdpr/templates/shuup/gdpr/gdpr_consent.jinja:11
 msgid "Privacy Preferences"
-msgstr ""
+msgstr "Nastavenia súkromia"
 
 #: gdpr/templates/shuup/gdpr/gdpr_consent.jinja:14
 msgid "I Understand"
-msgstr ""
+msgstr "Rozumiem"
 
 #: gdpr/templates/shuup/gdpr/gdpr_consent.jinja:24
 msgid "Privacy Preference Center"
-msgstr ""
+msgstr "Centrum nastavenia súkromia"
 
 #: gdpr/templates/shuup/gdpr/gdpr_consent.jinja:35
 msgid "General"
-msgstr ""
+msgstr "Všeobecný"
 
 #: gdpr/templates/shuup/gdpr/gdpr_consent.jinja:37
 #: gdpr/templates/shuup/gdpr/gdpr_consent.jinja:64
 msgid "Cookie Settings"
-msgstr ""
+msgstr "Nastavenia cookies"
 
 #: gdpr/templates/shuup/gdpr/gdpr_consent.jinja:41
 msgid "Consent Management"
-msgstr ""
+msgstr "Správa súhlasu"
 
 #: gdpr/templates/shuup/gdpr/gdpr_consent.jinja:51
 msgid "You read and agreed to our {}"
-msgstr ""
+msgstr "Prečítali ste si a súhlasili ste s našimi {}"
 
 #: gdpr/templates/shuup/gdpr/gdpr_consent.jinja:55
 msgid "Read"
-msgstr ""
+msgstr "Prečítaný"
 
 #: gdpr/templates/shuup/gdpr/gdpr_consent.jinja:69
 msgid "Always active"
-msgstr ""
+msgstr "Vždy aktívny"
 
 #: gdpr/templates/shuup/gdpr/gdpr_consent.jinja:87
 msgid "Cookies: "
-msgstr ""
+msgstr "Cookies: "
 
 #: gdpr/templates/shuup/gdpr/gdpr_consent.jinja:100
 msgid "Save preferences"
-msgstr ""
+msgstr "Uložiť nastavenia"
 
 #: gdpr/utils.py:93 gdpr/utils.py:116
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Ochrana osobných údajov"
 
 #: gdpr/utils.py:134 gdpr/utils.py:146
 msgid "Required"
-msgstr ""
+msgstr "Požadovaný"
 
 #: gdpr/utils.py:136 gdpr/utils.py:148
 msgid ""
 "We use these cookies to ensure the correct language is being chosen for you "
 "based on your region as well as the overall site functionality."
-msgstr ""
+msgstr "Tieto súbory cookie používame na zabezpečenie toho, aby bol pre vás vybraný správny jazyk "
+"na základe vášho regiónu, ako aj pre celkovú funkčnosť stránok."
 
 #: gdpr/views.py:133
 msgid "GDPR: Anonymize"
-msgstr ""
+msgstr "GDPR: Anonymizovať"
 
 #: gdpr/views.py:140
 msgid "GDPR: Anonymize contact"
-msgstr ""
+msgstr "GDPR: Anonymizovať kontakt"
 
 #: gdpr/views.py:141
 #, python-brace-format
 msgid "Customer ID {customer_id} requested to be anonymized."
-msgstr ""
+msgstr "Zákaznícke ID {customer_id} požiadalo o anonymizáciu."
 
 #: gdpr/views.py:148
 msgid "Anonymization requested."
-msgstr ""
+msgstr "Vyžiadaná anonymizácia."
