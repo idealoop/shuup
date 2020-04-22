@@ -20,468 +20,473 @@ msgstr ""
 
 #: discounts/admin/mass_actions.py:23
 msgid "Archive Product Discounts"
-msgstr ""
+msgstr "Archivovať produktové zľavy"
 
 #: discounts/admin/mass_actions.py:33
 msgid "Unarchive Discounts"
-msgstr ""
+msgstr "Zrušiť archiváciu zliav"
 
 #: discounts/admin/mass_actions.py:43
 msgid "Delete Discounts"
-msgstr ""
+msgstr "Odstrániť zľavy"
 
 #: discounts/admin/modules/_coupon_codes.py:19
 #: discounts/admin/modules/_coupon_codes.py:39 discounts/modules.py:87
 msgid "Product Discounts Coupon Codes"
-msgstr ""
+msgstr "Kódy zľavových kupónov na produkty"
 
 #: discounts/admin/modules/_discounts.py:19 discounts/plugins.py:39
 msgid "Discounts"
-msgstr ""
+msgstr "Zľavy"
 
 #: discounts/admin/modules/_discounts.py:45
 #: discounts/admin/views/_coupon_codes.py:62
 #: discounts/admin/views/_exceptions.py:66
 #: discounts/admin/views/_happy_hours.py:96 discounts/modules.py:23
 msgid "Product Discounts"
-msgstr ""
+msgstr "Produktové zľavy"
 
 #: discounts/admin/modules/_discounts.py:52
 #: discounts/admin/views/_archive.py:30
 msgid "Archived Product Discounts"
-msgstr ""
+msgstr "Archivované produktové zľavy"
 
 #: discounts/admin/modules/_exceptions.py:19
 msgid "Discounts Availability Exceptions"
-msgstr ""
+msgstr "Výnimky dostupnosti zliav"
 
 #: discounts/admin/modules/_exceptions.py:39
 msgid "Product Discounts Availability Exceptions"
-msgstr ""
+msgstr "Výnimky dostupnosti produktových zliav"
 
 #: discounts/admin/modules/_happy_hours.py:19
 msgid "Discounts Happy Hours"
-msgstr ""
+msgstr "Zľavové Happy Hours"
 
 #: discounts/admin/modules/_happy_hours.py:39
 msgid "Product Discounts Happy Hours"
-msgstr ""
+msgstr "Happy Hours na produktové zľavy"
 
 #: discounts/admin/views/_active_list.py:28
 msgid "Discount Name"
-msgstr ""
+msgstr "Názov zľavy"
 
 #: discounts/admin/views/_active_list.py:29
 #: discounts/admin/views/_exceptions.py:34
 #: discounts/admin/views/_happy_hours.py:37
 msgid "Filter by name..."
-msgstr ""
+msgstr "Filtrovať podľa názvu..."
 
 #: discounts/admin/views/_active_list.py:32
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
 #: discounts/admin/views/_active_list.py:33
 msgid "Filter by product..."
-msgstr ""
+msgstr "Filtrovať podľa produktu..."
 
 #: discounts/admin/views/_active_list.py:36
 msgid "Category"
-msgstr ""
+msgstr "Kategória"
 
 #: discounts/admin/views/_active_list.py:38
 msgid "Filter by category..."
-msgstr ""
+msgstr "Filtrovať podľa kategórie..."
 
 #: discounts/admin/views/_active_list.py:41
 msgid "Contact Group"
-msgstr ""
+msgstr "Skupina kontaktov"
 
 #: discounts/admin/views/_active_list.py:43
 msgid "Filter by contact group..."
-msgstr ""
+msgstr "Filtrovať podľa skupiny kontaktov..."
 
 #: discounts/admin/views/_active_list.py:46
 msgid "Contact"
-msgstr ""
+msgstr "Kontakt"
 
 #: discounts/admin/views/_active_list.py:47
 msgid "Filter by contact..."
-msgstr ""
+msgstr "Filtrovať podľa kontaktu..."
 
 #: discounts/admin/views/_active_list.py:50
 msgid "Coupon code"
-msgstr ""
+msgstr "Kód zľavového kupónu"
 
 #: discounts/admin/views/_active_list.py:51
 msgid "Filter by coupon code..."
-msgstr ""
+msgstr "Filtrovať podľa kódu zľavového kupónu..."
 
 #: discounts/admin/views/_active_list.py:53
 msgid "Effect"
-msgstr ""
+msgstr "Účinok"
 
 #: discounts/admin/views/_active_list.py:55
 #: discounts/admin/views/_exceptions.py:40
 msgid "End Date and Time"
-msgstr ""
+msgstr "Dátum a čas ukončenia"
 
 #: discounts/admin/views/_coupon_codes.py:32
 msgid "Code"
-msgstr ""
+msgstr "Kód"
 
 #: discounts/admin/views/_coupon_codes.py:35
 msgid "Usages"
-msgstr ""
+msgstr "Použitie"
 
 #: discounts/admin/views/_coupon_codes.py:36
 msgid "Usages Limit per contact"
-msgstr ""
+msgstr "Limit použitia na jeden kontakt"
 
 #: discounts/admin/views/_coupon_codes.py:37
 msgid "Usage Limit"
-msgstr ""
+msgstr "Limit použitia"
 
 #: discounts/admin/views/_coupon_codes.py:38
 msgid "Active"
-msgstr ""
+msgstr "Aktívny"
 
 #: discounts/admin/views/_coupon_codes.py:39
 msgid "Created by"
-msgstr ""
+msgstr "Vytvorený"
 
 #: discounts/admin/views/_coupon_codes.py:40
 msgid "Date created"
-msgstr ""
+msgstr "Dátum vytvorenia"
 
 #: discounts/admin/views/_coupon_codes.py:63
 msgid "Select discounts linked to this coupon code."
-msgstr ""
+msgstr "Vyberte zľavy spojené s kódom tohto kupónu."
 
 #: discounts/admin/views/_coupon_codes.py:116
 #: discounts/admin/views/_delete.py:29 discounts/admin/views/_exceptions.py:120
 #: discounts/admin/views/_happy_hours.py:178
 #, python-format
 msgid "%s has been deleted."
-msgstr ""
+msgstr "%s bol odstránený."
 
 #: discounts/admin/views/_edit.py:35
 msgid "Discount percentage"
-msgstr ""
+msgstr "Percentuálna zľava"
 
 #: discounts/admin/views/_edit.py:36
 msgid "The discount percentage for this discount."
-msgstr ""
+msgstr "Percentuálna zľava pre túto zľavu."
 
 #: discounts/admin/views/_exceptions.py:33
 msgid "Exception Name"
-msgstr ""
+msgstr "Názov výnimky"
 
 #: discounts/admin/views/_exceptions.py:37
 msgid "Start Date and Time"
-msgstr ""
+msgstr "Dátum a čas začiatku"
 
 #: discounts/admin/views/_exceptions.py:67
 msgid "Select discounts to be ignored on given time frame."
-msgstr ""
+msgstr "Zvoľte zľavy, ktoré sa majú vynechať v danom časovom rámci."
 
 #: discounts/admin/views/_happy_hours.py:36
 msgid "Happy Hour Name"
-msgstr ""
+msgstr "Názov Happy Hour"
 
 #: discounts/admin/views/_happy_hours.py:97
 msgid "Select discounts for this happy hour."
-msgstr ""
+msgstr "Zvoľte zľavy pre túto happy hour."
 
 #: discounts/admin/views/_happy_hours.py:119
 msgid ""
 "12pm is considered noon and 12am as midnight. Start hour is included to the "
 "discount."
-msgstr ""
+msgstr "12pm je považované za obed a 12am za polnoc. Hodina začiatku je zahrnutá do zľavy."
 
 #: discounts/admin/views/_happy_hours.py:120
 msgid ""
 "12pm is considered noon and 12am as midnight. End hours is included to the "
 "discount."
-msgstr ""
+msgstr "12pm je považované za obed a 12am za polnoc. Hodina ukončenia je zahrnutá do zľavy."
 
 #: discounts/admin/views/_happy_hours.py:121
 msgid "Weekdays the happy hour is active."
-msgstr ""
+msgstr "Dni v týždni, kedy je happy hour aktívna."
 
 #: discounts/models/_availability_exceptions.py:17
 #: discounts/models/_coupon_codes.py:35 discounts/models/_discounts.py:104
 #: discounts/models/_happy_hours.py:18
 msgid "shops"
-msgstr ""
+msgstr "obchody"
 
 #: discounts/models/_availability_exceptions.py:19
 #: discounts/models/_discounts.py:92 discounts/models/_happy_hours.py:20
 msgid "name"
-msgstr ""
+msgstr "názov"
 
 #: discounts/models/_availability_exceptions.py:20
 msgid ""
 "The name for this exception. Used internally with exception lists for "
 "filtering."
-msgstr ""
+msgstr "Názov pre túto výnimku. Používané interne so zoznamami výnimiek pre "
+"filtrovanie."
 
 #: discounts/models/_availability_exceptions.py:21
 msgid "start"
-msgstr ""
+msgstr "začiatok"
 
 #: discounts/models/_availability_exceptions.py:22
 msgid "end"
-msgstr ""
+msgstr "koniec"
 
 #: discounts/models/_availability_exceptions.py:28
 msgid "availability exception"
-msgstr ""
+msgstr "dostupná výnimka"
 
 #: discounts/models/_availability_exceptions.py:29
 #: discounts/models/_discounts.py:127
 msgid "availability exceptions"
-msgstr ""
+msgstr "dostupné výnimky"
 
 #: discounts/models/_coupon_codes.py:20 discounts/models/_coupon_codes.py:52
 #: discounts/models/_discounts.py:101
 msgid "created on"
-msgstr ""
+msgstr "vytvorené v"
 
 #: discounts/models/_coupon_codes.py:37
 msgid "usage limit per customer"
-msgstr ""
+msgstr "limit použitia na zákazníka"
 
 #: discounts/models/_coupon_codes.py:38
 msgid "Limit the amount of usages per a single customer."
-msgstr ""
+msgstr "Obmedziť počet použití na jedného zákazníka."
 
 #: discounts/models/_coupon_codes.py:40
 msgid "usage limit"
-msgstr ""
+msgstr "limit použitia"
 
 #: discounts/models/_coupon_codes.py:41
 msgid ""
 "Set the absolute limit of usages for this coupon. If the limit is zero (0) "
 "coupon cannot be used."
-msgstr ""
+msgstr "Nastavte absolútny limit použití tohto kupónu. Ak je limit nula (0), "
+"kupón nemožno použiť."
 
 #: discounts/models/_coupon_codes.py:43 discounts/models/_discounts.py:110
 msgid "active"
-msgstr ""
+msgstr "aktívny"
 
 #: discounts/models/_coupon_codes.py:47 discounts/models/_discounts.py:97
 msgid "created by"
-msgstr ""
+msgstr "vytvorený"
 
 #: discounts/models/_coupon_codes.py:50 discounts/models/_discounts.py:100
 msgid "modified by"
-msgstr ""
+msgstr "upravený"
 
 #: discounts/models/_coupon_codes.py:53 discounts/models/_discounts.py:102
 msgid "modified on"
-msgstr ""
+msgstr "upravené v"
 
 #: discounts/models/_discounts.py:93
 msgid ""
 "The name for this discount. Used internally with discount lists for "
 "filtering."
-msgstr ""
+msgstr "Názov tejto zľavy. Používa sa interne v zozname zliav pre filtrovanie."
 
 #: discounts/models/_discounts.py:107
 msgid "supplier"
-msgstr ""
+msgstr "dodávateľ"
 
 #: discounts/models/_discounts.py:107
 msgid "Select supplier for this discount."
-msgstr ""
+msgstr "Zvoľte dodávateľa pre túto zľavu."
 
 #: discounts/models/_discounts.py:111
 msgid ""
 "Check this if the discount is currently active. Please also set a start and "
 "end date."
-msgstr ""
+msgstr "Začiarknite, ak je zľava momentálne aktívna. Určite, prosím, tiež dátum začiatku "
+"a ukončenia."
 
 #: discounts/models/_discounts.py:113
 msgid "start date and time"
-msgstr ""
+msgstr "dátum a čas začiatku"
 
 #: discounts/models/_discounts.py:115
 msgid ""
 "The date and time the discount starts. This is only applicable if the "
 "discount is marked as active."
-msgstr ""
+msgstr "Dátum a čas, kedy zľava začne. Toto je použiteľné, ak je zľava označená ako aktívna."
 
 #: discounts/models/_discounts.py:118
 msgid "end date and time"
-msgstr ""
+msgstr "dátum a čas ukončenia"
 
 #: discounts/models/_discounts.py:120
 msgid ""
 "The date and time the discount ends. This is only applicable if the discount "
 "is marked as active."
-msgstr ""
+msgstr "Dátum a čas, kedy zľava končí. Toto je použiteľné. ak je zľava označená ako aktívna."
 
 #: discounts/models/_discounts.py:123 discounts/models/_happy_hours.py:28
 msgid "happy hours"
-msgstr ""
+msgstr "happy hours"
 
 #: discounts/models/_discounts.py:124
 msgid "Select happy hours for this discount."
-msgstr ""
+msgstr "Zvoľte happy hours pre túto zľavu."
 
 #: discounts/models/_discounts.py:128
 msgid "Select availability for this discount."
-msgstr ""
+msgstr "Zvoľte dostupnosť pre túto zľavu."
 
 #: discounts/models/_discounts.py:132
 msgid "product"
-msgstr ""
+msgstr "produkt"
 
 #: discounts/models/_discounts.py:133
 msgid "Select product for this discount."
-msgstr ""
+msgstr "Zvoľte produkt pre túto zľavu."
 
 #: discounts/models/_discounts.py:135
 msgid "exclude selected category"
-msgstr ""
+msgstr "vylúčiť vybratú kategóriu"
 
 #: discounts/models/_discounts.py:136
 msgid "Exclude products in selected category from this discount."
-msgstr ""
+msgstr "Vylúčiť produkty zo zľavy vo vybratej kategórii."
 
 #: discounts/models/_discounts.py:139
 msgid "category"
-msgstr ""
+msgstr "kategória"
 
 #: discounts/models/_discounts.py:140
 msgid "Select category for this discount."
-msgstr ""
+msgstr "Zvoľte kategóriu pre túto zľavu."
 
 #: discounts/models/_discounts.py:143
 msgid "contact"
-msgstr ""
+msgstr "kontakt"
 
 #: discounts/models/_discounts.py:144
 msgid "Select contact for this discount."
-msgstr ""
+msgstr "Zvoľte kontakt pre túto zľavu."
 
 #: discounts/models/_discounts.py:146
 msgid "exclude selected contact group"
-msgstr ""
+msgstr "vylúčiť vybratú skupinu kontaktov"
 
 #: discounts/models/_discounts.py:147
 msgid "Exclude contacts in selected contact group from this discount."
-msgstr ""
+msgstr "Vylúčiť z tejto zľavy kontakty z vybratej skupiny kontaktov."
 
 #: discounts/models/_discounts.py:150
 msgid "contact group"
-msgstr ""
+msgstr "skupina kontaktov"
 
 #: discounts/models/_discounts.py:151
 msgid "Select contact group for this discount."
-msgstr ""
+msgstr "Zvoľte skupinu kontaktov pre túto zľavu."
 
 #: discounts/models/_discounts.py:154
 msgid "coupon code"
-msgstr ""
+msgstr "kód zľavového kupónu"
 
 #: discounts/models/_discounts.py:155
 msgid "Select coupon code for this discount."
-msgstr ""
+msgstr "Zvoľte kód zľavového kupónu pre túto zľavu."
 
 #: discounts/models/_discounts.py:158
 msgid "discounted price"
-msgstr ""
+msgstr "zľavnená cena"
 
 #: discounts/models/_discounts.py:159
 msgid "Discounted product price for this discount."
-msgstr ""
+msgstr "Zľavnená cena produktu pre túto zľavu."
 
 #: discounts/models/_discounts.py:161
 msgid "discount amount"
-msgstr ""
+msgstr "zľavnená čiastka"
 
 #: discounts/models/_discounts.py:162
 msgid "Discount amount value for this discount."
-msgstr ""
+msgstr "Hodnota zľavnenej čiastky pre túto zľavu."
 
 #: discounts/models/_discounts.py:165
 msgid "discount percentage"
-msgstr ""
+msgstr "percentuálna zľava"
 
 #: discounts/models/_discounts.py:166
 msgid "Discount percentage for this discount."
-msgstr ""
+msgstr "Percentuálna zľava pre túto zľavu."
 
 #: discounts/models/_discounts.py:174
 msgid "product discount"
-msgstr ""
+msgstr "produktová zľava"
 
 #: discounts/models/_discounts.py:175
 msgid "product discounts"
-msgstr ""
+msgstr "produktové zľavy"
 
 #: discounts/models/_happy_hours.py:21
 msgid "The name for this . Used internally with exception lists for filtering."
-msgstr ""
+msgstr "Názov pre toto . Použté interne so zoznamom výnimiek pre filtrovanie."
 
 #: discounts/models/_happy_hours.py:27 discounts/models/_happy_hours.py:33
 msgid "happy hour"
-msgstr ""
+msgstr "happy hour"
 
 #: discounts/models/_happy_hours.py:35
 msgid "parent"
-msgstr ""
+msgstr "nadradený"
 
 #: discounts/models/_happy_hours.py:36
 msgid "from hour"
-msgstr ""
+msgstr "od hodiny"
 
 #: discounts/models/_happy_hours.py:37
 msgid "to hour"
-msgstr ""
+msgstr "do hodiny"
 
 #: discounts/models/_happy_hours.py:38
 msgid "weekday"
-msgstr ""
+msgstr "deň v týždni"
 
 #: discounts/models/_happy_hours.py:44
 msgid "time range"
-msgstr ""
+msgstr "časové rozpätie"
 
 #: discounts/models/_happy_hours.py:45
 msgid "time ranges"
-msgstr ""
+msgstr "časové rozpätia"
 
 #: discounts/models/_happy_hours.py:50
 msgid "To hour has to be after from hour"
-msgstr ""
+msgstr "Do hodiny musí byť po od hodiny"
 
 #: discounts/plugins.py:41
 msgid ""
 "Select all discounts to render products from. Only active discounts that "
 "have product or category linked are available."
-msgstr ""
+msgstr "Zvoľte všetky zľavy, ktoré sa majú poskytnúť z produktov. K dispozícii sú iba aktívne zľavy, ktoré sú spojené "
+"s produktom alebo kategóriou."
 
 #: discounts/plugins.py:60
 msgid "Discounted Products"
-msgstr ""
+msgstr "Zľavanené produkty"
 
 #: discounts/plugins.py:64
 msgid "Title"
-msgstr ""
+msgstr "Názov"
 
 #: discounts/plugins.py:65
 msgid "Count"
-msgstr ""
+msgstr "Počet"
 
 #: discounts/plugins.py:67
 msgid "Only show in-stock and orderable items"
-msgstr ""
+msgstr "Zobraziť iba položky, ktoré sú skladom a dajú sa objednať."
 
 #: discounts/plugins.py:69
 msgid ""
 "Warning: The final number of products can be lower than 'Count' as it will "
 "filter out unorderable products from a set of 'Count' products."
-msgstr ""
+msgstr "Upozornenie: Konečný počet produktov môže byť nižší ako Počet, ak sa odfiltrujú "
+produkty, ktoré sa nedajú objednať z celkového Počtu sady produktov."
