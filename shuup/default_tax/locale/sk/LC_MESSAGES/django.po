@@ -20,114 +20,115 @@ msgstr ""
 
 #: default_tax/__init__.py:16
 msgid "Shuup Default Tax"
-msgstr ""
+msgstr "Shuup predvolená daň"
 
 #: default_tax/admin_module/__init__.py:19
 #: default_tax/admin_module/__init__.py:32
 msgid "Tax Rules"
-msgstr ""
+msgstr "Daňové pravidlá"
 
 #: default_tax/admin_module/__init__.py:37
 msgid "Show tax rules"
-msgstr ""
+msgstr "Zobraziť daňové pravidlá"
 
 #: default_tax/admin_module/views.py:37
 msgid "Use ISO 3166-1 country codes (US, FI etc.)"
-msgstr ""
+msgstr "Použiť ISO 3166-1 kódy krajín (US, FI atď.)"
 
 #: default_tax/admin_module/views.py:42
 msgid "Use two letter state codes for the US"
-msgstr ""
+msgstr "Použiť dvojpísmenový kód pre americké štáty"
 
 #: default_tax/admin_module/views.py:66
 msgid "Tax Rule"
-msgstr ""
+msgstr "Daňové pravidlo"
 
 #: default_tax/admin_module/views.py:67
 msgid "Tax"
-msgstr ""
+msgstr "Daň"
 
 #: default_tax/admin_module/views.py:68
 msgid "Tax Classes"
-msgstr ""
+msgstr "Daňové triedy"
 
 #: default_tax/admin_module/views.py:69
 msgid "Customer Tax Groups"
-msgstr ""
+msgstr "Daňové skupiny zákazníkov"
 
 #: default_tax/admin_module/views.py:70
 msgid "Countries"
-msgstr ""
+msgstr "Krajiny"
 
 #: default_tax/admin_module/views.py:71
 msgid "Regions"
-msgstr ""
+msgstr "Kraje"
 
 #: default_tax/admin_module/views.py:72
 msgid "Postal Codes"
-msgstr ""
+msgstr "Poštové smerové čisla"
 
 #: default_tax/admin_module/views.py:73
 msgid "Priority"
-msgstr ""
+msgstr "Priorita"
 
 #: default_tax/admin_module/views.py:74
 msgid "Override Group"
-msgstr ""
+msgstr "Skupina prepisu dane"
 
 #: default_tax/admin_module/views.py:75
 msgid "Enabled"
-msgstr ""
+msgstr "Povolený"
 
 #: default_tax/models.py:29
 msgid "enabled"
-msgstr ""
+msgstr "povolený"
 
 #: default_tax/models.py:30
 msgid "Check this if this tax rule is active."
-msgstr ""
+msgstr "Začiarknite, ak je toto daňové pravidlo aktívne."
 
 #: default_tax/models.py:35
 msgid "tax classes"
-msgstr ""
+msgstr "daňové skupiny"
 
 #: default_tax/models.py:36
 msgid "Tax classes of the items to be taxed"
-msgstr ""
+msgstr "Daňové skupiny položiek na zdanenie"
 
 #: default_tax/models.py:39
 msgid "customer tax groups"
-msgstr ""
+msgstr "daňové skupiny zákazníkov"
 
 #: default_tax/models.py:40
 msgid "The customer tax groups for which this tax rule is limited."
-msgstr ""
+msgstr "Daňové skupiny zákazníkov, na ktoré sa toto daňové pravidlo vzťahuje."
 
 #: default_tax/models.py:43
 msgid "country codes pattern"
-msgstr ""
+msgstr "vzor kódov krajín"
 
 #: default_tax/models.py:46
 msgid "region codes pattern"
-msgstr ""
+msgstr "vzor kódov krajov"
 
 #: default_tax/models.py:48
 msgid "postal codes pattern"
-msgstr ""
+msgstr "vzor poštových smerových čísel"
 
 #: default_tax/models.py:55
 msgid "priority"
-msgstr ""
+msgstr "priorita"
 
 #: default_tax/models.py:56
 msgid ""
 "Rules with same priority define added taxes (e.g. US taxes) and rules with "
 "different priority define compound taxes (e.g. Canada Quebec PST case)"
-msgstr ""
+msgstr "Pravidlá rovnakej priority určujú daň z pridanej hodnoty (napr. dane v US) a pravidlá "
+"rôznej priority určujú zložené dane (napr. Kanada Quebec PST)"
 
 #: default_tax/models.py:61
 msgid "override group number"
-msgstr ""
+msgstr "číslo skupiny prepisu dane"
 
 #: default_tax/models.py:62
 msgid ""
@@ -135,24 +136,26 @@ msgid ""
 "number will be effective.  This can be used, for example, to implement tax "
 "exemption by adding a rule with very high override group that sets a zero "
 "tax."
-msgstr ""
+msgstr "Ak sa niektoré pravidlá zhodujú, účinné budú iba pravidlá s vyšším číslom skupiny "
+"prepisu dane. Používa sa to napríklad na zavedenie daňovej výnimky pridaním pravidla s veľmi "
+"vysokým číslom skupiny prepisu dane, ktoré určí nulovú daň."
 
 #: default_tax/models.py:66
 msgid "tax"
-msgstr ""
+msgstr "daň"
 
 #: default_tax/models.py:67
 msgid "The tax to apply when this rule is applied."
-msgstr ""
+msgstr "Daň, ktorá sa má uplatniť pri uplatnení tohto pravidla."
 
 #: default_tax/models.py:101
 msgid "Tax rule {} ({})"
-msgstr ""
+msgstr "Daňové pravidlo {} ({})"
 
 #: default_tax/module.py:21
 msgid "Default Taxation"
-msgstr ""
+msgstr "Predvolené zdanenie"
 
 #: default_tax/templates/shuup/default_tax/admin/edit.jinja:8
 msgid "Tax rule information"
-msgstr ""
+msgstr "Informácie o daňovom pravidle"
