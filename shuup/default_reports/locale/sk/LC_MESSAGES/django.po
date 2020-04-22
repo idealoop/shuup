@@ -20,225 +20,225 @@ msgstr ""
 
 #: default_reports/forms.py:22 default_reports/reports/customer_sales.py:24
 msgid "Customer"
-msgstr ""
+msgstr "Zákazník"
 
 #: default_reports/forms.py:25
 msgid "Filter report results by customer."
-msgstr ""
+msgstr "Filtrovať výsledky správy podľa zákazníka."
 
 #: default_reports/forms.py:31
 msgid "Orderer"
-msgstr ""
+msgstr "Objednávateľ"
 
 #: default_reports/forms.py:32
 msgid "Filter report results by the person that made the order."
-msgstr ""
+msgstr "Filtrovať výsledky správy podľa osoby, ktorá vytvorila objednávku."
 
 #: default_reports/forms.py:50
 #: default_reports/reports/product_total_sales.py:29
 msgid "Quantity"
-msgstr ""
+msgstr "Množstvo"
 
 #: default_reports/forms.py:51 default_reports/forms.py:78
 #: default_reports/reports/customer_sales.py:27
 #: default_reports/reports/product_total_sales.py:30
 #: default_reports/reports/sales.py:31
 msgid "Taxless Total"
-msgstr ""
+msgstr "Celkom bez dane"
 
 #: default_reports/forms.py:52 default_reports/forms.py:79
 #: default_reports/reports/customer_sales.py:28
 #: default_reports/reports/product_total_sales.py:31
 #: default_reports/reports/sales.py:32
 msgid "Taxful Total"
-msgstr ""
+msgstr "Celkom s daňou"
 
 #: default_reports/forms.py:55 default_reports/forms.py:81
 msgid "Sort order"
-msgstr ""
+msgstr "Triediť objednávku"
 
 #: default_reports/forms.py:63
 msgid "Year"
-msgstr ""
+msgstr "Rok"
 
 #: default_reports/forms.py:64
 msgid "Year/Month"
-msgstr ""
+msgstr "Rok/Mesiac"
 
 #: default_reports/forms.py:65
 msgid "Year/Month/Day"
-msgstr ""
+msgstr "Rok/Mesiac/Deň"
 
 #: default_reports/forms.py:68
 msgid "Group by"
-msgstr ""
+msgstr "Zoskupiť podľa"
 
 #: default_reports/forms.py:76
 msgid "Order Count"
-msgstr ""
+msgstr "Počet objednávok"
 
 #: default_reports/forms.py:77 default_reports/reports/customer_sales.py:26
 msgid "Average Sales"
-msgstr ""
+msgstr "Priemerný predaj"
 
 #: default_reports/forms.py:88 default_reports/reports/taxes.py:28
 msgid "Tax"
-msgstr ""
+msgstr "Daň"
 
 #: default_reports/forms.py:91
 msgid "Filter report results by tax."
-msgstr ""
+msgstr "Filtrovať výsledky správy podľa daňe."
 
 #: default_reports/forms.py:93
 msgid "Tax Class"
-msgstr ""
+msgstr "Daňová trieda"
 
 #: default_reports/forms.py:96
 msgid "Filter report results by tax class."
-msgstr ""
+msgstr "Filtrovať výsledky správy podľa daňovej triedy."
 
 #: default_reports/forms.py:113
 msgid "Shipping Method"
-msgstr ""
+msgstr "Spôsob dopravy"
 
 #: default_reports/forms.py:116
 msgid "Filter report results by shipping method."
-msgstr ""
+msgstr "Filtrovať výsledky správy podľa spôsobu dopravy."
 
 #: default_reports/forms.py:118 default_reports/reports/shipping.py:26
 msgid "Carrier"
-msgstr ""
+msgstr "Dopravca"
 
 #: default_reports/forms.py:121
 msgid "Filter report results by carrier."
-msgstr ""
+msgstr "Filtrovať výsledky správy podľa dopravcu."
 
 #: default_reports/reports/customer_sales.py:19
 msgid "Customer Sales"
-msgstr ""
+msgstr "Zákaznícky predaj"
 
 #: default_reports/reports/customer_sales.py:25
 #: default_reports/reports/sales.py:29 default_reports/reports/shipping.py:28
 #: default_reports/reports/taxes.py:30
 msgid "Orders"
-msgstr ""
+msgstr "Objednávky"
 
 #: default_reports/reports/new_customers.py:20
 msgid "New Customers"
-msgstr ""
+msgstr "Noví zákazníci"
 
 #: default_reports/reports/new_customers.py:25
 #: default_reports/reports/sales.py:28
 msgid "Date"
-msgstr ""
+msgstr "Dátum"
 
 #: default_reports/reports/new_customers.py:26
 msgid "Persons"
-msgstr ""
+msgstr "Osoby"
 
 #: default_reports/reports/new_customers.py:27
 msgid "Companies"
-msgstr ""
+msgstr "Spoločnosti"
 
 #: default_reports/reports/new_customers.py:28
 msgid "Users"
-msgstr ""
+msgstr "Používatelia"
 
 #: default_reports/reports/product_total_sales.py:22
 msgid "Product Total Sales"
-msgstr ""
+msgstr "Celkový predaj produktu"
 
 #: default_reports/reports/product_total_sales.py:27
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
 #: default_reports/reports/product_total_sales.py:28
 msgid "SKU"
-msgstr ""
+msgstr "Skladové číslo produktu"
 
 #: default_reports/reports/refunds.py:19
 msgid "Refunded Sales"
-msgstr ""
+msgstr "Vrátený predaj"
 
 #: default_reports/reports/refunds.py:24
 msgid "Refunded Orders"
-msgstr ""
+msgstr "Vrátené objednávky"
 
 #: default_reports/reports/refunds.py:25
 msgid "Total Refunded"
-msgstr ""
+msgstr "Celková vrátená suma"
 
 #: default_reports/reports/sales.py:23
 msgid "Sales Report"
-msgstr ""
+msgstr "Správa predaja"
 
 #: default_reports/reports/sales.py:30
 msgid "Products"
-msgstr ""
+msgstr "Produkty"
 
 #: default_reports/reports/sales_per_hour.py:21
 msgid "Sales Per Hour"
-msgstr ""
+msgstr "Predaj za hodinu"
 
 #: default_reports/reports/sales_per_hour.py:26
 msgid "Hour"
-msgstr ""
+msgstr "Hodina"
 
 #: default_reports/reports/sales_per_hour.py:27
 #: default_reports/reports/total_sales.py:25
 msgid "Order Amount"
-msgstr ""
+msgstr "Suma objednávky"
 
 #: default_reports/reports/sales_per_hour.py:28
 #: default_reports/reports/total_sales.py:18
 #: default_reports/reports/total_sales.py:28
 msgid "Total Sales"
-msgstr ""
+msgstr "Celkový predaj"
 
 #: default_reports/reports/shipping.py:21
 msgid "Shipping"
-msgstr ""
+msgstr "Dopraa"
 
 #: default_reports/reports/shipping.py:27
 msgid "Shipping method"
-msgstr ""
+msgstr "Spôsob dopravy"
 
 #: default_reports/reports/shipping.py:29
 msgid "Total Charged"
-msgstr ""
+msgstr "Celková účtovaná suma"
 
 #: default_reports/reports/taxes.py:23
 msgid "Taxes"
-msgstr ""
+msgstr "Dane"
 
 #: default_reports/reports/taxes.py:29
 msgid "Rate (%)"
-msgstr ""
+msgstr "Sadzba (%)"
 
 #: default_reports/reports/taxes.py:31
 msgid "Pre-tax Total"
-msgstr ""
+msgstr "Celková suma pred zdanením"
 
 #: default_reports/reports/taxes.py:32
 msgid "Total Tax Amount"
-msgstr ""
+msgstr "Celková čiastka dane"
 
 #: default_reports/reports/taxes.py:33
 msgid "Total"
-msgstr ""
+msgstr "Celkom"
 
 #: default_reports/reports/total_sales.py:23
 msgid "Shop Name"
-msgstr ""
+msgstr "Názov obchodu"
 
 #: default_reports/reports/total_sales.py:24
 msgid "Currency"
-msgstr ""
+msgstr "Mena"
 
 #: default_reports/reports/total_sales.py:26
 msgid "Customers"
-msgstr ""
+msgstr "Zákazníci"
 
 #: default_reports/reports/total_sales.py:27
 msgid "Customer Average Sale"
-msgstr ""
+msgstr "Priemerný zákaznícky predaj"
