@@ -20,66 +20,66 @@ msgstr ""
 
 #: customer_group_pricing/__init__.py:16
 msgid "Shuup Customer Group Pricing"
-msgstr ""
+msgstr "Ceny zákazníckej skupiny Shuup"
 
 #: customer_group_pricing/admin_form_part.py:52
 #, python-format
 msgid "Price (%(shop)s/%(group)s)"
-msgstr ""
+msgstr "Cena (%(shop)s/%(group)s)"
 
 #: customer_group_pricing/admin_form_part.py:133
 #, python-format
 msgid "Discount (%(shop)s/%(group)s)"
-msgstr ""
+msgstr "Zľava (%(shop)s/%(group)s)"
 
 #: customer_group_pricing/models.py:19
 msgid "product"
-msgstr ""
+msgstr "produkt"
 
 #: customer_group_pricing/models.py:20
 msgid "shop"
-msgstr ""
+msgstr "obchod"
 
 #: customer_group_pricing/models.py:22
 msgid "contact group"
-msgstr ""
+msgstr "skupina kontaktov"
 
 #: customer_group_pricing/models.py:31
 msgid "price"
-msgstr ""
+msgstr "cena"
 
 #: customer_group_pricing/models.py:35
 msgid "product price"
-msgstr ""
+msgstr "cena produktu"
 
 #: customer_group_pricing/models.py:36
 msgid "product prices"
-msgstr ""
+msgstr "ceny produktov"
 
 #: customer_group_pricing/models.py:56
 msgid "discount amount"
-msgstr ""
+msgstr "zľavnená čiastka"
 
 #: customer_group_pricing/models.py:60
 msgid "product discount"
-msgstr ""
+msgstr "zľava na produkt"
 
 #: customer_group_pricing/models.py:61
 msgid "product discounts"
-msgstr ""
+msgstr "zľavy na produkty"
 
 #: customer_group_pricing/module.py:20
 msgid "Customer Group Pricing"
-msgstr ""
+msgstr "Ceny zákazníckej skupiny"
 
 #: customer_group_pricing/module.py:59
 msgid "Customer Group Discount"
-msgstr ""
+msgstr "Zľava zákazníckej skupiny"
 
 #: customer_group_pricing/templates/shuup/admin/customer_group_pricing/discount_form_part.jinja:3
 msgid "Contact Group Discount"
-msgstr ""
+msgstr "Zľava skupiny kontaktov"
 
 #: customer_group_pricing/templates/shuup/admin/customer_group_pricing/price_form_part.jinja:3
 msgid "Contact Group Pricing"
-msgstr ""
+msgstr "Ceny skupiny kontaktov"
