@@ -21,120 +21,120 @@ msgstr ""
 #: importer/admin_module/__init__.py:18 importer/admin_module/__init__.py:43
 #: importer/templates/shuup/importer/admin/import.jinja:6
 msgid "Data Import"
-msgstr ""
+msgstr "Údaje o importe"
 
 #: importer/admin_module/forms.py:18
 msgid "Import mode"
-msgstr ""
+msgstr "Režim importu"
 
 #: importer/admin_module/forms.py:22
 msgid "Importing language"
-msgstr ""
+msgstr "Jazyk importu"
 
 #: importer/admin_module/forms.py:23
 msgid "The language of the data you would like to import."
-msgstr ""
+msgstr "Jazyk dát, ktoré chcete importovať."
 
 #: importer/admin_module/forms.py:25
 msgid "Importer"
-msgstr ""
+msgstr "Importér"
 
 #: importer/admin_module/forms.py:26
 msgid "Select a importer type matching the data you would like to import"
-msgstr ""
+msgstr "Vyberte typ importéra, ktorý sa zhoduje s dátami, ktoré chcete importovať."
 
 #: importer/admin_module/forms.py:27
 msgid "File"
-msgstr ""
+msgstr "Súbor"
 
 #: importer/admin_module/import_views.py:46
 #, python-format
 msgid "%s is not a file"
-msgstr ""
+msgstr "%s nie je súbor"
 
 #: importer/admin_module/import_views.py:48
 msgid "File missing."
-msgstr ""
+msgstr "Chýbajúci súbor."
 
 #: importer/admin_module/import_views.py:92
 msgid "Failed to import the file."
-msgstr ""
+msgstr "Import súboru zlyhal."
 
 #: importer/admin_module/import_views.py:172
 msgid "Invalid parameters"
-msgstr ""
+msgstr "Neplatné parametre."
 
 #: importer/admin_module/import_views.py:176
 msgid "Invalid importer"
-msgstr ""
+msgstr "Neplatný importér"
 
 #: importer/admin_module/import_views.py:180
 msgid "Invalid file name"
-msgstr ""
+msgstr "Neplatný názov súboru"
 
 #: importer/admin_module/import_views.py:188
 msgid "File not found"
-msgstr ""
+msgstr "Súbor sa nenašiel"
 
 #: importer/apps.py:17
 msgid "Import"
-msgstr ""
+msgstr "Import"
 
 #: importer/importing/importing.py:216
 msgid "Row ignored (no existing item and creating new is not allowed)."
-msgstr ""
+msgstr "Vynechaný riadok (položka neexistuje a nie je dovolené vytvoriť novú)."
 
 #: importer/importing/importing.py:226
 #, python-format
 msgid ""
 "Row ignored (object already exists (%(object_name)s with id: %(object_id)s)."
-msgstr ""
+msgstr "Riadok vynechaný (objekt už existuje (%(object_name)s s id: %(object_id)s)."
 
 #: importer/importing/importing.py:328
 #, python-format
 msgid "Error setting value for field %(field_name)s. (%(exception)s)"
-msgstr ""
+msgstr "Chyba pri zadávaní hodnoty v poli %(field_name)s. (%(exception)s)"
 
 #: importer/importing/importing.py:349 importer/importing/importing.py:361
 #, python-format
 msgid "Couldn't set value %(original_value)s for field %(field_name)s."
-msgstr ""
+msgstr "Nebolo možné nastaviť hodnotu %(original_value)s pre pole %(field_name)s."
 
 #: importer/importing/session.py:49
 #, python-format
 msgid "Row import failed (%s)."
-msgstr ""
+msgstr "Import riadku zlyhal (%s)."
 
 #: importer/templates/shuup/importer/admin/import_process.jinja:5
 msgid "Import Data - process"
-msgstr ""
+msgstr "Import údajov - Spracovanie"
 
 #: importer/templates/shuup/importer/admin/import_process.jinja:24
 msgid ""
 "The following fields in the file are being used a s possible connection keys:"
-msgstr ""
+msgstr "Nasledujúce polia v súbore sú použité ako možný spojovací kľúč:"
 
 #: importer/templates/shuup/importer/admin/import_process.jinja:26
 msgid "Not a single connection key was found, File cannot be imported."
-msgstr ""
+msgstr "Nebol nájdený žiaden spojovací kľúč, súbor sa nemôže importovať."
 
 #: importer/templates/shuup/importer/admin/import_process_complete.jinja:6
 msgid "Import Data - Complete"
-msgstr ""
+msgstr "Import údajov - Kompletný"
 
 #: importer/transforms.py:80
 #, python-format
 msgid "Cannot import more than %s rows from one file."
-msgstr ""
+msgstr "Nie je možné importovať viac ako %s riadkov súboru."
 
 #: importer/utils/importer.py:23
 msgid "Allow create and update"
-msgstr ""
+msgstr "Povoliť vytvoriť a aktualizovať."
 
 #: importer/utils/importer.py:24
 msgid "Only create (no updates)"
-msgstr ""
+msgstr "Iba vytvoriť (neaktualizovať)"
 
 #: importer/utils/importer.py:25
 msgid "Only update existing (no new ones are created)"
-msgstr ""
+msgstr "Existuje iba aktualizácia (nič nové nie je vytvorené)"
