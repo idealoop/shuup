@@ -20,212 +20,219 @@ msgstr ""
 
 #: simple_cms/__init__.py:16 simple_cms/admin_module/__init__.py:20
 msgid "Content Pages"
-msgstr ""
+msgstr "Obsahové stránky"
 
 #: simple_cms/admin_module/__init__.py:41
 msgid "Pages"
-msgstr ""
+msgstr "Stránky"
 
 #: simple_cms/admin_module/__init__.py:45
 msgid "Show pages"
-msgstr ""
+msgstr "Zobraziť stránky"
 
 #: simple_cms/admin_module/__init__.py:52
 msgid "Add a web page"
-msgstr ""
+msgstr "Pridať webovú stránku"
 
 #: simple_cms/admin_module/__init__.py:54
 msgid "New page"
-msgstr ""
+msgstr "Nová stránka"
 
 #: simple_cms/admin_module/views.py:34 simple_cms/admin_module/views.py:227
 #: simple_cms/admin_module/views.py:236
 msgid "Available from"
-msgstr ""
+msgstr "Dostupné od"
 
 #: simple_cms/admin_module/views.py:35 simple_cms/admin_module/views.py:228
 #: simple_cms/admin_module/views.py:237
 msgid "Available to"
-msgstr ""
+msgstr "Dostupné do"
 
 #: simple_cms/admin_module/views.py:64
 msgid "Template"
-msgstr ""
+msgstr "Šablóna"
 
 #: simple_cms/admin_module/views.py:95 simple_cms/models.py:177
 msgid "URL already exists."
-msgstr ""
+msgstr "URL už existuje."
 
 #: simple_cms/admin_module/views.py:98
 msgid "URL must be unique"
-msgstr ""
+msgstr "URL musí byť jedinečná"
 
 #: simple_cms/admin_module/views.py:103
 #, python-format
 msgid "%(label)s is required when any %(language)s field is filled."
-msgstr ""
+msgstr "%(label)s je požadované ak je vyplnené nejaké %(language) pole."
 
 #: simple_cms/admin_module/views.py:111
 msgid "Please fill at least one language fully."
-msgstr ""
+msgstr "Prosím vyplňte úplne aspoň jeden jazyk."
 
 #: simple_cms/admin_module/views.py:118
 msgid "A page may not be made a child of itself."
-msgstr ""
+msgstr "Stránka nemôže byť podradenou sama sebe."
 
 #: simple_cms/admin_module/views.py:218 simple_cms/models.py:221
 #: simple_cms/plugins.py:58
 msgid "Title"
-msgstr ""
+msgstr "Nadpis"
 
 #: simple_cms/admin_module/views.py:229
 msgid "Created by"
-msgstr ""
+msgstr "Vytvorený"
 
 #: simple_cms/admin_module/views.py:230
 msgid "Date created"
-msgstr ""
+msgstr "Dátum vytvorenia"
 
 #: simple_cms/admin_module/views.py:235
 msgid "Page"
-msgstr ""
+msgstr "Stránka"
 
 #: simple_cms/admin_module/views.py:263
 #, python-format
 msgid "%s has been marked deleted."
-msgstr ""
+msgstr "%s bol označený ako odstránený."
 
 #: simple_cms/layout.py:15
 msgid "Content in this placeholder is shown for this page only."
-msgstr ""
+msgstr "Obsah v tomto vyhradenom mieste sa zobrazuje iba pre túto stránku."
 
 #: simple_cms/layout.py:21
 #, python-format
 msgid "Content in this placeholder is shown for %(title)s only."
-msgstr ""
+msgstr "Obsah v tomto vyhradenom mieste sa zobrazuje iba pre %(title)s."
 
 #: simple_cms/models.py:32
 msgid "Website"
-msgstr ""
+msgstr "Webová stránka"
 
 #: simple_cms/models.py:33
 msgid "Article"
-msgstr ""
+msgstr "Článok"
 
 #: simple_cms/models.py:70
 msgid "shop"
-msgstr ""
+msgstr "obchod"
 
 #: simple_cms/models.py:71
 msgid "supplier"
-msgstr ""
+msgstr "dodávateľ"
 
 #: simple_cms/models.py:74
 msgid "available from"
-msgstr ""
+msgstr "dostupné od"
 
 #: simple_cms/models.py:75
 msgid ""
 "Set an available from date to restrict the page to be available only after a "
 "certain date and time. This is useful for pages describing sales campaigns "
 "or other time-sensitive pages."
-msgstr ""
+msgstr "Nastavte začiatočný dátum, pre obmedzenie, aby bola stránka dostupná iba po určenom "
+"dátume a čase. Toto je užitočné pre stránky popisujúce výpredajové kampane ale pre iné "
+"stránky, ktoré sú časovo obmedzené."
 
 #: simple_cms/models.py:81
 msgid "available to"
-msgstr ""
+msgstr "dostupné pre"
 
 #: simple_cms/models.py:82
 msgid ""
 "Set an available to date to restrict the page to be available only after a "
 "certain date and time. This is useful for pages describing sales campaigns "
 "or other time-sensitive pages."
-msgstr ""
+msgstr "Nastavte dátum, pre obmedzenie, aby bola stránka dostupná iba po určenom "
+"dátume a čase. Toto je užitočné pre stránky popisujúce výpredajové kampane ale pre iné "
+"stránky, ktoré sú časovo obmedzené."
 
 #: simple_cms/models.py:89
 msgid "created by"
-msgstr ""
+msgstr "vytvorené"
 
 #: simple_cms/models.py:93
 msgid "modified by"
-msgstr ""
+msgstr "upravené"
 
 #: simple_cms/models.py:96
 msgid "created on"
-msgstr ""
+msgstr "vytvorené na"
 
 #: simple_cms/models.py:97
 msgid "modified on"
-msgstr ""
+msgstr "upravené na"
 
 #: simple_cms/models.py:101
 msgid "This identifier can be used in templates to create URLs"
-msgstr ""
+msgstr "Tento identifikátor môže byť využitý v šablónach na vytvorenie adries URL"
 
 #: simple_cms/models.py:105
 msgid "visible in menu"
-msgstr ""
+msgstr "viditeľný v menu"
 
 #: simple_cms/models.py:106
 msgid ""
 "Check this if this page should have a link in the top menu of the store "
 "front."
-msgstr ""
+msgstr "Začiarknite, ak má táto stránka mať link navrchu v menu obchodu."
 
 #: simple_cms/models.py:109
 msgid "parent"
-msgstr ""
+msgstr "nadradený"
 
 #: simple_cms/models.py:110
 msgid ""
 "Set this to a parent page if this page should be subcategorized under "
 "another page."
-msgstr ""
+msgstr "Priraďte toto k nadradenej stránke, ak chcete aby sa táto stránka zaradila do podkategórie "
+"inej stránky."
 
 #: simple_cms/models.py:112
 msgid "list children on page"
-msgstr ""
+msgstr "uviesť podradené na stránke"
 
 #: simple_cms/models.py:113
 msgid "Check this if this page should list its children pages."
-msgstr ""
+msgstr "Začiarknite, ak majú byť na tejto stránke uvedené jej podradené stránky."
 
 #: simple_cms/models.py:115
 msgid "show child page timestamps"
-msgstr ""
+msgstr "zobraziť časovú značku podradenej stránky"
 
 #: simple_cms/models.py:116
 msgid ""
 "Check this if you want to show timestamps on the child pages. Please note, "
 "that this requires the children to be listed on the page as well."
-msgstr ""
+msgstr "Začiarknite, ak chcete zobraziť časové značky na podradených stránkach. To "
+"si tiež vyžaduje, aby boli na stránke uvedené aj podradené stránky."
 
 #: simple_cms/models.py:119
 msgid "deleted"
-msgstr ""
+msgstr "odstránený"
 
 #: simple_cms/models.py:122
 msgid "title"
-msgstr ""
+msgstr "názov"
 
 #: simple_cms/models.py:123
 msgid "The page title. This is shown anywhere links to your page are shown."
-msgstr ""
+msgstr "Názov stránky. To sa zobrazuje všade, kde sa zobrazujú odkazy na vašu stránku."
 
 #: simple_cms/models.py:126
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: simple_cms/models.py:131
 msgid ""
 "The page url. Choose a descriptive url so that search engines can rank your "
 "page higher. Often the best url is simply the page title with spaces "
 "replaced with dashes."
-msgstr ""
+msgstr "URL stránky. Vyberte popisnú url, aby vyhľadávače mohli vyššie ohodnotiť "
+"vašu stránku. Najlepšia url je názov stránky s pomlčkami namiesto medzier."
 
 #: simple_cms/models.py:135
 msgid "content"
-msgstr ""
+msgstr "obsah"
 
 #: simple_cms/models.py:136
 msgid ""
@@ -233,105 +240,108 @@ msgid ""
 "your page link.You can leave this empty and add all page content through "
 "placeholder editor in shop front.To edit the style of the page you can use "
 "the Snippet plugin which is in shop front editor."
-msgstr ""
+msgstr "Obsah stránky. Toto je text, ktorý sa zákazníkom zobrazí pri kliknutí "
+"na odkaz vašej stránky. Môžete to nechať nevyplnené a pridať celý obsah stránky cez editor."
+"Na úpravu vzhľadu stránky môžete použiť Snippet plugin, ktorý je v editore v obchode."
 
 #: simple_cms/models.py:143
 msgid "Template path"
-msgstr ""
+msgstr "Cesta šablóny"
 
 #: simple_cms/models.py:146
 msgid "render title"
-msgstr ""
+msgstr "vykresliť názov"
 
 #: simple_cms/models.py:147
 msgid "Check this if this page should have a visible title"
-msgstr ""
+msgstr "Začiarknite, ak má mať stránka viditeľný názov."
 
 #: simple_cms/models.py:154 simple_cms/models.py:211
 msgid "page"
-msgstr ""
+msgstr "stránka"
 
 #: simple_cms/models.py:155
 msgid "pages"
-msgstr ""
+msgstr "stránky"
 
 #: simple_cms/models.py:203
 msgid "Untitled"
-msgstr ""
+msgstr "Bez názvu"
 
 #: simple_cms/models.py:214
 msgid "Image"
-msgstr ""
+msgstr "Obrázok"
 
 #: simple_cms/models.py:217
 msgid "The image of your object."
-msgstr ""
+msgstr "Obrázok vášho objektu."
 
 #: simple_cms/models.py:219
 msgid "type"
-msgstr ""
+msgstr "typ"
 
 #: simple_cms/models.py:222
 msgid ""
 "The title of your object as it should appear within the graph, e.g. The Rock."
-msgstr ""
+msgstr "Názov vášho objektu, tak ako sa má zobraziť v grafe, napr. The Rock."
 
 #: simple_cms/models.py:224
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 #: simple_cms/models.py:225
 msgid "A one to two sentence description of your object."
-msgstr ""
+msgstr "Popis vášho objektu v jednej až dvoch vetách."
 
 #: simple_cms/models.py:227
 msgid "Section"
-msgstr ""
+msgstr "Sekcia"
 
 #: simple_cms/models.py:228
 msgid ""
 "A high-level section name, e.g. Technology. Only applicable when type is "
 "Article."
-msgstr ""
+msgstr "Názov nadradenej sekcie, napr. Techlnológia. Použiteľné, iba ak "
+"sa jedná o typ Článok."
 
 #: simple_cms/models.py:230
 msgid "Tags"
-msgstr ""
+msgstr "Tagy"
 
 #: simple_cms/models.py:231
 msgid ""
 "Tag words associated with this article. Only applicable when type is Article."
-msgstr ""
+msgstr "Slová súvisejúce s týmto článkom. Použiteľné, iba ak sa jedná o typ Článok."
 
 #: simple_cms/models.py:233
 msgid "Article author"
-msgstr ""
+msgstr "Autor článku"
 
 #: simple_cms/models.py:234
 msgid ""
 "The name of the author for the article. Only applicable when type is Article."
-msgstr ""
+msgstr "Meno autora článku. Použiteľné, ak sa jedná o typ Článok."
 
 #: simple_cms/plugins.py:54
 msgid "CMS Page Links"
-msgstr ""
+msgstr "Odkazy na stránku CMS."
 
 #: simple_cms/plugins.py:60
 msgid "Show all pages"
-msgstr ""
+msgstr "Zobraziť  všetky stránky."
 
 #: simple_cms/plugins.py:63
 msgid "All pages are shown, even if not selected"
-msgstr ""
+msgstr "Všetky stránky sú zobrazené, aj tie, ktoré nie sú vybraté."
 
 #: simple_cms/plugins.py:66
 msgid "Hide expired pages"
-msgstr ""
+msgstr "Skryť expirované stránky."
 
 #: simple_cms/templates.py:12
 msgid "Default Page"
-msgstr ""
+msgstr "Predvolená stránka."
 
 #: simple_cms/templates.py:17
 msgid "Page with sidebar"
-msgstr ""
+msgstr "Stránka s bočným panelom."
