@@ -21,88 +21,88 @@ msgstr ""
 #: reports/admin_module/__init__.py:19
 #: reports/templates/shuup/reports/report.jinja:11
 msgid "Reports"
-msgstr ""
+msgstr "Správy"
 
 #: reports/admin_module/views.py:52
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #: reports/admin_module/views.py:55
 msgid "Select the type of report to run."
-msgstr ""
+msgstr "Zvoľte, aký typ správy sa má spustiť."
 
 #: reports/forms.py:30
 msgid "Custom"
-msgstr ""
+msgstr "Prispôsobený"
 
 #: reports/forms.py:31
 msgid "Today"
-msgstr ""
+msgstr "Dnes"
 
 #: reports/forms.py:32
 msgid "Running Week (last 7 days)"
-msgstr ""
+msgstr "Uplynulý týždeň (posledných 7 dní)"
 
 #: reports/forms.py:33
 msgid "Running Month (last 30 days)"
-msgstr ""
+msgstr "Uplynulý mesiac (posledných 30 dní)"
 
 #: reports/forms.py:34
 msgid "This Week"
-msgstr ""
+msgstr "Tento týždeň"
 
 #: reports/forms.py:35
 msgid "This Month"
-msgstr ""
+msgstr "Tento mesiac"
 
 #: reports/forms.py:36
 msgid "This Year"
-msgstr ""
+msgstr "Tento rok"
 
 #: reports/forms.py:37
 msgid "All Time"
-msgstr ""
+msgstr "Celkovo"
 
 #: reports/forms.py:43
 msgid "Output Format"
-msgstr ""
+msgstr "Formát výstupu"
 
 #: reports/forms.py:44
 msgid "The format to show the report results."
-msgstr ""
+msgstr "Formát na zobrazenie výsledkov správy."
 
 #: reports/forms.py:46
 msgid "Download"
-msgstr ""
+msgstr "Stiahnuť"
 
 #: reports/forms.py:47
 msgid "Check this to download the report."
-msgstr ""
+msgstr "Začiarknite pre stiahnutie správy."
 
 #: reports/forms.py:70
 msgid "Shop"
-msgstr ""
+msgstr "Obchod"
 
 #: reports/forms.py:70
 msgid "Filter report results by shop."
-msgstr ""
+msgstr "Filtrovať výsledky správ podľa obchodu."
 
 #: reports/forms.py:72
 msgid "Date Range"
-msgstr ""
+msgstr "Rozsah dátumov"
 
 #: reports/forms.py:73
 msgid "Filter report results by a date range."
-msgstr ""
+msgstr "Filtrovať výsledky správ podľa rozsahu dátumov."
 
 #: reports/forms.py:75
 msgid "Start Date"
-msgstr ""
+msgstr "Dátum začiatku"
 
 #: reports/forms.py:75 reports/forms.py:76
 msgid "For a custom date range."
-msgstr ""
+msgstr "Pre vlastný rozsah dátumov."
 
 #: reports/forms.py:76
 msgid "End Date"
-msgstr ""
+msgstr "Dátum ukončenia"
