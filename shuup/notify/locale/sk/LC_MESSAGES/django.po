@@ -20,405 +20,410 @@ msgstr ""
 
 #: notify/actions/email.py:25
 msgid "Plain text"
-msgstr ""
+msgstr "Obyčajný text"
 
 #: notify/actions/email.py:26
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: notify/actions/email.py:32 notify/script_template/generic.py:25
 msgid "Subject"
-msgstr ""
+msgstr "Predmet"
 
 #: notify/actions/email.py:35
 msgid "Body Template"
-msgstr ""
+msgstr "Telo šablony"
 
 #: notify/actions/email.py:37
 msgid ""
 "You can use this template to wrap the HTML body with your custom static "
 "template.Mark the spot for the HTML body with %html_body%."
-msgstr ""
+msgstr "Túto šablónu môžete použiť na zabalenie HTML tela s vašou prispôsobenou "
+"statickou šablónou. Označte miesto pre telo HTML s %html_body%."
 
 #: notify/actions/email.py:42
 msgid "Email Body"
-msgstr ""
+msgstr "Telo emailu"
 
 #: notify/actions/email.py:44
 msgid "Content type"
-msgstr ""
+msgstr "Typ obsahu"
 
 #: notify/actions/email.py:48
 msgid "Recipient"
-msgstr ""
+msgstr "Prijímateľ"
 
 #: notify/actions/email.py:49
 msgid "Reply-To"
-msgstr ""
+msgstr "Odpovedať"
 
 #: notify/actions/email.py:50
 msgid "Carbon Copy (CC)"
-msgstr ""
+msgstr "Kópia"
 
 #: notify/actions/email.py:51
 msgid "Blind Carbon Copy (BCC)"
-msgstr ""
+msgstr "Skrytá kópia"
 
 #: notify/actions/email.py:53
 msgid "From email"
-msgstr ""
+msgstr "Od emailu"
 
 #: notify/actions/email.py:58
 msgid ""
 "Override the default from email to be used. It can either be binded to a "
 "variable or be a constant like support@store.com or even \"Store Support\" "
 "<support@store.com>."
-msgstr ""
+msgstr "Prepísať predvolenú formu emailu, ktorý sa má použiť. Môže byť aj viazaný na premennú "
+"alebo byť konštantou ako support@store.com alebo aj \"Store Support\" "
+"<support@store.com>."
 
 #: notify/actions/email.py:63 notify/typology.py:103
 msgid "Language"
-msgstr ""
+msgstr "Jazyk"
 
 #: notify/actions/email.py:65
 msgid "Fallback language"
-msgstr ""
+msgstr "Núdzový jazyk"
 
 #: notify/actions/email.py:69
 msgid "Send Identifier"
-msgstr ""
+msgstr "Poslať identifikátor"
 
 #: notify/actions/email.py:71
 msgid ""
 "If set, this identifier will be logged into the event's log target. If the "
 "identifier has already been logged, the e-mail won't be sent again."
-msgstr ""
+msgstr "Ak sa toto nastaví, tento identifikátor bude prihlásený do cieľového záznamu údajov. Ak už bol "
+"identifikátor prihlásený, email nebude znova odoslaný."
 
 #: notify/admin_module/__init__.py:30 notify/admin_module/__init__.py:79
 msgid "Notifications"
-msgstr ""
+msgstr "Upozornenia"
 
 #: notify/admin_module/__init__.py:83
 msgid "Show notification scripts"
-msgstr ""
+msgstr "Zobraziť skripty upozornení"
 
 #: notify/admin_module/forms.py:25 notify/admin_module/views/list.py:31
 #: notify/admin_module/views/list.py:60
 msgid "Event"
-msgstr ""
+msgstr "Udalosť"
 
 #: notify/admin_module/forms.py:26
 msgid "Choose which event to bind this script to."
-msgstr ""
+msgstr "Vybrať udalosť, na ktorú sa má tento skript naviazať."
 
 #: notify/admin_module/forms.py:29
 msgid "Script Name"
-msgstr ""
+msgstr "Názov skriptu"
 
 #: notify/admin_module/forms.py:30
 msgid "Type in a descriptive name for your new script."
-msgstr ""
+msgstr "Napíšte opisný názov pre váš nový skript."
 
 #: notify/admin_module/forms.py:33
 msgid "Enable Script"
-msgstr ""
+msgstr "Povoliť skript"
 
 #: notify/admin_module/forms.py:34
 msgid "Choose whether this script should be activated when its event fires."
-msgstr ""
+msgstr "Vyberte, či sa má skript pri spustení udalosti aktivovať."
 
 #: notify/admin_module/forms.py:50
 msgid ""
 "Warning: Changing the event for an existing script may have unexpected "
 "effects."
-msgstr ""
+msgstr "Zmena udalosti pre existujúci skript môže spôsobiť neočakávané "
+"účinky."
 
 #: notify/admin_module/forms.py:84
 msgid "Template"
-msgstr ""
+msgstr "Šablóna"
 
 #: notify/admin_module/forms.py:131
 msgid "Bind to Variable"
-msgstr ""
+msgstr "Naviazať na premennú"
 
 #: notify/admin_module/forms.py:205
 msgid "This field is missing content"
-msgstr ""
+msgstr "Toto pole je bez obsahu"
 
 #: notify/admin_module/views/delete.py:26
 #, python-format
 msgid "%s has been marked deleted."
-msgstr ""
+msgstr "%s bol označený ako odstránený."
 
 #: notify/admin_module/views/edit.py:36
 msgid "Edit Script Contents"
-msgstr ""
+msgstr "Upraviť obsahy skriptov"
 
 #: notify/admin_module/views/edit.py:46
 msgid "Edit Script (advanced)"
-msgstr ""
+msgstr "Upraviť skript (pokročilý)"
 
 #: notify/admin_module/views/edit.py:50
 msgid "Edit Template"
-msgstr ""
+msgstr "Upraviť šablónu"
 
 #: notify/admin_module/views/edit.py:66
 msgid "Delete"
-msgstr ""
+msgstr "Odstrániť"
 
 #: notify/admin_module/views/edit.py:69
 #, python-format
 msgid "Are you sure you wish to delete \"%s\" notification?"
-msgstr ""
+msgstr "Ste si istý, že chcete odstrániť upozornenia \"%s\"?"
 
 #: notify/admin_module/views/editor.py:123
 msgid "Save"
-msgstr ""
+msgstr "Uložiť"
 
 #: notify/admin_module/views/list.py:30
 msgid "Name"
-msgstr ""
+msgstr "Názov"
 
 #: notify/admin_module/views/list.py:32 notify/admin_module/views/list.py:61
 msgid "Enabled"
-msgstr ""
+msgstr "Povolený"
 
 #: notify/admin_module/views/list.py:48
 msgid "New Script"
-msgstr ""
+msgstr "Nový skript"
 
 #: notify/admin_module/views/list.py:52
 msgid "New From Template"
-msgstr ""
+msgstr "Nový zo šablóny"
 
 #: notify/admin_module/views/template.py:64
 #: notify/admin_module/views/template.py:112
 msgid "Script created from template!"
-msgstr ""
+msgstr "Skript vytvorený zo šablóny!"
 
 #: notify/admin_module/views/template.py:68
 #: notify/admin_module/views/template.py:89
 msgid "Template Script not found!"
-msgstr ""
+msgstr "Šablónový skript sa nenašiel!"
 
 #: notify/admin_module/views/template.py:142
 msgid "Templated script not found!"
-msgstr ""
+msgstr "Vzorový skript sa nenašiel!"
 
 #: notify/admin_module/views/template.py:161
 msgid "Script updated!"
-msgstr ""
+msgstr "Skript aktualizovaný!"
 
 #: notify/conditions/simple.py:21
 msgid ""
 "Check whether the bound value `value` exists and is non-empty and non-zero."
-msgstr ""
+msgstr "Skontrolujte, či viazaná hodnota `value` existuje alebo nie je prázdna či nulová."
 
 #: notify/conditions/simple.py:22
 msgid "Non-Empty"
-msgstr ""
+msgstr "Nie prázdny"
 
 #: notify/conditions/simple.py:31
 msgid "Check whether the bound value `value` is empty or zero."
-msgstr ""
+msgstr "Skontrolujte, či viazaná hodnota `value` je prázdna alebo nulová."
 
 #: notify/conditions/simple.py:32
 msgid "Empty"
-msgstr ""
+msgstr "Prázdny"
 
 #: notify/enums.py:21 notify/enums.py:54
 msgid "none"
-msgstr ""
+msgstr "žiadny"
 
 #: notify/enums.py:22
 msgid "unilingual"
-msgstr ""
+msgstr "jednojazyčný"
 
 #: notify/enums.py:23
 msgid "multilingual"
-msgstr ""
+msgstr "viacjazyčný"
 
 #: notify/enums.py:32
 msgid "variable only"
-msgstr ""
+msgstr "iba premenná"
 
 #: notify/enums.py:33
 msgid "constant only"
-msgstr ""
+msgstr "iba konštanta"
 
 #: notify/enums.py:34
 msgid "variable or constant"
-msgstr ""
+msgstr "premenná alebo konštanta"
 
 #: notify/enums.py:42
 msgid "continue to the next step"
-msgstr ""
+msgstr "pokračovať na ďalší krok"
 
 #: notify/enums.py:43
 msgid "stop processing"
-msgstr ""
+msgstr "zastaviť spracovanie"
 
 #: notify/enums.py:52
 msgid "all"
-msgstr ""
+msgstr "všetko"
 
 #: notify/enums.py:53
 msgid "any"
-msgstr ""
+msgstr "žiadny"
 
 #: notify/enums.py:62
 msgid "any shop administrator"
-msgstr ""
+msgstr "žiaden administrátor obchodu"
 
 #: notify/enums.py:63
 msgid "a specific user"
-msgstr ""
+msgstr "konkrétny používateľ"
 
 #: notify/enums.py:73
 msgid "low"
-msgstr ""
+msgstr "nízky"
 
 #: notify/enums.py:74
 msgid "normal"
-msgstr ""
+msgstr "normálny"
 
 #: notify/enums.py:75
 msgid "high"
-msgstr ""
+msgstr "vysoký"
 
 #: notify/enums.py:76
 msgid "critical"
-msgstr ""
+msgstr "kritický"
 
 #: notify/models/notification.py:46 notify/models/script.py:23
 msgid "shop"
-msgstr ""
+msgstr "obchod"
 
 #: notify/models/notification.py:47
 msgid "recipient type"
-msgstr ""
+msgstr "typ príjemcu"
 
 #: notify/models/notification.py:50
 msgid "recipient"
-msgstr ""
+msgstr "príjemca"
 
 #: notify/models/notification.py:52 notify/models/script.py:26
 msgid "created on"
-msgstr ""
+msgstr "vytvorené v"
 
 #: notify/models/notification.py:53
 msgid "message"
-msgstr ""
+msgstr "správa"
 
 #: notify/models/notification.py:55
 msgid "priority"
-msgstr ""
+msgstr "prednostný"
 
 #: notify/models/notification.py:58
 msgid "marked read"
-msgstr ""
+msgstr "označené ako prečítané"
 
 #: notify/models/notification.py:61
 msgid "marked read by"
-msgstr ""
+msgstr "označené ako prečítané používateľom"
 
 #: notify/models/notification.py:63
 msgid "marked read on"
-msgstr ""
+msgstr "označené ako prečítať neskôr"
 
 #: notify/models/script.py:24
 msgid "event identifier"
-msgstr ""
+msgstr "identifikátor udalosti"
 
 #: notify/models/script.py:27
 msgid "name"
-msgstr ""
+msgstr "názov"
 
 #: notify/models/script.py:28
 msgid "enabled"
-msgstr ""
+msgstr "povolený"
 
 #: notify/models/script.py:32
 msgid "template identifier"
-msgstr ""
+msgstr "identifikátor šablóny"
 
 #: notify/models/script.py:33
 msgid "the template identifier used to create this script"
-msgstr ""
+msgstr "identifikátor šablóny použitý na vytvorenie tohto skriptu"
 
 #: notify/notify_events.py:16
 msgid "Password Reset"
-msgstr ""
+msgstr "Obnova hesla"
 
 #: notify/notify_events.py:17
 msgid "This event is triggered when password reset is requested."
-msgstr ""
+msgstr "Táto udalosť sa spustí, keď sa vyžiada obnova hesla."
 
 #: notify/notify_events.py:19
 msgid "Site name"
-msgstr ""
+msgstr "Názov stránky"
 
 #: notify/notify_events.py:20
 msgid "User secret"
-msgstr ""
+msgstr "používateľské tajomstvo"
 
 #: notify/notify_events.py:21
 msgid "User to recover"
-msgstr ""
+msgstr "Používateľ na obnovenie"
 
 #: notify/notify_events.py:22
 msgid "Token"
-msgstr ""
+msgstr "token"
 
 #: notify/notify_events.py:23
 msgid "Recovery URL"
-msgstr ""
+msgstr "URL adresa pre obnovu"
 
 #: notify/notify_events.py:27
 msgid "To Email"
-msgstr ""
+msgstr "Na email"
 
 #: notify/script_template/generic.py:26
 msgid "The subject of the email"
-msgstr ""
+msgstr "Predmet emailu"
 
 #: notify/script_template/generic.py:27
 msgid "Email content"
-msgstr ""
+msgstr "Obsah emailu"
 
 #: notify/script_template/generic.py:29
 msgid "The content of the email."
-msgstr ""
+msgstr "Obsah emailu."
 
 #: notify/script_template/generic.py:37
 msgid "Customer"
-msgstr ""
+msgstr "Zákazník"
 
 #: notify/script_template/generic.py:38
 msgid "Other destination"
-msgstr ""
+msgstr "Ďaľší cieľ"
 
 #: notify/script_template/generic.py:40
 msgid "Send to?"
-msgstr ""
+msgstr "Poslať komu?"
 
 #: notify/script_template/generic.py:44
 msgid ""
 "You can send this email to the customer or to other email of your choice."
-msgstr ""
+msgstr "Tento email môžete poslať zákazníkovi alebo na iný vybratý email."
 
 #: notify/script_template/generic.py:46
 msgid "Destination"
-msgstr ""
+msgstr "Cieľ"
 
 #: notify/script_template/generic.py:48
 msgid "Fill with the destination email address."
-msgstr ""
+msgstr "Vyplňte cieľovú emailovú adresu."
 
 #: notify/script_template/generic.py:56
 msgid ""
 "Recipient is a required field when you don't want to send the email to "
 "customer."
-msgstr ""
+msgstr "Prijímateľ je povinné pole, keď nechcete poslať email zákazníkovi."
 
 #: notify/script_templates.py:23
 msgid ""
@@ -433,10 +438,19 @@ msgid ""
 "<br>\n"
 "<a href=\"{{ recovery_url }}\">{{ recovery_url }}</a>\n"
 msgstr ""
+"\n"
+"<p>Ahoj {{ user_to_recover.get_full_name() }},</p>\n"
+"\n"
+"<p>V prípade, že ste zabudli, vaše používateľské meno je {{ user_to_recover.username }}."
+"</p>\n"
+"<p>Tento email ste dostali, lebo ste požiadali o obnovu hesla vášho účtu na {{ site_name }}.</p>\n"
+"<p>Prosím, prejdite na nasledujúcu stránku a zadajte nové heslo:</p>\n"
+"<br>\n"
+"<a href=\"{{ recovery_url }}\">{{ recovery_url }}</a>\n"
 
 #: notify/script_templates.py:37
 msgid "Send Password Reset Link"
-msgstr ""
+msgstr "Poslať link na obnovu hesla"
 
 #: notify/script_templates.py:38
 msgid ""
@@ -445,6 +459,10 @@ msgid ""
 "requested\n"
 "    "
 msgstr ""
+"\n"
+"        Poslať email používateľovi, ak je vyžiadaná obnova jeho "
+"hesla\n"
+"    "
 
 #: notify/script_templates.py:41
 msgid ""
@@ -454,71 +472,76 @@ msgid ""
 "        requested either by admin, staff or user.\n"
 "    "
 msgstr ""
+\n"
+"        Tento skript pošle používateľovi email, keď admin, zamestnanci alebo používateľ "
+"požiadajú\n"
+"        o obnovu hesla k účtu.\n"
+"    "
 
 #: notify/templates/notify/admin/edit_script.jinja:16
 msgid "Script Details"
-msgstr ""
+msgstr "Podrobnosti skriptu"
 
 #: notify/templates/notify/admin/generic_script_template.jinja:37
 msgid "Show available variables"
-msgstr ""
+msgstr "Zobraziť dostupné premenné"
 
 #: notify/templates/notify/admin/generic_script_template.jinja:62
 msgid "Close"
-msgstr ""
+msgstr "Zatvoriť"
 
 #: notify/templates/notify/admin/list_script.jinja:12
 msgid "Select the script template to be created"
-msgstr ""
+msgstr "Zvoľte skript šablóny, ktorý má byť vytvorený"
 
 #: notify/templates/notify/admin/list_script.jinja:20
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušiť"
 
 #: notify/templates/notify/admin/script_template_config.jinja:3
 msgid "Script Template: {}"
-msgstr ""
+msgstr "Skript šablony: {}"
 
 #: notify/templates/notify/admin/script_template_config.jinja:10
 msgid "Configure the Script Template"
-msgstr ""
+msgstr "Konfigurovať skript šablóny"
 
 #: notify/templates/notify/admin/script_template_config.jinja:28
 msgid "Modify Script"
-msgstr ""
+msgstr "Upraviť skript"
 
 #: notify/templates/notify/admin/script_template_config.jinja:30
 msgid "Create Script"
-msgstr ""
+msgstr "Vytvoriť skript"
 
 #: notify/templates/notify/admin/script_templates.jinja:13
 msgid "Create"
-msgstr ""
+msgstr "Vytvoriť"
 
 #: notify/typology.py:70
 msgid "Boolean"
-msgstr ""
+msgstr "Boolean"
 
 #: notify/typology.py:78
 msgid "Integer Number"
-msgstr ""
+msgstr "Celé číslo"
 
 #: notify/typology.py:86
 msgid "Decimal Number"
-msgstr ""
+msgstr "Desatinné číslo"
 
 #: notify/typology.py:94
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: notify/typology.py:108
 msgid "Email Address"
-msgstr ""
+msgstr "Emailová adresa"
 
 #: notify/typology.py:116
 msgid "URL Address"
-msgstr ""
+msgstr "URL adresa"
 
 #: notify/typology.py:124
 msgid "Phone Number"
-msgstr ""
+msgstr "Telefónne číslo"
