@@ -63,7 +63,7 @@ msgstr "URL musí byť jedinečná"
 #: simple_cms/admin_module/views.py:103
 #, python-format
 msgid "%(label)s is required when any %(language)s field is filled."
-msgstr "%(label)s je požadované ak je vyplnené nejaké %(language) pole."
+msgstr "%(label)s je požadované ak je vyplnené nejaké %(language)s pole."
 
 #: simple_cms/admin_module/views.py:111
 msgid "Please fill at least one language fully."
