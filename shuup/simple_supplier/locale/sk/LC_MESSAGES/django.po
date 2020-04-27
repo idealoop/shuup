@@ -22,193 +22,197 @@ msgstr ""
 #: simple_supplier/admin_module/views.py:76
 #: simple_supplier/templates/shuup/simple_supplier/admin/product_form_part.jinja:41
 msgid "Stock management"
-msgstr ""
+msgstr "Riadenie zásob"
 
 #: simple_supplier/admin_module/views.py:31
 msgid "SKU"
-msgstr ""
+msgstr "skladové číslo produktu"
 
 #: simple_supplier/admin_module/views.py:32
 msgid "Filter by SKU..."
-msgstr ""
+msgstr "Filtrovať podľa skladového čísla produktu"
 
 #: simple_supplier/admin_module/views.py:35
 msgid "Name"
-msgstr ""
+msgstr "Názov"
 
 #: simple_supplier/admin_module/views.py:36
 msgid "Filter by name..."
-msgstr ""
+msgstr "Filtrovať podľa názvu..."
 
 #: simple_supplier/admin_module/views.py:39 simple_supplier/notify_events.py:23
 msgid "Supplier"
-msgstr ""
+msgstr "Dodávateľ"
 
 #: simple_supplier/admin_module/views.py:43
 msgid "Stock information"
-msgstr ""
+msgstr "Skladové informácie"
 
 #: simple_supplier/admin_module/views.py:47
 msgid "Adjust stock"
-msgstr ""
+msgstr "Upraviť zásoby"
 
 #: simple_supplier/admin_module/views.py:95
 #, python-format
 msgid ""
 "Added %(delta)s %(unit_symbol)s for product %(product_name)s stock "
 "(%(supplier_name)s)"
-msgstr ""
+msgstr "Pridané %(delta)s %(unit_symbol)s k zásobám produktu %(product_name)s "
+"(%(supplier_name)s)"
 
 #: simple_supplier/admin_module/views.py:99
 #, python-format
 msgid ""
 "Removed %(delta)s %(unit_symbol)s from product %(product_name)s stock "
 "(%(supplier_name)s)"
-msgstr ""
+msgstr "Odstránené %(delta)s %(unit_symbol)s zo zásob produktu %(product_name)s"
+"(%(supplier_name)s)"
 
 #: simple_supplier/admin_module/views.py:149
 #, python-format
 msgid "Alert limit for product %(product_name)s set to %(value)s."
-msgstr ""
+msgstr "Limit pre upozornenie na produkt %(product_name)s nastavený na %(value)s."
 
 #: simple_supplier/admin_module/views.py:165
 #: simple_supplier/admin_module/views.py:180
 msgid "Not allowed"
-msgstr ""
+msgstr "Nie je povolený."
 
 #: simple_supplier/admin_module/views.py:170
 msgid "Error, please check submitted values and try again."
-msgstr ""
+msgstr "Chyba, skontrolujte zadané hodnoty a skúste znova, prosím."
 
 #: simple_supplier/admin_module/views.py:174
 #, python-format
 msgid "Error, please check submitted values and try again (%(error)s)."
-msgstr ""
+msgstr "Chyba, skontrolujte zadané hodnoty a skúste znova (%(error)s), prosím."
 
 #: simple_supplier/admin_module/views.py:193
 #, python-brace-format
 msgid "Stock management is now enabled for {product}"
-msgstr ""
+msgstr "Riadenie zásob je teraz povolené pre {product}"
 
 #: simple_supplier/admin_module/views.py:195
 #, python-brace-format
 msgid "Stock management is now disabled for {product}"
-msgstr ""
+msgstr "Riadenie zásob je teraz zakázané pre {product}"
 
 #: simple_supplier/forms.py:20
 #, python-format
 msgid "Purchase price per unit (%(currency_name)s)"
-msgstr ""
+msgstr "Nákupná cena za jednotku (%(currency_name)s)"
 
 #: simple_supplier/forms.py:24
 msgid "Quantity"
-msgstr ""
+msgstr "Množstvo"
 
 #: simple_supplier/forms.py:36
 msgid "Only non-zero values can be added to stock."
-msgstr ""
+msgstr "Iba nenulové hodnoty môžu byť pridané k zásobám."
 
 #: simple_supplier/forms.py:42
 msgid "Alert limit"
-msgstr ""
+msgstr "Limit upozornenia"
 
 #: simple_supplier/models.py:36 simple_supplier/models.py:63
 msgid "product"
-msgstr ""
+msgstr "produkt"
 
 #: simple_supplier/models.py:37 simple_supplier/models.py:65
 msgid "supplier"
-msgstr ""
+msgstr "dodávateľ"
 
 #: simple_supplier/models.py:38
 msgid "created on"
-msgstr ""
+msgstr "vytvorené"
 
 #: simple_supplier/models.py:40
 msgid "created by"
-msgstr ""
+msgstr "vytvorené"
 
 #: simple_supplier/models.py:41
 msgid "delta"
-msgstr ""
+msgstr "delta"
 
 #: simple_supplier/models.py:45
 msgid "type"
-msgstr ""
+msgstr "typ"
 
 #: simple_supplier/models.py:57
 msgid "alert limit"
-msgstr ""
+msgstr "limit upozornenia"
 
 #: simple_supplier/models.py:58
 msgid "stock managed"
-msgstr ""
+msgstr "zásoby riadené"
 
 #: simple_supplier/models.py:59
 msgid "Use this to override the supplier default stock behavior per product."
-msgstr ""
+msgstr "Použite toto na potlačenie predvoleného správania dodávateľa pri jednotlivých produktoch."
 
 #: simple_supplier/models.py:66
 msgid "logical count"
-msgstr ""
+msgstr "logický počet"
 
 #: simple_supplier/models.py:67
 msgid "physical count"
-msgstr ""
+msgstr "fyzický počet"
 
 #: simple_supplier/notify_events.py:21
 msgid "Alert Limit Reached"
-msgstr ""
+msgstr "Dosiahnutý limit upozornenia"
 
 #: simple_supplier/notify_events.py:24
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
 #: simple_supplier/notify_events.py:26
 msgid "Supplier Email"
-msgstr ""
+msgstr "Email dodávateľa "
 
 #: simple_supplier/notify_events.py:27
 msgid "Shop Email"
-msgstr ""
+msgstr "Email obchodu"
 
 #: simple_supplier/notify_events.py:30
 msgid "Fired in the last 24 hours?"
-msgstr ""
+msgstr "Spustené za posledných 24 hodín?"
 
 #: simple_supplier/notify_events.py:33
 msgid ""
 "This will be True if this event was already dispatched in the last 24 hours "
 "for the same product and supplier. This is useful to prevent sending "
 "identical notifications in a short period of time."
-msgstr ""
+msgstr "Toto bude platiť, ak táto udalosť už bola za posledných 24 hodín pre ten istý produkt a dodávateľa "
+"odoslaná. Je to užitočné, aby sa zabránilo odosielaniu identických oznámení v krátkom časovom období."
 
 #: simple_supplier/notify_script_template.py:23
 msgid "Send to?"
-msgstr ""
+msgstr "Poslať komu?"
 
 #: simple_supplier/notify_script_template.py:24
 msgid "Send email to whom?"
-msgstr ""
+msgstr "Komu poslať email?"
 
 #: simple_supplier/notify_script_template.py:25
 msgid "Do not send the same email within 24 hours."
-msgstr ""
+msgstr "Neposielať rovnaký email v rámci 24 hodín."
 
 #: simple_supplier/notify_script_template.py:28
 msgid ""
 "If enabled, avoids sending the same email for the same product and supplier "
 "within 24 hours."
-msgstr ""
+msgstr "Ak je povolené, zabráni to zasielaniu rovnakého emailu pre rovnaký produkt "
+"a dodávateľa v rámci 24 hodín."
 
 #: simple_supplier/notify_script_template.py:35
 msgid "Send Stock Limit Alert Email"
-msgstr ""
+msgstr "Poslať email s upozornením limitu zásob."
 
 #: simple_supplier/notify_script_template.py:36
 msgid ""
 "Send me an email when a product stock is lower than the configured limit."
-msgstr ""
+msgstr "Poslať mi email, keď zásoby produktu budú nižšie ako nastavený limit."
 
 #: simple_supplier/notify_script_template.py:37
 msgid ""
@@ -217,11 +221,13 @@ msgid ""
 "same email multiple times in a period of 24 hours. Every time a product's "
 "stock reach its configured limit, this notification will be fired and the "
 "email sent."
-msgstr ""
+msgstr "Tento skript pošle email do nastaveného cieľa a upozorní o nízkom počte "
+"zásob u dodávateľa. Môžete nastaviť, aby sa email neposielal viackrát v rámci 24 hodín. "
+"Zakaždým, ako produkt dosiahne nastavený limit, táto notifikácia sa spustí a odošle sa email."
 
 #: simple_supplier/notify_script_template.py:94
 msgid "Low stock of: {{ product }} from {{ supplier }}"
-msgstr ""
+msgstr "Nízke zásoby: {{ product }} od {{ supplier }}"
 
 #: simple_supplier/notify_script_template.py:95
 msgid ""
@@ -229,34 +235,37 @@ msgid ""
 "You are receiving this message because the product {{ product}} from "
 "{{ supplier }} has a low stock."
 msgstr ""
+"Dobrý deň!\n"
+"Túto správu dostávate z dôvodu, že produkt {{ product}} od "
+"{{ supplier }} má nízky počet zásob."
 
 #: simple_supplier/templates/shuup/simple_supplier/admin/add_stock_form.jinja:32
 msgid "Disable stock management"
-msgstr ""
+msgstr "Nepovoliť riadenie zásob."
 
 #: simple_supplier/templates/shuup/simple_supplier/admin/add_stock_form.jinja:32
 msgid "Enable stock management"
-msgstr ""
+msgstr "Povoliť riadenie zásob."
 
 #: simple_supplier/templates/shuup/simple_supplier/admin/stock_information.jinja:5
 #, python-brace-format
 msgid "Physical count ({sales_unit})"
-msgstr ""
+msgstr "Fyzický počet ({sales_unit})"
 
 #: simple_supplier/templates/shuup/simple_supplier/admin/stock_information.jinja:13
 #, python-brace-format
 msgid "Logical count ({sales_unit})"
-msgstr ""
+msgstr "Logický počet ({sales_unit})"
 
 #: simple_supplier/templates/shuup/simple_supplier/admin/stock_information.jinja:21
 msgid "Value per unit"
-msgstr ""
+msgstr "Hodnota pre jednotku"
 
 #: simple_supplier/templates/shuup/simple_supplier/admin/stock_information.jinja:29
 msgid "Total value"
-msgstr ""
+msgstr "Celková hodnota"
 
 #: simple_supplier/templates/shuup/simple_supplier/admin/stock_information.jinja:38
 #, python-brace-format
 msgid "Alert limit ({sales_unit})"
-msgstr ""
+msgstr "Limit upozornenia ({sales_unit})"
