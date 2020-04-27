@@ -3633,7 +3633,7 @@ msgid "Today"
 msgstr "Dnes"
 
 msgid "Month to date (MTD)"
-msgstr "Za posledný mesiac
+msgstr "Za posledný mesiac"
 
 msgid "Year to date (YTD)"
 msgstr "Za poseldný rok"

@@ -239,8 +239,8 @@ msgstr "Nezľavnená celková hodnota nákupného košíka"
 msgid ""
 "Limit the campaign to match when it has at least the total value entered "
 "here worth of products which doesn't have already discounts."
-msgstr "Obmedzte kampaň tak, aby zadaná celková hodnota bola aspoň taká,
-aká je celková hodnota produktov, ktoré ešte neboli zľavnené.
+msgstr "Obmedzte kampaň tak, aby zadaná celková hodnota bola aspoň taká, "
+"aká je celková hodnota produktov, ktoré ešte neboli zľavnené."
 
 #: campaigns/models/basket_conditions.py:131
 msgid "Basket maximum product count"

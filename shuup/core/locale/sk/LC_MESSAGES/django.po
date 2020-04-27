@@ -584,7 +584,7 @@ msgid ""
 "You can choose to limit who sees your category based on whether they are "
 "logged in or if they are  part of a customer group."
 msgstr "Tu si môžete zvoliť limit kto uvidí vašu kategóriu a to podľa toho či sú "
-prihlásení alebo sú časťou skupiny kontaktov."
+"prihlásení alebo sú časťou skupiny kontaktov."
 
 #: core/models/_categories.py:123
 msgid "visible in menu"
@@ -665,7 +665,7 @@ msgstr "konfigurácia položiek"
 #: core/models/_configurations.py:35
 #, python-format
 msgid "%(key)s for shop %(shop)s"
-msgstr "%(key)s pre obchod %(shop)s""
+msgstr "%(key)s pre obchod %(shop)s"
 
 #: core/models/_configurations.py:37
 #, python-format
@@ -1600,8 +1600,8 @@ msgid ""
 "visibility in your store. You can make products visible to all, visible to "
 "only logged in users, or visible only to certain customer groups."
 msgstr "Vyberte, ak chcete, aby váš produkt mal osobité obmedzenia týkajúce sa jeho viditeľnosti "
-vo vašom obchode. Môžte určiť, či budú viditeľné všetky produkty, alebo či budú "
-viditeľné iba pre prihlásených používateľov alebo pre učité skupiny zákazníkov."
+"vo vašom obchode. Môžte určiť, či budú viditeľné všetky produkty, alebo či budú "
+"viditeľné iba pre prihlásených používateľov alebo pre učité skupiny zákazníkov."
 
 #: core/models/_product_shops.py:88
 msgid ""
@@ -2142,7 +2142,7 @@ msgstr "celková hmotnosť (g)"
 msgid ""
 "Set the measured gross Weight of your product WITH its packaging. This will "
 "help with calculating shipping costs."
-msgstr "Určite nameranú celkovú hmotnosť vášho produktu VRÁTANE balenia. To uľahčí
+msgstr "Určite nameranú celkovú hmotnosť vášho produktu VRÁTANE balenia. To uľahčí "
 "prepočet nákladov na dopravu."
 
 #: core/models/_products.py:324
@@ -2195,7 +2195,7 @@ msgstr "Nadradený je variabilným produktom pre variant produktu, variabilné p
 msgid ""
 "Multilevel parentage hierarchies aren't supported (this product is a simple "
 "variation parent)"
-msgstr "Viacúrovňové hierarchie nie sú podporované (tento produkt je nadradený jednoduchý
+msgstr "Viacúrovňové hierarchie nie sú podporované (tento produkt je nadradený jednoduchý "
 "variant produktu)"
 
 #: core/models/_products.py:718
@@ -2978,7 +2978,7 @@ msgstr "Veľkosť zobrazovacej jendotky v internej jednotke. Ak je interná jedn
 msgid ""
 "The number of decimal places to use for values in the display unit.  The "
 "internal values are still rounded based on settings of the internal unit."
-msgstr "Počet desatinných miest pre hodnoty v zobrazovacích jednotkách.
+msgstr "Počet desatinných miest pre hodnoty v zobrazovacích jednotkách. "
 "Interné hodnoty sú stále zaokrúhlené podľa nastavení internej jednotky."
 
 #: core/models/_units.py:170
@@ -3041,7 +3041,7 @@ msgstr "ks"
 #, python-brace-format
 msgctxt "Display value with unit symbol (with or without space)"
 msgid "{value}{symbol}"
-msgstr "Zobrazovacia jednotka so symbolom jendotky (s medzerou alebo bez)"
+msgstr "{value}{symbol}"
 
 #: core/modules/interface.py:56
 msgid "No Choice"
