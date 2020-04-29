@@ -20,355 +20,365 @@ msgstr ""
 
 #: testing/modules/content/data.py:19
 msgid "About Us"
-msgstr ""
+msgstr "O nás"
 
 #: testing/modules/content/data.py:23
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Zásady ochrany osobných údajov"
 
 #: testing/modules/content/data.py:27
 msgid "Terms and Conditions"
-msgstr ""
+msgstr "Obchodné podmienky"
 
 #: testing/modules/content/data.py:31
 msgid "Refund Policy"
-msgstr ""
+msgstr "Zásady vrátenia peňazí"
 
 #: testing/modules/content/data.py:39
 msgid "{{ order.shop }} - Order {{ order.identifier }} Received"
-msgstr ""
+msgstr "{{ order.shop }} - Objednávka {{ order.identifier }} Prijatá"
 
 #: testing/modules/content/forms.py:41
 msgid "Send customer order confirmation email"
-msgstr ""
+msgstr "Poslať zákazníkovi email s potvrdením objednávky"
 
 #: testing/modules/content/forms.py:44
 msgid ""
 "We will configure a notification to send the customer an email after a "
 "placed order. You can disable this option later or even change the layout of "
 "the email."
-msgstr ""
+msgstr "Nakonfigurujeme upozornenie, aby sa zákazníkovi odoslal email po tom, "
+"ako zadá objednávku. Túto možnosť môžete neskôr zakázať alebo zmeniť rozvrhnutie emailu."
 
 #: testing/modules/content/forms.py:136
 msgid "Create About Us page"
-msgstr ""
+msgstr "Vytvoriť stránku O nás"
 
 #: testing/modules/content/forms.py:144
 msgid ""
 "We have already created an 'About Us' template for you based on your shop "
 "information. You must review the page and change it accordingly."
-msgstr ""
+msgstr "Šablónu O nás sme vám už vytvorili na základe informácií o vašom obchode. "
+"Stránku musíte skontrolovať a podľa potreby ju zmeniť."
 
 #: testing/modules/content/forms.py:148
 msgid ""
 "We will create an 'About Us' template for you. We will base content of the "
 "page on your shop information. After we are done, you must review the page "
 "and change it accordingly."
-msgstr ""
+msgstr "Šablónu stránky O nás vám vytvoríme. Obsah bude založený na informáciách "
+"o vašom obchode. Potom už len budete musieť skontrolovať stránku a podľa potreby vykonať zmeny."
 
 #: testing/modules/content/forms.py:154
 msgid "Create Privacy Policy page"
-msgstr ""
+msgstr "Vyvoriť stránku Zásady ochrany osobných údajov"
 
 #: testing/modules/content/forms.py:161
 msgid ""
 "We have already created a 'Privacy Policy' template for you based on your "
 "shop information. You must review the page and change it accordingly."
-msgstr ""
+msgstr "Šablónu stránky Zásady ochrany osobných údajov sme pre vás už vytvorili na základe "
+"informácií o vašom obchode. Stránku musíte skontrolovať a podľa potreby ju zmeniť."
 
 #: testing/modules/content/forms.py:165
 msgid ""
 "We will create a 'Privacy Policy' template for you. We will base content of "
 "the page on your shop information. After we are done, you must review the "
 "page and change it accordingly."
-msgstr ""
+msgstr "Šablónu stránky Zásady ochrany osobných údajov vám vytvoríme. Obsah bude založený na informáciách "
+"o vašom obchode. Potom už len budete musieť skontrolovať stránku a podľa potreby vykonať zmeny."
 
 #: testing/modules/content/forms.py:171
 msgid "Create Terms and Conditions page"
-msgstr ""
+msgstr "Vytvoriť stránku Obchodné podmienky"
 
 #: testing/modules/content/forms.py:178
 msgid ""
 "We have already created a 'Terms & Conditions' template for you based on "
 "your shop information. You must review the page and change it accordingly."
-msgstr ""
+msgstr "Šablónu stránky Obchodné podmienky sme pre vás už vytvorili na základe "
+"informácií o vašom obchode. Stránku musíte skontrolovať a podľa potreby ju zmeniť."
 
 #: testing/modules/content/forms.py:182
 msgid ""
 "We will create an 'Terms & Conditions' template for you. We will base "
 "content of the page on your shop information. After we are done, you must "
 "review the page and change it accordingly."
-msgstr ""
+msgstr "Šablónu stránky Obchodné podmienky vám vytvoríme. Obsah bude založený na informáciách "
+"o vašom obchode. Potom už len budete musieť skontrolovať stránku a podľa potreby vykonať zmeny."
 
 #: testing/modules/content/forms.py:188
 msgid "Create Refund Policy page"
-msgstr ""
+msgstr "Vytvoriť stránku Zásady vrátenia peňazí"
 
 #: testing/modules/content/forms.py:195
 msgid ""
 "We have already created a 'Refund Policy' template for you based on your "
 "shop information. You must review the page and change it accordingly."
-msgstr ""
+msgstr "Šablónu stránky Zásady vrátenia peňazí sme pre vás už vytvorili na základe "
+"informácií o vašom obchode. Stránku musíte skontrolovať a podľa potreby ju zmeniť."
 
 #: testing/modules/content/forms.py:199
 msgid ""
 "We will create an 'Refund Policy' template for you. We will base content of "
 "the page on your shop information. After we are done, you must review the "
 "page and change it accordingly."
-msgstr ""
+msgstr "Šablónu stránky Zásady vrátenia peňazí vám vytvoríme. Obsah bude založená na informáciách "
+"o vašom obchode. Potom už len budete musieť skontrolovať stránku a poeľa potreby vykonať zmeny."
 
 #: testing/modules/content/forms.py:210
 msgid "Configure the footer"
-msgstr ""
+msgstr "Konfigurovať pätičku"
 
 #: testing/modules/content/forms.py:214
 msgid ""
 "We will now configure your shop footer and fill it with some of your shop's "
 "information. Don't worry, you can change this at any time."
-msgstr ""
+msgstr "Nakonfigurujeme pätičku pre váľ obchod a naplníme ju informáciami z vášho obchodu. "
+"Žiadne starosti, kedykoľvek si to môžete zmeniť."
 
 #: testing/modules/content/views.py:23
 msgid "Content & Behavior"
-msgstr ""
+msgstr "Obsah a správanie"
 
 #: testing/modules/content/views.py:52
 msgid ""
 "Add the initial content and configure the customer notifications for your "
 "shop"
-msgstr ""
+msgstr "Pridať počiatočný obsah a nakonfigurovať upozornenia zákazníkov pre váš obchod."
 
 #: testing/modules/content/views.py:54
 msgid "Configure notifications for your shop"
-msgstr ""
+msgstr "Nakonfigurovať upozornenia pre váš obchod"
 
 #: testing/modules/content/views.py:56
 msgid "Add the initial content"
-msgstr ""
+msgstr "Pridať počiatočný obsah"
 
 #: testing/modules/content/views.py:67
 msgid "Configure the initial content pages"
-msgstr ""
+msgstr "Nakonfigurovať počiatočný obsah stránok"
 
 #: testing/modules/content/views.py:78
 msgid "Configure some notifications"
-msgstr ""
+msgstr "Nakonfigurovať niektoré upozornenia"
 
 #: testing/modules/demo/__init__.py:29
 msgid "Demo"
-msgstr ""
+msgstr "Demo"
 
 #: testing/modules/mocker/mass_actions.py:18
 msgid "Dummy Mass Action #1"
-msgstr ""
+msgstr "Fiktívna hromadná akcia #1"
 
 #: testing/modules/mocker/mass_actions.py:23
 msgid "Dummy Mass Action #2"
-msgstr ""
+msgstr "Fiktívna hromadná akcia #2"
 
 #: testing/modules/mocker/sections.py:17
 msgid "mock section title"
-msgstr ""
+msgstr "modelový názov sekcie"
 
 #: testing/modules/mocker/toolbar.py:21 testing/modules/mocker/toolbar.py:34
 #: testing/modules/mocker/toolbar.py:70
 msgid "Hello"
-msgstr ""
+msgstr "Ahoj"
 
 #: testing/modules/mocker/toolbar.py:50
 #, python-format
 msgid "Hello %(name)s"
-msgstr ""
+msgstr "Ahoj %(name)s"
 
 #: testing/modules/mocker/toolbar.py:62
 #, python-format
 msgid "This is %(sku)s"
-msgstr ""
+msgstr "Toto je %(sku)s"
 
 #: testing/modules/sample_data/__init__.py:56
 msgid ""
 "There is sample data installed. Access \"Settings > Sample Data\" for more "
 "information."
-msgstr ""
+msgstr "Tu sú nainštalované vzorové údaje. Viac informácií nájdete v \"Nastavenia > Vzorové údaje\". "
 
 #: testing/modules/sample_data/__init__.py:60
 msgid ""
 "There is sample data installed. Click here to consolidate or delete them."
-msgstr ""
+msgstr "Tu sú nainštalované vzorové údaje. Kliknite sem pre ich zjednotenie alebo odstránenie."
 
 #: testing/modules/sample_data/__init__.py:61
 #: testing/modules/sample_data/views.py:77
 #: testing/modules/sample_data/views.py:84
 msgid "Sample Data"
-msgstr ""
+msgstr "Vzorové údaje"
 
 #: testing/modules/sample_data/data.py:14
 #: testing/modules/sample_data/data.py:17
 msgid "Default"
-msgstr ""
+msgstr "Prevolený"
 
 #: testing/modules/sample_data/data.py:18
 msgid "Cosmetics and perfumes"
-msgstr ""
+msgstr "Kozmetika a parfémy"
 
 #: testing/modules/sample_data/data.py:24
 msgid "USpicy Makeup Brushes"
-msgstr ""
+msgstr "USpicy Makeup štetce"
 
 #: testing/modules/sample_data/data.py:25
 msgid ""
 "Professional 10 pieces makeup brush set with soft oval toothbrush design"
-msgstr ""
+msgstr "Profesionálna sada 10 kusov makeup štetcov s dizajnom jemne okrúhlej zubnej kefky"
 
 #: testing/modules/sample_data/data.py:30
 msgid "Precision Eyelash Curler"
-msgstr ""
+msgstr "Precízny natáčač rias"
 
 #: testing/modules/sample_data/data.py:31
 msgid ""
 "Precision Eyelash Curler is the professional choice of makeup artists "
 "everywhere."
-msgstr ""
+msgstr "Precízny natáčač rias je profesionálny výber všetkých vizážistov."
 
 #: testing/modules/sample_data/data.py:36
 msgid "PureMoist Lipstick"
-msgstr ""
+msgstr "Rúž PureMoist"
 
 #: testing/modules/sample_data/data.py:37
 msgid ""
 "PureMoist Lipstick has a moisturizing formula designed to quench, comfort "
 "and protect lips."
-msgstr ""
+msgstr "Rúž PureMoist obsahuje zvlhčujúcu receptúru na výživu a ochranu pier."
 
 #: testing/modules/sample_data/data.py:42
 msgid "Clinique Happy"
-msgstr ""
+msgstr "Clinique Happy"
 
 #: testing/modules/sample_data/data.py:43
 msgid "A hint of citrus. A wealth of flowers. A mix of emotions."
-msgstr ""
+msgstr "Náznak citrusov. Množstvo kvetov. Mix emócií."
 
 #: testing/modules/sample_data/data.py:48
 msgid "Tommy Girld by Tommy Hilfiger Perfume"
-msgstr ""
+msgstr "Tommy Girld od Tommy Hilfiger Perfume"
 
 #: testing/modules/sample_data/data.py:49
 msgid ""
 "A refreshing and energetic floral - with low notes of sandalwood and heather."
-msgstr ""
+msgstr "Osviežujúce a energicke kvety s nízkymi tónmi santalového dreva a vresu."
 
 #: testing/modules/sample_data/data.py:54
 msgid "Bvlgari Omnia Crystalline Eau de Toilette"
-msgstr ""
+msgstr "Bvlgari Omnia Crystalline Eau de Toilette"
 
 #: testing/modules/sample_data/data.py:55
 msgid ""
 "Give yourself over to this fragrance as intoxicating and pure as a woman's "
 "soul is fragile."
-msgstr ""
+msgstr "Doprajte si túto vôňu, ktorá je opojná a čistá ako krehká ženská duša."
 
 #: testing/modules/sample_data/data.py:60
 msgid "Still Jennifer Lopez Perfume"
-msgstr ""
+msgstr "Still Jennifer Lopez Parfém"
 
 #: testing/modules/sample_data/data.py:61
 msgid ""
 "Be driven with vitality and confidence, as you wear the Jennifer Lopez Still "
 "fragrance."
-msgstr ""
+msgstr "Buďte poháňaná vôňou vitality a sebavedomia, keď nosíte Jennifer Lopez Still."
 
 #: testing/modules/sample_data/data.py:66
 msgid "La Vie Est Belle"
-msgstr ""
+msgstr "La Vie Est Belle"
 
 #: testing/modules/sample_data/data.py:67
 msgid "A captivating new scent joins the La vie est belle path to happiness."
-msgstr ""
+msgstr "Podmanivá nová vôňa spája La Vie est belle s cestou k šťastiu."
 
 #: testing/modules/sample_data/data.py:72
 msgid "Smooth Viking Beard Brush"
-msgstr ""
+msgstr "Smooth Viking Beard Brush"
 
 #: testing/modules/sample_data/data.py:73
 msgid "Just a beard brush."
-msgstr ""
+msgstr "Jednoducha iba brada."
 
 #: testing/modules/sample_data/data.py:77
 msgid "Beard & Stash Oil"
-msgstr ""
+msgstr "Beard & Stash Oil"
 
 #: testing/modules/sample_data/data.py:78
 msgid "This oil is natural, and is made with the perfect combination of oils."
-msgstr ""
+msgstr "Tento olej je prírodný a je vyrobený z najlepšej kombinácie olejov."
 
 #: testing/modules/sample_data/data.py:84
 msgid "Sample Carousel"
-msgstr ""
+msgstr "Vzorový Carousel"
 
 #: testing/modules/sample_data/forms.py:19
 msgid "Business Segment"
-msgstr ""
+msgstr "Segment podnikania"
 
 #: testing/modules/sample_data/forms.py:23
 msgid "Select your business segment to install categories."
-msgstr ""
+msgstr "Vyberte váš segment podnikania a nainštalujte kategórie."
 
 #: testing/modules/sample_data/forms.py:26
 msgid "Install Categories"
-msgstr ""
+msgstr "Inštalovať kategórie"
 
 #: testing/modules/sample_data/forms.py:29
 msgid "Check this to install sample categories."
-msgstr ""
+msgstr "Začiarknite pre inštaláciu vzorových kategórií."
 
 #: testing/modules/sample_data/forms.py:31
 msgid "Install Products"
-msgstr ""
+msgstr "Inštalovať produkty"
 
 #: testing/modules/sample_data/forms.py:34
 msgid "Check this to install sample products."
-msgstr ""
+msgstr "Začiarknite pre inštaláciu vzorových produktov."
 
 #: testing/modules/sample_data/forms.py:62
 msgid "Install Carousel"
-msgstr ""
+msgstr "Inštalovať Carousel"
 
 #: testing/modules/sample_data/forms.py:66
 msgid "Check this to install a sample carousel."
-msgstr ""
+msgstr "Začiarknite pre inštaláciu vzorového carouselu."
 
 #: testing/modules/sample_data/forms.py:77
 msgid "Uninstall Categories"
-msgstr ""
+msgstr "Odinštalovať kategórie"
 
 #: testing/modules/sample_data/forms.py:82
 msgid "Uninstall Products"
-msgstr ""
+msgstr "Odinštalovať produkty"
 
 #: testing/modules/sample_data/forms.py:88
 msgid "Uninstall Carousel"
-msgstr ""
+msgstr "Odinštalovať carousel"
 
 #: testing/modules/sample_data/views.py:65
 msgid "Sample data were consolidated"
-msgstr ""
+msgstr "Vzorové dáta boli zjednotené"
 
 #: testing/modules/sample_data/views.py:85
 msgid ""
 "To start shopping right now, please install some sample data into your shop"
-msgstr ""
+msgstr "Na okamžité začatie predaja, prosím nainštalujte do vášho obchodu vzorové údaje"
 
 #: testing/supplier_pricing/pricing.py:19
 msgid "Supplier Pricing"
-msgstr ""
+msgstr "Ceny dodávateľa"
 
 #: testing/themes/__init__.py:16
 msgid "Shuup Testing Theme"
-msgstr ""
+msgstr "Shuup testovacia téma"
 
 #: testing/themes/__init__.py:25
 msgid "Shuup Testing Theme With Custom Base Template"
-msgstr ""
+msgstr "Shuup testovacia téma s vlastnou základnou šablónou"
 
 #: testing/themes/plugins.py:17
 msgid "Shuup Test Theme Product Highlights"
-msgstr ""
+msgstr "Shuup testovacia téma s hlavnými vlastnosťami produktu"
