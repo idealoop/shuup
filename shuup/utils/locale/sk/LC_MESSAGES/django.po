@@ -20,101 +20,102 @@ msgstr ""
 
 #: utils/__init__.py:44
 msgid "Shuup Utilities"
-msgstr ""
+msgstr "Shuup Nástroje"
 
 #: utils/analog.py:28
 msgid "other"
-msgstr ""
+msgstr "ostatné"
 
 #: utils/analog.py:29
 msgid "audit"
-msgstr ""
+msgstr "kontrolovať"
 
 #: utils/analog.py:30
 msgid "edit"
-msgstr ""
+msgstr "upraviť"
 
 #: utils/analog.py:31
 msgid "deletion"
-msgstr ""
+msgstr "vymazanie"
 
 #: utils/analog.py:32
 msgid "note"
-msgstr ""
+msgstr "poznámka"
 
 #: utils/analog.py:33
 msgid "email"
-msgstr ""
+msgstr "email"
 
 #: utils/analog.py:34
 msgid "warning"
-msgstr ""
+msgstr "upozornenie"
 
 #: utils/analog.py:35
 msgid "error"
-msgstr ""
+msgstr "chyba"
 
 #: utils/analog.py:40
 msgid "created on"
-msgstr ""
+msgstr "vytvorené"
 
 #: utils/analog.py:41
 msgid "user"
-msgstr ""
+msgstr "používateľ"
 
 #: utils/analog.py:42
 msgid "message"
-msgstr ""
+msgstr "správa"
 
 #: utils/analog.py:43
 msgid "identifier"
-msgstr ""
+msgstr "identifikátor"
 
 #: utils/analog.py:44
 msgid "log entry kind"
-msgstr ""
+msgstr "druh záznamu vstupu"
 
 #: utils/analog.py:45
 msgid "extra data"
-msgstr ""
+msgstr "extra údaje"
 
 #: utils/analog.py:63
 msgid "target"
-msgstr ""
+msgstr "cieľ"
 
 #: utils/dates.py:357
 #, python-format
 msgid "%s day"
 msgid_plural "%s days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s deň"
+msgstr[1] "%s dní"
 
 #: utils/dates.py:358
 #, python-format
 msgid "%(min)s--%(max)s days"
-msgstr ""
+msgstr "%(min)s--%(max)s dní"
 
 #: utils/filer.py:29
 #, python-format
 msgid "Maximum file size reached (%(size)s MB)"
-msgstr ""
+msgstr "Dosiahnutá maximálna veľkosť súboru (%(size)s MB"
 
 #: utils/filer.py:218
 msgid "Root"
-msgstr ""
+msgstr "Zdroj"
 
 #: utils/multilanguage_model_form.py:114
 msgid "This field is required."
-msgstr ""
+msgstr "Toto pole je povinné"
 
 #: utils/patterns.py:15
 msgid ""
 "Comma-separated values or ranges, e.g. A-Z,10000-19000. Use exclamation "
 "marks to negate (A-Z,!G will not match G)."
-msgstr ""
+msgstr "Čiarkou oddelené hodnoty alebo rozpätie, napr. A-Z,10000-19000. Použite "
+"výkričník k negácii (A-Z,!G nebude sa shodovať G)."
 
 #: utils/pdf.py:54
 msgid ""
 "Could not create PDF since Weasyprint is not available. Please contact "
 "support."
-msgstr ""
+msgstr "Nie je možné vytvoriť PDF nakoľko Weasyprint nie je k dispozícii. Prosím, konaktujte podporu."

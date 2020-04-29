@@ -20,526 +20,528 @@ msgstr ""
 
 #: xtheme/_theme.py:133
 msgid "Theme identifier must match"
-msgstr ""
+msgstr "Identifikátor témy sa musí zhodovať"
 
 #: xtheme/_theme.py:144
 msgid "Either theme_settings or shop should be informed"
-msgstr ""
+msgstr "Nastavenia témy alebo obchod by mali byť informovaní"
 
 #: xtheme/_theme.py:250
 msgid "Global plugins"
-msgstr ""
+msgstr "všeobecné doplnky"
 
 #: xtheme/_theme.py:251
 msgid "Theme plugins"
-msgstr ""
+msgstr "Doplnky k téme"
 
 #: xtheme/admin_module/__init__.py:32
 msgid "Shuup Extensible Theme Engine"
-msgstr ""
+msgstr "Shuup prostriedok na rozšírenie témy"
 
 #: xtheme/admin_module/__init__.py:33 xtheme/admin_module/__init__.py:57
 #: xtheme/admin_module/views/_snippet.py:113
 msgid "Themes"
-msgstr ""
+msgstr "Témy"
 
 #: xtheme/admin_module/__init__.py:68
 msgid "Customize the look and feel of your shop"
-msgstr ""
+msgstr "Upraviť vzhľad vášho obchodu"
 
 #: xtheme/admin_module/__init__.py:70
 msgid "Customize theme"
-msgstr ""
+msgstr "Upraviť tému"
 
 #: xtheme/admin_module/__init__.py:89
 msgid "No theme is active. Click here to activate one."
-msgstr ""
+msgstr "Žiadna téma nie je aktívna. Kliknite pre aktiváciu niektorej z tém."
 
 #: xtheme/admin_module/__init__.py:90
 msgid "Theming"
-msgstr ""
+msgstr "Theming"
 
 #: xtheme/admin_module/__init__.py:96
 msgid "Shuup Extensible Theme Engine Snippets"
-msgstr ""
+msgstr "Shuup snipety pre rozšírenie tém"
 
 #: xtheme/admin_module/__init__.py:98 xtheme/models.py:194
 #: xtheme/plugins/snippets.py:20
 msgid "Snippets"
-msgstr ""
+msgstr "Snipety"
 
 #: xtheme/admin_module/__init__.py:119
 msgid "Theme Custom CSS/JS"
-msgstr ""
+msgstr "Vlastné CSS/JS témy"
 
 #: xtheme/admin_module/views/_snippet.py:48 xtheme/models.py:189
 msgid ""
 "Select the themes that will have this snippet injected. Leave the field "
 "blank to inject in all themes."
-msgstr ""
+msgstr "Vyberte témy, do ktorých má byť daný snipet aplikovaný. Ak sa má aplikovať "
+"do všetkých tém, nechajte toto pole prázdne."
 
 #: xtheme/admin_module/views/_snippet.py:59
 msgid "Select the location of the page to inject the snippet."
-msgstr ""
+msgstr "Vyberte umiestnenie na stránke, kde má byť snipet aplikovaný."
 
 #: xtheme/admin_module/views/_snippet.py:105
 msgid "Location"
-msgstr ""
+msgstr "Umiestnenie"
 
 #: xtheme/admin_module/views/_snippet.py:109
 msgid "Filter by location..."
-msgstr ""
+msgstr "Filtrovať podľa umiestnenia..."
 
 #: xtheme/admin_module/views/_snippet.py:112 xtheme/plugins/products.py:43
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #: xtheme/admin_module/views/_theme.py:34
 msgid "activate"
-msgstr ""
+msgstr "aktivovať"
 
 #: xtheme/admin_module/views/_theme.py:41
 msgid "Theme"
-msgstr ""
+msgstr "Téma"
 
 #: xtheme/admin_module/views/_theme.py:42
 msgid "Choose a theme for your shop"
-msgstr ""
+msgstr "Vybrať tému pre váš obchod"
 
 #: xtheme/admin_module/views/_theme.py:109
 msgid "Theme activated."
-msgstr ""
+msgstr "Téma aktivovaná."
 
 #: xtheme/admin_module/views/_theme.py:172
 msgid "Custom CSS/JS"
-msgstr ""
+msgstr "Vlastné CSS/JS"
 
 #: xtheme/forms.py:39
 msgid "Stylesheets"
-msgstr ""
+msgstr "stylesheets"
 
 #: xtheme/forms.py:40
 msgid "The fonts, colors, and styles to use with your theme."
-msgstr ""
+msgstr "Písma, farby a štýly použité vo vašej téme."
 
 #: xtheme/layout/_base.py:232
 msgid "Content in this placeholder is shown without limitations."
-msgstr ""
+msgstr "Obsah tohto poľa sa zobrazuje bez obmedzení."
 
 #: xtheme/layout/_category.py:20
 #, python-format
 msgid ""
 "Content in this placeholder is shown for %(category_name)s category only."
-msgstr ""
+msgstr "Obsah tohto poľa sa zobrazuje iba pre kategóriu %(category_name)s."
 
 #: xtheme/layout/_contact_group.py:19
 msgid "Content in this placeholder is shown for guests."
-msgstr ""
+msgstr "Obsah tohto poľa sa zobrazuje hosťom."
 
 #: xtheme/layout/_contact_group.py:33
 msgid "Content in this placeholder is shown for company contacts."
-msgstr ""
+msgstr "Obsah tohto poľa sa zobrazuje kontaktom spoločnosti."
 
 #: xtheme/layout/_contact_group.py:47
 msgid "Content in this placeholder is shown for all logged in contacts."
-msgstr ""
+msgstr "Obsah tohto poľa sa zobrazuje všetkým prihláseným kontaktom."
 
 #: xtheme/layout/_contact_group.py:61
 msgid "Content in this placeholder is shown for person contacts."
-msgstr ""
+msgstr "Obsah tohto poľa sa zobrazuje osobným kontaktom."
 
 #: xtheme/layout/_product.py:20
 #, python-format
 msgid "Content in this placeholder is shown for %(product_name)s only."
-msgstr ""
+msgstr "Obsah tohto poľa sa zobrazuje iba pre %(product_name)s."
 
 #: xtheme/middleware.py:37
 msgid "Shop '{}' has no active theme"
-msgstr ""
+msgstr "Obchod '{}' nemá žiadnu aktívnu tému"
 
 #: xtheme/models.py:23
 msgid "Inline JavaScript"
-msgstr ""
+msgstr "Inline JavaScript"
 
 #: xtheme/models.py:24
 msgid "Inline CSS"
-msgstr ""
+msgstr "Inline CSS"
 
 #: xtheme/models.py:25
 msgid "Inline HTML"
-msgstr ""
+msgstr "Inline HTML"
 
 #: xtheme/models.py:96
 msgid "current draft"
-msgstr ""
+msgstr "aktuálny koncept"
 
 #: xtheme/models.py:97
 msgid "old version"
-msgstr ""
+msgstr "starí verzia"
 
 #: xtheme/models.py:98
 msgid "public"
-msgstr ""
+msgstr "verejný"
 
 #: xtheme/models.py:102 xtheme/models.py:152
 msgid "theme identifier"
-msgstr ""
+msgstr "identifikátor témy"
 
 #: xtheme/models.py:104
 msgid "view name"
-msgstr ""
+msgstr "zobrazený názov"
 
 #: xtheme/models.py:105
 msgid "created on"
-msgstr ""
+msgstr "vytvorený"
 
 #: xtheme/models.py:106
 msgid "status"
-msgstr ""
+msgstr "stav"
 
 #: xtheme/models.py:107
 msgid "internal data"
-msgstr ""
+msgstr "interné údaje"
 
 #: xtheme/models.py:154
 msgid "active"
-msgstr ""
+msgstr "aktívny"
 
 #: xtheme/models.py:155
 msgid "data"
-msgstr ""
+msgstr "údaje"
 
 #: xtheme/models.py:176
 #, python-format
 msgid "Theme configuration for %s"
-msgstr ""
+msgstr "Konfigurácia témy pre %s"
 
 #: xtheme/models.py:184
 msgid "location"
-msgstr ""
+msgstr "umiestnenie"
 
 #: xtheme/models.py:185
 msgid "snippet type"
-msgstr ""
+msgstr "typ snipetu"
 
 #: xtheme/models.py:186
 msgid "snippet"
-msgstr ""
+msgstr "snipet"
 
 #: xtheme/models.py:188
 msgid "themes"
-msgstr ""
+msgstr "témy"
 
 #: xtheme/models.py:193
 msgid "Snippet"
-msgstr ""
+msgstr "Snipet"
 
 #: xtheme/models.py:197
 msgid "Snippet for {} in {}"
-msgstr ""
+msgstr "Snipet pre {} v {}"
 
 #: xtheme/plugins/_base.py:35 xtheme/views/forms.py:16
 msgid "Plugin"
-msgstr ""
+msgstr "Plugin"
 
 #: xtheme/plugins/category_links.py:34
 msgid "Categories"
-msgstr ""
+msgstr "Kategórie"
 
 #: xtheme/plugins/category_links.py:47
 msgid "Category Links"
-msgstr ""
+msgstr "Odkazy na kategórie"
 
 #: xtheme/plugins/category_links.py:51 xtheme/plugins/image.py:50
 #: xtheme/plugins/products.py:41 xtheme/plugins/products.py:89
 #: xtheme/plugins/products.py:160 xtheme/plugins/products.py:227
 #: xtheme/plugins/social_media_links.py:71
 msgid "Title"
-msgstr ""
+msgstr "Názov"
 
 #: xtheme/plugins/category_links.py:53
 msgid "Show all categories"
-msgstr ""
+msgstr "Zobraziť všetky kategórie"
 
 #: xtheme/plugins/category_links.py:56
 msgid "All categories are shown, even if not selected"
-msgstr ""
+msgstr "Všetky kategórie sú zobrazené, aj tie, ktoré nie sú vybraté"
 
 #: xtheme/plugins/image.py:47 xtheme/plugins/image.py:51
 msgid "Image"
-msgstr ""
+msgstr "Obrázok"
 
 #: xtheme/plugins/image.py:52
 msgid "Image Link URL"
-msgstr ""
+msgstr "URL odkaz obrázku"
 
 #: xtheme/plugins/image.py:54
 msgid "Full width"
-msgstr ""
+msgstr "plná šírka"
 
 #: xtheme/plugins/image.py:57
 msgid "Set image to full width of cell"
-msgstr ""
+msgstr "Nastavte obrázok na plnú šírku bunky"
 
 #: xtheme/plugins/image.py:60
 msgid "Width (px)"
-msgstr ""
+msgstr "Šírka (px)"
 
 #: xtheme/plugins/image.py:62 xtheme/plugins/image.py:67
 msgid "Leave blank for default width"
-msgstr ""
+msgstr "Nechajte prázdne pre predvolenú šírku"
 
 #: xtheme/plugins/image.py:65
 msgid "Height (px)"
-msgstr ""
+msgstr "Výška (px)"
 
 #: xtheme/plugins/products.py:31
 msgid "Newest"
-msgstr ""
+msgstr "Najnovší"
 
 #: xtheme/plugins/products.py:32
 msgid "Best Selling"
-msgstr ""
+msgstr "Najpredávanejší"
 
 #: xtheme/plugins/products.py:33
 msgid "Random"
-msgstr ""
+msgstr "Náhodný"
 
 #: xtheme/plugins/products.py:38
 msgid "Product Highlights"
-msgstr ""
+msgstr "Hlavné vlastnosti produktu"
 
 #: xtheme/plugins/products.py:47 xtheme/plugins/products.py:91
 #: xtheme/plugins/products.py:161
 msgid "Count"
-msgstr ""
+msgstr "Počet"
 
 #: xtheme/plugins/products.py:49 xtheme/plugins/products.py:98
 #: xtheme/plugins/products.py:163
 msgid "Only show in-stock and orderable items"
-msgstr ""
+msgstr "Zobraziť iba položky, ktoré sú skladom a dajú sa objednať"
 
 #: xtheme/plugins/products.py:51 xtheme/plugins/products.py:101
 #: xtheme/plugins/products.py:166
 msgid ""
 "Warning: The final number of products can be lower than 'Count' as it will "
 "filter out unorderable products from a set of 'Count' products."
-msgstr ""
+msgstr "Upozornenie: Konečný počet produktov môže byť nižší ako 'Počet', "
+"ak budú z celkového počtu produktov vyfiltrované tie produkty, ktoré sa nedajú objednať."
 
 #: xtheme/plugins/products.py:85
 msgid "Product Cross Sells"
-msgstr ""
+msgstr "Krížové predaje produktu"
 
 #: xtheme/plugins/products.py:93
 msgid "Show variation parents"
-msgstr ""
+msgstr "Zobraziť nadradené variabilné produkty"
 
 #: xtheme/plugins/products.py:94
 msgid "Render variation parents instead of the children."
-msgstr ""
+msgstr "Zobraziť nadradené variabilné produkty namiesto podradených."
 
 #: xtheme/plugins/products.py:148
 msgid "Category"
-msgstr ""
+msgstr "Kategória"
 
 #: xtheme/plugins/products.py:156
 msgid "Category Products Highlight"
-msgstr ""
+msgstr "Kategória hlavných vlastností produktov"
 
 #: xtheme/plugins/products.py:208
 msgid "Products"
-msgstr ""
+msgstr "Produkty"
 
 #: xtheme/plugins/products.py:209
 msgid "Select all products you want to show"
-msgstr ""
+msgstr "Zvoľte všetky produkty, ktoré chcete zobraziť"
 
 #: xtheme/plugins/products.py:223
 msgid "Product Selection"
-msgstr ""
+msgstr "Výber produktov"
 
 #: xtheme/plugins/snippets.py:22
 msgid "In-Place Snippet"
-msgstr ""
+msgstr "In-Place snipet"
 
 #: xtheme/plugins/snippets.py:23
 msgid "Resource snippet for end of head"
-msgstr ""
+msgstr "Zdroj snipetu pre koniec hlavičky"
 
 #: xtheme/plugins/snippets.py:25
 msgid "Resource snippet for beginning of body"
-msgstr ""
+msgstr "Zdroj snipetu pre začiatok tela"
 
 #: xtheme/plugins/snippets.py:27
 msgid "Resource for end of body"
-msgstr ""
+msgstr "Zdroj pre koniec tela"
 
 #: xtheme/plugins/social_media_links.py:35
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: xtheme/plugins/social_media_links.py:39
 msgid "Ordering"
-msgstr ""
+msgstr "Usporiadanie"
 
 #: xtheme/plugins/social_media_links.py:66
 msgid "Social Media Links"
-msgstr ""
+msgstr "Odkazy na sociálne médiá"
 
 #: xtheme/plugins/social_media_links.py:70
 msgid "Topic"
-msgstr ""
+msgstr "Téma"
 
 #: xtheme/plugins/social_media_links.py:72
 msgid "Icon Size"
-msgstr ""
+msgstr "Veľkosť ikony"
 
 #: xtheme/plugins/social_media_links.py:73
 #: xtheme/plugins/social_media_links.py:81
 msgid "Default"
-msgstr ""
+msgstr "Predvolený"
 
 #: xtheme/plugins/social_media_links.py:74
 msgid "Large"
-msgstr ""
+msgstr "Veľký"
 
 #: xtheme/plugins/social_media_links.py:80
 msgid "Alignment"
-msgstr ""
+msgstr "Zarovnanie"
 
 #: xtheme/plugins/social_media_links.py:82 xtheme/views/forms.py:31
 msgid "Left"
-msgstr ""
+msgstr "Vľavo"
 
 #: xtheme/plugins/social_media_links.py:83
 msgid "Center"
-msgstr ""
+msgstr "Stred"
 
 #: xtheme/plugins/social_media_links.py:84 xtheme/views/forms.py:32
 msgid "Right"
-msgstr ""
+msgstr "Vpravo"
 
 #: xtheme/plugins/text.py:24
 msgid "text"
-msgstr ""
+msgstr "text"
 
 #: xtheme/rendering.py:155
 #, python-format
 msgid "Click to edit placeholder: %s"
-msgstr ""
+msgstr "Kliknite pre úpravu poľa: %s"
 
 #: xtheme/rendering.py:163
 msgid ""
 "This placeholder is global and content of this placeholder is shown on all "
 "pages."
-msgstr ""
+msgstr "Toto pole je všeobecné a obsah tohto poľa sa zobrazuje na všetkých stránkach."
 
 #: xtheme/resources.py:30
 msgid "End of head"
-msgstr ""
+msgstr "Koniec hlavičky"
 
 #: xtheme/resources.py:35
 msgid "Start of head"
-msgstr ""
+msgstr "Začiatok hlavičky"
 
 #: xtheme/resources.py:40
 msgid "End of body"
-msgstr ""
+msgstr "Koniec tela"
 
 #: xtheme/resources.py:45
 msgid "Start of body"
-msgstr ""
+msgstr "Začiatok tela"
 
 #: xtheme/resources.py:50
 msgid "Content start"
-msgstr ""
+msgstr "Začiatok obsahu"
 
 #: xtheme/resources.py:55
 msgid "Content end"
-msgstr ""
+msgstr "Koniec obsahu"
 
 #: xtheme/resources.py:113
 msgid "(Error while rendering)"
-msgstr ""
+msgstr "(Chyba pri vykresľovaní)"
 
 #: xtheme/templates/shuup/xtheme/admin/config_detail.jinja:11
 msgid "Theme Configuration"
-msgstr ""
+msgstr "Konfigurácia témy"
 
 #: xtheme/templates/shuup/xtheme/admin/config_detail.jinja:67
 msgid "Theme Guide"
-msgstr ""
+msgstr "Sprievodca témou"
 
 #: xtheme/views/editor.py:55
 msgid "No access to editing"
-msgstr ""
+msgstr "Žiaden prístup k úprave"
 
 #: xtheme/views/editor.py:74
 #, python-format
 msgid "Unknown command %s"
-msgstr ""
+msgstr "Neznámy príkaz %s"
 
 #: xtheme/views/editor.py:99
 msgid "Unable to determine current theme."
-msgstr ""
+msgstr "Nie je možné určiť aktuálnu tému."
 
 #: xtheme/views/editor.py:160
 #, python-format
 msgid "Cannot add more than %d cells in one row."
-msgstr ""
+msgstr "Nie je možné pridať viac ako %d buniek do jedného riadku."
 
 #: xtheme/views/editor.py:199
 msgid "Published"
-msgstr ""
+msgstr "Publikovaný"
 
 #: xtheme/views/editor.py:203
 msgid "Reverted"
-msgstr ""
+msgstr "Vrátený"
 
 #: xtheme/views/forms.py:21
 msgid "Full Width"
-msgstr ""
+msgstr "Plná šírka"
 
 #: xtheme/views/forms.py:22
 msgid "Three Fourths (3/4)"
-msgstr ""
+msgstr "Tri štvrtiny (3/4)"
 
 #: xtheme/views/forms.py:23
 msgid "Two Thirds (2/3)"
-msgstr ""
+msgstr "Dve tretiny (2/3)"
 
 #: xtheme/views/forms.py:24
 msgid "Half (1/2)"
-msgstr ""
+msgstr "Polovica (1/2)"
 
 #: xtheme/views/forms.py:25
 msgid "One Third (1/3)"
-msgstr ""
+msgstr "Jedna tretina (1/3)"
 
 #: xtheme/views/forms.py:26
 msgid "One Fourth (1/4)"
-msgstr ""
+msgstr "Jedna štvrtina (1/4)"
 
 #: xtheme/views/forms.py:30
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: xtheme/views/forms.py:49
 msgid "Cell width"
-msgstr ""
+msgstr "Šírka bunky"
 
 #: xtheme/views/forms.py:53
 msgid "Cell align"
-msgstr ""
+msgstr "Zarovnanie bunky"
 
 #: xtheme/views/forms.py:57
 msgid "Extra classes"
-msgstr ""
+msgstr "Extra triedy"
 
 #: xtheme/views/forms.py:58
 msgid "Add extra CSS classes names to the cell"
-msgstr ""
+msgstr "Pridať bunke názvy extra CSS tried"
 
 #: xtheme/views/forms.py:64
 msgid "No Plugin"
-msgstr ""
+msgstr "Žiaden plugin"
