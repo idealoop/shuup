@@ -21,179 +21,179 @@ msgstr ""
 #: tasks/admin_module/__init__.py:25 tasks/admin_module/__init__.py:49
 #: tasks/admin_module/__init__.py:100
 msgid "Tasks"
-msgstr ""
+msgstr "Úlohy"
 
 #: tasks/admin_module/__init__.py:54
 msgid "Show Tasks"
-msgstr ""
+msgstr "Zobraziť úlohy"
 
 #: tasks/admin_module/__init__.py:105 tasks/admin_module/__init__.py:118
 msgid "Task Types"
-msgstr ""
+msgstr "Typy úloh"
 
 #: tasks/admin_module/__init__.py:123
 msgid "Show Task Types"
-msgstr ""
+msgstr "Zobraziť typy úloh"
 
 #: tasks/admin_module/views/edit.py:82
 #, python-brace-format
 msgid "Changed assigment from {from_contact_name} to {to_contact_name}."
-msgstr ""
+msgstr "Zmenené pridelenie z {from_contact_name} na {to_contact_name}."
 
 #: tasks/admin_module/views/edit.py:155
 msgid "Set In Progress"
-msgstr ""
+msgstr "Nastaviť ako Vo vývoji"
 
 #: tasks/admin_module/views/edit.py:166
 msgid "Set Completed"
-msgstr ""
+msgstr "Nastaviť ako Ukončené"
 
 #: tasks/admin_module/views/edit.py:223
 msgid "Invalid status."
-msgstr ""
+msgstr "Neplatný stav."
 
 #: tasks/admin_module/views/edit.py:232
 msgid "Status changed."
-msgstr ""
+msgstr "Stav zmenený."
 
 #: tasks/admin_module/views/list.py:24 tasks/admin_module/views/list.py:68
 msgid "Name"
-msgstr ""
+msgstr "Názov"
 
 #: tasks/admin_module/views/list.py:29 tasks/admin_module/views/list.py:73
 msgid "Filter by name..."
-msgstr ""
+msgstr "Filtrovať podľa názvu..."
 
 #: tasks/admin_module/views/list.py:34
 msgid "Creator"
-msgstr ""
+msgstr "Tvorca"
 
 #: tasks/admin_module/views/list.py:38
 msgid "Filter by creator..."
-msgstr ""
+msgstr "Filtrovať podľa tvorcu"
 
 #: tasks/admin_module/views/list.py:41
 msgid "Status"
-msgstr ""
+msgstr "Stav"
 
 #: tasks/admin_module/views/list.py:42
 msgid "Priority"
-msgstr ""
+msgstr "Priorita"
 
 #: tasks/admin_module/views/list.py:43
 #: tasks/templates/shuup/admin/tasks/task_edit.jinja:35
 msgid "Comments"
-msgstr ""
+msgstr "Komentáre"
 
 #: tasks/models.py:30
 msgid "New"
-msgstr ""
+msgstr "Nový"
 
 #: tasks/models.py:31
 msgid "In progress"
-msgstr ""
+msgstr "Vo vývoji"
 
 #: tasks/models.py:32
 msgid "Completed"
-msgstr ""
+msgstr "Ukončený"
 
 #: tasks/models.py:33
 msgid "Deleted"
-msgstr ""
+msgstr "Odstránený"
 
 #: tasks/models.py:42
 msgid "Public"
-msgstr ""
+msgstr "Verejný"
 
 #: tasks/models.py:43
 msgid "Staff Only"
-msgstr ""
+msgstr "Iba zamestnanci"
 
 #: tasks/models.py:44
 msgid "Admins Only"
-msgstr ""
+msgstr "Iba administrátori"
 
 #: tasks/models.py:50 tasks/models.py:86
 msgid "shop"
-msgstr ""
+msgstr "obchod"
 
 #: tasks/models.py:52 tasks/models.py:87
 msgid "name"
-msgstr ""
+msgstr "názov"
 
 #: tasks/models.py:57 tasks/models.py:88
 msgid "task type"
-msgstr ""
+msgstr "typ úlohy"
 
 #: tasks/models.py:58
 msgid "task types"
-msgstr ""
+msgstr "typy úloh"
 
 #: tasks/models.py:89
 msgid "status"
-msgstr ""
+msgstr "stav"
 
 #: tasks/models.py:90
 msgid "priority"
-msgstr ""
+msgstr "priorita"
 
 #: tasks/models.py:96
 msgid "creator"
-msgstr ""
+msgstr "tvorca"
 
 #: tasks/models.py:103
 msgid "assigned to"
-msgstr ""
+msgstr "pridelené"
 
 #: tasks/models.py:110
 msgid "completed by"
-msgstr ""
+msgstr "dokončené"
 
 #: tasks/models.py:112
 msgid "completed on"
-msgstr ""
+msgstr "dokončené"
 
 #: tasks/models.py:113 tasks/models.py:187
 msgid "created on"
-msgstr ""
+msgstr "vytvorené"
 
 #: tasks/models.py:114 tasks/models.py:188
 msgid "modified on"
-msgstr ""
+msgstr "upravené"
 
 #: tasks/models.py:173
 msgid "task"
-msgstr ""
+msgstr "úloha"
 
 #: tasks/models.py:178
 msgid "author"
-msgstr ""
+msgstr "autor"
 
 #: tasks/models.py:184
 msgid "visibility"
-msgstr ""
+msgstr "viditeľnosť"
 
 #: tasks/models.py:186
 msgid "body"
-msgstr ""
+msgstr "telo"
 
 #: tasks/templates/shuup/admin/tasks/task_edit.jinja:20
 msgid "General Information"
-msgstr ""
+msgstr "Všeobecné informácie"
 
 #: tasks/templates/shuup/admin/tasks/task_edit.jinja:40
 msgid "Created on"
-msgstr ""
+msgstr "Vytvorené"
 
 #: tasks/templates/shuup/admin/tasks/task_edit.jinja:41
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: tasks/templates/shuup/admin/tasks/task_edit.jinja:42
 msgid "Visibility"
-msgstr ""
+msgstr "Viditeľnosť"
 
 #: tasks/templates/shuup/admin/tasks/task_edit.jinja:43
 #: tasks/templates/shuup/admin/tasks/task_edit.jinja:68
 msgid "Comment"
-msgstr ""
+msgstr "Komentár"
