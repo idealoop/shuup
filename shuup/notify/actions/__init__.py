@@ -10,10 +10,12 @@ from .debug import SetDebugFlag
 from .email import SendEmail
 from .notification import AddNotification
 from .order import AddOrderLogEntry
+from .sms import SendSMS
 
 __all__ = (
     "AddNotification",
     "AddOrderLogEntry",
     "SendEmail",
     "SetDebugFlag",
+    "SendSMS",
 )

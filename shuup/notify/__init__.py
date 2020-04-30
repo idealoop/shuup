@@ -26,6 +26,7 @@ class ShuupNotifyAppConfig(AppConfig):
             "shuup.notify.actions:SetDebugFlag",
             "shuup.notify.actions:AddOrderLogEntry",
             "shuup.notify.actions:SendEmail",
+            "shuup.notify.actions:SendSMS",
             "shuup.notify.actions:AddNotification",
         ],
         "notify_event": [
